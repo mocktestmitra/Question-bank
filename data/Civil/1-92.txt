@@ -1,0 +1,2379 @@
+# Transcript of Civil/1-92.pdf
+# Format: "@chapter N Name" starts a chapter. "## Q | key=val | ..." starts a question.
+# keys: star (asterisk before Q no), tag (exam tag e.g. ES 99), hw (handwritten margin answer),
+#       p (pdf page[s]), fig (figure present), check (needs human check, reason), fix (book misprint handled)
+# Question text lines follow; "#a".."#d" option lines (continuation lines allowed); "#note" text printed after options.
+
+@chapter 1 Fluid Mechanics
+
+## 1 | p=2 | hw=c
+Pascal-second is the unit of
+#a pressure
+#b kinematic viscosity
+#c dynamic viscosity
+#d surface tension
+
+## 2 | p=2 | hw=b
+An ideal fluid is
+#a one which obeys Newton's law of viscosity
+#b frictionless and incompressible
+#c very viscous
+#d frictionless and compressible
+
+## 3 | p=2 | hw=d
+The unit of kinematic viscosity is
+#a gm/cm-sec²
+#b dyne-sec/cm²
+#c gm/cm²-sec
+#d cm²/sec
+
+## 4 | star | p=2 | hw=c
+If the dynamic viscosity of a fluid is 0.5 poise and specific gravity is 0.5, then the kinematic viscosity of that fluid in stokes is
+#a 0.25
+#b 0.50
+#c 1.0
+#d none of the above
+
+## 5 | star | p=2 | hw=b
+The viscosity of a gas
+#a decreases with increase in temperature
+#b increases with increase in temperature
+#c is independent of temperature
+#d is independent of pressure for very high pressure intensities
+
+## 6 | p=2 | hw=b
+Newton's law of viscosity relates
+#a intensity of pressure and rate of angular deformation
+#b shear stress and rate of angular deformation
+#c shear stress, viscosity and temperature
+#d viscosity and rate of angular deformation
+
+## 7 | p=2 | hw=c
+The rise of liquid of specific weight γ in a capillary tube of radius r is given by
+#a σ/(2rγ)
+#b 2σ/r
+#c 2σ/(rγ)
+#d γσ/(2r)
+#note where σ is the surface tension of the liquid
+
+## 8 | star | p=2 | hw=c
+The intensity of pressure developed by surface tension of 0.075 N/m in a droplet of water of 0.075 mm diameter is
+#a 0.8 N/cm²
+#b 0.6 N/cm²
+#c 0.4 N/cm²
+#d 400 N/cm²
+
+## 9 | p=2 | hw=a
+Surface tension of water
+#a increases with decrease in temperature
+#b decreases with decrease in temperature
+#c is independent of temperature
+#d none of above
+
+## 10 | p=3 | hw=b | fix=Book misprint: options a) and b) of Q10 are printed under Q15 (bottom of col 1 / top of col 2); placed back here.
+One kilo-Pascal is equivalent to
+#a 1 N/mm²
+#b 1000 N/m²
+#c 1000 N/mm²
+#d 1000 N/cm²
+
+## 11 | p=3 | hw=d
+If a liquid has greater cohesion than adhesion with the solid, then the liquid in the capillary tube will
+#a rise with concave surface upward
+#b rise with convex surface upward
+#c depress with concave surface upward
+#d depress with convex surface upward
+
+## 12 | p=3 | hw=c
+Examine the following four statements.
+i) Surface tension is due to cohesion only.
+ii) Capillarity is due to adhesion only.
+iii) Surface tension is due to both cohesion and adhesion.
+iv) Capillarity is due to both cohesion and adhesion.
+Which of the above statements are true ?
+#a (i) and (ii)
+#b (ii) and (iii)
+#c (i) and (iv)
+#d only (iv)
+
+## 13 | star | p=3 | hw=c
+Pressure of 200 kPa is equivalent to a head of x metres of carbon tetra-chloride of relative density 1.59 where x is equal to
+#a 11.62
+#b 11.92
+#c 12.82
+#d 13.12
+
+## 14 | p=3 | hw=a
+For a vertical semi-circular plate, submerged in a homogenous liquid with its diameter 'd' at the free surface, the depth of centre of pressure from the free surface is
+#a 3πd/32
+#b 3d/(2π)
+#c 4d/(3π)
+#d 3πd/16
+
+## 15 | p=3 | hw=d | fix=Book misprint: "a) 1 N/mm²" and "b) 1000 N/m²" printed under this question belong to Q10.
+The pressure intensity is same in all directions at a point
+#a only when fluid is frictionless and incompressible
+#b only when fluid is frictionless and is at rest
+#c only when fluid is frictionless
+#d when there is no relative motion of one fluid layer relative to other
+
+## 16 | p=3 | hw=d
+An open tank contains 1 m deep water with 50 cm depth of oil of specific gravity 0.8 above it. The intensity of pressure at the bottom of tank will be
+#a 4 kN/m²
+#b 10 kN/m²
+#c 12 kN/m²
+#d 14 kN/m²
+
+## 17 | p=3 | hw=c
+The position of centre of pressure on a plane surface immersed vertically in a static mass of fluid is
+#a at the centroid of the submerged area
+#b always above the centroid of the area
+#c always below the centroid of the area
+#d none of the above
+
+## 18 | star | tag=ES 99 | p=3 | hw=c
+A vertical triangular area with vertex downward and altitude 'h' has its base lying on the free surface of a liquid. The centre of pressure below the free surface is at a distance of
+#a h/4
+#b h/3
+#c h/2
+#d 2h/3
+
+## 19 | p=3 | hw=a
+The total pressure on a plane surface inclined at an angle θ with the horizontal is equal to
+#a pA
+#b pA sin θ
+#c pA cos θ
+#d pA tan θ
+#note where p is pressure intensity at centroid of area and A is area of plane surface.
+
+## 20 | star | p=4 | hw=c
+A vertical rectangular plane surface is submerged in water such that its top and bottom surfaces are 1.5 m and 6.0 m respectively below the free surface. The position of centre of pressure below the free surface will be at a distance of
+#a 3.75 m
+#b 4.0 m
+#c 4.2m
+#d 4.5m
+
+## 21 | p=4 | hw=b
+Centre of buoyancy always
+#a coincides with the centre of gravity
+#b coincides with the centroid of the volume of fluid displaced
+#c remains above the centre of gravity
+#d remains below the centre of gravity
+
+## 22 | p=4 | hw=b
+If the weight of a body immersed in a fluid exceeds the buoyant force, then the body will
+#a rise until its weight equals the buoyant force
+#b tend to move downward and it may finally sink
+#c float
+#d none of the above
+
+## 23 | p=4 | hw=b
+Metacentric height for small values of angle of heel is the distance between the
+#a centre of gravity and centre of buoyancy
+#b centre of gravity and metacentre
+#c centre of buoyancy and metacentre
+#d free surface and centre of buoyancy
+
+## 24 | star | tag=CS 95 | p=4 | hw=b
+A floating body is said to be in a state of stable equilibrium
+#a when its metacentric height is zero
+#b when the metacentre is above the centre of gravity
+#c when the metacentre is below the centre of gravity
+#d only when its centre of gravity is below its centre of buoyancy
+
+## 25 | star | p=4 | hw=b
+The increase in metacentric height
+i) increases stability
+ii) decreases stability
+iii) increases comfort for passengers
+iv) decreases comfort for passengers
+The correct answer is
+#a (i) and (iii)
+#b (i) and (iv)
+#c (ii) and (iii)
+#d (ii) and (iv)
+
+## 26 | star | p=4 | hw=b
+A rectangular block 2 m long, 1 m wide and 1 m deep floats in water, the depth of immersion being 0.5 m. If water weighs 10 kN/m³, then the weight of the block is
+#a 5 kN
+#b 10kN
+#c 15 kN
+#d 20 kN
+
+## 27 | p=4 | hw=c
+The point in the immersed body through which the resultant pressure of the liquid may be taken to act is known as
+#a centre of gravity
+#b centre of buoyancy
+#c centre of pressure
+#d metacentre
+
+## 28 | p=4 | hw=a
+If a vessel containing liquid moves downward with a constant acceleration equal to 'g', then
+#a the pressure throughout the liquid mass is atmospheric
+#b there will be vacuum in the liquid
+#c the pressure in the liquid mass is greater than hydrostatic pressure
+#d none of the above
+
+## 29 | p=4 | hw=b
+When a liquid rotates at a constant angular velocity about a vertical axis as a rigid body, the pressure intensity varies
+#a linearly with radial distance
+#b as the square of the radial distance
+#c inversely as the square of the radial distance
+#d inversely as the radial distance
+
+## 30 | p=4 | hw=d
+An open cubical tank of 2 m side is filled with water. If the tank is rotated with an acceleration such that half of the water spills out, then the acceleration is equal to
+#a g/3
+#b g/2
+#c 2g/3
+#d g
+
+## 31 | tag=CS 93, ES 97 | p=4-5 | hw=a
+A right circular cylinder open at the top is filled with liquid and rotated about its vertical axis at such a speed that half the liquid spills out, then the pressure intensity at the centre of bottom is
+#a zero
+#b one-fourth its value when cylinder was full
+#c one-half its value when cylinder was full
+#d cannot be predicted from the given data
+
+## 32 | p=5 | hw=b
+The horizontal component of force on a curved surface is equal to the
+#a product of pressure intensity at its centroid and area
+#b force on a vertical projection of the curved surface
+#c weight of liquid vertically above the curved surface
+#d force on the horizontal projection of the curved surface
+
+## 33 | p=5 | hw=b
+A closed tank containing water is moving in a horizontal direction along a straight line at a constant speed. The tank also contains a steel ball and a bubble of air. If the tank is decelerated horizontally, then
+i) the ball will move to the front
+ii) the bubble will move to the front
+iii) the ball will move to the rear
+iv) the bubble will move to the rear
+Find out which of the above statements are correct ?
+#a (i) and (ii)
+#b (i) and (iv)
+#c (ii) and (iii)
+#d (iii) and (iv)
+
+## 34 | p=5 | hw=c
+The eddy viscosity for turbulent flow is
+#a a function of temperature only
+#b a physical property of the fluid.
+#c dependent on the flow
+#d independent of the flow
+
+## 35 | p=5 | hw=b
+Flow at constant rate through a tapering pipe is
+i) steady flow
+ii) uniform flow
+iii) unsteady flow
+iv) non-uniform flow
+The correct answer is
+#a (i) and (ii)
+#b (i) and (iv)
+#c (ii) and (iii)
+#d (ii) and (iv)
+
+## 36 | star | p=5 | hw=c
+In a two dimensional incompressible steady flow around an airfoil, the stream lines are 2 cm apart at a great distance from the airfoil, where the velocity is 30 m/sec. The velocity near the airfoil, where the stream lines are 1.5 cm apart, is
+#a 22.5 m/sec.
+#b 33 m/sec.
+#c 40 m/sec.
+#d 90 m/sec.
+
+## 37 | p=5 | hw=a
+The equation p/w + v²/(2g) + z = constant
+is based on the following assumptions regarding the flow of fluid :
+#a steady, frictionless, incompressible and along a streamline
+#b steady, frictionless, uniform and along a streamline
+#c steady, incompressible, uniform and along a streamline
+#d steady, frictionless, incompressible and uniform
+
+## 38 | p=5 | hw=b
+When the velocity distribution is uniform over the cross-section, the correction factor for momentum is
+#a 0
+#b 1
+#c 4/3
+#d 2
+
+## 39 | p=5 | hw=d
+Least possible value of correction factor for
+i) kinetic energy is zero
+ii) kinetic energy is 1
+iii) momentum is zero
+iv) momentum is 1
+The correct statements are
+#a (i) and (iii)
+#b (ii) and (iii)
+#c (i) and (iv)
+#d (ii) and (iv)
+
+## 40 | star | p=5 | hw=c
+If the velocity is zero over half of the cross-sectional area and is uniform over the remaining half, then the momentum correction factor is
+#a 1
+#b 4/3
+#c 2
+#d 4
+
+## 41 | star | p=6 | hw=c
+If velocity is zero over 1/3rd of a cross-section and is uniform over remaining 2/3rd of the cross-section, then the correction factor for kinetic energy is
+#a 4/3
+#b 3/2
+#c 9/4
+#d 27/8
+
+## 42 | p=6 | hw=a
+The continuity equation
+ρ₁ V₁ A₁ = ρ₂ V₂ A₂
+is based on the following assumption regarding flow of fluid
+#a steady flow
+#b uniform flow
+#c incompressible flow
+#d frictionless flow
+#note where ρ₁ and ρ₂ are mass densities.
+
+## 43 | p=6 | hw=b
+In the most general form of Bernoulli's equation p/w + v²/(2g) + z = constant, each term represents
+#a energy per unit mass
+#b energy per unit weight
+#c energy per unit volume
+#d none of the above
+
+## 44 | star | p=6 | hw=b
+Which of the following velocity potentials satisfies continuity equation ?
+#a x²y
+#b x² - y²
+#c cos x
+#d x² + y²
+
+## 45 | star | p=6 | hw=b
+The magnitude of the component of velocity at point (1, 1) for a stream function ψ = x² - y² is equal to
+#a 2
+#b 2√2
+#c 4
+#d 4√2
+
+## 46 | p=6 | hw=d
+The motion of air mass in a tornado is a
+#a free vortex motion
+#b forced vortex motion
+#c free vortex at centre and forced vortex outside
+#d forced vortex at centre and free vortex outside
+
+## 47 | p=6 | hw=a
+In a forced vortex motion, the velocity of flow is
+#a directly proportional to its radial distance from axis of rotation
+#b inversely proportional to its radial distance from the axis of rotation
+#c inversely proportional to the square of its radial distance from the axis of rotation
+#d directly proportional to the square of its radial distance from the axis of rotation
+
+## 48 | p=6 | hw=a
+Stream lines and path lines always coincide in case of
+#a steady flow
+#b laminar flow
+#c uniform flow
+#d turbulent flow
+
+## 49 | p=6 | hw=c
+The kinetic energy correction factor is
+#a applied to continuity equation
+#b expressed as (1/A) ∫_A (v/V)² dA
+#c expressed as (1/A) ∫_A (v/V)³ dA
+#d expressed as (1/A) ∫_A (v/V) dA
+
+## 50 | p=6 | hw=c | fig=6:0.67,0.48,0.87,0.61
+The momentum correction factor for the velocity distribution shown in Fig. 1.1 is
+#a 1/3
+#b 1
+#c 4/3
+#d 2
+
+## 51 | p=6 | hw=a
+Equation of continuity is based on the principle of conservation of
+#a mass
+#b energy
+#c momentum
+#d none of the above
+
+## 52 | p=7 | hw=a
+In steady flow of a fluid, the total acceleration of any fluid particle
+#a can be zero
+#b is never zero
+#c is always zero
+#d is independent of coordinates
+
+## 53 | p=7 | hw=b
+The pitot tube is used to measure
+#a velocity at stagnation point
+#b stagnation pressure
+#c static pressure
+#d dynamic pressure
+
+## 54 | p=7 | hw=b
+Hot wire anemometer is used to measure
+#a discharge
+#b velocity of gas
+#c pressure intensity of gas
+#d pressure intensity of liquid
+
+## 55 | star | p=7 | hw=a
+The theoretical value of coefficient of contraction of a sharp edged orifice is
+#a 0.611
+#b 0.85
+#c 0.98
+#d 1.00
+
+## 56 | p=7 | hw=b
+Which of the following is used to measure the discharge ?
+#a current meter
+#b venturimeter
+#c pitot tube
+#d hotwire anemometer
+
+## 57 | p=7 | hw=c
+The pitot static tube measures
+#a stagnation pressure
+#b static pressure
+#c dynamic pressure
+#d difference in total and dynamic pressure
+
+## 58 | star | p=7 | hw=a
+A fluid jet discharging from a 4 cm diameter orifice has a diameter 3 cm at its vena contracta. If the coefficient of velocity is 0.98, the coefficient of discharge for the orifice will be
+#a 0.98 × (0.75)²
+#b (0.75)²/0.98
+#c 0.98 × (1.33)²
+#d 0.98/(1.33)²
+
+## 59 | p=7 | hw=a
+The energy loss in orifice flow is given by
+#a H(1 - w²)
+#b H(w² - 1)
+#c H(1 - 1/w²)
+#d H(1/w² - 1)
+#note where w is coefficient of velocity and H is head on orifice.
+
+## 60 | p=7 | hw=b
+Select the incorrect statement.
+#a The pressure intensity at vena contracta is atmospheric.
+#b Contraction is least at vena contracta.
+#c Stream lines are parallel throughout the jet at vena contracta.
+#d Coefficient of contraction is always less than one.
+
+## 61 | p=7 | hw=d
+Size of a venturimeter is specified by
+#a pipe diameter
+#b throat diameter
+#c angle of diverging section
+#d both pipe diameter as well as throat diameter
+
+## 62 | p=7 | hw=b
+Due to each end contraction, the discharge of rectangular sharp crested weir is reduced by
+#a 5%
+#b 10%
+#c 15%
+#d 20%
+
+## 63 | p=7 | hw=c
+The discharge through a V- notch varies as
+#a H^(1/2)
+#b H^(3/2)
+#c H^(5/2)
+#d H^(5/4)
+#note where H is head.
+
+## 64 | p=7-8 | hw=d
+Which of the following is an incorrect statement ?
+#a Coefficient of contraction of a venturimeter is unity.
+#b Flow nozzle is cheaper than venturimeter but has higher energy loss.
+#c Discharge is independent of orientation of venturimeter whether it is horizontal, vertical or inclined.
+#d None of the above statement is correct.
+
+## 65 | star | p=8 | hw=c
+Coefficient of velocity of venturimeter
+#a is independent of Reynolds number
+#b decreases with higher Reynolds number
+#c is equal to the coefficient of discharge of venturimeter
+#d none of the above
+
+## 66 | p=8 | hw=b
+The pressure at the summit of a syphon is
+#a equal to atmospheric
+#b less than atmospheric
+#c more than atmospheric
+#d none of the above
+
+## 67 | p=8 | hw=b
+Δψ between two stream lines represents
+#a velocity
+#b discharge
+#c head
+#d pressure
+
+## 68 | p=8 | hw=b
+Coefficient of velocity for Borda's mouthpiece running full is
+#a 0.611
+#b 0.707
+#c 0.855
+#d 1.00
+
+## 69 | p=8 | hw=a
+Coefficient of discharge for a totally submerged orifice as compared to that for an orifice discharging free is
+#a slightly less
+#b slightly more
+#c nearly half
+#d equal
+
+## 70 | p=8 | hw=d
+The major loss of energy in long pipes is due to
+#a sudden enlargement
+#b sudden contraction
+#c gradual contraction or enlargement
+#d friction
+
+## 71 | p=8 | hw=a
+Coefficient of contraction for an external cylindrical mouthpiece is
+#a 1.00
+#b 0.855
+#c 0.711
+#d 0.611
+
+## 72 | p=8 | hw=b
+Which of the following has highest coefficient of discharge ?
+#a sharp edged orifice
+#b venturimeter
+#c Borda's mouthpiece running full
+#d Cipolletti weir
+
+## 73 | p=8 | hw=d
+In a Sutro weir, the discharge is proportional to
+#a H^(1/2)
+#b H^(3/2)
+#c H^(5/2)
+#d H
+#note where H is head.
+
+## 74 | p=8 | hw=d
+The discharge over a broad crested weir is maximum when the depth of flow is
+#a H/3
+#b H/2
+#c 2 H/5
+#d 2 H/3
+#note where H is the available head.
+
+## 75 | p=8 | hw=a
+The discharge through a Cipolletti weir is given by
+#a (2/3) C_d √(2g) L H^(3/2)
+#b (8/15) C_d √(2g) tan(θ/2) H⁵
+#c (2/3) C_d √(2g) (L - 0.2H) H^(3/2)
+#d (2/3) C_d √(2g) L H^(5/2)
+#note where symbols have their usual meanings.
+
+## 76 | star | p=8 | hw=d
+The equation τ = -(dp/dl)(r/2) for flow through circular tubes, where τ is shear stress at distance r from centre, is applicable for
+#a laminar flow only
+#b turbulent flow only
+#c critical flow
+#d both laminar and turbulent flows
+
+## 77 | p=8 | hw=c
+The ratio of maximum velocity to average velocity for steady flow between fixed parallel plates is
+#a 2/3
+#b 4/3
+#c 3/2
+#d 2
+
+## 78 | p=9 | hw=c
+Which of the following statements is correct?
+#a Lower critical Reynolds number is of no practical significance in pipe flow problems.
+#b Upper critical Reynolds number is significant in pipe flow problems.
+#c Lower critical Reynolds number has the value 2000 in pipe flow
+#d Upper critical Reynolds number is the number at which turbulent flow changes to laminar flow.
+
+## 79 | star | p=9 | hw=d
+For a sphere of radius 15 cm moving with a uniform velocity of 2 m/sec through a liquid of specific gravity 0.9 and dynamic viscosity 0.8 poise, the Reynolds number will be
+#a 300
+#b 337.5
+#c 600
+#d 675
+
+## 80 | p=9 | hw=c
+The shear stress distribution for a fluid flowing in between the parallel plates, both at rest, is
+#a constant over the cross section
+#b parabolic distribution across the section
+#c zero at the mid plane and varies linearly with distance from mid plane
+#d zero at plates and increases linearly to midpoint
+
+## 81 | tag=CS 93 | p=9 | hw=a
+If x is the distance from leading edge, then the boundary layer thickness in laminar flow varies as
+#a x^(1/2)
+#b x^(4/5)
+#c x^(3/5)
+#d x^(1/7)
+
+## 82 | p=9 | hw=a
+Stanton diagram is a
+#a log-log plot of friction factor against Reynolds number
+#b log-log plot of relative roughness against Reynolds number
+#c semi-log plot of friction factor against Reynolds number
+#d semi-log plot of friction factor against relative roughness
+
+## 83 | p=9 | hw=b
+The depth 'd' below the free surface at which the point velocity is equal to the average velocity of flow for a uniform laminar flow with a free surface, will be
+#a 0.423 D
+#b 0.577 D
+#c 0.223 D
+#d 0.707 D
+#note where D is the depth of flow.
+
+## 84 | tag=ES 93 | p=9 | hw=c
+The boundary layer thickness in turbulent flow varies as
+#a x^(1/7)
+#b x^(1/2)
+#c x^(4/5)
+#d x^(3/5)
+#note where x is the distance from leading edge.
+
+## 85 | star | p=9 | hw=a
+The distance y from pipe boundary, at which the point velocity is equal to average velocity for turbulent flow, is
+#a 0.223 R
+#b 0.423 R
+#c 0.577 R
+#d 0.707 R
+#note where R is radius of pipe.
+
+## 86 | star | p=9 | hw=c
+If a sphere of diameter 1 cm falls in castor oil of kinematic viscosity 10 stokes, with a terminal velocity of 1.5 cm/sec, the coefficient of drag on the sphere is
+#a less than 1
+#b between 1 and 100
+#c 160
+#d 200
+
+## 87 | star | p=9 | hw=a
+In case of an airfoil, the separation of flow occurs
+#a at the extreme rear of body
+#b at the extreme front of body
+#c midway between rear and front of body
+#d any where between rear and front of body depending upon Reynolds number
+
+## 88 | p=9-10 | hw=d
+When an ideal fluid flows past a sphere,
+#a highest intensity of pressure occurs around the circumference at right angles to flow
+#b lowest pressure intensity occurs at front stagnation point
+#c lowest pressure intensity occurs at rear stagnation point
+#d total drag is zero
+
+## 89 | p=10 | hw=a
+With the same cross-sectional area and immersed in same turbulent flow, the largest total drag will be on
+#a a circular disc of plate held normal to flow
+#b a sphere
+#c a cylinder
+#d a streamlined body
+
+## 90 | p=10 | hw=d
+In which of the following the friction drag is generally larger than pressure drag?
+#a a circular disc or plate held normal to flow
+#b a sphere
+#c a cylinder
+#d an airfoil
+
+## 91 | p=10 | hw=b
+For hydro-dynamically smooth boundary, the friction coefficient for turbulent flow is
+#a constant
+#b dependent only on Reynolds number
+#c a function of Reynolds number and relative roughness
+#d dependent on relative roughness only
+
+## 92 | p=10 | hw=b
+The value of friction factor 'f' for smooth pipes for Reynolds number 10⁶ is approximately equal to
+#a 0.1
+#b 0.01
+#c 0.001
+#d 0.0001
+
+## 93 | star | p=10 | hw=c
+For laminar flow in a pipe of circular cross-section, the Darcy's friction factor f is
+#a directly proportional to Reynolds number and independent of pipe wall roughness
+#b directly proportional to pipe wall roughness and independent of Reynolds number
+#c inversely proportional to Reynolds number and indpendent of pipe wall roughness
+#d inversely proportional to Reynolds number and directly proportional to pipe wall roughness
+
+## 94 | p=10 | hw=c
+Separation of flow occurs when
+#a the pressure intensity reaches a minimum
+#b the cross-section of a channel is reduced
+#c the boundary layer comes to rest
+#d all of the above
+
+## 95 | tag=CS 93,96,98 | p=10 | hw=a
+The loss of energy due to sudden enlargement is given by
+#a (v₂²/2g)(A₂/A₁ - 1)²
+#b ((v₁ - v₂)/2g)²
+#c (v₁² - v₂²)/2g
+#d (v₁²/2g)(1 - A₂/A₁)²
+#note where A₁, v₁are area of cross-section and velocity at entry and A₂, v₂, are area of cross-section and velocity at exit.
+
+## 96 | p=10 | hw=a
+The ratio of average velocity to maximum velocity for steady laminar flow in circular pipes is
+#a 1/2
+#b 2/3
+#c 3/2
+#d 2
+
+## 97 | star | p=10 | hw=c
+The distance from pipe boundary, at which the turbulent shear stress is one-third the wall shear stress, is
+#a 1/3 R
+#b 1/2 R
+#c 2/3 R
+#d 3/4R
+#note where R is the radius of pipe.
+
+## 98 | star | p=10 | hw=a
+The discharge of a liquid of kinematic viscosity 4 cm²/sec through a 8 cm diameter pipe is 3200π cm³/sec. The type of flow expected is
+#a laminar flow
+#b transition flow
+#c turbulent flow
+#d not predictable from the given data
+
+## 99 | p=11 | hw=a
+The Prandtl mixing length is
+#a zero at the pipe wall
+#b maximum at the pipe wall
+#c independent of shear stress
+#d none of the above
+
+## 100 | p=11 | hw=c
+The velocity distribution for laminar flow through a circular tube
+#a is constant over the cross-section
+#b varies linearly from zero at walls to maximum at centre
+#c varies parabolically with maximum at the centre
+#d none of the above
+
+## 101 | star | p=11 | hw=b
+A fluid of kinematic viscosity 0.4 cm²/sec flows through a 8 cm diameter pipe. The maximum velocity for laminar flow will be
+#a less than 1 m/sec
+#b 1 m/sec
+#c 1.5 m/sec
+#d 2 m/sec
+
+## 102 | p=11 | hw=c
+The losses are more in
+#a laminar flow
+#b transition flow
+#c turbulent flow
+#d critical flow
+
+## 103 | p=11 | hw=b
+The wake
+#a always occurs before a separation point
+#b always occurs after a separation point
+#c is a region of high pressure intensity
+#d none of the above
+
+## 104 | p=11 | hw=c
+The maximum thickness of boundary layer in a pipe of radius r is
+#a 0
+#b r/2
+#c r
+#d 2r
+
+## 105 | star | p=11 | hw=b
+The hydraulic grade line is
+#a always above the centre line of pipe
+#b never above the energy grade line
+#c always sloping downward in the direction of flow
+#d all of the above
+
+## 106 | tag=CS 93 | p=11 | hw=a
+Two pipe systems are said to be equivalent when
+#a head loss and discharge are same in two systems
+#b length of pipe and discharge are same in two systems
+#c friction factor and length are same in two systems
+#d length and diameter are same in two systems
+
+## 107 | star | p=11 | hw=b
+In series-pipe problems
+#a the head loss is same through each pipe
+#b the discharge is same through each pipe
+#c a trial solution is not necessary
+#d the discharge through each pipe is added to obtain total discharge
+
+## 108 | p=11 | hw=d
+Select the correct statement.
+#a The absolute roughness of a pipe decreases with time.
+#b A pipe becomes smooth after using for long time.
+#c The friction factor decreases with time.
+#d The absolute roughness increases with time.
+
+## 109 | star | p=11 | hw=c
+A valve is suddenly closed in a water main in which the velocity is 1 m/sec and velocity of pressure wave is 981 m/ sec. The inertia head at the valve will be
+#a 1 m
+#b 10m
+#c 100m
+#d none of the above
+
+## 110 | p=11 | hw=c
+The speed of a pressure wave through a pipe depends upon
+#a the length of pipe
+#b the viscosity of fluid
+#c the bulk modulus for the fluid
+#d the original head
+
+## 111 | p=11 | hw=a
+If the speed of pressure wave is v₀ and pipe length is L, rapid closure occurs when time of closure is
+#a less than 2L/v₀
+#b greater than 2L/v₀
+#c less than L/v₀
+#d zero
+
+## 112 | star | p=12 | hw=c
+When time of closure t_c = L/v₀ (where L is length of pipe and v₀ is speed of pressure wave), the portion of pipe length subjected to maximum head is
+#a L/4
+#b L/3
+#c L/2
+#d L
+
+## 113 | p=12 | hw=a
+If the elevation of hydraulic grade line at the junction of three pipes is above the elevation of reservoirs B and C and below reservoir A, then the direction of flow will be
+#a from reservoir A to reservoirs B and C
+#b from reservoir B to reservoirs C and A
+#c from reservoir C to reservoirs A and B
+#d unpredictable
+
+## 114 | p=12 | hw=a
+If there are n pipes of same diameter d laid in parallel in place of a single pipe of diameter D, then
+#a d = D/n^(2/5)
+#b D = d/n^(2/5)
+#c d = D/n^(2/3)
+#d d = D/n^(1/5)
+
+## 115 | star | p=12 | hw=a
+The length of a pipe is 1 km and its diameter is 20 cm. If the diameter of an equivalent pipe is 40 cm, then its length is
+#a 32 km
+#b 20 km
+#c 8 km
+#d 4 km
+
+## 116 | star | p=12 | hw=a
+Two pipes of same length and diameters d and 2d respectively are connected in series. The diameter of an equivalent pipe of same length is
+#a less than d
+#b between d and 1.5 d
+#c between 1.5 d and 2d
+#d greater than 2d
+
+## 117 | p=12 | hw=a
+The horse power transmitted through a pipe is maximum when the ratio of loss of head due to friction and total head supplied is
+#a 1/3
+#b 1/4
+#c 1/2
+#d 2/3
+
+## 118 | p=12 | hw=b
+The boundary layer thickness at a distance of 1 m from the leading edge of a flat plate, kept at zero angle of incidence to the flow direction, is 0.1 cm. The velocity outside the boundary layer is 25 m/ sec. The boundary layer thickness at a distance of 4 m is
+#a 0.40 cm
+#b 0.20 cm
+#c 0.10 cm
+#d 0.05 cm
+#note Assume that boundary layer is entirely laminar.
+
+## 119 | p=12 | hw=d
+Drag force is a function of
+i) projected area of the body
+ii) mass density of the fluid
+iii) velocity of the body
+The correct answer is
+#a (i) and (ii)
+#b (i) and (iii)
+#c (ii) and (iii)
+#d (i), (ii) and (iii)
+
+## 120 | p=12 | hw=d
+The correct relationship among displacement thickness d, momentum thickness m and energy thickness e is
+#a d > m > e
+#b d > e > m
+#c e> m > d
+#d e > d > m
+
+## 121 | p=12 | hw=c
+For laminar flow in circular pipes, the Darcy's friction factor f is equal to
+#a 16/R_e
+#b 32/ R_e
+#c 64/ R_e
+#d none of the above
+#note where R_e is Reynolds number.
+
+## 122 | p=12-13 | hw=d
+Surge wave in a rectangular channel is an example of
+i) steady flow
+ii) unsteady flow
+iii) uniform flow
+iv) non-uniform flow
+The correct answer is
+#a (i) and (iii)
+#b (ii) and (iii)
+#c (i) and (iv)
+#d (ii) and (iv)
+
+## 123 | p=13 | hw=d
+The best hydraulic channel cross-section is the one which has a
+#a minimum roughness coefficient
+#b least cost
+#c maximum area for a given flow
+#d minimum wetted perimeter
+
+## 124 | p=13 | hw=d
+Which is the best hydraulic section of the following open channel cross-sections ?
+#a rectangle
+#b triangle
+#c trapezoidal
+#d semi-circle
+
+## 125 | p=13 | hw=b
+Hydraulic jump is a
+i) steady flow
+ii) uniform flow
+iii) unsteady flow
+iv) non-uniform flow
+The correct answer is
+#a (i) and (ii)
+#b (i) and (iv)
+#c (ii) and (iii)
+#d (iii) and (iv)
+
+## 126 | p=13 | hw=a
+The hydraulic jump always occurs from
+#a below critical depth to above critical depth
+#b above critical depth to below critical depth
+#c below critical depth to above normal depth
+#d above normal depth to below normal depth
+
+## 127 | p=13 | hw=d
+In a gradually varied flow
+#a the slopes of energy grade line, hydraulic grade line and bottom of the channel are same
+#b the slopes of energy grade line and hydraulic grade line are same but slope of the bottom of channel is different
+#c the slopes of hydraulic grade line and bottom of channel are same but slope of energy grade line is different
+#d the slope of energy grade line, hydraulic grade line and bottom of channel are all different.
+
+## 128 | star | p=13 | hw=b
+The flow in channels is considered to be in transitional state if the Reynolds number is
+#a less than 500
+#b between 500 and 2000
+#c between 2000 and 4000
+#d greater than 4000
+
+## 129 | star | p=13 | hw=b
+The Froude number is defined as
+F = v/√(gD)
+where v is the mean velocity of flow, g is acceleration due to gravity and D is
+#a depth of flow
+#b hydraulic depth
+#c hydraulic mean depth
+#d all of the above
+
+## 130 | p=13 | hw=d
+For shooting flow the Froude number is
+#a zero
+#b less than one
+#c one
+#d greater than one
+
+## 131 | p=13 | hw=c
+For uniform flow in a channel
+#a the total energy line, water surface and bottom of channel are all horizontal
+#b the total energy line and water surface are horizontal but bottom of channel is inclined
+#c the total energy line, hydraulic gradient line and bottom of channel are all parallel
+#d water surface and bottom of channel are parallel to each other but energy grade line is not parallel to them
+
+## 132 | p=13 | hw=d
+The Chezy's coefficient
+#a is dimensionless
+#b has the dimension of velocity
+#c has the dimension of discharge
+#d has the dimension L^(1/2) T^(-1)
+
+## 133 | star | p=14 | hw=d
+If 'f' is the friction factor, then the Chezy's coefficient is proportional to
+#a f
+#b √f
+#c 1/f
+#d 1/√f
+
+## 134 | p=14 | hw=b
+The relationship between Manning's coefficient n and Chezy's coefficient c is given by
+#a c = R^(2/3)/n
+#b c = R^(1/6)/n
+#c c = R^(1/3)/n
+#d c = R^(1/4)/n
+#note where R is the hydraulic mean depth.
+
+## 135 | star | p=14 | hw=c
+The depth of flow for maximum velocity in a circular channel section with diameter equal to 1.5 m is
+#a 0.75 m
+#b 1.065m
+#c 1.215m
+#d 1.425m
+
+## 136 | star | p=14 | hw=d
+For maximum discharge in a circular channel section, the ratio of the depth of flow to that of diameter of the channel is
+#a 0.30
+#b 0.50
+#c 0.81
+#d 0.95
+
+## 137 | p=14 | hw=b
+A triangular channel section is most economical when each of its sloping sides is inclined to the vertical at an angle of
+#a 30°
+#b 45°
+#c 60°
+#d 75°
+
+## 138 | star | p=14 | hw=b
+For a trapezoidal channel section to be most economical, its hydraulic radius must be equal to
+#a y/4
+#b y/2
+#c y/(2√2)
+#d y/(3√2)
+#note where y is the depth of flow.
+
+## 139 | star | p=14 | hw=c
+The critical state of flow through a channel section may be defined as the state of flow at which the
+#a specific energy is maximum for a given discharge
+#b specific force is maximum for a given discharge
+#c discharge is maximum for a given specific force
+#d discharge is minimum for a given specific energy
+
+## 140 | star | tag=CS 96 | p=14 | hw=b
+The critical state of flow in a non-rectangular channel is expressed by
+#a y_c = (q²/g)^(1/3)
+#b Q²/g = A³/T
+#c Q³/g = A²/T
+#d Q²/g = A/T³
+
+## 141 | star | p=14-15 | hw=c
+The critical depth of flow in a most economical triangular channel section for a discharge of 1 m³/sec is given by
+#a (1/9.8)^(1/5) metre
+#b (1/9.8)^(1/3) metre
+#c (1/4.9)^(1/5) metre
+#d (1/4.9)^(1/3) metre
+
+## 142 | star | p=15 | hw=b
+For a given specific energy E, the critical depth y_c for a rectangular channel is given by
+#a y_c = (3/2)E
+#b y_c = (2/3)E
+#c y_c = (4/5)E
+#d y_c = (3/4)E
+
+## 143 | star | p=15 | hw=d
+For the same specific force, the two depths at which a given discharge can occur are called
+#a alternate depths
+#b normal depths
+#c critical depths
+#d conjugate depths
+
+## 144 | p=15 | hw=a
+The most common device for measuring discharge through channels is
+#a venturi flume
+#b current meter
+#c pitot tube
+#d all the above
+
+## 145 | star | p=15 | hw=a
+If the specific energy at the upstream section of a rectangular channel is 3 m and minimum specific energy is 2.5 m, the maximum height of jump without causing afflux will be
+#a 0.50 m
+#b 1.20 m
+#c 2.50 m
+#d 5.50 m
+
+## 146 | star | p=15 | hw=a
+In a 2 m wide rectangular channel uniform flow occurs at a depth of 2 m, the velocity of flow being √(2g) m/sec. The height of jump which can be raised without causing afflux will be
+#a 0
+#b 1m
+#c 2m
+#d 3m
+
+## 147 | p=15 | hw=d
+When the slope of bottom of a channel rises in the direction of flow, it is called
+#a critical slope
+#b mild slope
+#c steep slope
+#d adverse slope
+
+## 148 | p=15 | hw=b
+For any channel section, the specific energy increases with
+i) increase in depth of sub critical flow
+ii) increase in depth of super critical flow
+iii) decrease in depth of sub critical flow
+iv) decrease in depth of super critical flow
+The correct answer is
+#a (i) and (ii)
+#b (i) and (iv)
+#c (ii) and (iii)
+#d (iii) and (iv)
+
+## 149 | p=15 | hw=c
+Flow through a venturi flume is maximum when the depth at the throat is
+#a half
+#b one-third
+#c two-third
+#d equal to the total energy of flow
+
+## 150 | p=15 | hw=a
+For the slope of bottom of a channel to be mild, the normal depth should be
+#a greater than critical depth
+#b equal to critical depth
+#c less than critical depth
+#d imaginary
+
+## 151 | p=15 | hw=d
+Super critical flow can occur in a
+#a channel with a mild slope
+#b channel with a steep slope
+#c a horizontal channel
+#d all the above
+
+## 152 | p=15 | hw=c
+Analysis of a surge in open channels is carried out by using
+i) Navier Stoke's equation
+ii) energy equation
+iii) continuity equation
+iv) momentum equation
+The correct answer is
+#a only (i) is correct
+#b both (ii) and (iii) are correct
+#c both (iii) and (iv) are correct
+#d (ii), (iii) and (iv) are correct
+
+## 153 | star | p=16 | hw=b
+The critical velocity for a flow of q m³/sec/metre width of a wide rectangular channel is given by
+#a (q²/g)^(1/3)
+#b (qg)^(1/3)
+#c √(qg)
+#d none of the above
+
+## 154 | p=16 | hw=b
+The mild slope profile M₂ occurs for depth
+#a above normal but below critical
+#b above critical but below normal
+#c below normal and below critical
+#d above normal and above critical
+
+## 155 | star | p=16 | hw=c
+For a steep slope profile S₁, the type of flow will be
+#a super critical
+#b critical
+#c subcritical
+#d normal
+
+## 156 | star | p=16 | hw=b | fig=16:0.35,0.41,0.47,0.52
+In case of flow through a triangular channel as shown in Fig. 1.2, the Froude number is given by
+#a V/√(gy)
+#b V/√(gy/2)
+#c V/√(gy/3)
+#d V(1 + z²)^(1/4)/√(gyz²)
+
+## 157 | p=16 | hw=b
+If F_r is the Froude number for a flow in a triangular channel, then the Froude number for same velocity and same depth of flow in rectangular channel will be
+#a F_r
+#b F_r/√2
+#c √2F_r
+#d F_r/√3
+
+## 158 | tag=GATE 96 | p=16 | hw=d | fig=16:0.67,0.2,0.89,0.29
+The flow profile under the gate as shown in Fig.1.3 is classified as
+#a M₂
+#b H₁
+#c H₂
+#d H₃
+
+## 159 | star | p=16 | hw=b
+Which of the following Froude number range indicates a weak jump ?
+#a 1.0 to 1.7
+#b 1.7 to 2.5
+#c 2.5 to 4.5
+#d 4.5 to 9.0
+
+## 160 | p=16 | hw=c
+The speed of an elementary wave in still liquid at depth y is given by
+#a √(gy/3)
+#b √(gy/2)
+#c √(gy)
+#d √(2gy)
+
+## 161 | star | tag=CS 93 | p=16 | hw=a
+If the depth of flow in a channel is 1 m and velocity of flow is 2 m/sec. then the velocity with which an elementary wave can travel upstream is
+#a 1.132 m/sec
+#b 2 m/sec
+#c 3.132 m/sec
+#d 5.132 m/sec
+
+## 162 | star | p=16 | hw=d
+The height of hydraulic jump is equal to
+#a initial depth
+#b sequent depth
+#c difference in alternating depths
+#d difference in conjugate depths
+
+## 163 | star | p=17 | hw=b
+If the conjugate depths before and after the jump are 0.5 m and 2.5 m respectively, then the loss of energy in the hydraulic jump will be
+#a 0.8 m
+#b 1.6 m
+#c 3.2 m
+#d 6.4 m
+
+## 164 | star | p=17 | hw=a
+The specific energy in m kg/kg for the flow expressed by V=2.22 m/sec and y = 1 m is
+#a 1.25
+#b 2.22
+#c 3.22
+#d 4.22
+
+## 165 | p=17 | hw=d
+The value of Froude number can be
+#a less than 1
+#b equal to 1
+#c greater than 1
+#d all the above
+
+## 166 | p=17 | hw=c
+The pressure coefficient is the ratio of pressure forces to
+#a gravity forces
+#b viscous forces
+#c inertial forces
+#d none of the above
+
+## 167 | p=17 | hw=d
+Select the non-dimensional parameter of the following
+#a specific weight
+#b Manning's coefficient n
+#c angular velocity
+#d specific gravity
+
+## 168 | star | p=17 | hw=c
+Which of the following is not a non-dimensional parameter ?
+#a Froude number
+#b Darcy-Weisbach friction factor
+#c Chezy's coefficient
+#d Mach number
+
+## 169 | p=17 | hw=c
+The dimensions of pressure gradient dp/dx in a fluid are
+#a M¹ L⁻¹ T⁻²
+#b M⁻¹ L⁻³ T⁻²
+#c M¹ L⁻² T⁻²
+#d M¹ L⁻³ T⁻²
+
+## 170 | p=17 | hw=c
+Which of the following quantities is dimensionless ?
+#a ρF/μ
+#b μ²ρ/F
+#c ρF/μ²
+#d μ/(ρ²F)
+#note where F is force, ρ is density and μ is dynamic viscosity and the dimensions of dynamic viscosity are M¹L⁻¹T⁻¹.
+
+## 171 | star | p=17 | hw=c
+Froude number is the ratio of inertia force to
+#a viscous force
+#b surface tension force
+#c gravity force
+#d compressive force
+
+## 172 | p=17 | hw=a
+If the physical quantities involved in a fluid flow phenomenon are discharge Q, diameter D, acceleration due to gravity g, dynamic viscosity μ and density ρ, then the number of π parameters needed to express the function F (Q, D, g, μ, ρ) = 0 are
+#a 2
+#b 3
+#c 4
+#d 5
+
+## 173 | star | p=17 | hw=b
+In a 1 : 100 scale model of a harbour, the time which will correspond to the prototype tidal period of 12 hours will be
+#a 0.12 hour
+#b 1.2 hours
+#c 12 hours
+#d 120 hours
+
+## 174 | p=17 | hw=a
+If the resistance R to the motion of a sphere through a fluid is a function of the density ρ, viscosity η of the fluid, radius r and velocity v of the sphere, the number of π-parameters needed to express the function F (R, ρ, η, r, v) = 0 is
+#a 2
+#b 3
+#c 4
+#d 5
+
+## 175 | p=17-18 | hw=c
+The dimensions of surface tension are
+#a M¹ L⁻¹
+#b M¹ L¹ T⁻²
+#c M¹ L⁰T⁻²
+#d F¹ T⁻²
+
+## 176 | p=18 | hw=c
+Which of the following is a dimensionally homogeneous equation ?
+#a V = (1/n) R^(2/3) S^(1/2) (Manning's equation)
+#b V = C√(RS) (Chezy's equation)
+#c p = 32μVL/D² (Laminar flow in pipes)
+#d N_S = N√P/H^(5/4) (specific speed of a turbine)
+
+## 177 | p=18 | hw=a
+Apart from inertia force, which of the following forces is most important in motion of submarines under water ?.
+#a viscous force
+#b gravity force
+#c compressive force
+#d surface tension force
+
+## 178 | p=18 | hw=c
+In which of the following situations, the viscous force is unimportant ?
+#a flow of incompressible fluids in closed pipes
+#b motion of aeroplanes
+#c capillary waves in channels
+#d resistance to motion of a ship
+
+## 179 | p=18 | hw=c
+The ratio of volume flow rates in two dynamical similar systems governed by Froude modelling is equal to (assume g_r = 1)
+#a L_r^(1/2)
+#b L_r^(3/2)
+#c L_r^(5/2)
+#d L_r^(7/2)
+#note where L_r is length scale ratio.
+
+## 180 | p=18 | hw=c
+Which of the following could be a π-parameter of the function ϕ (F, V, ρ, μ, L)= 0 when V, ρ and L are taken as repeating variables ?
+#a VLμ²/ρ
+#b F²/(V²ρL)
+#c F/(ρL²V²)
+#d VLρ/√μ
+
+## 181 | star | p=18 | hw=a
+The condition for complete similarity to exist between model and prototype, where both gravity and viscous forces are important, is
+#a μ_r = L_r^(3/2)
+#b μ_r = L_r^(5/2)
+#c μ_r = L_r^(1/2)
+#d μ_r = L_r^(2/3)
+#note where μ_r is kinematic viscosity ratio and L_r is length scale ratio.
+
+## 182 | star | p=18 | hw=c
+A ship's model of scale 1 : 100 had a wave resistance of 1 kg at its design speed. The corresponding wave resistance in prototype will be
+#a 100 kg
+#b 10000 kg
+#c 1000000 kg
+#d 1000 kg
+
+## 183 | p=18 | hw=c
+In which of the following situations, the inertia force would be unimportant ?
+#a flow over a spillway crest
+#b flow through an open channel transition
+#c flow through a long capillary tube
+#d all the above
+
+## 184 | p=18 | hw=c
+For the resistance to motion of a ship's model through water, the basic similitude criteria is
+i) Reynolds Law
+ii) Froude's Law
+iii) Weber's Law
+The correct answer is
+#a only (i) is correct
+#b only (ii) is correct
+#c both (i) and (ii) are correct
+#d both (i) and (iii) are correct
+
+## 185 | p=18-19 | hw=c
+The causes of cavitation are
+#a high suction lift and low pump speed
+#b low suction lift and high pump speed
+#c high suction lift and high pump speed
+#d low suction lift and low pump speed
+
+## 186 | p=19 | hw=a
+The cavitation parameter is given by
+#a (p - p_v)/(0.5ρV²)
+#b (p_v - p)/(0.5ρV²)
+#c (p_a - p)/(0.5ρV²)
+#d (p - p_a)/(0.5ρV²)
+#note where p is the absolute pressure of the point of consideration, p_a is atmosphere pressure, p_v is vapour pressure of liquid, ρ is the density of the liquid and V is the velocity.
+
+## 187 | tag=GATE 94 | p=19 | hw=c
+An impulse turbine
+#a always operates submerged
+#b makes use of a draft tube
+#c operates by initial complete conversion to kinetic energy
+#d converts pressure head into velocity throughout the vanes
+
+## 188 | tag=GATE 88 | p=19 | hw=a
+Water turbines may be put in the decreasing order of specific speeds as
+#a propeller turbine, reaction turbine, impulse turbine
+#b Pelton wheel, Francis turbine, Kaplan turbine
+#c reaction turbine, impulse turbine, propeller turbine
+#d none of the above
+
+## 189 | tag=GATE 96 | p=19 | hw=a
+At a rated capacity of 44 cumecs, a centrifugal pump develops 36 m of head when operating at 1450 rpm. Its specific speed is
+#a 654
+#b 509
+#c 700
+#d 90
+
+## 190 | p=19 | hw=d
+A Francis turbine under a head of 25 m produces 2000 KW at a speed of 250 rpm. Its specific speed is
+#a 50
+#b 100
+#c 150
+#d 200
+
+## 191 | p=19 | hw=d
+Two geometrically similar units are homologous if they have
+#a same Reynolds number
+#b same Froude number
+#c same efficiency
+#d similar streamlines
+
+## 192 | p=19 | hw=a
+A reaction type turbine discharges 10 cumecs under a head of 8 m and with an overall efficiency of 85 percent. The power developed is
+#a 667 kW
+#b 680 kW
+#c 800 kW
+#d 867 kW
+
+## 193 | p=19 | hw=b | check=Book misprint: options printed with labels a), a), b), c) (no d)); placed in order as a-d here, so map the handwritten/key letter carefully.
+Consider the following statements :
+i) An impulse turbine is ideal for high head development .
+ii) Speed ratio of a reaction turbine is in the range of 0.6 to 0.9.
+iii) The specific speed of a Kaplan turbine is in the range of 50 to 150 m.
+Of these statements
+#a only (i) is correct
+#b (i) and (ii) are correct
+#c (i) and (iii) are correct
+#d (i), (ii) and (iii) are correct
+
+## 194 | p=19 | hw=b
+Consider the following statements :
+i) A reciprocating pump does not need priming.
+ii) A centrifugal pump can run at high speed.
+iii) A centrifugal pump has high maintenance cost as compared to reciprocating pump.
+Of these statements
+#a only (i) is correct
+#b (i) and (ii) are correct
+#c (i) and (iii) are correct
+#d (i), (ii) and (iii) are correct
+
+## 195 | p=19-20 | hw=a
+Pumps may be put in the increasing order of specific speeds as
+#a centrifugal pumps, mixed flow pumps, axial flow pumps
+#b centrifugal pumps, axial flow pumps mixed flow pumps
+#c mixed flow pumps, axial flow pumps, centrifugal pumps
+#d mixed flow pumps, centrifugal pumps, axial flow pumps
+
+## 196 | star | p=20 | hw=c
+The specific speed of a turbine is defined as the speed of a unit of such a size that it
+#a delivers unit discharge at unit head
+#b delivers unit discharge at unit power
+#c produces unit power for unit head
+#d none of the above
+
+## 197 | tag=GATE 98 | p=20 | hw=c
+Water enters a turbine steadily at the rate of 100 litres per second with a pressure of 3 x10⁵ N/m² and a velocity of 100 m/s. It leaves the turbine with a pressure of 10⁵ N/m² and a velocity of 50 m/sec. If no losses occur, the power produced by the turbine is
+#a 20 KW
+#b 375 KW
+#c 395 KW
+#d 770 KW
+
+## 198 | p=20 | hw=c
+An isentropic process is always
+#a reversible and isothermal
+#b irreversible and adiabatic
+#c frictionless and adiabatic
+#d frictionless and isothermal
+
+## 199 | star | p=20 | hw=c
+Which of the following equations are used to develop Rayleigh lines ?
+#a momentum and energy
+#b energy and continuity
+#c momentum and continuity
+#d momentum, energy and continuity
+
+## 200 | p=20 | hw=b
+Match the following for isentropic flow of air
+List I — List II
+A. critical pressure ratio — 1. 0.833
+B. critical temperature ratio — 2. 0.528
+C. critical density ratio — 3. 0.634
+Select the correct answer using the codes given below.
+#a A-1, B-3, C-2
+#b A-2, B-1, C-3
+#c A-3, B-1, C-2
+#d A-2, B-3, C-1
+
+## 201 | p=20 | hw=c
+A normal shock wave
+#a is reversible
+#b is isentropic
+#c occurs when the approaching flow is supersonic
+#d occurs when the approaching flow is subsonic
+
+## 202 | p=20 | hw=a
+Match List I with List II and select the correct answer using the codes given below the lists :
+List I — List II
+A. Subsonic flow through a Converging duct — 1. Velocity increases and pressure decreases
+B. Subsonic flow through a Diverging duct — 2. Velocity increases and density decreases
+C. Supersonic flow through a Converging duct — 3. Density increases and velocity decreases
+D. Supersonic flow through a Diverging duct — 4. Velocity decreases and pressure, density, temperature increase
+#a A-2, B-4, C-3, D-1
+#b A-2, B-4, C-1, D-3
+#c A-4, B-2, C-3, D-1
+#d A-4, B-2, C-1, D-3
+
+## 203 | p=20-21 | hw=b
+In steady, isothermal flow in long pipe lines, the significant value of Mach number for determining trends in flow properties is
+#a √k
+#b 1/√k
+#c k
+#d 1/k
+
+## 204 | tag=GATE 96 | p=21 | hw=b
+A perfect gas at 27°C is heated at constant pressure till its volume is doubled. The final temperature of the gas is
+#a 54° C
+#b 327°C
+#c 600°C
+#d 654°C
+
+## 205 | star | tag=GATE 99 | p=21 | hw=c
+The number of revolutions of a current meter in 50 seconds were found to be 12 and 30 corresponding to the velocities of 0.25 and 0.46 m/sec. respectively. What velocity (in m/sec.) would be indicated by 50 revolutions of the current meter in one minute ?
+#a 0.42
+#b 0.50
+#c 0.60
+#d 0.73
+
+## 206 | star | tag=GATE 99 | p=21 | hw=b
+A hydraulic turbine has a discharge of 5 m³/sec, when operating under a head of 20 m with a speed of 500 rpm. If it is to operate under a head of 15 m, for the same discharge, the rotational speed in rpm will approximately be
+#a 433
+#b 403
+#c 627
+#d 388
+
+## 207 | star | p=21 | hw=c
+A fluid is a substance that
+#a is essentially incompressible
+#b has a viscosity that always decreases with temperature
+#c can not remain at rest when subjected to a shearing stress
+#d can not be subjected to shear forces
+
+## 208 | p=21 | hw=c
+The viscosity of a fluid varies with
+#a pressure
+#b density
+#c temperature
+#d temperature and pressure
+
+## 209 | p=21 | hw=a
+The locus of elevations that water will rise in a series of pitot tubes is called
+#a the energy grade line
+#b the hydraulic grade line
+#c the pressure head
+#d the velocity head
+
+## 210 | p=21 | hw=c
+For a developed turbulent flow in a horizontal pipe, the pressure gradient
+#a is zero
+#b is constant
+#c varies linearly with distance
+#d varies exponentially with distance
+
+## 211 | p=21 | hw=c
+A dimensionless combination of surface tension σ, density ρ, diameter D and velocity V is
+#a σD /ρV
+#b σD² / ρV
+#c σ / ρV² D
+#d σD /ρV²
+
+## 212 | p=21 | hw=d
+The velocity potential function for a source varies with distance r as
+#a 1/r
+#b 1/r²
+#c c^r
+#d ln r
+
+## 213 | tag=GATE 87 | p=21 | hw=c
+A streamlined body is defined as a body about which
+#a the flow is laminar
+#b the flow is along the stream lines
+#c the flow separation is suppressed
+#d the drag is zero
+
+## 214 | tag=GATE 90 | p=21 | hw=d
+If the velocity distribution is rectangular, the kinetic energy correction factor is
+#a greater than zero but less than unity
+#b less than zero
+#c equal to zero
+#d equal to unity
+
+## 215 | tag=ES 93 | p=21 | hw=c
+At room temperature, the dynamic and kinematic viscosity of water
+#a are both greater than that of air
+#b are both less than that of air
+#c are respectively greater than and less than that of air
+#d are respectively less than and greater than that of air
+
+## 216 | tag=ES 93 | p=21-22 | hw=b
+One end of a two dimensional water tank has the shape of a quadrant of a circle of radius 2m. When the tank is full, the vertical component of the force per unit length on the curved surface will be
+#a 250 π kgf
+#b 1000 π kgf
+#c 4000 kgf
+#d 3000 kgf
+
+## 217 | star | tag=ES 93 | p=22 | hw=c
+The mean velocities at two ends of a stream tube 10 cm apart are 2.5 m/s and 3 m/s. The convectional tangential acceleration mid-way is
+#a zero
+#b 0.5 m/s²
+#c 13.75 m/s²
+#d not determinable
+
+## 218 | tag=ES 93 | p=22 | hw=d
+Which one of the following velocity fields represents a possible fluid flow ?
+#a u = x; v = y
+#b u = x² ; v = y²
+#c u = xy; v = x² y²
+#d u = x; v = - y
+
+## 219 | tag=ES 93 | p=22 | hw=b
+A cylindrical vessel with a constant plane area of 1 m² is rotated about its vertical axis such that the liquid inside the vessel is about to spill. If the height of the vessel is 2 m and the height of the paraboloid is 1m, then the volume (in m³) of the liquid in the vessel will be
+#a 2
+#b 1.5
+#c 1.0
+#d 0.5
+
+## 220 | tag=ES 93 | p=22 | hw=d
+When a particular discharge is flowing in a horizontal pipe, a mercury-water U-tube manometer connected to the entrance and throat of a venturimeter fitted in the pipe recorded a deflection of 25 cm. If the same discharge flowed through the same pipe kept at an inclination of 45° to the horizontal, then the corresponding deflection by the U-tube manometer will be
+#a 25 √2 cm
+#b 25 / √2 cm
+#c 25 / 2 cm
+#d 25 cm
+
+## 221 | tag=ES 93 | p=22 | hw=b
+An open rectangular wagon 5 m long is filled with water to a level 0.5 m below the open top. The maximum acceleration (in m/s²) at which it can be speeded up without spilling the water is nearly
+#a 0.98
+#b 1.96
+#c 4.9
+#d 9.8
+
+## 222 | tag=ES 93 | p=22 | hw=c
+Which of the following rules are used in choosing the repeating variables in dimensional analysis ?
+1. Repeating variables should include the dependent variables.
+2. Repeating variables should contain all primary units used in describing the variables in the problem.
+3. Repeating variables should combine among themselves.
+4. Repeating variables should not contain the dependent variables.
+Select the correct answer using the codes given below.
+Codes :
+#a 1 and 2
+#b 2 and 3
+#c 2 and 4
+#d 3 and 4
+
+## 223 | star | tag=ES 93 | p=22 | hw=b
+A harbour model has a horizontal scale of 1/150 and a vertical scale of 1/60. The interval between successive high tides in the model will be nearly
+#a 90 min.
+#b 40 min.
+#c 15 min.
+#d 5 hours
+
+## 224 | star | tag=ES 93 | p=22 | hw=c | check=Book misprint: options printed with labels e), f), g), h); placed in order as a-d here.
+In a laminar flow through a circular pipe of diameter 20 cm, the maximum velocity is found to be 1 m/s. The velocity at a radial distance of 5 cm from the axis of the pipe will be
+#a 0.25 m/s
+#b 0.50 m/s
+#c 0.75 m/s
+#d 1.0 m/s
+
+## 225 | tag=ES 93 | p=22 | hw=b
+If a multijet Pelton turbine has 'n' number of jets, then its specific speed is directly proportional to
+#a n⁰
+#b n^(1/2)
+#c n^(3/4)
+#d n
+
+## 226 | star | tag=ES 93 | p=23 | hw=d
+An aeroplane having a wing span of 16 m and chord of 2.5 m weighs 11 tonnes. If it gets airborne at a velocity of 300 kmph, then the coefficient of lift is nearly
+#a 0.0004
+#b 0.0006
+#c 0.4
+#d 0.6
+
+## 227 | tag=ES 93 | p=23 | hw=a
+The Hardy Cross method of hydraulic analysis of pipe networks, besides satisfying the continuity and energy principles, must also satisfy the condition that the
+#a algebraic sum of the head losses around any closed loop is zero
+#b flow into any junction equals the outflow from it
+#c flow in each pipe has head loss according to Darcy-Weisbach or any other pipe head loss equation
+#d momentum principle is followed
+
+## 228 | tag=ES 93 | p=23 | hw=b
+A liquid of density ρ and bulk modulus K flows with a mean velocity V in a long rigid pipe of diameter D. A sudden closure of a valve at the end of the pipe produces a maximum water hammer head h_w, which is equal to
+#a V√ρ/(g√K)
+#b V√K/(g√ρ)
+#c V√g/(ρ√K)
+#d Vρ/√(gK)
+
+## 229 | tag=ES 93 | p=23 | hw=b
+Given that,
+S₀ = slope of the channel bottom,
+S_e = slope of the energy line,
+F = Froude number,
+the equation of gradually varied flow is expressed as
+#a dy/dx = (S₀ - S_e)/(1 + F²)
+#b dy/dx = (S₀ - S_e)/(1 - F²)
+#c dy/dx = (S₀ + S_e)/(1 + F²)
+#d dy/dx = (S₀ + S_e)/(1 - F²)
+
+## 230 | tag=ES 93 | p=23 | hw=c
+Match List I with List II and select the correct answer using the codes given below the lists: (y₀ = Normal depth, y_c = critical depth and y = depth of gradually varied flow)
+List I (Flow regimes for gradually varied flow) — List II (Type of gradually varied flow profile)
+A. y_c > y₀ > y — 1. C₁
+B. y_c < y₀ < y — 2. M₁
+C. y₀ > y > y_c — 3. S₃
+D. y > y_c > y₀ — 4. M₂
+5. S₁
+Codes :
+#a A-1, B-2, C-3, D-4
+#b A-3, B-4, C-5, D-2
+#c A-3, B-2, C-4, D-5
+#d A-5, B-4, C-3, D-1
+
+## 231 | star | tag=ES 93 | p=23 | hw=a
+A discharge of 3.0 m³/s flows in a canal, 2 m wide, at a depth of 1.2 m. If the width of the canal is reduced to 1.5 m by a canal transition, then neglecting losses, the depth of flow after the contraction will be
+#a 1.12 m
+#b 1.20 m
+#c 1.28 m
+#d 1.60 m
+
+## 232 | tag=ES 94 | p=23 | hw=d
+If u and v are the components of velocity in the x and y directions of a flow given by
+u = ax + by;    v = cx + dy,
+then the condition to be satisfied is
+#a a + c = 0
+#b b + d = 0
+#c a + b + c + d = 0
+#d a + d = 0
+
+## 233 | star | tag=ES 94 | p=24 | hw=d
+At a point on a streamline, the velocity is 3 m/s and the radius of curvature is 9 m. If the rate of increase of velocity along the streamline at this point is 1/3 m/s/m, then the total acceleration at this point would be
+#a 1 m/s²
+#b 3 m/s²
+#c 1/3 m/s²
+#d √2 m/s²
+
+## 234 | tag=ES 94 | p=24 | hw=d
+Match List I with List II and select the correct answer using the codes given below the lists:
+List I — List II
+A. Rotational flow — 1. A fluid motion in which stream lines are concentric circles
+B. Vortex flow — 2. The fluid particles moving in concentric circles may not rotate about their mass centre
+C. Free vortex — 3. The fluid particles moving in concentric circles may rotate
+D. Forced vortex — 4. Flow near a curved solid boundary
+Codes :
+#a A-4, B-2, C-3, D-1
+#b A-1, B-2, C-3, D-4
+#c A-1, B-3, C-2, D-4
+#d A-4, B-1, C-2, D-3
+
+## 235 | tag=ES 94 | p=24 | hw=c
+In a Sutro weir, the rate of flow for all flows above the rectangular base of width W and depth 'a' is proportional to the head
+#a above the crest
+#b above the rectangular box
+#c above a datum a/3 above the crest
+#d 2a/3 above the crest
+
+## 236 | star | tag=ES 94 | p=24 | hw=b
+A model of reservoir is emptied in 10 minutes. If the model scale is 1:25, the time taken by the prototype to empty itself, would be
+#a 250 minutes
+#b 50 minutes
+#c 6250 minutes
+#d 2 minutes
+
+## 237 | tag=ES 94 | p=24 | hw=c
+The relationship
+dp/dx = dτ/dy is valid for
+#a irrotational flow
+#b non-uniform flow
+#c uniform flow
+#d unsteady flow
+
+## 238 | tag=ES 94 | p=24 | hw=b
+Which of the following statements are correct in respect of steady laminar flow through a circular pipe ?
+1. Shear stress is zero at the centre.
+2. Discharge varies directly with viscosity of the fluid flowing.
+3. Velocity is maximum at the centre.
+4. Hydraulic gradient varies directly with the velocity.
+Select the correct answer using the codes given below.
+Codes :
+#a 1, 2 and 4
+#b 1, 3 and 4
+#c 1 and 3
+#d 3 and 4
+
+## 239 | tag=ES 94 | p=24-25 | hw=c
+Match List I with List II and select the correct answer using the codes given below the lists :
+List I — List II
+A. Boundary layer thickness — 1. Distance from the boundary where velocity is 99% of uniform velocity
+B. Displacement thickness — 2. Distance from the boundary by which the main flow can be assumed to be shifted
+C. Laminar boundary layer — 3. Distance from the boundary wherefrom the flow ceases to be laminar
+D. Turbulent boundary layer — 4. Region near the boundary where viscous stress is also present
+Codes :
+#a A-1, B-2, C-3, D-4
+#b A-2, B-1, C-3, D-4
+#c A-1, B-2, C-4, D-3
+#d A-2, B-1, C-4, D-3
+
+## 240 | tag=ES 94 | p=25 | hw=d
+In a compressible flow, the area of flow, the velocity of flow and the mass density are denoted by a, v and m respectively. At a particular section, the differential form of the continuity equation is given by
+#a da/a = dv/v + dm/m
+#b da/a = dv/v - dm/m
+#c da/a = -dv/v + dm/m
+#d da/a = -dv/v - dm/m
+
+## 241 | tag=ES 94 | p=25 | hw=a
+Given that K = a coefficient, v = mean velocity, f= Darcy-Weisbach friction factor and D = diameter of the pipe, if the head loss in a pipe bend is given by h_L = Kv²/2g, then the equivalent length of the pipe is
+#a KD/f
+#b Kf/D
+#c f/KD
+#d Df/K
+
+## 242 | tag=ES 94 | p=25 | hw=a
+When no external energy is imposed, which of the following statements would be true?
+1. Energy line always falls in the direction of flow.
+2. Hydraulic gradient line never rises in the direction of flow.
+3. Specific energy may increase or decrease in the direction of flow.
+4. Energy line and hydraulic gradient line can cross each other.
+Select the correct answer using the codes given below.
+Codes :
+#a 1 and 2
+#b 2 and 3
+#c 3 and 4
+#d 1 and 3
+
+## 243 | tag=ES 94 | p=25 | hw=a
+The specific energy 'E' in a critical flow at depth y_c occurring in a triangular channel is given by
+#a E = 1.25 y_c
+#b E = 1.5 y_c
+#c E = 1.75 y_c
+#d E = 2 y_c
+
+## 244 | tag=ES 94 | p=25 | hw=b
+In a gradually varied flow, if dy/dx is positive, then dE/dx will be
+#a always zero
+#b positive if y > y_c
+#c negative if y > y_c
+#d always negative
+
+## 245 | tag=ES 94 | p=25 | hw=d
+Which one of the following is the correct representation of the sequence of surface profiles if the channel slope changes from mild to steep ?
+#a M₁, S₁
+#b M₃, S₂
+#c M₂, S₃
+#d M₂, S₂
+
+## 246 | tag=ES 93 | p=25-26 | hw=a
+An irrigation canal has a steady discharge Q at a section where a cross- regulation (gated) is provided for control purposes. If the gate of the regulator, which is normally fully open, is suddenly lowered down to a half open position, then a rapidly varied unsteady flow results. In such a case, it would take the form of a
+#a +ve surge moving u/s and a –ve surge moving d/s
+#b +ve surge moving d/s and a –ve surge moving u/s
+#c +ve surge moving u/s and a +ve surge moving d/s
+#d -ve surge moving u/s and a –ve surge moving d/s
+
+## 247 | star | tag=ES 95 | p=26 | hw=b
+A 10 cm high rocket containing liquid fuel of specific gravity 1.2 lifts off at an acceleration of 5 g. The pressure on the bottom plate of the rocket, at lift-off is
+#a 6.7 kg/cm²
+#b 7.2 kg/cm²
+#c 8.4 kg/cm²
+#d 8.9 kg/cm²
+
+## 248 | tag=ES 95 | p=26 | hw=d | check=Handwritten mark partly hidden in the page gutter; read as 'd' with low confidence.
+Match List I with List II and select the correct answer using the codes given below the lists:
+List I — List II
+A. Stream lines — 1. Tracing of motion of any one fluid particle
+B. Streak lines — 2. Tracing of motion of different fluid particles
+C. Path lines — 3. Identification of location number of fluid particle
+D. Equi-potential lines — 4. Orthogonal to streak lines
+5. Location of equal piezometric heads
+Codes :
+#a A-2, B-3, C-4, D-5
+#b A-3, B-2, C-1, D-4
+#c A-1, B-2, C-4, D-3
+#d A-2, B-3, C-1, D-5
+
+## 249 | tag=ES 95 | p=26 | hw=a
+As the depth of immersion of a vertical plane surface increases, the location of pressure
+#a comes closer to the centre of gravity of the area
+#b moves apart from the centre of gravity of the area
+#c ultimately coincides with the centre of gravity of the area
+#d remains unaffected
+
+## 250 | tag=ES 95 | p=26 | hw=c
+If the discharge is Q, in a pipe fitted with an end-cap nozzle discharging a jet of water with velocity V and hitting normally a plate which is moving with a velocity V/2 towards the nozzle, then the jet would hit the plate with a discharge of
+#a 0.5 Q
+#b Q
+#c 1.5Q
+#d 2 Q
+
+## 251 | tag=ES 95 | p=26 | hw=c
+Consider the following parameters related to fluid flow.
+1. Vorticity
+2. Velocity potential
+3. Stream function
+Among these, those which exist both in rotational flows and irrotational flows would include
+#a 1 and 2
+#b 2 and 3
+#c 1 and 3
+#d 1, 2 and 3
+
+## 252 | tag=ES 95 | p=26 | hw=a
+The flow of water in a wash hand basin when it is being emptied through a central opening, is an example of
+#a free vortex
+#b forced vortex
+#c rotational vortex
+#d Rankine vortex
+
+## 253 | tag=ES 95 | p=26 | hw=d
+In a fluid flow, the time of constant piezometric head passes through two points which have the same
+#a elevation
+#b pressure
+#c velocity
+#d velocity potential
+
+## 254 | tag=ES 95 | p=26-27 | hw=b
+Match List I with List II and select the correct answer using the codes given below the lists :
+List I (Non-dimensional numbers) — List II (Application)
+A. Mach Number — 1. Waves in an ocean
+B. Thoma Number — 2. Launching of rockets
+C. Reynolds Number — 3. Cavitation phenomenon
+D. Weber Number — 4. Capillary flow in soil
+5. Motion of a submarine
+Codes :
+#a A-1, B-3, C-5, D-2
+#b A-2, B-3, C-5, D-4
+#c A-3, B-2, C-4, D-1
+#d A-2, B-1, C-3, D-4
+
+## 255 | tag=ES 95 | p=27 | hw=c
+An error of 0.5% in the measurement of head in a V-notch causes an error of
+#a 0.5% in the discharge
+#b 1.0% in the discharge
+#c 1.25% in the discharge
+#d 1.5% in the discharge
+
+## 256 | star | tag=ES 95 | p=27 | hw=b
+A sphere of certain diameter, when towed submerged under water, experiences a drag force of 4 Newtons at a velocity of 1.5 m/s. If another sphere of twice the diameter of the sphere referred to above, is towed with the same velocity in water, the drag force experienced by this sphere will be
+#a 8 N
+#b 16 N
+#c 24 N
+#d 32 N
+
+## 257 | tag=ES 95 | p=27 | hw=b
+Which of the following conditions would entail a greater energy dissipation in turbulent flow ?
+a) Smaller eddy size
+b) Lower viscosity
+c) Large intensity of turbulence
+Select the correct answer using the codes given below.
+Codes :
+#a 1,2 and 3
+#b 1 and 3
+#c 2 and 3
+#d 1 and 2
+
+## 258 | tag=ES 95 | p=27 | hw=b
+Shear velocity is
+#a a non-dimensional quantity
+#b a fictitious quantity
+#c velocity of fluid at the edge of laminar sublayer
+#d the velocity of fluid at the edge of roughness element
+
+## 259 | tag=ES 95 | p=27 | hw=a | fig=27:0.5,0.24,0.8,0.38
+Three reservoirs A,B and C are interconnected by pipes as shown in Fig. 1.4. Water surface elevations in the reservoirs and the piezometric level at the junction D are also indicated in the figure.
+Flows Q₁, Q₂ and Q₃ are related as
+#a Q₁ + Q₂ = Q₃
+#b Q₁ - Q₂ = Q₃
+#c Q₂ - Q₁ = Q₃
+#d Q₁ + Q₂ + Q₃ = 0
+
+## 260 | tag=ES 96 | p=27 | hw=c
+Consider the following statements:
+A horizontal pipe reduces from 10 cm to 5 cm in diameter. If the pressure head at 10 cm section is 10 metres and velocity head is 1 metre, then the
+1. total head at any point is 11 metres
+2. pressure head at the 5 cm section is negative
+3. discharge varies proportionate to the diameter
+4. datum head at all sections is constant
+Of these statements
+#a 1,2 and 4 are correct
+#b 1 and 3 are correct
+#c 4 alone is correct
+#d 1,2,3 and 4 are correct
+
+## 261 | star | tag=ES 96 | p=27-28 | hw=d
+Given φ = 3 xy and ψ = (3/2)(y² - x²), the discharge passing between the streamlines through the points (1,3 ) and (3,3) is
+#a 2 units
+#b 4 units
+#c 8 units
+#d 12 units
+
+## 262 | star | tag=ES 96 | p=28 | hw=c
+A model of a weir made to a horizontal scale of 1/40 and vertical scale of 1/9 discharges 1 litre/sec. Then the discharge in the prototype is estimated as
+#a 1 lps
+#b 108 lps
+#c 1080 lps
+#d 10800 lps
+
+## 263 | tag=ES 96 | p=28 | hw=c
+Laminar flow occurs between extensive stationary plates. The kinetic energy correction factor is nearly
+#a 1.0
+#b 1.5
+#c 2.0
+#d 2.3
+
+## 264 | star | tag=ES 96 | p=28 | hw=c
+In steady laminar flow of a liquid through a circular pipe of internal diameter D, carrying a constant discharge, the hydraulic gradient is inversely proportional to
+#a D
+#b D²
+#c D⁴
+#d D⁵
+
+## 265 | star | tag=ES 96 | p=28 | hw=d
+The ratio of the coefficient of friction drag in laminar boundary layer compared to that in turbulent boundary layer is proportional to
+#a R_L^(1/2)
+#b R_L^(1/5)
+#c R_L^(3/10)
+#d R_L^(-3/10)
+
+## 266 | tag=ES 96 | p=28 | hw=b
+The overall drag coefficient of an aircraft of weight W and wing area S is given by
+C_D = a + b C_L²
+where a and b are constants. The maximum drag in horizontal flight will be
+#a W√(ab)
+#b 2 W√(ab)
+#c 4 W√(ab)
+#d 6 W√(ab)
+
+## 267 | tag=ES 96 | p=28 | hw=d
+For laminar flow between parallel plates separated by a distance 2h, head loss varies
+#a directly as h
+#b inversely as h
+#c directly as h²
+#d inversely as h³
+
+## 268 | tag=ES 96 | p=28 | hw=c
+A penstock is 2000 m long and the velocity of pressure wave in it is 1000 m/s. Water hammer pressure head for instantaneous closure of value at the downstream end of pipe is 60 m. If the valve is closed in 4 secs, then the peak water hammer pressure head is equal to
+#a 15 m
+#b 30 m
+#c 60 m
+#d 120 m
+
+## 269 | tag=ES 96 | p=28 | hw=d
+In an open channel of wide rectangular section with constant n value, the bed slope is 1.2 x 10⁻³, the local friction slope at a section is 1.05 x 10⁻³, the local Froude number of the flow is 0.8. The local rate of variation of depth with longitudinal distance along the flow direction is
+#a ((1.2 - 1.05)/(1 - 0.8)) x 10⁻³
+#b ((-1.2 - 1.05)/(1 - 0.8)) x 10⁻³
+#c ((1.2 + 1.05)/(1 - 0.64)) x 10⁻³
+#d ((1.2 - 1.05)/(1 - 0.64)) x 10⁻³
+
+## 270 | tag=ES 96 | p=28 | hw=a
+Before passage of a surge, the depth and velocity of flow at a section are 1.8 m and 3.72 m/s and., after passage, they are 0.6 m and 7.56 m/s respectively. The speed of the surge is
+#a + 1.8 m/s
+#b – 2.7 m/s
+#c + 3.6 m/s
+#d – 4.5 m/s
+
+## 271 | star | tag=ES 96 | p=28-29 | hw=a
+A turbine works at 20 m head and 500 rpm speed. Its 1:2 scale model to be tested at a head of 20 m should have a rotational speed of nearly
+#a 1000 rpm
+#b 700 rpm
+#c 500 rpm
+#d 250 rpm
+
+## 272 | tag=ES 96 | p=29 | hw=c
+Which one of the following statements regarding reciprocating pump is correct?
+#a Friction head is mainly responsible for causing cavitation in a reciprocating pump at the beginning of the suction stroke .
+#b Effect of acceleration pressure on reciprocating pumps appears parabolic and has the maximum effect at the middle of the delivery stroke.
+#c Air vessel reduces the acceleration head and consequently reduces the effect of friction head also .
+#d The maximum permissible suction lift in a double acting reciprocating pump is independent of vapour pressure .
+
+## 273 | tag=ES 97 | p=29 | hw=b
+The correct sequence, in the direction of the flow of water for installations in a hydro-power plant is
+#a reservoir, surge tank, turbine, pen stock
+#b reservoir, pen stock, surge tank, turbine
+#c reservoir, pen stock, turbine, surge tank
+#d reservoir, surge tank, pen stock, turbine
+
+## 274 | tag=ES 97 | p=29 | hw=d
+There are four variables, namely, E (volume modulus of elasticity), p (pressure per unit area), g (acceleration due to gravity) and μ (viscosity of water). They are associated with Mach, Euler, Froude and Reynolds numbers, respectively, in the order
+#a E, p, μ, g
+#b p, E, μ, g
+#c p, E, g, μ
+#d E, p, g, μ
+
+## 275 | star | tag=ES 97 | p=29 | hw=a
+Which one of the following pressure units represents the least pressure ?
+#a Millibar
+#b mm of mercury
+#c N/mm²
+#d kgf/cm²
+
+## 276 | tag=ES 97 | p=29 | hw=b
+Given that, as flow takes place between two parallel static plates, the velocity midway between the plates is 2 m/s, the Reynolds number is 1200 and the distance between the plates is 10 cm. Which of the following statements are true ?
+1. The velocity at the boundary is 1 m/s.
+2. The rate of flow is 0.1 m³/s/metre width.
+3. The flow is turbulent.
+4. The energy correction factor is 2.0.
+Select the correct answer using the codes given below.
+Codes :
+#a 2 and 3
+#b 2 and 4
+#c 1 and 3
+#d 1,2, 3 and 4
+
+## 277 | tag=ES 97 | p=29 | hw=c
+The displacement thickness of a boundary layer is
+#a the distance to the point where (v/V) = 0.99
+#b the distance where the velocity 'v' is equal to the shear velocity V*, that is, where v = V*
+#c the distance by which the main flow is to be shifted from the boundary to maintain the continuity equation
+#d one half the actual thickness of the boundary layer
+
+## 278 | tag=ES 97 | p=29-30 | hw=c
+Match List I with List II and select the correct answer using the codes given below the lists :
+List I (Flow phenomenon) — List II (Associated equation/ principle)
+A. Turbulent flow — 1. Circulation
+B. Laminar flow — 2. Momentum integral equation
+C. Lift on an aero-foil — 3. Mixing length
+D. Boundary layer — 4. Hagan Poiseuille equation
+Codes :
+#a A-1, B-4, C-3, D-2
+#b A-4, B-1, C-2, D-3
+#c A-3, B-4, C-1, D-2
+#d A-1, B-2, C-3, D-4
+
+## 279 | tag=ES 97 | p=30 | hw=a
+For laminar flow in a pipe carrying a given discharge, the height of surface roughness is doubled. In such a case, Darcy-Weisbach friction factor will
+#a remain unchanged
+#b be halved
+#c be doubled
+#d increase four-hold
+
+## 280 | star | tag=ES 97 | p=30 | hw=a
+Two small orifices A and B of diameters 1 cm and 2 cm, respectively, are placed on the sides of a tank at depths of h₁ and h₂ below the open liquid surface. If the discharges through A and B are equal, then the ratio of h₁ and h₂ (assuming equal C_d values) will be
+#a 16:1
+#b 8 :1
+#c 4:1
+#d 2:1
+
+## 281 | tag=ES 97 | p=30 | hw=b
+Which of the following conditions will be satisfied by steady irrotational flow ?
+1. ∂u/∂y + ∂v/∂x = 0
+2. ∂v/∂x - ∂u/∂y = 0
+3. ∂u/∂x + ∂v/∂y = 0
+Select the correct answer using the codes given below.
+Codes :
+#a 1 and 2
+#b 2 and 3
+#c 1 and 3
+#d 1, 2 and 3
+
+## 282 | tag=ES 98 | p=30 | hw=c
+Match List I (Types of turbines) with List II (Ranges of specific speeds in MKS units) and select the correct answer using the codes given below the lists.
+List I — List II
+A. Francis — 1. 10 – 35
+B. Kaplan — 2. 35 – 60
+C. Pelton with one jet — 3. 60 – 300
+D. Pelton with two jets — 4. 300 - 1000
+Codes :
+#a A-3, B-4, C-2, D-1
+#b A-4, B-3, C-2, D-1
+#c A-3, B-4, C-1, D-2
+#d A-4, B-3, C-1, D-2
+
+## 283 | star | tag=ES 98 | p=30 | hw=c
+The surface tension of water at 20°C is 75 x 10⁻³N/m. The difference in the water surfaces within and outside an open ended capillary tube of 1mm internal bore, inserted at the water surface, would nearly be
+#a 5 mm
+#b 10 mm
+#c 15 mm
+#d 20 mm
+
+## 284 | tag=ES 98 | p=30 | hw=d
+A symmetrical right circular cone of wood floats in fresh water with axis vertical and the apex downmost. The axial height of the cone is l. The submerged portion has a height h, measured upwards from the apex. What would be the height of the centre of buoyancy from the apex ?
+#a h/2
+#b (5/8)h
+#c (2/3)h
+#d (3/4)h
+
+## 285 | star | tag=ES 98 | p=30 | hw=b
+A rectangular open channel carries a discharge of 15 m³/s when the depth of flow is 1.5 m and the bed slope is 1:1440. What will be the discharge through the channel at the same depth if the slope would have been 1:1000 ?
+#a 21.6 m³/s
+#b 18 m³/s
+#c 14.4 m³/s
+#d 12.5 m³/s
+
+## 286 | star | tag=ES 98 | p=31 | hw=b
+In steady flow of a compressible fluid through a pipe, the density, area and velocity at a particular section are 1.5 kg/m³, 0.5 m² and 3 m/s, respectively. At another section the density and area are 0.75 kg/m³ and 1.0 m² respectively. What is the velocity at this section ?
+#a 1.5 m/s
+#b 3.0 m/s
+#c 4.5 m/s
+#d 6.0 m/s
+
+## 287 | tag=ES 98 | p=31 | hw=a
+The coefficient of velocity for an orifice is given by (using usual notations)
+#a x/(2√(YH))
+#b 2x/√(YH)
+#c x/√(YH)
+#d √(x²/(2YH))
+
+## 288 | tag=ES 98 | p=31 | hw=d
+The velocity potential ϕ at any point for a two-dimensional steady, irrotational flow in polar coordinates, is given by (with usual notations) ϕ = m (cos θ)/r
+This equation represents a
+#a vortex
+#b sink
+#c source
+#d doublet
+
+## 289 | tag=ES 98 | p=31 | hw=a
+A cylindrical vessel of radius 42.31 cm and height 1 m is open at the top. It holds water to half its depth. Which one of the following values approximates the speed at which the cylinder is to be rotated about the vertical axis, so as to make the apex of the paraboloid just reach the centre of the bottom of the vessel ?
+#a 100 rpm
+#b 150 rpm
+#c 250 rpm
+#d 300 rpm
+
+## 290 | tag=ES 98 | p=31 | hw=d
+Match List I (Name of instrument) with List II (variable measured) and select the correct answer using the codes given below the lists :
+List I — List II
+A. Hot wire anemometer — 1. Boundary shear stress
+B. Orifice meter — 2. Discharge
+C. Pitot tube — 3. Mean velocity
+D. Preston tube — 4. Pressure
+5. Turbulence
+Codes :
+#a A-2, B-3, C-4, D-1
+#b A-5, B-2, C-3, D-4
+#c A-2, B-5, C-3, D-3
+#d A-5, B-2, C-3, D-1
+
+## 291 | tag=ES 98 | p=31 | hw=d
+Water having kinematic viscosity of 0.01 stoke flows at a velocity of 2m/sec in a pipe of 15 cm diameter. For dynamic similarity, the velocity of oil of kinematic viscosity 0.03 stoke in a pipe of same diameter will be
+#a 0.33 m/sec
+#b 0.66 m/sec
+#c 2 m/sec
+#d 6 m/sec
+
+## 292 | star | tag=ES 98 | p=31 | hw=c
+In the model of a highway bridge constructed to a scale of 1:25, the force of water on the pier was measured to be 0.5 kg. The force on the prototype pier will be
+#a 7501.5 kg
+#b 7622.5 kg
+#c 7812.5 kg
+#d 7916.5 kg
+
+## 293 | star | tag=ES 98 | p=31 | hw=b
+In the stokes experiment of falling sphere, it is found that a sphere of 5 mm diameter falls in a liquid with terminal velocity 20 mm/s giving a drag coefficient of 240. The ratio of specific gravities is 2.85. Which one of the following is the kinematic viscosity of the liquid in stokes ?
+#a 3.5
+#b 10.0
+#c 225.0
+#d 1000.0
+
+## 294 | star | tag=ES 98 | p=32 | hw=c
+A ping-pong ball, having a diameter of 3.6 cm and weighing 2.4 g, is served with a horizontal velocity of 10 m/sec and a spin that gives rise to a coefficient of lift of 0.2. Assuming the density of air to be 0.00129 gf/cc, the lift experienced by the ball is nearly
+#a 13 gf
+#b 1.3 gf
+#c 0.13 gf
+#d 0.013 gf
+
+## 295 | tag=ES 98 | p=32 | hw=c
+The friction factor(f), in terms of boundary shear stress (τ₀), is given by (ρ = mass density, v = mean velocity)
+#a 2ρv²/τ₀
+#b τ₀/(2ρv²)
+#c 2τ₀/(ρv²)
+#d ρv²/(2τ₀)
+
+## 296 | tag=ES 98 | p=32 | hw=b
+The loss of head at various pipe fittings is given by the expression Kv²/2g. If values of K were 0.40, 0.90, 1.5 and 2.2, then these would correspond respectively to
+#a foot valve of pump, 45° elbow, 90° elbow and close return bend
+#b 45° elbow, 90° elbow, foot value of pump and close return bend
+#c 90° elbow, foot value of pump, close return bend and 45° elbow
+#d foot value of pump, close return bend, 45° elbow and 90° elbow
+
+## 297 | tag=ES 98 | p=32 | hw=d
+A pipe network consists of a pipe of 60 cm diameter and branches out at a point F into two branches, one of 30 cm diameter and the other of 45 cm diameter. These branch pipes rejoin at a point B. The velocity in the first branch (of 45 cm diameter) is 1.5 m/sec. Which one of the following statements is true ?
+#a The velocity in the second branch is 1.0 m/sec.
+#b The velocity in the second branch is 2.25 m/sec.
+#c The velocity in the second branch is 2/3 (=0.667) m/sec.
+#d The potential drop between F and B in both branches is the same.
+
+## 298 | tag=ES 98 | p=32 | hw=b
+Which of the following statements are true in relation to water hammer phenomenon?
+1. It causes surface erosion in pipes.
+2. The pressure rise is given by ρCU for sudden closure of valve.
+3. It is accompanied by serious cavitation.
+4. The volume modulus of fluid is the relevant fluid property.
+5. It is governed by the Reynolds number of the flow.
+Select the correct answer using the codes given below.
+Codes :
+#a 3 and 5
+#b 2 and 4
+#c 2 and 5
+#d 1,2, 3 and 4
+
+## 299 | tag=ES 98 | p=32 | hw=c
+Which one of the following pairs is not correctly matched ? (b = bottom width, y = depth of flow, θ = side slope with vertical)
+#a For least perimeter of rectangular canal section — b = 2y
+#b For least perimeter of trapezoidal canal section — b = 2y(secθ – tanθ)
+#c For critical flow through rectangular canal — v = gy
+#d For critical flow through trapezoidal canal — v = √(gy(b + y tanθ)/(b + 2y tanθ))
+
+## 300 | tag=ES 99 | p=32-33 | hw=a | fig=33:0.15,0.06,0.42,0.18
+Match List I (Curves labelled A,B, C and D in Fig. 1.5) with List II (types of fluid) and select the correct answer using the codes given below the lists :
+List I (curves A, B, C, D of shear stress vs velocity gradient in Fig.1.5) — List II
+1. Ideal plastic
+2. Ideal
+3. Non-Newtonian
+4. Pseudo-plastic
+5. Thyxotropic
+Codes :
+#a A-2, B-3, C-1, D-5
+#b A-3, B-2, C-1, D-5
+#c A-4, B-2, C-5, D-1
+#d A-2, B-3, C-5, D-1
+
+## 301 | star | tag=ES 99 | p=33 | hw=b | fig=33:0.19,0.34,0.37,0.47
+In the set up shown in Fig. 1.6, assuming the specific weight of water as 10,000 N/m³, the pressure difference between the points A and B will be
+#a 10 N/m²
+#b – 10 N/m²
+#c 20 N/m²
+#d – 20 N/m²
+
+## 302 | tag=ES 99 | p=33 | hw=a
+Consider the following statements:
+1. Pumps in series operation allow the head to increase.
+2. Pumps in series operation increase the flow rate.
+3. Pumps in parallel operation increase the flow rate.
+4. Pumps in parallel operation allow the head to increase .
+Which of these statements are correct ?
+#a 1 and 3
+#b 1 and 4
+#c 2 and 4
+#d 3 and 4
+
+## 303 | tag=ES 99 | p=33 | hw=b
+Which one of the following can be a set of velocity components of a two-dimensional flow ?
+#a u = x + y and v = x² + y²
+#b u = x + y and v = x - y
+#c u = xy and v = x/y
+#d u = x² + y² and v = x² - y²
+
+## 304 | tag=ES 99 | p=33 | hw=d
+Match List I with List II and select the correct answer using the codes given below the lists.
+List I (Turbine) — List II (Specific speed)
+A. Pelton — 1. 25
+B. Propeller — 2. 75
+C. Kaplan — 3. 500
+D. Francis — 4. 800
+5. 900
+Codes :
+#a A-1, B-4, C-5, D-2
+#b A-3, B-4, C-2, D-5
+#c A-4, B-1, C-5, D-3
+#d A-1, B-5, C-4, D-2
+
+## 305 | tag=ES 99 | p=33 | hw=b
+The height of a hydraulic jump in a stilling pool was found to be 10 cm in a model with l_p/l_m =36. The prototype jump height would be
+#a 0.6 m
+#b 3.6 m
+#c 21.6 m
+#d indeterminable for want of adequate data
+
+## 306 | star | tag=ES 99 | p=33 | hw=d
+To generate 10,000 hp under a head of 81 m while working at a speed of 500 rpm, the turbine of choice would be
+#a Pelton
+#b Kaplan
+#c Bulb
+#d Francis
