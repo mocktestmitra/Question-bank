@@ -3470,3 +3470,3173 @@ Reason R : There will be no negative gauge pressure anywhere in the pipeline, as
 #b Both A and R are true but R is not a correct explanation of A
 #c A is true but R is false
 #d A is false but R is true
+
+## 429 | tag=CS 96 | p=52 | hw=c | fix=Assertion-Reason question: options are the common codes printed once under 'Directions : Select your answers to the following questions using the codes given below.'
+Assertion A : Irrotational flow exists when the net rotation of the fluid about its mass centre is zero.
+Reason R : There is always a possibility of rotation in ideal fluid and therefore, ideal fluids cannot have irrotational flow.
+#a Both A and R are true and R is the correct explanation of A
+#b Both A and R are true but R is not a correct explanation of A
+#c A is true but R is false
+#d A is false but R is true
+
+## 430 | tag=ES 99 | p=52 | hw=a | fix=Assertion-Reason question: options are the common codes printed once under 'Directions : Select your answers to the following questions using the codes given below.'
+Assertion A : The inlet velocity triangle for a Pelton turbine is a straight line
+Reason R : For a Pelton turbine, the vane angle at inlet is 180°.
+#a Both A and R are true and R is the correct explanation of A
+#b Both A and R are true but R is not a correct explanation of A
+#c A is true but R is false
+#d A is false but R is true
+
+## 431 | tag=CS 94 | p=52 | hw=b | fix=Assertion-Reason question: options are the common codes printed once under 'Directions : Select your answers to the following questions using the codes given below.'
+Assertion A : A minor change in specific energy at or close to critical state will cause a major change in depth.
+Reason R : A critical state of flow is characterized by its Froude number being equal to unity.
+#a Both A and R are true and R is the correct explanation of A
+#b Both A and R are true but R is not a correct explanation of A
+#c A is true but R is false
+#d A is false but R is true
+
+## 432 | tag=CS 94 | p=52 | hw=a | fix=Assertion-Reason question: options are the common codes printed once under 'Directions : Select your answers to the following questions using the codes given below.'
+Assertion A : The movement of two blocks of wood wetted with hot glue requires greater and greater effort as the glue is drying up.
+Reason R : Viscosity of liquids varies inversely with temperature.
+#a Both A and R are true and R is the correct explanation of A
+#b Both A and R are true but R is not a correct explanation of A
+#c A is true but R is false
+#d A is false but R is true
+
+## 433 | tag=CS 95 | p=52 | hw=a | fix=Assertion-Reason question: options are the common codes printed once under 'Directions : Select your answers to the following questions using the codes given below.'
+Assertion A : There is no flow in the direction perpendicular to a stream line at any point on it.
+Reason R : Stream line consists of a number of infinitesimally small segments such that all of them lie along the directions of velocity vectors of fluid particles at those segments.
+#a Both A and R are true and R is the correct explanation of A
+#b Both A and R are true but R is not a correct explanation of A
+#c A is true but R is false
+#d A is false but R is true
+
+## 434 | tag=CS 96 | p=52 | hw=a | fix=Assertion-Reason question: options are the common codes printed once under 'Directions : Select your answers to the following questions using the codes given below.'
+Assertion A : Continuity equation must hold good in a pipe network system.
+Reason R : In a pipe network analysis, the flow into any junction must be equal to the flow out of the junction.
+#a Both A and R are true and R is the correct explanation of A
+#b Both A and R are true but R is not a correct explanation of A
+#c A is true but R is false
+#d A is false but R is true
+
+## 435 | tag=CS 96 | p=52 | hw=a | fix=Assertion-Reason question: options are the common codes printed once under 'Directions : Select your answers to the following questions using the codes given below.'
+Assertion A : Water hammer occurs when the quick-acting valve at the end of a long pipeline is suddenly closed.
+Reason R : Surge tanks are provided in penstocks to relieve the penstock of high water hammer pressure when the flow into a turbine is stopped due to low power demand.
+#a Both A and R are true and R is the correct explanation of A
+#b Both A and R are true but R is not a correct explanation of A
+#c A is true but R is false
+#d A is false but R is true
+
+## 436 | tag=CS 96 | p=52 | hw=d | fix=Assertion-Reason question: options are the common codes printed once under 'Directions : Select your answers to the following questions using the codes given below.'
+Assertion A : In the standing-wave flume, flow occurs in a super-critical state so that discharge can be related to a depth upstream of flow.
+Reason R : A standing wave flume is a venturi flume operating under one condition in which a hydraulic jump is formed.
+#a Both A and R are true and R is the correct explanation of A
+#b Both A and R are true but R is not a correct explanation of A
+#c A is true but R is false
+#d A is false but R is true
+
+## 437 | tag=CS 97 | p=52 | hw=a | fix=Assertion-Reason question: options are the common codes printed once under 'Directions : Select your answers to the following questions using the codes given below.'
+Assertion A : The discharge (Q) through a triangular weir is given by
+Q = (8/15) C_d √(2g) h^(5/2) tan(θ/2)
+where C_d is the coefficient of discharge, h is the head of flow, θ is the apex angle of the weir and g is the acceleration due to gravity.
+Reason R : The cross-sectional area of flow in a triangular weir is h² tan (θ/2) and average velocity is (8/15) C_d √(2gh)
+#a Both A and R are true and R is the correct explanation of A
+#b Both A and R are true but R is not a correct explanation of A
+#c A is true but R is false
+#d A is false but R is true
+
+## 438 | tag=CS 97 | p=52 | hw=d | fix=Assertion-Reason question: options are the common codes printed once under 'Directions : Select your answers to the following questions using the codes given below.'
+Assertion A : When both gravitational and viscous forces are predominant in a flow scale ratio can be chosen at will.
+Reason R : With both gravitational and viscous forces being predominant, scale ratio depends upon kinematic viscosity of the fluids.
+#a Both A and R are true and R is the correct explanation of A
+#b Both A and R are true but R is not a correct explanation of A
+#c A is true but R is false
+#d A is false but R is true
+
+## 439 | tag=CS 97 | p=52 | hw=a | fix=Assertion-Reason question: options are the common codes printed once under 'Directions : Select your answers to the following questions using the codes given below.'
+Assertion A : Any discharge will flow as critical in a wide rectangular channel whose bed slope is 1 in C²/g
+Reason R :The critical depth of flow through a wide rectangular channel is (q²/g)^(1/3).
+#a Both A and R are true and R is the correct explanation of A
+#b Both A and R are true but R is not a correct explanation of A
+#c A is true but R is false
+#d A is false but R is true
+
+## 440 | tag=CS 98 | p=52 | hw=c | fix=Assertion-Reason question: options are the common codes printed once under 'Directions : Select your answers to the following questions using the codes given below.'
+Assertion A : Loss of head at a sudden expansion in a pipe is greater than that at a sudden contraction.
+Reason R : Flow in a sudden expansion tends to be irrotational.
+#a Both A and R are true and R is the correct explanation of A
+#b Both A and R are true but R is not a correct explanation of A
+#c A is true but R is false
+#d A is false but R is true
+
+## 441 | tag=CS 99 | p=52 | hw=d | fix=Assertion-Reason question: options are the common codes printed once under 'Directions : Select your answers to the following questions using the codes given below.'
+Assertion A : The kinematic viscosity of both air and water decreases as the temperature increases.
+Reason R : The kinematic viscosity of liquids and gases at a given pressure is a function of temperature
+#a Both A and R are true and R is the correct explanation of A
+#b Both A and R are true but R is not a correct explanation of A
+#c A is true but R is false
+#d A is false but R is true
+
+## 442 | tag=CS 99 | p=52 | hw=c | fix=Assertion-Reason question: options are the common codes printed once under 'Directions : Select your answers to the following questions using the codes given below.'
+Assertion A : Energy is lost in sudden contraction in a pipeline.
+Reason R : If the flow is now reversed, energy can be gained at the transition which acts as an expansion
+#a Both A and R are true and R is the correct explanation of A
+#b Both A and R are true but R is not a correct explanation of A
+#c A is true but R is false
+#d A is false but R is true
+
+@chapter 2 Surveying
+
+## 1 | p=53 | hw=a
+Which of the following scales is largest one ?
+#a 1 cm = 50 m
+#b 1 :42000
+#c R.F.= 1/300000
+#d 1 cm = 50 km
+
+## 2 | p=53 | hw=c
+If the probable error in single observation is ±0.04 m and that of the mean is ±0.01 m, then the number of observations are
+#a 4
+#b 10
+#c 16
+#d 64
+
+## 3 | p=53 | hw=a
+Theory of probability is applied to
+#a accidental errors only
+#b cumulative errors only
+#c both accidental and cumulative errors
+#d none of the above
+
+## 4 | p=53 | hw=c | fix=Option b printed as '0 01 m' (decimal point missing in the book); kept as printed.
+A survey is conducted with a view to prepare the map of an area to a scale of 1 : 1000. If a scale with least count of 0.1 mm is used for plotting, what would be the accuracy in length measurement in the field ?
+#a 0.325 m
+#b 0 01 m
+#c 0.1 m
+#d 1 m
+
+## 5 | p=53 | hw=d
+The difference between the most probable value of a quantity and its observed value is
+#a true error
+#b weighted observation
+#c conditional error
+#d residual error
+
+## 6 | p=53 | hw=a
+Geodetic surveying is different from plane surveying because of
+#a the curvature of the earth
+#b the large difference of elevations between various points
+#c coverage of very large area
+#d undulations of the topography
+
+## 7 | p=53 | hw=a
+The error due to bad ranging is
+#a cumulative; positive
+#b cumulative; negative
+#c compensating
+#d cumulative; positive or negative
+
+## 8 | p=53 | hw=a
+'Offsets' are
+#a short measurements from chain line
+#b ties or check lines which are perpendicular to chain line
+#c sets of minor instruments in chain surveying
+#d chain lines which go out of alignment
+
+## 9 | p=53 | hw=d
+Which of the following instruments is generally used for base line measurements ?
+#a chain
+#b metallic tape
+#c steel tape
+#d invar tape
+
+## 10 | p=53 | hw=d
+An invar tape is made of an alloy of
+#a copper and steel
+#b brass and nickel
+#c brass and steel
+#d nickel and steel
+
+## 11 | p=54 | hw=b
+Number of links in a 30 m metric chain is
+#a 100
+#b 150
+#c 180
+#d 200
+
+## 12 | p=54 | hw=b
+'Ranging' is the process of
+#a fixing ranging rods on the extremities of the area
+#b aligning the chain in a straight line between two extremities
+#c taking offsets from a chain line
+#d chaining over a range of mountains
+
+## 13 | p=54 | hw=c
+The principle of 'working from whole to part' is used in surveying because
+#a plotting becomes easy
+#b survey work can be completed quickly
+#c accumulation of errors is prevented
+#d all of the above
+
+## 14 | p=54 | hw=b | fig=54:0.31,0.36,0.44,0.45
+Figure 2.1 shows one of the brass tallies of a 30 m chain. Distance of this tally from the nearest end of the chain is
+#a 5 m
+#b 10m
+#c 15m
+#d 20m
+
+## 15 | star | p=54 | hw=b
+During chaining along a straight line, the leader of the party has 4 arrows in his hand while the follower has 6. Distance of the follower from the starting point is
+#a 4 chains
+#b 6 chains
+#c 120 m
+#d 180m
+
+## 16 | p=54 | hw=d
+A metallic tape is made of
+#a steel
+#b invar
+#c linen
+#d cloth and wires
+
+## 17 | p=54 | hw=b
+For a well-conditioned triangle, no angle should be less than
+#a 20°
+#b 30°
+#c 45°
+#d 60°
+
+## 18 | star | p=54 | hw=c | fig=54:0.64,0.1,0.82,0.27
+Figure 2.2 shows the entries in a field book for a chain line AB.What is the angle between chain line and railway line ?
+#a 26° 34'
+#b 30°
+#c 45°
+#d 60°
+
+## 19 | star | p=54 | hw=b | fig=54:0.64,0.1,0.82,0.27
+What is the distance between trees T₁ and T₂ shown in Figure 2.2 ?
+#a 4 m
+#b 5m
+#c 7m
+#d 12m
+
+## 20 | p=54 | hw=d
+The position of a point can be fixed more accurately by
+#a cross staff
+#b optical square
+#c oblique offsets
+#d perpendicular offsets
+
+## 21 | p=54 | hw=b
+The main object of running a tie line is
+#a to check accuracy of work
+#b to take details of nearby objects
+#c to take offsets for detailed surveying
+#d none of the above
+
+## 22 | p=54 | hw=a
+Which of the following is an obstacle to chaining but not to ranging ?
+#a river
+#b hillock
+#c building
+#d none of the above
+
+## 23 | p=54 | hw=c
+A building is an obstacle to
+#a chaining but not ranging
+#b ranging but not chaining
+#c both chaining and ranging
+#d neither chaining nor ranging
+
+## 24 | p=54-55 | hw=c | check=Handwritten mark reads 'cb' (two letters, one possibly struck through); recorded as 'c' with low confidence.
+The main difference between an optical square and a prism square is
+#a difference in principle of working
+#b that optical square is more accurate than prism square
+#c that no adjustment is required in a prism square since the angle between the reflecting surfaces cannot be changed
+#d all of the above
+
+## 25 | p=55 | hw=b
+The angle of intersection of the two plane mirrors of an optical square is
+#a 30°
+#b 45°
+#c 60°
+#d 90°
+
+## 26 | p=55 | hw=d
+The allowable length of an offset depends upon the
+#a degree of accuracy required
+#b method of setting out the perpendiculars and nature of ground
+#c scale of plotting
+#d all of the above
+
+## 27 | p=55 | hw=c
+Which of the following angles can be set out with the help of French cross staff?
+#a 45° only
+#b 90° only
+#c either 45° or 90°
+#d any angle
+
+## 28 | p=55 | hw=a
+Which of the following methods of offsets involves less measurement on the ground?
+#a method of perpendicular offsets
+#b method of oblique offsets
+#c method of ties
+#d all involve equal measurement on the ground
+
+## 29 | p=55 | hw=b
+The permissible error in chaining for measurement with chain on rough or hilly ground is
+#a 1 in 100
+#b 1 in 250
+#c 1 in 500
+#d 1 in 1000
+
+## 30 | p=55 | hw=b
+The correction for sag is
+#a always additive
+#b always subtractive
+#c always zero
+#d sometimes additive and sometimes subtractive
+
+## 31 | p=55 | hw=b
+Cross staff is an instrument used for
+#a measuring approximate horizontal angles
+#b setting out right angles
+#c measuring bearings of the lines
+#d none of the above
+
+## 32 | p=55 | hw=b
+Normal tension is that pull which
+#a is used at the time of standardising the tape
+#b neutralizes the effect due to pull and sag
+#c makes the correction due to sag equal to zero
+#d makes the correction due to pull equal to zero
+
+## 33 | p=55 | hw=a
+Which of the following is not used in measuring perpendicular offsets ?
+#a line ranger
+#b steel tape
+#c optical square
+#d cross staff
+
+## 34 | p=55 | hw=a
+If the length of a chain is found to be short on testing, it can be adjusted by
+#a straightening the links
+#b removing one or more small circular rings
+#c closing the joints of the rings if opened out
+#d all of the above
+
+## 35 | p=55 | hw=c
+The maximum tolerance in a 20 m chain is
+#a ±2 mm
+#b ±3 mm
+#c ±5 mm
+#d ±8 mm
+
+## 36 | p=55 | hw=c
+For accurate work, the steel band should always be used in preference to chain because the steel band
+#a is lighter than chain
+#b is easier to handle
+#c is practically inextensible and is not liable to kinks when in use
+#d can be easily repaired in the field
+
+## 37 | p=55 | hw=b
+The length of a chain is measured from
+#a centre of one handle to centre of other handle
+#b outside of one handle to outside of other handle
+#c outside of one handle to inside of other handle
+#d inside of one handle to inside of other handle
+
+## 38 | p=55-56 | hw=a
+Select the incorrect statement.
+#a The true meridians at different places are parallel to each other.
+#b The true meridian at any place is not variable.
+#c The true meridians converge to a point in northern and southern hemispheres.
+#d The maps prepared by national survey departments of any country are based on true meridians.
+
+## 39 | p=56 | hw=c
+If the true bearing of a line AB is 269° 30′, then the azimuth of the line AB is
+#a 0° 30′
+#b 89° 30′
+#c 90° 30′
+#d 269° 30′
+
+## 40 | p=56 | hw=c
+In the prismatic compass
+#a the magnetic needle moves with the box
+#b the line of the sight does not move with the box
+#c the magnetic needle and graduated circle do not move with the box
+#d the graduated circle is fixed to the box and the magnetic needle always remains in the N-S direction
+
+## 41 | p=56 | hw=a
+For a line AB
+#a the forebearing of AB and back bearing of AB differ by 180°
+#b the forebearing of AB and back bearing of BA differ by 180°
+#c both (a) and (b) are correct.
+#d none is correct
+
+## 42 | p=56 | hw=d
+Local attraction in compass surveying may exist due to
+#a incorrect levelling of the magnetic needle
+#b loss of magnetism of the needle
+#c friction of the needle at the pivot
+#d presence of magnetic substances near the instrument
+
+## 43 | p=56 | hw=c
+If the quadrantal bearing of a line is N 25° W, then the whole circle bearing of the line is
+#a S 25° E
+#b 205°
+#c 335°
+#d 295°
+
+## 44 | p=56 | hw=c
+If the forebearing of a line AB is 35° and that of line BC 15°, then the included angle between the lines is
+#a 20°
+#b 50°
+#c 160°
+#d 230°
+
+## 45 | p=56 | hw=b
+In the quadrantal bearing system, a whole circle bearing of 293° 30' can be expressed as
+#a W 23° 30′ N
+#b N 66° 30′ W
+#c S 113° 30′ N
+#d N 23° 30′ W
+
+## 46 | p=56 | hw=a
+The prismatic compass and surveyor's compass
+#a give whole circle bearing (WCB) of a line and quadrantal bearing (QB) of a line respectively
+#b both give QB of a line and WCB of a line
+#c both give QB of a line
+#d both give WCB of a line
+
+## 47 | p=56 | hw=b
+The horizontal angle between the true meridian and magnetic meridian at a place is called
+#a azimuth
+#b declination
+#c local attraction
+#d magnetic bearing
+
+## 48 | p=56 | hw=b
+A negative declination shows that the magnetic meridian is to the
+#a eastern side of the true meridian
+#b western side of the true meridian
+#c southern side of the true meridian
+#d none of the above
+
+## 49 | p=56 | hw=c
+If the magnetic bearing of the sun at a place at noon in southern hemisphere is 167°, the magnetic declination at that place is
+#a 77° N
+#b 23° S
+#c 13° E
+#d 13° W
+
+## 50 | p=56 | hw=a
+The graduations in prismatic compass
+i) are inverted
+ii) are upright
+iii) run clockwise having 0° at south
+iv) run clockwise having 0° at north
+The correct answer is
+#a (i) and (iii)
+#b (i) and (iv)
+#c (ii) and (iii)
+#d (ii) and (iv)
+
+## 51 | p=56 | hw=d
+Agate cap is fitted with a
+#a cross staff
+#b level
+#c chain
+#d prismatic compass
+
+## 52 | star | p=57 | hw=c
+The following bearings were observed while traversing with a compass :
+Line — F.B. — B.B.
+AB — 104° 30' — 284° 30'
+BC — 48° 15' — 226° 0'
+CD — 290° 30' — 115° 15'
+DA — 180° 15' — 357° 15'
+Which stations were affected by local attraction ?
+#a A and B
+#b B and C
+#c C and D
+#d A and D
+
+## 53 | p=57 | hw=b
+The temporary adjustments of a prismatic compass are
+i) Centering
+ii) Levelling
+iii) Focusing the prism
+The correct order is
+#a (i), (iii), (ii)
+#b (i), (ii), (iii)
+#c (ii), (iii), (i)
+#d (iii), (i), (ii)
+
+## 54 | p=57 | hw=d | fig=57:0.17,0.47,0.37,0.61 | fix=Options are the four compass-face drawings (a)-(d) in Fig.2.3; see figure.
+Which of the figures shown in Fig.2.3 represents the correct graduation in a surveyor's compass?
+#a Fig.2.3 (a): N 90 at top, S 90 at bottom, W 0 left, 0 E right
+#b Fig.2.3 (b): N 0 at top, S 0 at bottom, W90 left, 90E right
+#c Fig.2.3 (c): N 180 at top, S 0 at bottom, W90 left, 270E right
+#d Fig.2.3 (d): N 0 at top, S 0 at bottom, E 90 left, 90W right
+
+## 55 | p=57 | hw=d
+Theodolite is an instrument used for
+#a tightening the capstan-headed nuts of level tube
+#b measurement of horizontal angles only
+#c measurement of vertical angles only
+#d measurement of both horizontal and vertical angles
+
+## 56 | p=57 | hw=d
+The process of turning the telescope about the vertical axis in horizontal plane is known as
+#a transiting
+#b reversing
+#c plunging
+#d swinging
+
+## 57 | p=57 | hw=c
+Size of a theodolite is specified by
+#a the length of telescope
+#b the diameter of vertical circle
+#c the diameter of lower plate
+#d the diameter of upper plate
+
+## 58 | p=57 | hw=d
+Which of the following is not the function of levelling head ?
+#a to support the main part of the instrument
+#b to attach the theodolite to the tripod
+#c to provide a means for levelling the theodolite
+#d none of the above
+
+## 59 | star | p=57 | hw=c
+If the lower clamp screw is tightened and upper clamp screw is loosened, the theodolite may be rotated
+#a on its outer spindle with a relative motion between the vernier and graduated scale of lower plate
+#b on its outer spindle without a relative motion between the vernier and graduated scale of lower plate
+#c on its inner spindle with a relative motion between the vernier and the graduated scale of lower plate
+#d on its inner spindle without a relative motion between the vernier and the graduated scale of lower plate
+
+## 60 | p=57 | hw=a
+A telescope is said to be inverted if its
+#a vertical circle is to its right and the bubble of the telescope is down
+#b vertical circle is to its right and the bubble of the telescope is up
+#c vertical circle is to its left and the bubble of the telescope is down
+#d vertical circle is to its left and the bubble of the telescope is up
+
+## 61 | p=57 | hw=b
+The cross hairs in the surveying telescope are placed
+#a midway between eye piece and objective lens
+#b much closer to the eye-piece than to the objective lens
+#c much closer to the objective lens than to the eye piece
+#d anywhere between eye-piece and objective lens
+
+## 62 | star | p=57-58 | hw=c
+For which of the following permanent adjustments of theodolite, the spire test is used ?
+#a adjustment of plate levels
+#b adjustment of line of sight
+#c adjustment of horizontal axis
+#d adjustment of altitude bubble and vertical index frame
+
+## 63 | p=58 | hw=a
+The adjustment of horizontal cross hair is required particularly when the instrument is used for
+#a levelling
+#b prolonging a straight line
+#c measurement of horizontal angles
+#d all of the above
+
+## 64 | p=58 | hw=b
+Which of the following errors is not eliminated by the method of repetition of horizontal angle measurement ?
+#a error due to eccentricity of verniers
+#b error due to displacement of station signals
+#c error due to wrong adjustment of line of collimation and trunion axis
+#d error due to inaccurate graduation
+
+## 65 | star | p=58 | hw=a
+The error due to eccentricity of inner and outer axes can be eliminated by
+#a reading both verniers and taking the mean of the two
+#b taking both face observations and taking the mean of the two
+#c double sighting
+#d taking mean of several readings distributed over different portions of the graduated circle
+
+## 66 | star | p=58 | hw=d
+In the double application of principle of reversion, the apparent error is
+#a equal to true error
+#b half the true error
+#c two times the true error
+#d four times the true error
+
+## 67 | star | p=58 | hw=d
+Which of the following errors can be eliminated by taking mean of both face observations ?
+#a error due to imperfect graduations
+#b error due to eccentricity of verniers
+#c error due to imperfect adjustment of plate levels
+#d error due to line of collimation not being perpendicular to horizontal axis
+
+## 68 | p=58 | hw=d
+Which of the following errors cannot be eliminated by taking both face observations ?
+#a error due to horizontal axis not being perpendicular to the vertical axis
+#b index error i.e. error due to imperfect adjustment of the vertical circle vernier
+#c error due to non-parallelism of the axis of telescope level and line of collimation
+#d none of the above
+
+## 69 | p=58 | hw=a
+If a tripod settles in the interval that elapses between taking a back sight reading and the following foresight reading, then the elevation of turning point will
+#a increase
+#b decrease
+#c not change
+#d either 'a' or 'b'
+
+## 70 | p=58 | hw=b
+If altitude bubble is provided both on index frame as well as on telescope of a theodolite, then the instrument is levelled with reference to
+i) altitude bubble on index frame
+ii) altitude bubble on index frame if it is to be used as a level
+iii) altitude bubble on telescope
+iv) altitude bubble on telescope if it is to be used as a level
+The correct answer is
+#a only (i)
+#b both (i) and (iv)
+#c only (iii)
+#d both (ii) and (iii)
+
+## 71 | p=58 | hw=b
+A 'level line' is a
+#a horizontal line
+#b line parallel to the mean spheriodal surface of earth
+#c line passing through the centre of cross hairs and the centre of eye piece
+#d line passing through the objective lens and the eye-piece of a dumpy or tilting level
+
+## 72 | p=58 | hw=c
+The following sights are taken on a "turning point"
+#a foresight only
+#b backsight only
+#c foresight and backsight
+#d foresight and intermediate sight
+
+## 73 | p=58 | hw=d
+The rise and fall method of levelling provides a complete check on
+#a backsight
+#b intermediate sight
+#c foresight
+#d all of the above
+
+## 74 | p=59 | hw=a
+If the R.L. of a B.M. is 100.00 m, the back- sight is 1.215 m and the foresight is 1.870 m, the R.L. of the forward station is
+#a 99.345 m
+#b 100.345 m
+#c 100.655m
+#d 101.870m
+
+## 75 | p=59 | hw=a
+In an internal focussing type of telescope, the lens provided is
+#a concave
+#b convex
+#c plano-convex
+#d plano-concave
+
+## 76 | p=59 | hw=c
+Which of the following errors can be neutralised by setting the level midway between the two stations ?
+#a error due to curvature only
+#b error due to refraction only
+#c error due to both curvature and refraction
+#d none of the above
+
+## 77 | p=59 | hw=c
+Height of instrument method of levelling is
+#a more accurate than rise and fall method
+#b less accurate than rise and fall method
+#c quicker and less tedious for large number of intermediate sights
+#d none of the above
+
+## 78 | p=59 | hw=c
+The rise and fall method
+#a is less accurate than height of instrument method
+#b is not suitable for levelling with tilting levels
+#c provides a check on the reduction of intermediate point levels
+#d quicker and less tedious for large number of intermediate sights
+
+## 79 | p=59 | hw=c
+If the staff is not held vertical at a levelling station, the reduced level calculated from the observation would be
+#a true R.L.
+#b more than true R.L.
+#c less than true R.L.
+#d none of the above
+
+## 80 | p=59 | hw=c
+Station — B.S. — I.S. — F.S. — Rise — Fall — R.L. — Remarks
+A — 2.1 — — 2.3 — — 1.5 — 100.00 — C.P.
+B — — 1.0 — — X — — 101.10 —
+C — — — 1.3 — — 0.3 — 100.80 —
+Above table shows a part of a level field book. What is value of X ?
+#a 0.5
+#b 1.0
+#c 1.1
+#d 2.1
+
+## 81 | p=59 | hw=a
+The difference between a level line and a horizontal line is that
+#a level line is a curved line while horizontal line is a straight line
+#b level line is normal to plumb line while horizontal line may not be normal to plumb line at the tangent point to level line
+#c horizontal line is normal to plumb line while level line may not be normal to the plumb line
+#d both are same
+
+## 82 | p=59 | hw=a
+The sensitivity of a bubble tube can be increased by
+#a increasing the diameter of the tube
+#b decreasing the length of bubble
+#c increasing the viscosity of liquid
+#d decreasing the radius of curvature of tube
+
+## 83 | star | p=59 | hw=a
+With the rise of temperature, the sensitivity of a bubble tube
+#a decreases
+#b increases
+#c remains unaffected
+#d none of the above
+
+## 84 | p=59 | hw=b
+Refraction correction
+#a completely eliminates curvature correction
+#b partially eliminates curvature correction
+#c adds to the curvature correction
+#d has no effect on curvature correction
+
+## 85 | star | p=59 | hw=d
+The R.L. of the point A which is on the floor is 100 m and backsight reading on A is 2.455 m. If the foresight reading on the point B which is on the ceiling is 2.745 m, the R.L. of point B will be
+#a 94.80 m
+#b 99.71 m
+#c 100.29 m
+#d 105.20 m
+
+## 86 | p=59 | hw=b
+As applied to staff readings, the corrections for curvature and refraction are respectively
+#a + and –
+#b – and +
+#c + and +
+#d – and –
+
+## 87 | star | tag=ES 2k | p=60 | hw=d
+Which of the following arithmetic checks can be applied in rise and fall method ?
+#a ΣB.S.– ΣF.S. = ΣRise – ΣFall only
+#b ΣB.S.– ΣF.S. = Last R.L.– First R.L. only
+#c ΣRise –ΣFall = Last R.L. – First R.L. only
+#d ΣB.S. – ΣF.S. = ΣRise – ΣFall = Last R.L. – First R.L.
+
+## 88 | p=60 | hw=b | fix=First column heading hidden in the page gutter (reads '.S.'); taken as 'B.S.'.
+What is the arithmetic error in the following table ?
+Station — B.S. — I.S. — F.S. — H.I. — R.L. — Remarks
+A — 2.00 — — — 102.00 — 101.00 — B.M.
+B — — 1.00 — — — 102.00 —
+C — — — 0.50 — — 102.50 —
+#a The R.L. of B.M. should be 100.00.
+#b The height of instrument (H.I.) should be 103.00.
+#c The backsight should be 1.00.
+#d There is no error in the table.
+
+## 89 | p=60 | hw=a
+The following consecutive readings were taken with a dumpy level :
+0.695. 1.525, 2.395, 0.635, 0.605, 0.805, 0.125
+The instrument was shifted after the third and fifth readings. The readings 2.395 and 0.635 respectively represent
+#a F.S. and B.S.
+#b F.S. and I.S.
+#c B.S. and F.S.
+#d I.S. and B.S.
+#note where F.S. is foresight, B.S. is backsight and I.S. is intermediate sight
+
+## 90 | p=60 | hw=b
+In Question no. 89, the number of stations is
+#a 2
+#b 5
+#c 6
+#d 7
+
+## 91 | star | p=60 | hw=c
+In Question no. 89, the R.L. of last point
+#a is greater than R.L. of first point
+#b is same as R.L. of first point
+#c is smaller than R.L. of first point
+#d cannot be determined from the given data
+
+## 92 | p=60 | hw=b | fix=Book misprint: H.I. printed as '02.30' and Remarks as '.M.' (leading characters missing); kept as printed.
+Station — B.S. — I.S. — F.S. — H.I — R.L. — Remarks
+A — 2.30 — — — 02.30 — 100.00 — .M.
+B — — 1.30 — — — 101.00 —
+C — — — 2.30 — — X —
+The above table shows a part of a level field book. The value of X should be
+#a 98.70
+#b 100.00
+#c 102.30
+#d 103.30
+
+## 93 | p=60 | hw=a
+The correction for refraction as applied to staff reading is
+#a +(1/7)(d²/2R)
+#b (1/7)(d²/2R)
+#c +(1/7)(d²/R)
+#d –(1/7)(d²/R)
+#note where R is radius of earth
+
+## 94 | star | p=60 | hw=c
+The following consecutive readings were taken with a dumpy level and a 3 m staff on a continuously sloping ground.
+0.425, 1.035, 1.950, 2.360, 2.950, 0.750, 1.565, 2.450, 0.320, 1.025, 2.165, 2.955
+Which of the following readings are backsights ?
+#a 0.425, 2.950, 0.750, 0.320
+#b 0.425. 0.750, 0.320, 2.955
+#c 0.425, 0.750, 0.320
+#d 0.425, 2.360, 0.750, 0.320
+
+## 95 | star | p=60 | hw=c
+A level was set up at a point A and distance to the staff station B was 100 m. The net combined correction due to curvature and refraction as applied to the staff reading is
+#a 0.00673 m
+#b 0.000673 m
+#c – 0.000673 m
+#d – 0.00673 m
+
+## 96 | star | p=61 | hw=b
+In levelling between two points A and B on opposite banks of a river, the following readings were taken
+Level position — Staff reading A — Staff reading B
+A — 1.500 — 1.000
+B — 1.350 — 0.850
+If R.L of A is 100.00 m, the R.L of B
+#a is less than 100.00 m
+#b is more than 100.00 m
+#c is 100.00 m
+#d cannot be determined from given data
+
+## 97 | star | p=61 | hw=c
+While doing levelling in undulating terrain, it is preferable to set the level on
+#a the top of summit
+#b the bottom of a valley
+#c one side of the slope
+#d anywhere
+
+## 98 | p=61 | hw=c
+If the horizontal distance between the staff point and the point of observation is d, then the error due to curvature of earth is proportional to
+#a d
+#b 1/d
+#c d²
+#d 1/d²
+
+## 99 | p=61 | hw=a
+Sensitiveness of a level tube is designated by
+#a radius of level tube
+#b length of level tube
+#c length of bubble of ievel tube
+#d none of the above
+
+## 100 | p=61 | hw=d
+Which of the following statements is incorrect ?
+#a Error due to refraction may not be completely eliminated by reciprocal levelling.
+#b Tilting levels are commonly used for precision work.
+#c The last reading of levelling is always a foresight.
+#d All of the above statements are incorrect.
+
+## 101 | p=61 | hw=d
+Select the correct statement.
+#a In levelling, a station is the point where the levelling staff is held and not where level is set up.
+#b The inner surface of a bubble tube is an arc of a circle.
+#c Sensitiveness of a level tube can be increased by the increase in length of bubble.
+#d All of the above statements are correct.
+
+## 102 | p=61 | hw=c
+The distance to the visible horizon from a height of 36 m above mean sea level is given by
+#a √(36/0.6735) km
+#b 36 √(1/0.06735) km
+#c √(36/0.06735) km
+#d 36 √0.06735 km
+
+## 103 | p=61 | hw=c
+Dumpy level is most suitable when
+#a the instrument is to be shifted frequently
+#b fly levelling is being done over long distance
+#c many readings are to be taken from a single setting of the instrument
+#d all of the above
+
+## 104 | p=61 | hw=a
+The difference of levels between two stations A and B is to be determined.For best results, the instrument station should be
+#a equidistant from A and B
+#b closer to the higher station
+#c closer to the lower station
+#d as far as possible from the line AB
+
+## 105 | p=61 | hw=a
+Contour interval is
+#a inversely proportional to the scale of the map
+#b directly proportional to the flatness of ground
+#c larger for accurate works
+#d larger if the time available is more
+
+## 106 | p=61 | hw=d
+An imaginary line lying throughout the surface of ground and preserving a constant inclination to the horizontal is known as
+#a contour line
+#b horizontal equivalent
+#c contour interval
+#d contour gradient
+
+## 107 | p=61 | hw=a
+The suitable contour interval for a map with scale 1 : 10000 is
+#a 2 m
+#b 5m
+#c 10 m
+#d 20 m
+
+## 108 | p=62 | hw=c
+Select the correct statement.
+#a A contour is not necessarily a closed curve.
+#b A contour represents a ridge line if the concave side of lower value contour lies towards the higher value contour.
+#c Two contours of different elevations do not cross each other except in case of an overhanging cliff.
+#d All of the above statements are correct.
+
+## 109 | p=62 | hw=a
+A series of closely spaced contour lines represents a
+#a steep slope
+#b gentle slope
+#c uniform slope
+#d plane surface
+
+## 110 | p=62 | hw=c
+Direct method of contouring is
+#a a quick method
+#b adopted for large surveys only
+#c most accurate method
+#d suitable for hilly terrains
+
+## 111 | p=62 | hw=d
+In direct method of contouring, the process of locating or identifying points lying on a contour is called
+#a ranging
+#b centring
+#c horizontal control
+#d vertical control
+
+## 112 | p=62 | hw=d
+In the cross-section method of indirect contouring, the spacing of cross-sections depends upon
+i) contour interval
+ii) scale of plan
+iii) characteristics of ground
+The correct answer is
+#a only (i)
+#b (i) and (ii)
+#c (ii) and (iii)
+#d (i), (ii) and (iii)
+
+## 113 | star | p=62 | hw=d
+Which of the following methods of contouring is most suitable for a hilly terrain ?
+#a direct method
+#b square method
+#c cross-sections method
+#d tacheometric method
+
+## 114 | p=62 | hw=a
+Select the correct statement.
+#a Contour interval on any map is kept constant.
+#b Direct method of contouring is cheaper than indirect method.
+#c Inter-visibility of points on a contour map cannot be ascertained.
+#d Slope of a hill cannot be determined with the help of contours.
+
+## 115 | p=62 | hw=b
+Closed contours, with higher value inwards, represent a
+#a depression
+#b hillock
+#c plain surface
+#d none of the above
+
+## 116 | p=62 | hw=a
+Contour interval is
+#a the vertical distance between two consecutive contours
+#b the horizontal distance between two consecutive contours
+#c the vertical distance between two points on same contour
+#d the horizontal distance between two points on same contour
+
+## 117 | p=62 | hw=c
+Benchmark is established by
+#a hypsometry
+#b barometric levelling
+#c spirit levelling
+#d trigonometrical levelling
+
+## 118 | p=62 | hw=c
+The type of surveying which requires least office work is
+#a tacheometry
+#b trigonometrical levelling
+#c plane table surveying
+#d theodolite surveying
+
+## 119 | star | p=62 | hw=c
+Intersection method of detailed plotting is most suitable for
+#a forests
+#b urban areas
+#c hilly areas
+#d plains
+
+## 120 | p=62 | hw=a
+Detailed plotting is generally done by
+#a radiation
+#b traversing
+#c resection
+#d all of the above
+
+## 121 | p=62 | hw=d
+Three point problem can be solved by
+#a Tracing paper method
+#b Bessels method
+#c Lehman's method
+#d all of the above
+
+## 122 | p=62 | hw=b
+The size of a plane table is
+#a 750 mm × 900 mm
+#b 600 mm × 750 mm
+#c 450 mm × 600 mm
+#d 300 mm × 450 mm
+
+## 123 | tag=ES 96 | p=63 | hw=c
+The process of determining the locations of the instrument station by drawing resectors from the locations of the known stations is called
+#a radiation
+#b intersection
+#c resection
+#d traversing
+
+## 124 | p=63 | hw=c
+The instrument used for accurate centering in plane table survey is
+#a spirit level
+#b alidade
+#c plumbing fork
+#d trough compass
+
+## 125 | tag=ES 95 | p=63 | hw=b
+Which of the following methods of plane table surveying is used to locate the position of an inaccessible point ?
+#a radiation
+#b intersection
+#c traversing
+#d resection
+
+## 126 | p=63 | hw=d
+The two point problem and three point problem are methods of
+#a resection
+#b orientation
+#c traversing
+#d resection and orientation
+
+## 127 | p=63 | hw=c
+The resection by two point problem as compared to three point problem
+#a gives more accurate problem
+#b takes less time
+#c requires more labour
+#d none of the above
+
+## 128 | p=63 | hw=c
+The methods used for locating the plane table stations are
+i) radiation
+ii) traversing
+iii) intersection
+iv) resection
+The correct answer is
+#a (i) and (ii)
+#b (iii) and (iv)
+#c (ii) and (iv)
+#d (i) and (iii)
+
+## 129 | p=63 | hw=b
+After fixing the plane table to the tripod, the main operations which are needed at each plane table station are
+i) levelling
+ii) orientation
+iii) centering
+The correct sequence of these operations is
+#a (i), (ii), (iii)
+#b (i), (iii), (ii)
+#c (iii), (i), (ii)
+#d (ii), (iii), (i)
+
+## 130 | p=63 | hw=b
+Bowditch rule is applied to
+#a an open traverse for graphical adjustment
+#b a closed traverse for adjustment of closing error
+#c determine the effect of local attraction
+#d none of the above
+
+## 131 | p=63 | hw=b
+If in a closed traverse, the sum of the north latitudes is more than the sum of the south latitudes and also the sum of west departures is more than the sum of the east departures, the bearing of the closing line is in the
+#a NE quadrant
+#b SE quadrant
+#c NW quadrant
+#d SW quadrant
+
+## 132 | p=63 | hw=c
+If the reduced bearing of a line AB is N60°W and length is 100 m, then the latitude and departure respectively of the line AB will be
+#a +50 m, +86.6 m
+#b +86.6 m, –50 m
+#c +50m, –86.6 m
+#d +70.7 m, –50 m
+
+## 133 | p=63 | hw=c
+If the sum of northings of a traverse exceeds the sum of southings by 1 m and sum of eastings exceeds the sum of westings by 1 m, the resultant closing error and its true bearing respectively are
+#a 1 m, N45°E
+#b 2 m, N45°W
+#c √2 m,N45°E
+#d 0, N45°E
+
+## 134 | p=63 | hw=a
+The angle between the prolongation of the preceding line and the forward line of a traverse is called
+#a deflection angle
+#b included angle
+#c direct angle
+#d none of the above
+
+## 135 | p=63-64 | hw=b
+Transit rule of adjusting the consecutive coordinates of a traverse is used where
+#a linear and angular measurements of the traverse are of equal accuracy
+#b angular measurements are more accurate than linear measurements
+#c linear measurements are more accurate than angular measurements
+#d all of the above
+
+## 136 | tag=CS 99 | p=64 | hw=a
+The Bowditch method of adjusting a traverse is based on the assumption that
+#a e₁ ∝ √l and e₂ ∝ 1/√l
+#b e₁ ∝ √l and e₂ ∝ √l
+#c e₁ ∝ 1/√l and e₂ ∝ √l
+#d e₁ ∝ 1/√l and e₂ ∝ 1/√l
+#note where e₁ and e₂ are errors in linear and angular measurements respectively and l is the length of a line
+
+## 137 | p=64 | hw=b
+Which of the following methods of theodolite traversing is suitable for locating the details which are far away from transit stations ?
+#a measuring angle and distance from one transit station
+#b measuring angles to the point from at least two stations
+#c measuring angle at one station and distance from other
+#d measuring distance from two points on traverse line
+
+## 138 | p=64 | hw=c
+Subtense bar is an instrument used for
+#a levelling
+#b measurement of horizontal distances in plane areas
+#c measurement of horizontal distances in undulated areas
+#d measurement of angles
+
+## 139 | p=64 | hw=d
+Horizontal distances obtained by tacheometric observations
+#a require slope correction
+#b require tension correction
+#c require slope and tension corrections
+#d do not require slope and tension corrections
+
+## 140 | p=64 | hw=b
+The number of horizontal cross wires in a stadia diaphragm is
+#a one
+#b two
+#c three
+#d four
+
+## 141 | p=64 | hw=c
+Which of the following represents a correct match ?
+i) moveable hair method— The intercept on levelling staff is kept constant and stadia hair interval is variable.
+ii) fixed hair method— The intercept on levelling staff is variable and stadia hair interval is fixed.
+iii) tangential hair method— The stadia hairs are not used.
+#a only (iii) is correct
+#b only (i) and (ii) are correct
+#c all (i), (ii) and (iii) are correct
+#d none is correct
+
+## 142 | p=64 | hw=a
+The multiplying constant of a theodolite is
+#a f / i
+#b (f + d)
+#c f/i + d
+#d f/d + i
+#note where f is focal length of object lens, i is stadia hair interval and d is the distance between the optical centre of the object lens and the axis of the theodolite
+
+## 143 | star | p=64 | hw=b
+If the staff is held normal to the line of sight and the angle of elevation and depression are kept same, then the horizontal distance between instrument station and staff station computed by observations will be
+#a same in both cases
+#b greater at an angle of elevation than at an angle of depression
+#c greater at an angle of depression than at an angle of elevation
+#d unpredictable
+
+## 144 | star | p=64 | hw=d
+If the intercept on a vertical staff is observed as 0.75 m from a tacheometer, the horizontal distance between tacheometer and staff station is
+#a 7.5 m
+#b 25 m
+#c 50
+#d 75 m
+
+## 145 | p=64 | hw=a
+For a tacheometer the additive and multiplying constants are respectively
+#a 0 and 100
+#b 100 and 0
+#c 0 and 0
+#d 100 and 100
+
+## 146 | star | p=65 | hw=b
+If the focal length of the object glass is 25 cm and the distance from object glass to the trunnion axis is 15 cm, the additive constant is
+#a 0.1
+#b 0.4
+#c 0.6
+#d 1.33
+
+## 147 | star | p=65 | hw=b
+If the spacing of cross hairs in a stadia diaphragm of a tacheometer is 1.2 mm and the focal length of object glass is 24 cm, then the multiplying constant of tacheometer is
+#a 50
+#b 100
+#c 150
+#d 200
+
+## 148 | p=65 | hw=d
+Overturning of vehicles on a curve can be avoided by using
+#a compound curve
+#b vertical curve
+#c reverse curve
+#d transition curve
+
+## 149 | p=65 | hw=d
+Different grades are joined together by a
+#a compound curve
+#b transition curve
+#c reverse curve
+#d vertical curve
+
+## 150 | p=65 | hw=a
+The angle subtended by the long chord of a simple circular curve at its centre is equal to
+#a angle of deflection
+#b two times the angle of deflection
+#c 180° - angle of deflection
+#d (180° – angle of deflection/2)
+
+## 151 | p=65 | hw=c
+A curve tangential to four straight lines and consisting of arcs of different radii is known as
+#a one centred compound curve
+#b two centred compound curve
+#c three centred compound curve
+#d four centred compound curve
+
+## 152 | p=65 | hw=b
+If the degree of a curve is 1°, then radius of the curve is equal to
+#a 5400 m
+#b 1720 m
+#c 1720 / π m
+#d 3440 / π m
+
+## 153 | p=65 | hw=b
+The length of the tangent of a curve of radius R and angle of deflection A is given by
+#a R cos (Δ/2)
+#b R tan (Δ/2)
+#c R sin (Δ/2)
+#d R cot (Δ/2)
+
+## 154 | p=65 | hw=c
+The length of the long chord of a simple circular curve of radius R and angle of deflection A is
+#a R cos (Δ/2)
+#b 2R cos (Δ/2)
+#c 2R sin (Δ/2)
+#d R sin (Δ/2)
+
+## 155 | p=65 | hw=b
+Setting out a simple curve by two theodolite method does not require
+#a angular measurements
+#b linear measurements
+#c both angular and linear measurements
+#d none of the above
+
+## 156 | p=65 | hw=d
+The radial offset at a distance X from the point of commencement of curve of radius R is given by
+#a √(R² – X²) – R
+#b R – √(R² – X²)
+#c R – √(R² + X²)
+#d √(R² + X²) – R
+
+## 157 | p=65 | hw=c
+If r is the radius of curvature at any point of a transition curve and l is the distance from the beginning of the transition curve to that point, then for ideal transition
+#a l ∝ r
+#b l ∝ r²
+#c l ∝ 1/r
+#d l ∝ 1/r²
+
+## 158 | p=65 | hw=a
+If the angle of intersection and radius of simple circular curve are 120° and 700 m respectively, then
+i) length of long chord is 700 m
+ii) length of curve is 700/2 m
+#a only (i) is correct
+#b only (ii) is correct
+#c both (i) and (ii) are correct
+#d none is correct
+
+## 159 | p=65 | hw=a
+In a reverse curve, the superelevation provided at the point of reverse curvature is
+#a zero
+#b minimum
+#c maximum
+#d dependent on elements of reverse curve
+
+## 160 | p=66 | hw=c
+Total angle of deflection of a transition curve is
+#a spiral angle
+#b spiral angle /2
+#c spiral angle /3
+#d spiral angle /4
+
+## 161 | p=66 | hw=b
+The shape of the vertical curve generally provided is
+#a circular
+#b parabolic
+#c spiral
+#d elliptical
+
+## 162 | p=66 | hw=d
+Perpendicular offset from the junction of transition curve and circular curve to the tangent is equal to
+#a shift
+#b two times the shift
+#c three times the shift
+#d four times the shift
+
+## 163 | p=66 | hw=b
+If the radius of circular curve is five times the length of the transition curve, then the spiral angle is given by
+#a 1/5 radian
+#b 1/10 radian
+#c 1/20 radian
+#d 1/40 radian
+
+## 164 | star | p=66 | check=No handwritten answer mark found for this question.
+If L is the length of transition curve and R is the radius of circular curve, then the shift of the curve is directly proportional to
+#a R and 1/L²
+#b 1/R and L²
+#c 1/R² and L
+#d R² and 1/L
+
+## 165 | star | p=66 | hw=b
+If an upgrade of 1.5% is followed by a downgrade of 0.5% and rate of change of grade is 0.2% per 20m chain, then the length of vertical curve is
+#a 100 m
+#b 200 m
+#c 300 m
+#d 400 m
+
+## 166 | p=66 | hw=c
+The difference in elevation of points between a vertical and a tangent is
+#a directly proportional to its horizontal distance from the point of tangency
+#b inversely proportional to its horizontal distance from the point of tangency
+#c directly proportional to the square of its horizontal distance from the point of tangency
+#d inversely proportional to the square of its horizontal distance from the point of tangency
+
+## 167 | p=66 | hw=c
+Read the following two statements and select the correct answer.
+i) Shift bisects the transition curve.
+ii) Transition curve bisects the shift.
+#a only (i) is correct
+#b only (ii) is correct
+#c both (i) and (ii) are correct
+#d neither (i) nor (ii) is correct
+
+## 168 | p=66 | hw=c
+The maximum value of centrifugal ratio on roads and railways respectively are taken as
+#a 1/4 and 1/6
+#b 1/6 and 1/8
+#c 1/4 and 1/8
+#d 1/8 and 1/4
+
+## 169 | p=66 | hw=a
+Agonic line is the line joining points having
+#a zero declination
+#b minimum declination
+#c maximum declination
+#d same declination
+
+## 170 | p=66 | hw=b
+For a circumpolar star, declination must be
+#a equal to colatitude
+#b more than colatitude
+#c less than colatitude
+#d any of the above
+
+## 171 | star | p=66 | hw=c
+For a star at its upper transit, the local sidereal time is equal to
+#a H.A. of the star
+#b Declination of the star
+#c R.A. of the star
+#d None of the above
+
+## 172 | star | p=66 | hw=b
+The limiting minimum declination of a circumpolar star having latitude 40° N is
+#a 40°
+#b 50°
+#c 90°
+#d 0°
+
+## 173 | star | p=66 | hw=b
+The relationship between tropical year TY and sidereal year SY is
+#a TY>SY
+#b TY<SY
+#c TY=SY
+#d any of the above
+
+## 174 | star | p=66-67 | hw=d
+A star has a declination of 55°N. Its upper culmination is in the zenith of the place. The altitude of the lower culmination is
+#a 55°
+#b 35°
+#c 70°
+#d 20°
+
+## 175 | p=67 | hw=a
+A vertical photograph was taken from an aircraft flying at an altitude of 2000 m above mean sea level. The focal length of the camera is 175 mm. The scale of the photograph for a hill of an elevation of 250m is
+#a 1/ 10000
+#b 1/ 15000
+#c 1/20000
+#d 1/ 25000
+
+## 176 | p=67 | hw=d
+In an aerial photograph, if the photograph has a tilt of 3° & the focal length is 100 mm, then the distance between the perspective center & the plumb point will be
+#a 100 tan 3°
+#b 100 cos 3°
+#c 100 / sin 3°
+#d 100 / cos 3°
+
+## 177 | p=67 | hw=a
+In aerial photograph, if the photograph has a tilt of 4° & the focal length is 200mm, then the distance between the principal point & plumb point will be
+#a 200 tan 4°
+#b 200 cos 4°
+#c 200 / sin 4°
+#d 200 / cos 4°
+
+## 178 | p=67 | hw=b
+When the wind effect is not considered during flight planning, the result is a
+#a crab
+#b drift
+#c mosaic
+#d none of above
+
+## 179 | star | p=67 | hw=b
+An aircraft is flying at a ground speed of 200 km/h. The focal length of the camera is 200mm. The ground distance covered along the flight line between exposures is 2 km. The time interval between exposures is given by :
+#a 18 sec
+#b 36 sec
+#c 72 sec
+#d 180 sec
+
+## 180 | p=67 | hw=c | check=Handwritten mark looks like 'e' (not an option); read as 'c' with low confidence.
+The relief displacement is radial from
+1. isocentre on a vertical photograph
+2. principal point on a vertical photograph
+3. nadir point on a tilted photograph
+4. isocentre on a tilted photograph
+Of these statements
+#a 1 and 3 are correct
+#b 1 and 4 are correct
+#c 2 and 3 are correct
+#d 2 and 4 are correct
+
+## 181 | p=67 | hw=b
+If f is the focal length, t is the angle of tilt, then the distance of isocentre on the principal line from the principal point is
+#a f tan t
+#b f tan t/2
+#c f cot t
+#d f cot t/2
+
+## 182 | p=67 | hw=b
+Parallax bar is used to measure
+#a parallax
+#b parallax difference
+#c difference in elevation
+#d relief displacement
+
+## 183 | p=67 | hw=b
+As compared to mirror stereoscope, lens stereoscope
+1. causes less strain to the eyes of the user
+2. is small in size
+Of these statements
+#a only 1 is correct
+#b only 2 is correct
+#c both 1 and 2 are correct
+#d both 1 and 2 are incorrect
+
+## 184 | p=67 | hw=d
+Setting out of bridges involves determination of
+1. length of centre line
+2. height of piers
+3. direction of centre line
+4. position of piers
+Of these statements
+#a 1 and 2 are correct
+#b 2 and 3 are correct
+#c 3 and 4 are correct
+#d 1 and 4 are correct
+
+## 185 | p=67-68 | hw=a
+Match List I with List II and select the correct answer using the codes given below the lists :
+List I — List II
+A. Boning rod — 1. It is a flat, square, wooden board which is forced on the top of a pin anchored in ground. It is also known as slope rail.
+B. Travelling rod — 2. The horizontal member of the cross head nailed to the posts.
+C. Sight rails — 3. It is generally used in layout of trenches for sewers, pipe lines etc
+D. Batter boards — 4. The horizontal piece can be moved along a graduated vertical staff.
+Codes :
+#a A-3, B-4, C-2, D-1
+#b A-3, B-4, C-1, D-2
+#c A-2, B-4, C-1, D-3
+#d A-2, B-4, C-3, D-1
+
+## 186 | p=68 | hw=c
+In triangulation, the best shape of the triangle would be
+#a equilateral
+#b right angled isosceles triangle
+#c isosceles with two base angles of 56° 14′ each
+#d isosceles with two base angles of 65° 14′ each
+
+## 187 | tag=ES 93 | p=68 | hw=a
+Match List I with List II and select the correct answer using the codes given below the lists :
+List I — List II
+A. Fathometer — 1. Microwave instrument
+B. Passometer — 2. Sounding instrument
+C. Tellurometer — 3. Distance measuring instrument
+D. Altimeter — 4. Height measuring instrument
+5. Pressure measuring instrument
+Codes :
+#a A-2, B-3, C-1, D-4
+#b A-3, B-5, C-1, D-4
+#c A-2, B-5, C-4, D-1
+#d A-3, B-2, C-5, D-1
+
+## 188 | tag=ES 93 | p=68 | hw=b
+A closed compass traverse PQRS is run with a prismatic compass in a clock-wise direction:
+Line — Fore bearing
+PQ — 50°
+QR — 170°
+RS — 230°
+SP — 310°
+The value of the included angle S is
+#a 360°
+#b –260°
+#c 100°
+#d 50°
+
+## 189 | tag=ES 93 | p=68 | hw=a
+The vertices of an astronomical triangle would include:
+#a zenith, pole & heavenly body
+#b azimuth, Zenith ,pole
+#c azimuth, pole & heavenly body
+#d azimuth, zenith & heavenly body
+
+## 190 | tag=ES 93 | p=68 | hw=b
+The tilt displacement in an aerial photograph is radial from
+#a plumb point
+#b isocentre point
+#c principal point
+#d nadir point
+
+## 191 | tag=ES 94 | p=68-69 | hw=c
+Match List I with List II and select the correct answer using the codes given below the Lists :
+List I — List II
+A. Adjustment of surveying instruments — 1. Bringing the various fixed parts of the instrument into proper relation with one another
+B. Bowditch rule — 2. Solution of 3-point problem
+C. Triangulation — 3. Measuring all the angles and the base line
+D. Bessel's method — 4. Balancing the latitudes and departures
+Codes:
+#a A-1, B-2, C-3, D-4
+#b A-2, B-1, C-4, D-3
+#c A-1, B-4, C-3, D-2
+#d A-3, B-2, C-1, D-4
+
+## 192 | tag=ES 94 | p=69 | hw=b
+If a quantity A has a weight of 3, then the weight of A/3 will be
+#a 28
+#b 27
+#c 24
+#d 21
+
+## 193 | tag=ES 94 | p=69 | hw=a
+In a parabolic vertical curve, the rising grade g₁ = +0.80percentage and the falling grade g₂ = –0.70%. The rate of change of grade is 0.05 per chain. The length of the vertical curve is
+#a 30 chains
+#b 40 chains
+#c 50 chains
+#d 60 chains
+
+## 194 | tag=ES 94 & CS 99 | p=69 | hw=b
+Which one of the following indicates the correct relationship between the flying height (H), the focal length (f), the air-base (B) and the photographic base (b)?
+#a B = f/(b.H)
+#b B = (b.H)/f
+#c B = b/(f.H)
+#d B = H/(b.f)
+
+## 195 | tag=ES 94 | p=69 | hw=a
+While measuring horizontal angles by the method of repetition with a theodolite, readings are taken on both the verniers. Which one of the following errors will be eliminated by reading both the verniers?
+#a Error due to eccentricity of the centres
+#b Error due to imperfect adjustment of the line of collimation
+#c Error due to imperfect adjustment of the horizontal axis
+#d Error due to imperfect graduations
+
+## 196 | tag=ES 94 | p=69 | hw=b
+An angle-measuring instrument reading upto one-sixth of a degree on the main scale is equipped with a vernier having 19 main scale divisions divided into 20 parts. The correct least count for the instrument is
+#a 60 seconds
+#b 30 seconds
+#c 20 seconds
+#d 10 seconds
+
+## 197 | tag=ES 95 | p=69 | hw=c
+It is required to produce a small-scale map of an area in a magnetic zone by directly plotting and checking the work in the field itself. Which one of the following surveys will be most appropriate for this purpose?
+#a Chain
+#b Theodolite
+#c Plane Table
+#d Compass
+
+## 198 | tag=ES 95 | p=69 | hw=d
+Match List I with List II and select the correct answer using the codes given below the lists:
+List I — List II
+A. Clinometer — 1. Area measuring instrument
+B. Pantograph — 2. Gradient finding instrument
+C. Tellurometer — 3. Angle measuring instrument
+D. Ghat tracer — 4. Plan enlarging instrument
+5. Microwave instrument
+Codes:
+#a A-1, B-2, C-5, D-3
+#b A-3, B-4, C-1, D-2
+#c A-1, B-5, C-4, D-3
+#d A-3, B-4, C-5, D-2
+
+## 199 | tag=ES 95 | p=69 | hw=c
+A 30 m metric chain is found to be 0.1 m too short throughout the measurement. If the distance measured is recorded as 300 m, then the actual distance will be
+#a 300.1 m
+#b 301.0 m
+#c 299.0 m
+#d 310.0 m
+
+## 200 | tag=ES 95 | p=69-70 | hw=a
+Offsets are
+#a lateral measurements made with respect to main survey lines
+#b perpendiculars erected from chain lines
+#c taken to avoid unnecessary walking between stations
+#d measurements which are not made at right angles to the chain line
+
+## 201 | p=70 | hw=d
+If "Fore bearing" of a line is S 49° 52′ E (assuming there is no local attraction), the "Back bearing" of the line will be
+#a S 52° 49′ E
+#b S 49° 52′ E
+#c N 49° 08′ E
+#d N 49° 52′ W
+
+## 202 | tag=ES 95 | p=70 | hw=b
+Match List I with List II and select the correct answer using the codes given below the lists :
+List I — List II
+A. Correction for sag — 1. Tacheometer
+B. Least count 30′ — 2. Aerial photograph
+C. Overlap — 3. Base line
+D. Additive constant — 4. Prismatic compass
+Codes:
+#a A-4, B-3, C-2, D-1
+#b A-3, B-4, C-2, D-1
+#c A-1, B-2, C-3, D-4
+#d A-3, B-4, C-1, D-2
+
+## 203 | tag=ES 95 | p=70 | hw=d
+To find the R.L. of a roof slab of a building, staff readings were taken from a particular set-up of the levelling instrument. The readings were 1.050 m with staff on the benchmark and 2.300 m with staff below the roof slab and held inverted. Taking the R.L. of the B.M. as 135.150 m, the R.L. of the roof slab will be
+#a 129.800
+#b 131.900
+#c 134.400
+#d 138.500
+
+## 204 | tag=ES 96 | p=70 | hw=a
+In a mass-haul diagram, the distance (D) of the center of mass of excavation or embankment from the line representing the volume to be hauled over is given by
+#a D = (Area x Horizontal Scale x Vertical Scale)/(Volume Ordinate)
+#b D = (Area x Volume Ordinate)/(Horizontal Scale x Vertical Scale)
+#c D = Area/(Volume Ordinate)
+#d D = (Area x Horizontal Scale)/(Vertical Scale)
+
+## 205 | tag=ES 96 | p=70 | hw=c
+Consider the following operations in a spire test:
+1. Depress telescope and sight a point on the ground nearer to the instrument.
+2. Clamp horizontal plates.
+3. Sight a well-defined high point on a high building.
+4. Change face and repeat the procedure.
+The correct sequence of these operations is
+#a 1,2,3,4
+#b 3,1,2,4
+#c 3,2,1,4
+#d 2,1,3,4
+
+## 206 | tag=ES 96 | p=70 | hw=d
+Match List I with List II and select the correct answer using the codes given below the lists (adopting standard notations) :
+List I — List II
+A. Cubic parabola equation — 1. NS²/4
+B. Shift in transition curve — 2. L²/24R
+C. Valley curve — 3. NS²/(1.50 +0.035 S)
+D. Summit curve — 4. x³/6RL
+5. v³/gR
+Codes:
+#a A-1, B-2, C-3, D-4
+#b A-3, B-4, C-1, D-2
+#c A-1, B-5, C-2, D-4
+#d A-4, B-2, C-3, D-1
+
+## 207 | star | tag=ES 96 | p=71 | hw=a
+The standard time meridian in India is 82° 30′ E. If the standard time at any instant is 20 hours 10 minutes, the local mean time for the place at a longitude of 20° E would be
+#a 4ʰ PM
+#b 4ʰ 10ᵐ PM
+#c 1ʰ 20ᵐ PM
+#d 0ʰ 20ᵐ AM
+
+## 208 | tag=ES 97 | p=71 | hw=b
+The combined correction for curvature and refraction for a distance of 1400 m is
+#a 0.153 m
+#b 0.132 m
+#c 0.094 m
+#d 0.021 m
+
+## 209 | tag=ES 97 | p=71 | hw=c
+A lemniscate curve between the tangents is transitional throughout, if the polar deflection angle of its apex is equal to (ϕ is the deflection angle between the initial and final tangents)
+#a ϕ/2
+#b ϕ/4
+#c ϕ/6
+#d ϕ
+
+## 210 | tag=ES 97 | p=71 | hw=a
+In a closed traverse, the sum of south latitudes exceeds the sum of north latitudes and the sum of east departures exceeds the sum of west departures. The closing line will lie in the
+#a N-W quadrant
+#b N-E quadrant
+#c S-E quadrant
+#d S-W quadrant
+
+## 211 | tag=ES 97 | p=71 | hw=d
+In an external focusing tacheometer, the fixed interval between stadia hairs is 5 mm; the focal length of the objective is 25 cm. and the distance of the vertical axis of the instrument from the optical centre of the objective is 15 cm. Which one of the following is the set of constants of the tacheometer?
+#a 30, 0.15
+#b 30, 0.40
+#c 50, 0.25
+#d 50, 0.40
+
+## 212 | tag=ES 97 | p=71 | hw=c
+An image of the top of the hill is 96 mm from the principal point of the photograph. The elevation of the top of the hill is 500 m and the flying height is 4000 m above the datum. The relief displacement will be
+#a 768 mm
+#b 88 mm
+#c 12 mm
+#d 8 mm
+
+## 213 | tag=ES 97 | p=71 | hw=d
+Match List I with List II and select the correct answer using the codes given below the Lists :
+List I — List II
+A. Sextant — 1. Measurement of depth below the water surface
+B. Sounding — 2. The line on which soundings are taken
+C. Fathometer — 3. The lines which are usually used for depths above about 6 m
+D. Range — 4. Instrument used for measuring angles from a boat
+5. Instrument used for measuring depth in ocean
+Codes:
+#a A-5, B-1, C-4, D-2
+#b A-4, B-2, C-5, D-3
+#c A-5, B-3, C-4, D-1
+#d A-4, B-1, C-5, D-2
+
+## 214 | tag=ES 97 | p=71 | hw=a
+Which one of the following methods would give accurate results in determining the direction of the observer's meridian?
+#a Observation of circumpolar stars on the same vertical
+#b Observation of circumpolar stars at culmination
+#c Extra-meridian observation of a circumpolar star
+#d Observation of the sun at equal altitudes
+
+## 215 | tag=ES 98 | p=71-72 | hw=a
+The direction of the magnetic meridian is established at each traverse station and the direction of the line is determined with reference to the magnetic meridian. This method of traversing is called
+#a fast needle method
+#b loose needle method
+#c bearing method
+#d fixed needle method
+
+## 216 | tag=ES 98 | p=72 | hw=a
+For a chord of 60 m, the mid-ordinate for a circular curve of 50 m radius will be
+#a 10 m
+#b 12.5 m
+#c 15 m
+#d 18.75 m
+
+## 217 | tag=ES 98 | p=72 | hw=c
+If an overlapping pair of vertical photographs taken with a 150 mm focal length camera has an air base of 2100 m and the elevation of the control point "A" on it is 900 m above M.S.L. and the parallax of the point is 75 mm, then the flying height above M.S.L. of the stereopair will be
+#a 3000 m
+#b 3150 m
+#c 5100 m
+#d 5250 m
+
+## 218 | tag=ES 98 | p=72 | hw=a
+The true length of a line is known to be 200 m. When this is measured with a 20 m tape, the length is 200.80 m. The correct length of the 20 m tape is
+#a 19.92 m
+#b 19.98 m
+#c 20.04 m
+#d 20.08 m
+
+## 219 | tag=ES 98 | p=72 | hw=c
+An observer standing on the deck of a ship just sees the top of a lighthouse which is 30 m above the sea level. If the height of the observer's eye is 10 m above the sea level, then the distance of the observer from the lighthouse will be nearly
+#a 22.5 km
+#b 24.3 km
+#c 33.3 km
+#d 59.7 km
+
+## 220 | tag=ES 98 | p=72 | hw=a
+Match List I (Statement) with List II (Situation) and select the correct answer using the codes given below the lists :
+List I — List II
+A. Accurate centering in plane table surveying is necessary for — 1. Inaccessible points
+B. Exact orientation is more important than accurate centering for — 2. Open country with good intervisibility
+C. The intersection method of plane table surveying is particularly employed for — 3. Large scale maps
+D. Plane table survey is useful for — 4. Small scale maps
+5. Hilly regions
+Codes :
+#a A-3, B-4, C-1, D-2
+#b A-4, B-3, C-2, D-5
+#c A-5, B-4, C-3, D-1
+#d A-3, B-1, C-4, D-2
+
+## 221 | tag=ES 98 | p=72 | hw=b
+Given that δ denotes declination, θ the latitude of the place of observation and α the altitude of a star at the prime vertical,
+#a sinα = sinδ cosθ
+#b sinθ = sinδ cosecα
+#c cosα = cosδ sinθ
+#d sinδ = sinα cosθ
+
+## 222 | tag=ES 98 | p=72 | hw=b
+Which one of the following methods estimates best the area of an irregular and curved boundary?
+#a Trapezoidal method
+#b Simpson's method
+#c Average ordinate method
+#d Mid-ordinate method
+
+## 223 | tag=ES 99 | p=72 | hw=a
+The declination of a star is 21°15′ N at a latitude of 43°30′N. The zenith distance at the upper culmination is
+#a 22°15′
+#b 21°15′
+#c 64°45′
+#d 43°30′
+
+## 224 | tag=ES 99 | p=72-73 | hw=c
+Two points A and B are 1530 m apart across a river. The reciprocal levels measured are :
+Level at — Reading on A (in m) — Reading on B (in m)
+A — 2.165 — 3.810
+B — 0.910 — 2.355
+The true difference in level between A and B would be
+#a 1.255 m
+#b 1.455 m
+#c 1.545 m
+#d 1.645 m
+
+## 225 | tag=ES 99 | p=73 | hw=c
+A lighthouse is visible just above the horizon at a certain station at the sea level. The distance between the station and the lighthouse is 40 km. The height of the lighthouse is approximately
+#a 187 m
+#b 137.7m
+#c 107.7 m
+#d 87.3 m
+
+## 226 | tag=ES 99 | p=73 | hw=a
+The true bearing of a line is 34° 20′ 40″ and the magnetic declination at the place of observation is 2° 00′ 20″ W on the date of observation. The magnetic bearing of the line is
+#a 36° 21′ 00″
+#b 34° 20′ 20″
+#c 32° 20′ 20″
+#d 32° 00′ 20″
+
+## 227 | tag=ES 99 | p=73 | hw=d
+Consider the following assumptions of Bowditch method :
+1. Angular measurements are more precise than linear measurements.
+2. Linear measurements are more precise than angular measurements.
+3. Errors in linear measurements are proportional to √L
+4. Correction to latitude or departure of any side = Total error in L (or D) × (Length of that side)/(Perimeter of traverse)
+Which of these statements are correct?
+#a 1 and 4
+#b 1, 2 and 3
+#c 2, 3 and 4
+#d 3 and 4
+
+## 228 | tag=CS 93 | p=73 | hw=d
+To determine the length of a bridge proposed to be built across a wide river, the surveying method of choice would be
+#a tacheometry
+#b chain surveying
+#c hydrographic surveying
+#d triangulation
+
+## 229 | tag=CS 93 | p=73 | hw=d
+Heliograph is a type of
+#a instrument used for recording the movement of sun
+#b instrument used for contouring an area
+#c electronic distance measuring device
+#d sun signal used in triangulation work
+
+## 230 | star | tag=CS 93 | p=73 | hw=c
+A plot of land 60 m x 20 m is measured by a steel tape. If the standard error of length and width measurements is taken as ± 1 cm, then the standard error of the area of the plot would be
+#a ±0.1414 m²
+#b ±0.566 m²
+#c ±0.632 m²
+#d ±0.8484 m²
+
+## 231 | tag=CS 93 | p=73 | hw=c
+If a 30 m length can be taped with a precision of ±0.01 m, then the standard error in measuring 1.08 km with the same precision will be
+#a ±0.54 m
+#b ±0.45 m
+#c ±0.36 m
+#d ±0.06 m
+
+## 232 | tag=CS 93 | p=73 | hw=a
+A 30-m steel tape was standardized at 20°C and measurements of distances were taken at 15°C. If the coefficient of linear expansion α of the material of the tape were 0.00,00112 per degree Celsius, then the error, due to temperature, per tape length would be
+#a – 0.00,00560 m
+#b + 0.00,00560 m
+#c + 0.00,16800 m
+#d – 0.00,16800 m
+
+## 233 | tag=CS 93 | p=73 | hw=d
+Which one of the following statements best defines a 'level surface'?
+#a A horizontal surface every element of which is normal to plumb line.
+#b A curved surface every element of which is perpendicular to the spheroidal shape of the earth.
+#c A plane surface which is perpendicular at all points to the direction of gravity.
+#d A curved surface which is perpendicular to the direction of gravity at every point.
+
+## 234 | tag=CS 93 | p=73-74 | hw=d
+The area of a plot is to be determined using Simpson's rule. The following offsets were taken to a boundary from points along a chain line, all measurements being in metres :
+12, 15, 22, 29, 36, 38, 31, 22, 17.
+These were taken at 100 m intervals. Consider the following steps in this regard:
+1. (12+17)/2 = 19.5
+2. Sum of the odd ordinates = 22 + 36 + 31 = 89.
+3. Sum of the even ordinates = 15 + 29 + 38 + 22 = 104.
+4. 12 + 17 = 39.
+5. Area = 100 (19.5 + 89 + 104).
+6. Area = (100/3)(39 + 2 x 89 + 4 x 104).
+7. Area = 100 x 19.5(104 – 89).
+The area of the plot can be determined by using the steps listed above at
+#a 1, 2, 3 and 5
+#b 1, 3, 4 and 6
+#c 1, 2, 4 and 7
+#d 2, 3, 4 and 6
+
+## 235 | tag=CS 93 | p=74 | hw=b
+A 100 m tape is held 1 m out of line. The true length is
+#a 100.0050 m
+#b 99.9950 m
+#c 100.0100 m
+#d 99.9800 m
+
+## 236 | tag=CS 93 | p=74 | hw=d
+In setting out a long straight line for the erection of transmission towers, it is recommended that the forward point be set out with both face-right and face-left with reference to the preceding point and the mean position be taken. This field procedure eliminates the instrumental error where the
+#a trunnion axis is not perpendicular to the vertical axis
+#b vertical axis is not perfectly vertical at the time of observation
+#c line of collimation is not perpendicular to the vertical axis.
+#d line of collimation is not perpendicular to the horizontal axis.
+
+## 237 | tag=CS 93 | p=74 | hw=c
+The coordinates of two end-points A and B of a traverse line AB are
+X_A = 1000.00 m, Y_A = 1000.00 m
+X_B = 2000.00 m, Y_B = 1000.00 m
+The bearing of the line AB will be
+#a 0° 0′ 00″
+#b 60° 0′ 00″
+#c 90° 0′ 00″
+#d 180° 0′ 00″
+
+## 238 | tag=CS 93 | p=74 | hw=b
+Consider the following statements regarding Plane Table surveying :
+1. It is less accurate than chain surveying.
+2. It is not necessary to do accurate centering of plane table for small scale surveys.
+3. Compass rule may be made use of for adjusting the plane table traverse.
+4. From the instrument station, resectors are drawn to plot the position of objects in the field.
+Of these statements
+#a 1,2 and 4 are correct
+#b 2, 3 and 4 are correct
+#c 1, 2 and 3 are correct
+#d 1, 3 and 4 are correct
+
+## 239 | tag=CS 93 | p=74-75 | hw=b
+Match List I with List II and select the correct answer using the codes given below the lists :
+List I (Contour Property) — List II (Explanation)
+A. Contour gradient — 1. The line starting from a ridge line reaching summits at either end
+B. Line of steepest gradient lying on the ground — 2. The line which passes through ridges and saddles setting up a domain
+C. Saddle line — 3. Ridge or valley line
+D. Line of drainage basin — 4. The line lying on the surface of the ground keeping a constant inclination to the horizontal
+5. The gradient of the line joining the highest and the lowest point on the contour map
+Codes :
+#a A-4, B-3, C-1, D-2
+#b A-4, B-5, C-3, D-2
+#c A-3, B-5, C-1, D-2
+#d A-2, B-4, C-1, D-3
+
+## 240 | tag=CS 93 | p=75 | hw=b
+Match List I with List II and select the correct answer using the codes given below the lists :
+List I (Transition curve) — List II (Property for setting the curve)
+A. Froude's transition — 1. Length of curve measured on the tangent but y-coordinate calculated with two terms from equation for ideal transition
+B. Cubic spiral — 2. The path actually traced by an automobile turning freely
+C. True or clothoid spiral — 3. Length of curve measured on tangent with the first term only taken into account for both x & y coordinates from equation for ideal transition curve
+D. Lemniscate curve — 4. Length of curve measured on the curve itself with first term from equation for ideal transition curve taken for y-coordinate
+5. Length of curve measured on the curve with at least two terms adopted for x & y coordinates from equation for ideal transition curve
+Codes :
+#a A-2, B-3, C-4, D-1
+#b A-3, B-4, C-5, D-2
+#c A-4, B-5, C-1, D-3
+#d A-5, B-1, C-2, D-3
+
+## 241 | tag=CS 93 | p=75 | hw=b
+If the gradient of a ground is –3%, that of another ground intersecting with the former is 5%, and the horizontal length of the vertical curve to be drawn is 600 m, then the vertical offset 'e' from the vertex of the vertical curve to the mid-point of the curve will be
+#a 1.5 m
+#b 6 m
+#c 15 m
+#d 75 m
+
+## 242 | tag=CS 93 | p=75 | hw=d
+Consider the following statements regarding base-line measurements :
+1. Very precise measurement can be done only on densely cloudy days or at nights.
+2. Error due to application of non-standardized pull on the tape can be either cumulative or compensating type.
+3. Intermediate obstructions in the measurement on base-lines can be cleared by erecting towers.
+Of these statements
+#a 1, 2 and 3 are correct
+#b 1 and 2 are correct
+#c 1 and 3 are correct
+#d 2 and 3 are correct
+
+## 243 | tag=CS 93 | p=75-76 | hw=a
+Match List I with List II and select the correct answer using the codes given below the lists :
+List I (Errors in sighting signals) — List II (Causes)
+A. Apparent displacement of signal i azimuth — 1. Sun illuminating only a portion of the signal
+B. Error due to phase of the signal — 2. Due to dislevelment of trunnion axis
+C. Error due to eccentric signal — 3. Light rays travelling from a rarer to a denser medium
+D. Error due to refraction — 4. Improper design of signal lantern
+5. Location of signal displaced from the actual site due to difficulties in erection
+Codes :
+#a A-2, B-1, C-5, D-3
+#b A-4, B-3, C-2, D-1
+#c A-2, B-3, C-5, D-1
+#d A-4, B-1, C-2, D-3
+
+## 244 | tag=CS 93 | p=76 | hw=b
+A star is observed at its upper culmination when it is north of zenith. The latitude of the place of observation is 30°N and declination of the star is 50°N. The zenith distance of the star is
+#a 10°
+#b 20°
+#c 40°
+#d 80°
+
+## 245 | star | tag=CS 93 | p=76 | hw=b
+The local sidereal time (LST) is always
+#a ahead of the local mean time (LMT) by about 2 hours per month
+#b behind LMT by about 2 hours per month
+#c ahead of LMT by about 4 hours per month
+#d equal to LMT
+
+## 246 | tag=CS 93 | p=76 | hw=b
+Consider the following statements regarding the longitude of a place :
+It is determined by
+1. wireless time signals.
+2. transportation of chronometers.
+3. electric telegraph.
+Of these statements
+#a 1, 2 and 3 are correct
+#b 1 and 2 are correct
+#c 1 and 3 are correct
+#d 2 and 3 are correct
+
+## 247 | tag=CS 93 | p=76 | hw=a
+In an aerial photo, the image of the top of a tower is found to be 10 cm from the center of the photograph. If the height of the tower is 100 m and the flying height of the aircraft is 1000 m above the average terrain height, then the height displacement of the image from the true position will be
+#a 10 mm
+#b 20 mm
+#c 50 mm
+#d 100 mm
+
+## 248 | tag=CS 94 | p=76 | hw=b
+Match List I and List II and select the correct answer using the codes given bellow the lists :
+List I — List II
+A. Reciprocal levelling — 1. Points above the line of collimation
+B. Balancing Fore Sight and Back Sight Distances — 2. Eliminates the collimation error
+C. Inverted Staff Reading — 3. The vertical axis is not perpendicular to the line of collimation
+D. Tilting level — 4. Eliminates error due to inclined line of collimation also
+Codes:
+#a A-1, B-2, C-4, D-3
+#b A-4, B-2, C-1, D-3
+#c A-4, B-3, C-1, D-2
+#d A-1, B-3, C-4, D-2
+
+## 249 | tag=CS 94 | p=76 | hw=d
+The following equipments can be used to lay out horizontal angles in field :
+1. Microptic theodolite
+2. Chain and metallic tape
+3. Vernier theodolite
+4. Prismatic compass
+The correct sequence of the decreasing order of their accuracies is
+#a 2, 4, 3, 1
+#b 2, 3, 4, 1
+#c 1, 4, 3, 2
+#d 1, 3, 4, 2
+
+## 250 | tag=CS 94 | p=76 | hw=b
+If the downhill end of a 20 m tape is held 80 cm too low, then its horizontal length will be
+#a 19.894 m
+#b 19.984 m
+#c 20.016 m
+#d 20.984 m
+
+## 251 | tag=CS 94 | p=77 | hw=d
+When a theodolite is in proper adjustment, which of the following conditions between fundamental lines are satisfied?
+1. Axis of the plate level is perpendicular to the vertical axis.
+2. The line of collimation is at right angles to the vertical axis.
+3. The axis of the altitude level is parallel to the line of collimation when it is horizontal and the vertical circle reads zero.
+Select the correct answer using the codes given below.
+Codes:
+#a 1 and 2
+#b 1 and 3
+#c 2 and 3
+#d 1, 2 and 3
+
+## 252 | tag=CS 94 | p=77 | hw=c
+The following bearings were taken in running a closed compass traverse ABCDA :
+Line — F.B. — B.B.
+AB — 124° 30′ — 304° 30′
+BC — 68° 15′ — 246° 0′
+CD — 310° 30′ — 135° 15′
+DA — 200° 15′ — 17° 45′
+One would suspect local attraction at stations
+#a A and B
+#b B and C
+#c C and D
+#d D and A
+
+## 253 | tag=CS 94 | p=77 | hw=c
+ABCD is a regular parallelogram plot of land, whose angle BAD is 60°. If the bearing of the line AB is 30°, then the bearing of the line CD is
+#a 90°
+#b 120°
+#c 210°
+#d 270°
+
+## 254 | tag=CS 94 | p=77 | hw=d
+In a closed traverse, the following computations were made
+Line — Latitude (+) — Latitude (-) — Departure (+) — Departure (-)
+AB — — 73.0 — 440.5 —
+BC — 535.0 — — 313.0 —
+CD — 223.0 — — — 68.5
+Consider the following conclusions drawn from the above computations :
+1. Reduced bearing of DA = S 45 °W
+2. W.C.B. of DA = 225°
+3. Departure of DA = +685.0
+4. Latitude of DA = +685.0
+Of these conclusions,
+#a 1, 3 and 4 are valid
+#b 1, 2 and 3 are valid
+#c 2 and 4 are valid
+#d 1and 2 are valid
+
+## 255 | tag=CS 94 | p=77 | hw=c
+In theodolite traversing, for the calculation of independent rectangular coordinates from the field observations, some of the computations are indicated below :
+1. Computation of reduced bearing of each traverse leg
+2. Calculation of the closing error
+3. Balancing of consecutive coordinates
+4. Calculation of consecutive coordinates
+The correct sequence in which these computations are to be made is
+#a 1, 2, 3, 4
+#b 2, 4, 3, 1
+#c 1, 4, 2, 3
+#d 3, 1, 4, 2
+
+## 256 | tag=CS 94 | p=77 | hw=a
+Consider the following steps :
+1. Using Lehmann's rule, an improved position of station point is obtained.
+2. Procedure is repeated till the triangle of error is reduced to a point.
+3. 'Triangle of error' is obtained.
+4. The plane table is levelled over the station point.
+5. Three resection lines are drawn from three well-defined station points.
+The correct sequence of the "Lehmann's procedure" for solving the "three point problem" is
+#a 4, 5, 3, 1, 2
+#b 1, 2, 4, 3, 5
+#c 5, 4, 2, 3, 1
+#d 4, 1, 3, 2, 5
+
+## 257 | tag=CS 94 | p=77-78 | hw=d
+Match List I with List II and select the correct answer using the codes given below the lists :
+List I — List II
+A. Equally spaced contour lines — 1. Steepest slope
+B. Contours are always perpendicular to — 2. A hill
+C. Contours increase in elevation from inside to outside — 3. A saddle
+4. A depression
+5. Uniform slope
+Codes :
+#a A-1, B-2, C-4
+#b A-1, B-3, C-4
+#c A-5, B-3, C-2
+#d A-5, B-1, C-4
+
+## 258 | tag=CS 94 | p=78 | hw=d
+Consider the following statements :
+Besides contours, relief on topographic maps is represented in general, by
+1. hachures
+2. point heights
+3. hypsometric tints
+4. hill shading
+Of these statements
+#a 2 and 4 are correct
+#b 1 and 2 are correct
+#c 2, 3 and 4 are correct
+#d 1, 3 and 4 are correct
+
+## 259 | tag=CS 94 | p=78 | hw=c
+If in a triangle ABC, b = 300 m and angle ABC = 60°, then the radius of the circular curve passing through the points A, B and C will be
+#a 86.6 m
+#b 100.0 m
+#c 173.2 m
+#d 300.6 m
+
+## 260 | tag=CS 94 | p=78 | hw=a | fig=78:0.31,0.59,0.51,0.73
+Satellite station S is established during a triangulation survey as shown in Fig.2.4.
+The angle α is equal to
+#a θ + β₁ + β₂
+#b θ - β₁ + β₂
+#c θ + β₁ - β₂
+#d θ - β₁ - β₂
+
+## 261 | tag=CS 94 | p=78 | hw=a
+Declination and Right Ascension will be 0° and 12 hours for the sun, when it lies over
+#a first point of Libra
+#b first point of Aries
+#c Summer solstice
+#d Winter solstice
+
+## 262 | tag=CS 94 | p=78 | hw=a
+Consider the following statements :
+At the two transits of a star over a meridian
+1. co-declination remains same
+2. co-altitude does not remain same
+3. hour angle differs by 12 hours
+Of these statements
+#a 1, 2 and 3 are correct
+#b 2 and 3 are correct
+#c 1 and 2 are correct
+#d 1 and 3 are correct
+
+## 263 | star | tag=CS 94 | p=78 | hw=a
+If the declination of a star is 70° 10′ N and the latitude of the observer is 49° 50′ N, then the values of the Zenith distance and the altitude of the star at the lower culmination will be respectively
+#a 60° and 30°
+#b 109° 50′ and 40° 10′
+#c 120° and 60°
+#d 20° 20′ and 30° 00′
+
+## 264 | tag=CS 94 | p=78-79 | hw=d | fix=In code d) the entry under B is printed as 'i'; read as 1.
+Match List I with List II and select the correct answer using the codes given below the lists.
+List I (Variables used in stereophotogrammetry) — List II (Values of the variables given in List I )
+A. The normal longitudinal overlap along the flight line — 1. At least 20%
+B. The normal overlap between the adjacent strips — 2. Upto 15%
+C. Eye base (average) assumed — 3. 60% or more
+D. Tolerable difference in scale of adjoining photographs — 4. 64 mm
+Codes :
+#a A-1, B-3, C-2, D-4
+#b A-3, B-1, C-2, D-4
+#c A-1, B-3, C-4, D-2
+#d A-3, B-1, C-4, D-2
+
+## 265 | tag=CS 94 | p=79 | hw=c
+If the difference in height of two points whose parallax difference is (+)0.8 mm on a pair of stereo pair taken from a flying height H and having mean photo base 95.2 m is (+) 100 m, then the flying height H will be
+#a 8,000 m
+#b 10,000 m
+#c 12,000 m
+#d 14,000 m
+
+## 266 | tag=CS 94 | p=79 | hw=c
+Match List I with List II and select the correct answer using the codes given below the lists :
+List I — List II
+A. Stream gauging — 1. Solving three point problem
+B. Station pointer — 2. To determine water level and its variation
+C. Tide gauge — 3. The process of determining the bed depth
+D. Sounding — 4. To measure turbidity
+5. Measuring the discharge of a stream
+Codes:
+#a A-3, B-4, C-2, D-1
+#b A-4, B-3, C-1, D-2
+#c A-5, B-1, C-2, D-3
+#d A-3, B-1, C-2, D-5
+
+## 267 | tag=CS 94 | p=79 | hw=d
+Match List I with List II and select the correct answer using the codes given below the lists.
+List I — List II
+A. Topographical surveys — 1. To obtain data for carrying out any type of project such as roads, railways, water supply, etc.
+B. Geodetic surveys — 2. To show boundaries of fields, buildings, etc.
+C. Engineering surveys — 3. To furnish data for size and shape of the Earth
+D. Cadastral surveys — 4. To show natural features of the country such as rivers, hills, streams, lakes, roads, bridges, towns etc..
+Codes :
+#a A-1, B-2, C-3, D-4
+#b A-2, B-1, C-4, D-3
+#c A-1, B-3, C-4, D-2
+#d A-4, B-3, C-1, D-2
+
+## 268 | tag=CS 95 | p=79 | hw=c
+Which one of the following closely represents the shape of the earth ?
+#a Spheroid
+#b Ellipsoid
+#c Oblate spheroid
+#d Prolate spheroid
+
+## 269 | tag=CS 95 | p=79-80 | hw=d
+Which of the following variations of magnetic declination are correctly matched ?
+1. Diurnal variation ……Variation whose time period varies from 100-350 years
+2. Annual variation …….Annual rate of change of secular variation
+3. Secular variation…….Variation of declination periodic in character
+4. Irregular variation……Caused due to magnetic storms in earth's magnetic field
+Select the correct answer using the codes given below.
+Codes :
+#a 1,3 and 4
+#b 2 and 3
+#c 1 and 3
+#d 3 and 4
+
+## 270 | star | tag=CS 95 | p=80 | hw=c
+If the staff intercept on a staff located at 100 m from the level for five division deviation of the bubble is 0.050 m and if the length of one division of the bubble is 2 mm, then the radius of curvature of the bubble tube is
+#a 2.02 m
+#b 2.20 m
+#c 20.00 m
+#d 20.20 m
+
+## 271 | tag=CS 95 | p=80 | hw=c
+The "Back sight" reading on a vertically held staff at a point A on the floor along the centre line of a railway tunnel is 3.465 m, and the "Fore sight" on the inverted staff held at the roof of the tunnel just vertically above A is 1.155 m. The height of the tunnel along the centre line at floor point A is
+#a 2.310 m
+#b 3.465 m
+#c 4.620 m
+#d 6.930 m
+
+## 272 | tag=CS 95 | p=80 | hw=d
+A and B are two traverse stations free from local attraction errors. If the true bearing of a line AB is 89°, and the magnetic declination at point A is 1° West, then the magnetic bearing of the line BA would be
+#a 88°
+#b 90°
+#c 268°
+#d 270°
+
+## 273 | tag=CS 95 | p=80 | hw=c
+Which one of the following gives the correct distance between the lighthouse and a ship, when the lighthouse whose height is 100 m is visible just above the horizon from the ship?
+#a 30.68 km
+#b 36.50 km
+#c 38.54 km
+#d 40.54 km
+
+## 274 | tag=CS 95 | p=80 | hw=d
+In a plane table survey, the plane table station position was to be fixed with respect to three reference points. It was found that one of the reference points was not visible due to some obstruction. It was, therefore decided to make use of the other two points only. Which one of the following statements is true regarding the determination of station position?
+#a The work can be done faster.
+#b Two settings of the plane table will be needed but the work will be accurate.
+#c Only one setting of the table is needed, however the work will be less accurate.
+#d The work will be less accurate and time consuming.
+
+## 275 | tag=CS 95 | p=80 | hw=b
+Contour interval on a map sheet denotes
+#a vertical distance of contour lines above the datum plane
+#b vertical distance between two successive contour lines
+#c slope distance between two successive contour lines
+#d horizontal distance between two successive contour lines
+
+## 276 | tag=CS 95 | p=80 | hw=a
+The radius of curvature of an ideal transition curve should be
+#a inversely proportional to its length from the beginning
+#b directly proportional to its length from the beginning
+#c proportional to the speed of the vehicle
+#d proportional to the superelevation
+
+## 277 | tag=CS 95 | p=80 | hw=c
+For a simple circular curve, which one of the following gives the correct relation between the radius, R and degree of curve D, for 20 m arc length ?
+#a R = 5729.6/D
+#b R = 1718.9/D
+#c R = 1145.9/D
+#d R = 572.9/D
+
+## 278 | tag=CS 95 | p=80 | hw=c
+The number of independent conditions required to be satisfied for the adjustment of a braced quadrilateral in triangulation survey is
+#a 2
+#b 4
+#c 6
+#d 8
+
+## 279 | tag=CS 95 | p=80-81 | hw=c
+Following data refer to precise measurement of an angle A on the field :
+(i) 2A = 20° 10′ – weight 2
+(ii) 4A = 40° 10′ – weight 3
+What is the most probable value of angle A ?
+#a 10° 01′ 06″
+#b 10° 02′ 07″
+#c 10° 02′ 51″
+#d 10° 22′ 51″
+
+## 280 | tag=CS 95 | p=81 | hw=a
+In a trigonometric levelling, the height of the signal used is 4.62 m and the instrument height is1.25 m. If the horizontal distance of the target from the instrument is 5780 m, then the axis-signal correction is
+#a 206265 × 3.37/5780 seconds
+#b 5780 × 5.87/206265 seconds
+#c 5780 × 206265/5.87 seconds
+#d 206265× 5780/3.37 seconds
+
+## 281 | tag=CS 95 | p=81 | hw=b
+Following statements pertain to the position of Sun when it lies over the First Point of Aries :
+1. Its hour angle is zero.
+2. Its right ascension is zero.
+3. Its declination is zero.
+Of these statements
+#a 1 and 3 are correct
+#b 2 and 3 are correct
+#c 1 and 2 are correct
+#d 1, 2 and 3 are correct
+
+## 282 | tag=CS 95 | p=81 | hw=c | fig=81:0.15,0.5,0.43,0.61
+In Fig. 2.5, the latitude of the place of observation will be equal to declination of the star plus its co-altitude when the position of the star on the meridian is between
+#a horizon and Pole
+#b horizon and equator
+#c equator and zenith
+#d Pole and zenith
+
+## 283 | star | tag=CS 95 | p=81 | hw=b
+A star is observed at its western elongation. If the latitude of place of observation is θ, the declination of star is δ, altitude of star at elongation is α, then the hour angle of star is given by
+#a cos H = cos δ . sec θ
+#b cos H = tan θ . cot δ
+#c cos H = tan θ . cot α
+#d cos H = tan δ . cot θ
+
+## 284 | tag=CS 95 | p=81 | hw=b
+In photogrammetric surveying, the image of the top of the hill is 90 mm from the principal point of the photograph. If the elevation of the top of the hill is 500 m and the flying height is 5000 m above datum, then the relief displacement is
+#a 0.9 mm
+#b 9 mm
+#c 90 mm
+#d 900 mm
+
+## 285 | tag=CS 95 | p=81 | hw=c
+Match List I with List II and select the correct answer using the codes given below the lists :
+List I (Elements of aerial photographs) — List II (Explanation of the elements)
+A. Perspective centre — 1. The point where the perpendicular from the optical centre of the lens meets the photograph
+B. Plumb point — 2. The point where the rays from the objects converge
+C. Principal point — 3. The point where the vertical through the optical centre meets the photograph
+D. Isocentre — 4. The point where the horizontal through optical centre meets the photograph
+5. The point where the bisector of the angle between vertical & perpendicular from optical centre meet the photograph
+Codes :
+#a A-2, B-4, C-1, D-5
+#b A-2, B-1, C-3, D-5
+#c A-2, B-3, C-1, D-5
+#d A-4, B-3, C-1, D-2
+
+## 286 | tag=CS 95 | p=82 | hw=d
+It is required to determine by periodical soundings, the rate at which silting or scouring is taking place in a harbour. Which one of the following methods is best suited for locating the positions of the soundings ?
+#a Range and time intervals
+#b Two angles from the boat
+#c Tachometric observations
+#d Intersecting ranges
+
+## 287 | tag=CS 96 | p=82 | hw=c
+The representative fraction 1/2500 means that the scale is 1 cm equal to
+#a 0.25 m
+#b 2.5 m
+#c 25 m
+#d 2.5 km
+
+## 288 | tag=CS 96 | p=82 | hw=d
+Which of the following are the fundamental lines of a theodolite ?
+1. The vertical and horizontal axes
+2. The diagonally opposite screw lines
+3. The line of collimation and axes of the plate levels
+4. The bubble line of the attitude level
+Select the correct answer using the codes given below.
+Codes :
+#a 1, 2 and 3
+#b 1, 2 and 4
+#c 2 and 3
+#d 1, 3 and 4
+
+## 289 | tag=CS 96 | p=82 | hw=d
+Which of the following characteristic features may be used while plotting a contour plan ?
+1. Two contour lines having the same elevation cannot unite and continue as one line.
+2. Contour lines close together indicate a gentle slope.
+3. Contour lines cross a valley line at right angles.
+Select the correct answer using the codes given below.
+Codes :
+#a 1, 2 and 3
+#b 1 and 2
+#c 2 and 3
+#d 1 and 3
+
+## 290 | tag=CS 96 | p=82 | hw=c
+Consider the following statements pertaining to plane table survey :
+1. Two-point problem is solved by mechanical method.
+2. Three-point problem is solved by Bessel's method.
+3. In two-point problem, auxiliary station is required.
+Of these statements
+#a 1 and 2 are correct
+#b 1 and 3 are correct
+#c 2 and 3 are correct
+#d 1, 2 and 3 are correct
+
+## 291 | tag=CS 96 | p=82 | hw=a
+Which one of the following specifications for length of base line refers to "Third Order Triangulation system?
+#a 0.5 to 3 km
+#b 1.5 to 5 km
+#c 5 to 15 km
+#d 10 to 20 km
+
+## 292 | tag=CS 96 | p=82 | hw=c
+If R is the radius of the main curve, θ the angle of deflection, S the shift and L the length of the transition curve, then the total tangent length of the curve is given by
+#a (R-S)tan θ/2 – L/2
+#b (R+S)tan θ/2 – L/2
+#c (R+S)tan θ/2 + L/2
+#d (R-S)tan θ/2 + L/2
+
+## 293 | star | tag=CS 96 | p=82 | hw=d
+The difference between the sum of the angles of a plane triangle and the sum of the angles of a spherical triangle is one second when the triangle on the earth surface has an area of about
+#a 105 sq.km
+#b 135 sq.km
+#c 159 sq.km
+#d 195 sq.km
+
+## 294 | tag=CS 96 | p=82 | hw=c
+A plan of an area drawn with the original scale of 1 cm = 10 m, has shrunk such that a line, originally 15 cm long on the plan, measures now 14.5 cm. The shrunk scale is given by 1 cm equal to
+#a 0.97 m
+#b 9.70 m
+#c 10.34 m
+#d 10.97 m
+
+## 295 | tag=CS 96 | p=82-83 | hw=b
+The two-peg test in the adjustment of a dumpy level employs the principle that
+#a equal lengths at back sight and fore sight do not affect the difference in level.
+#b reciprocal levelling eliminates errors of non-parallel instrument and collimation axes.
+#c two readings from the same station will minimize errors in bubble tube axis.
+#d correction is made for vertical axis at one peg and for horizontal axis at the other peg.
+
+## 296 | tag=CS 96 | p=83 | hw=c
+Match List I with List II and select the correct answer using the codes given below the lists :
+List I — List II
+A. To fix the centre line of piers, and abutments of long bridges — 1. Plane Table survey
+B. For preparation of small-scale map — 2. Triangulation survey
+C. The three sides of the triangles are measured — 3. Trilateration survey
+Codes :
+#a A-3, B-1, C-2
+#b A-2, B-3, C-1
+#c A-2, B-1, C-3
+#d A-3, B-2, C-1
+
+## 297 | tag=CS 96 | p=83 | hw=b
+The length of a transition curve for a circular curve of radius 300 m and for a design speed of 15 m/s, when the rate of change of centrifugal acceleration is 0.3 m/s³, is
+#a 30 m
+#b 37.5 m
+#c 45 m
+#d 60 m
+
+## 298 | tag=CS 96 | p=83 | hw=c
+If the line of sight between two stations A and B, on sea, and 80 km apart, makes tangent at point A, then the minimum elevation of the signal required at B(considering the coefficient of refraction 'm' = 0.08 and the mean radius of earth as 6400 km) will be
+#a 42 m
+#b 210 m
+#c 420 m
+#d 840 m
+
+## 299 | tag=CS 96 | p=83 | hw=b
+In a closed theodolite traverse, the sum of the latitudes is + 5.080 m and the sum of the departures is –51.406 m, the sum of the traverse legs is 20.525 km. The accuracy of traverse is nearly equal to
+#a 1 : 300
+#b 1 : 400
+#c 1 : 500
+#d 1 : 1000
+
+## 300 | star | tag=CS 96 | p=83 | hw=b
+A sewer is laid from a manhole A to a manhole B, 250 m apart along a downward gradient of 1 in 125. If the reduced level of the invert at A is 205.75 m and the height of the boning rod is 3 m then, reduced level of the sight rail at B, is
+#a 202.75 m
+#b 206.75 m
+#c 208.75 m
+#d 211.75 m
+
+## 301 | star | tag=CS 96 | p=83 | hw=d
+If the standard meridian is 82°30′ E and the standard time at longitude 90° E is known to be 8 hr 30 m, the corresponding local mean time at the place will be
+#a 7 hr 00 m
+#b 8 hr 00 m
+#c 8 hr 30 m
+#d 9 hr 00 m
+
+## 302 | star | tag=CS 96 | p=83 | hw=b
+Given that
+Scale of photograph is 1 cm = 100 m
+Size of photograph=23 cm x 23 cm
+Area to be covered=150 sq. km
+Longitudinal ovelap=60%
+Side overlap=30%
+The total number of photographs required for covering the above area is
+#a 143
+#b 101
+#c 58
+#d 43
+
+## 303 | tag=CS 97 | p=83 | hw=c
+The smallest scale adopted for topographical surveys is
+#a 1 : 25,000
+#b 1 : 50,000
+#c 1 : 2,50,000
+#d 1 : 5,00,000
+
+## 304 | tag=CS 97 | p=83 | hw=c
+An imaginary line passing through the optical centre of the objective and the optical centre of the eye-piece in the telescope or a surveying instrument is called the
+#a horizontal axis
+#b line of collimation
+#c optical axis of the telescope
+#d reference axis
+
+## 305 | tag=CS 97 | p=84 | hw=d
+The ratio of the "standard error of a single observation of unit weight" to the standard error of the arithmetic mean of 'n' observations, all of unit weight, will be
+#a (1/n)
+#b n²
+#c ³√n
+#d √n
+
+## 306 | tag=CS 97 | p=84 | hw=b
+During the measurement of a line by chain or tape in slopes, if the length of the line is 'l' and height difference between the ends of the line is 'h', then the correction to the measured length is more than h²/2l by
+#a zero
+#b + h⁴/8l³
+#c + h³/4l²
+#d – h³/2l²
+
+## 307 | tag=CS 97 | p=84 | hw=a
+In an old map, line PQ was drawn to a magnetic bearing of 6° 32′, the magnetic declination at that time being 1° East. The present magnetic declination is 9° 42′ East. The magnetic bearing to which the line is set at present is
+#a 357° 50′
+#b 356° 50′
+#c 3° 10′
+#d 2° 10′
+
+## 308 | tag=CS 97 | p=84 | hw=b
+The distance between two bench marks is 1000 m. If during levelling, the total error due to collimation, curvature and refraction is found to be + 0.120 m, then the magnitude of the collimation error is
+#a 0.00527 m
+#b 0.0527 m
+#c 0.527 m
+#d 0.673 m
+
+## 309 | tag=CS 97 | p=84 | hw=b
+When the bubble of a level tube was moved by 10 divisions, the change in staff intercept was 0.05 m. If the distance between the staff and the instrument was 100 m, then the sensitiveness of the bubble tube is given by
+#a 1.03 sec of arc
+#b 10.3 sec of arc
+#c 20.6 sec of arc
+#d 103 sec of arc
+
+## 310 | tag=CS 97 | p=84 | hw=c
+In trigonometric levelling, if the horizontal distance between the instrument and the object is 3088 m, the coefficient of refraction is 0.07 and R sin 1″ = 30.88 m, then the refraction correction in angular measure would be
+#a 0.07"
+#b 0.70"
+#c 7.0"
+#d 1' 10"
+
+## 311 | tag=CS 97 | p=84 | hw=c
+In the given formula formats, L is the length of a base line split into 'n' equal segments each of length 'd'. O₁, O₂……, Oₙ₊₁ are the ordinates at the sequential ends of the segments and M₁, M₂, ….. Mₙ are the mid-ordinates of successive segments. Which of the following pairs of rules and the formulae for computation of the area standing on the base line are correctly matched?
+1. Mid-ordinate Rule ………….. A = [(O₁ + O₂ +…+ Oₙ)/n] × L
+2. Average-ordinate Rule ……… A = (L/n)[M₁ + M₂ +…+ Mₙ]
+3. Trapezoidal Rule ……………. A = d[((O₁ + Oₙ₊₁)/2) + O₂ + O₃ +…+ Oₙ]
+4. Simpson's rule …………………. A = (d/3)[(O₁ + Oₙ₊₁) + 4(O₂ + O₄ +..) + 2(O₃ + O₅ +…+ Oₙ)]
+Select the correct answer using the codes given below.
+Codes :
+#a 1 and 2
+#b 1 and 3
+#c 3 and 4
+#d 2 and 4
+
+## 312 | star | tag=CS 97 | p=84 | hw=d
+A circle of radius 7 m has a standard error of 0.02 m on the radius. The standard error of its area is
+#a 0.04 m²
+#b 0.14 m²
+#c 0.28 m²
+#d 0.88 m²
+
+## 313 | tag=CS 97 | p=84-85 | hw=b
+Fore bearings (FB) and back bearings (BB) of lines PQ and QR have been measured as :
+Line — FB — BB
+PQ — 50° 0′ — 235° 0′
+QR — 125° 30′ — 309° 30′
+The correct value of the interior angle PQR will be
+#a 105° 00′
+#b 109° 30′
+#c 250° 00′
+#d 255° 00′
+
+## 314 | tag=CS 97 | p=85 | hw=a
+The fix of a plane table from three known points is good if
+#a the middle station is the nearest
+#b the middle station is farther than the other two stations
+#c either of the extreme stations is the nearest
+#d the middle station is close to the great circle
+
+## 315 | star | tag=CS 97 | p=85 | hw=d
+If the azimuths of the two tangents to a circular curve of radius 100 m are due north and due east, then the area bounded by the two tangents and the circular curve will be
+#a 7857 sq.m
+#b 5000 sq.m
+#c 3143 sq.m
+#d 2143 sq.m
+
+## 316 | tag=CS 97 | p=85 | hw=a
+Consider the following statements associated with the laws of weights in the theory of errors :
+1. If an equation is multiplied by its own weight, then the weight of the resulting equation is equal to the reciprocal of the weight of that equation.
+2. The weight of the algebraic sum of two or more quantities is equal to the reciprocal of the sum of the individual weights.
+3. If the quantity of a given weight is multiplied by a factor, then the weight of the result is obtained by dividing its given weight by the square root of that factor.
+4. If the quantity of a given weight is divided by a factor, then the weight of the result is obtained by multiplying its given weight by the square of that factor.
+Of these statements
+#a 1 and 4 are correct
+#b 2 and 3 are correct
+#c 3 and 4 are correct
+#d 1 and 3 are correct
+
+## 317 | tag=CS 97 | p=85 | hw=d
+In the tangential method of techeometry, the following notations have been used :
+α₁ = angle of elevation corresponding to upper vane
+α₂ = angle of elevation corresponding to lower vane
+S = distance between the vanes-staff intercept
+D = horizontal distance
+V = vertical distance
+In this context, match list I (Quantity to be computed under the given conditions) with List II (Equation to be used) and select the correct answer using the codes given below the lists :
+List I — List II
+A. 'D' when both the angles are angles of elevation — 1. S tan α₂/(tan α₂ – tan α₁)
+B. 'V' when both the angles are angles of elevation — 2. S/(tan α₁ + tan α₂)
+C. 'D' when one angle is angle of elevation and the other that of depression — 3. S tan α₂/(tan α₁ – tan α₂)
+D. 'V' when both angles are angles of depression — 4. S/(tan α₁ – tan α₂)
+Codes :
+#a A-3, B-4, C-1, D-2
+#b A-4, B-3, C-1, D-2
+#c A-3, B-4, C-2, D-1
+#d A-4, B-3, C-2, D-1
+
+## 318 | tag=CS 97 | p=85-86 | hw=b
+Consider the following properties :
+1. The sum of the three sides is always greater than the circumference of the great circle.
+2. The sum of the three angles is less than six right angles and greater than two right angles.
+3. The sum of two sides is greater than the third side.
+4. The smaller angle is opposite the smaller side and vice versa.
+The properties of spherical triangles would include
+#a 1, 2 and 3
+#b 2, 3 and 4
+#c 1, 2 and 4
+#d 1, 3 and 4
+
+## 319 | star | tag=CS 97 | p=86 | hw=a
+A 3000 m long line lying at an elevation of 450 m measures 10 cm on a vertical photograph. The focal length of the camera is 21 cm. The scale of the photograph for the area having an elevation of 1000 m will be
+#a 1:27381
+#b 1:25008
+#c 1:20606
+#d 1:30421
+
+## 320 | tag=CS 97 | p=86 | hw=a
+Which of the following statements about photogrammetric surveying is correct ?
+The relief displacement
+#a decreases with increase in flying height.
+#b is negative for a point above datum.
+#c decreases as the distance of the object from the principal point increases.
+#d of the point is not affected by the tilt of the photograph.
+
+## 321 | tag=CS 98 | p=86 | hw=b
+Match List I with List II and select the correct answer using the codes given below the lists :
+List I — List II
+A. Geographical map — 1. 1 cm = 2.5 km
+B. Topographical map — 2. 1 cm = 0.25km
+C. Location map — 3. 1 cm = 160 km
+D. Forest map — 4. 1 cm = 5 m to 25m
+Codes :
+#a A-1, B-3, C-4, D-2
+#b A-3, B-1, C-4, D-2
+#c A-1, B-3, C-2, D-4
+#d A-3, B-1, C-2, D-4
+
+## 322 | tag=CS 98 | p=86 | hw=d | fig=86:0.6,0.13,0.84,0.24 | fix=Options are the four symbols (a)-(d) drawn in Fig.2.6; see figure.
+Which one of the following is a conventional sign for North Line in surveying ?
+#a Fig.2.6 (a): T-shaped symbol
+#b Fig.2.6 (b): plus (+) shaped symbol
+#c Fig.2.6 (c): circle
+#d Fig.2.6 (d): circle with cross-hair and arrow pointing up
+
+## 323 | star | tag=CS 98 | p=86 | hw=c
+A Dumpy level is set up with its eyepiece vertically over a peg A. The height from the top of peg A to the centre of the eyepiece is 1.540 m and the reading on peg B is 0.705 m. The level is then set up over peg B. The height of the eyepiece above peg B is 1.490 m and the reading on A is 2.195 m. the difference in level between A and B is
+#a 2.900 m
+#b 3.030 m
+#c 0.770 m
+#d 0.785 m
+
+## 324 | star | tag=CS 98 | p=86 | hw=a
+If the cross-sectional areas of an embankment at 30 m intervals are 20, 40, 60, 50 and 30 m² respectively, then the volume of the embankment on the basis of prismoidal rule, is
+#a 5300 m³
+#b 8300 m³
+#c 9300 m³
+#d 9400 m³
+
+## 325 | tag=CS 98 | p=86 | hw=c
+If the bearing of a line AB is N 60° 30′ and that of BC is 122° of a closed traverse ABCDE, then the measure of the interior angle B is
+#a 240° 30′
+#b 122° 00′
+#c 118° 30′
+#d 154°
+
+## 326 | tag=CS 98 | p=86-87 | hw=c
+The techeometer focal length of object glass is 20 cm, the distance between the object glass and trunnion axis is 10 cm and the spacing between the outer lines of diaphragm axis is 4 mm. If the staff intercepts are 1.000 (top) and 2.500 (middle) when the line of collimation is perfectly horizontal, then the horizontal distance between the staff station and instrument station will be
+#a 75.3 m
+#b 78 m
+#c 150.3 m
+#d 153 m
+
+## 327 | tag=CS 98 | p=87 | hw=d
+If the coordinates of A are 100 N and 200 E and those of C are 100 S and 200 E, then the length AC is
+#a 400.00
+#b 282.84
+#c 244.94
+#d 200.00
+
+## 328 | tag=CS 98 | p=87 | hw=a
+Which one of the following instruments is used in plane table surveying for the measurement of horizontal and vertical distances directly ?
+#a Plain alidade
+#b Telescopic alidade
+#c Tacheometer
+#d Clinometer
+
+## 329 | tag=CS 98 | p=87 | hw=b
+The deflection angle between the tangents drawn at the ends of a transition curve is 7°. The radius of the curve at the end is 400 m. What is the length of the transition curve ?
+#a 60.00m
+#b 97.74 m
+#c 120.00 m
+#d 150.00 m
+
+## 330 | star | tag=CS 98 | p=87 | hw=b
+A transition curve is required for a circular curve of 200 m radius, the gauge being 1.5 m and maximum superelevation restricted to 15 cm. The transition is to be designed for a velocity such that no lateral pressure is imposed on the rails and the rate of gain of radial acceleration is 30 cm/s². The required length of transition curve will work out to be
+#a 460 m
+#b 46 m
+#c 4.6 m
+#d 0.46 m
+
+## 331 | tag=CS 98 | p=87 | hw=d
+Which of the following elements of a simple curve are correctly matched?
+1. Tangent length …… R tan Δ/2
+2. Apex distance ……. 2 R sin Δ/2
+3. Length of long chord …2 R cosec Δ/2
+4. Mid-ordinate …….. R ver sin Δ/2
+(R is the radius and Δ is the deflection angle)
+Select the correct answer using the codes given below.
+Codes :
+#a 1 and 3
+#b 2 and 4
+#c 1 and 2
+#d 1 and 4
+
+## 332 | star | tag=CS 98 | p=87 | hw=d
+A parabolic vertical curve is set out connecting a + 0.7% grade to a – 0.6% grade. The chainage and R.L. of the point of intersection are 1000 m and 250 m respectively. The admissible rate of change of grade is 0.05% per 20 m. The chainage of the tangent points will be
+#a 600 and 1400
+#b 650 and 1350
+#c 700 and 1300
+#d 740 and 1260
+
+## 333 | tag=CS 98 | p=87 | hw=c
+A, B and C are triangulation stations and S is the satellite station for B. The true angle at B is given by α = θ - β₁ + β₂ where β₁ = SÂB, β₂ = SĈB and θ = AŜC. The position of S is
+#a to the left of B
+#b to the right of B
+#c between AC and B
+#d behind B
+
+## 334 | tag=CS 98 | p=87 | hw=b
+Consider the following statements associated with triangulation survey.
+1. In triangulation survey unknown distances between stations are determined using tacheometric relations.
+2. The triangulation station at which astronomical observations are made for azimuths are called Laplace stations.
+3. In tertiary triangulation, the length of the sides is in the range of 10 to 25 km.
+4. The length of the base line in primary triangulation is 8 to 12 km.
+Of these statements
+#a 1 and 2 are correct
+#b 3 and 4 are correct
+#c 1 and 4 are correct
+#d 2 and 4 are correct
+
+## 335 | tag=CS 98 | p=87-88 | hw=c
+Which one of the following is the combined angular correction for angles of elevation in trigonometrical levelling ? (Symbols have the usual meanings)
+#a ((1-2m)d/(R sin1″)) (+ve)
+#b ((1-2m)d/(R sin1″)) (– ve)
+#c ((1-2m)d/(2R sin1″)) (+ ve)
+#d ((1-2m)d/(2R sin1″)) (– ve)
+
+## 336 | tag=CS 98 | p=88 | hw=d
+Match List I with List II and select the correct answer using the codes given below the lists :
+List I (Declination of the Sun is) — List II
+A. zero and tends to change from – ve to + ve. — 1. At the first point of Libra
+B. Zero and tends to change from + ve to – ve. — 2. At the first point of Aries
+C. +23° 27′ — 3. At Winter Solstice
+D. –23° 27′ — 4. At Summer Solstice
+Codes :
+#a A-2, B-1, C-3, D-4
+#b A-2, B-1, C-4, D-3
+#c A-1, B-2, C-3, D-4
+#d A-1, B-2, C-4, D-3
+
+## 337 | tag=CS 98 | p=88 | hw=d
+A star culminates in zenith when
+#a δ < θ
+#b δ > θ
+#c δ ≤ θ
+#d δ = θ
+
+## 338 | tag=CS 98 | p=88 | hw=d
+If α, H, A and δ are the altitude, hour angle, azimuth and declination of a circumpolar star at its elongation in latitude λ, then which one of the following relations would hold good?
+#a cos H = tan λ/tan δ
+#b sin α = sin λ/sin δ
+#c sin A = cos δ/cos λ
+#d all of the above, that is a), b) and c)
+
+## 339 | star | tag=CS 98 | p=88 | hw=a
+When the latitude is 56°15′ N and declination is 17°30′ S, the 'zenith distance' at the upper culmination of the star will be
+#a 73° 45′
+#b 73.° 30′
+#c 35° 00′
+#d not determinable from the given data
+
+## 340 | star | tag=CS 98 | p=88 | hw=b
+If the parallax difference between the top and bottom of a tree is measured as 1.32 mm on a stereo-pair of photos taken at 3000 m above ground and the average photobase is 66 mm, then the height of the tree will be
+#a 45.49 m
+#b 60.00 m
+#c 23.51 m
+#d 39.50 m
+
+## 341 | tag=CS 98 | p=88 | hw=b
+Given that
+f = focal length of camera,
+H = height of exposure station above MSL and
+h = height of ground above MSL.
+The scale of vertical photograph is given by
+#a S_h = f/H
+#b S_h = f/(H – h)
+#c S_h = H/(f – h)
+#d S_h = f/(H + h)
+
+## 342 | tag=CS 99 | p=88 | hw=d
+The main plate of a transit is divided into 1080 equal divisions. 60 divisions of the vernier coincide exactly with 59 divisions of the main plate. The least count (in seconds) of the transit is
+#a 5
+#b 10
+#c 15
+#d 20
+
+## 343 | tag=CS 99 | p=88 | hw=d
+The sides of a rectangle are (120 ± 0.05) m and (180 ± 0.06) m. The probable error in the area will be
+#a ± 16.8 sq m
+#b ± 12.35 sq m
+#c ± 16.2 sq m
+#d ± 11.53 sq m
+
+## 344 | tag=CS 99 | p=89 | hw=b
+The linear error in a 50 m long traverse is 0.01 m. The angular error (in seconds) considering equal precision will be
+#a 81
+#b 41
+#c 21.5
+#d zero
+
+## 345 | tag=CS 99 | p=89 | hw=c
+A 30 m long steel tape standardised with a pull of 100 N was used for measuring a baseline of length 1500 m. The pull exerted while measuring is 150 N. The correction C_p due to pull is given by ( the area of cross-section of the tape = A; Young's modulus = E)
+#a 100 × 1500/AE
+#b 1500 × 150/AE
+#c 50 × 1500/AE
+#d 250 × 1500/AE
+
+## 346 | tag=CS 99 | p=89 | hw=c
+Mean sea level at any place is the average datum of hourly tide heights observed over a period of nearly
+#a 5 years
+#b 10 years
+#c 20 years
+#d 50 years
+
+## 347 | star | tag=CS 99 | p=89 | hw=b
+Excavation is to be made for a reservoir measuring 20 m long, 12 m wide at the bottom and 2 m deep. The side slopes are to be 1 : 1 and the top to be flush with the ground which is level in the vicinity. As per prismoidal formula, the volume of excavation will be
+#a 610.33 m³
+#b 618.66 m³
+#c 625.00 m³
+#d 633.66 m³
+
+## 348 | tag=CS 99 | p=89 | hw=b
+Given that for a planimeter
+L = length of the tracing arm
+R = radius of the anchor arm
+a = distance between the roller and hinge
+If the wheel is beyond the hinge, then the area of zero circle will be
+#a π (L² – 2 a L + R²)
+#b π (L² + 2 a L + R²)
+#c π (L² + a L + R²)
+#d π (L² – a L + R²)
+
+## 349 | tag=CS 99 | p=89 | hw=c
+For a sight inclined at θ° with the horizontal and the staff held normal to the line of sight, the staff intercept is S. The horizontal distance D between the tacheometer attached with an anallatic lens and the staff station will be equal to (other symbols have the usual meanings)
+#a kS cos θ + r sin θ
+#b kS sin θ + r cos θ
+#c (kS + c) cos θ + r sin θ
+#d (kS + c) sin θ + r cos θ
+
+## 350 | star | tag=CS 99 | p=89 | hw=c | fig=89:0.6,0.2,0.82,0.5
+Match List I with List II and select the correct answer using the codes given below the Lists :
+List I (Names) — List II (Figures (1)-(5) in Fig.2.7)
+A. Boning rod
+B. Travelling rod
+C. Sight rails
+D. Batter boards
+Codes :
+#a A-3, B-2, C-5, D-4
+#b A-5, B-4, C-1, D-3
+#c A-2, B-4, C-1, D-3
+#d A-2, B-3, C-1, D-4
+
+## 351 | tag=CS 99 | p=89 | hw=c
+Given that for a triangulation survey
+D = distance in km
+h = the visible horizon from a station of known elevation above the datum (in metres)
+If there is no obstruction due to intervening ground, then h is equal to
+#a 0.6735 D²
+#b 6.735 D²
+#c 0.06735D²
+#d 0.006735D²
+
+## 352 | tag=CS 99 | p=90 | hw=b
+For solving a right-angled astronomical triangle ZPS, right-angled at S. the parts of the Napter circle are to be filled up by the following elements :
+1. Complement of the angle SZP.
+2. Complement of the side ZP
+3. The sides PS and ZS
+4. Complement of the angle ZPS
+The correct sequence of filling up these elements is
+#a 3, 1, 4, 2
+#b 3, 1, 2, 4
+#c 1, 3, 2, 4
+#d 1, 3, 4, 2
+
+## 353 | tag=CS 99 | p=90 | hw=a
+Match List I with List II and select the correct answer using the codes given below the Lists :
+List I — List II
+A. Star at elongation — 1. The astronomical triangle is evidently right-angled at zenith
+B. Star at prime vertical — 2. Its altitude will be zero and zenith distance will be equal to 90°
+C. Star at horizon — 3. When it crosses the observer's meridian
+D. Star at culmination — 4. When it is at its greatest distance eas or west of meridian
+Codes :
+#a A-4, B-1, C-2, D-3
+#b A-1, B-4, C-2, D-3
+#c A-4, B-1, C-3, D-2
+#d A-1, B-4, C-3, D-2
+
+## 354 | star | tag=CS 99 | p=90 | hw=b
+The latitude and longitude of point M is 30° N and 15° W. The latitude and longitude of point N is 20° S and 25° E. MN will be given by
+#a cos 60° cos 70° + sin 60° sin 70° cos 40°
+#b - cos 60° cos 70° + sin 60° sin 70° cos 40°
+#c cos 60° cos 70° - sin 60° sin 70° cos 40°
+#d - cos 60° cos 70° - sin 60° cos 70° cos 40°
+
+## 355 | tag=CS 99 | p=90 | hw=c
+Match List I with List II with respect to aerial photogrammetry and select the correct answer using the codes given below the Lists :
+List I (Name) — List II (Explanation)
+A. Principal point — 1. The angle formed between the flight line and the edges of photograph in the direction of flight
+B. Isocentre — 2. Failure of the aeroplane to stay on the predetermined flight line
+C. Crab — 3. The point where a perpendicular dropped from the front nodal point strikes the photograph
+D. Drift — 4. The point at which the bisector of the angle of tilt meets the photographer
+Codes :
+#a A-4, B-3, C-2, D-1
+#b A-4, B-3, C-1, D-2
+#c A-3, B-4, C-1, D-2
+#d A-3, B-4, C-2, D-1
+
+## 356 | tag=CS 99 | p=90 | hw=c
+Given that
+Scale of the photograph, 50 m = 1 cm
+Size of photograph = 18 cm x 18 cm
+Percentage longitudinal overlap = 60
+Percentage side overlap = 33 1/3
+Covered area = 108 sq km
+The required number of photographs will be
+#a 200
+#b 400
+#c 500
+#d 600
+
+## 357 | tag=CS 99 | p=90 | hw=c
+Images of two objects on a pair of photographs have a parallax difference of 1.8 mm and an average photograph base of 88.2 mm. The flying height is 4000 m above the average ground level. The difference in elevation of the two objects would be.
+#a 40 m
+#b 60 m
+#c 80 m
+#d 90 m
+
+## 358 | tag=CS 99 | p=91 | hw=b
+The given table shows the bearings observed while traversing with a compass:
+Line — FB — BB
+AB — 45°45′ — 226°10′
+BC — 96°55′ — 277°5′
+CD — 29°45′ — 209°10′
+DA — 324°48′ — 144°48′
+Which one of the following pairs of stations is affected by local attraction?
+#a A and B
+#b B and C
+#c C and D
+#d D and A
+
+## 359 | tag=ES 93 | p=91 | hw=a | fix=Assertion-Reason question: options are the common codes printed once under 'Directions' before Q359.
+Assertion A : Nautical sextant is used in hydrographic surveying.
+Reason R : This instrument helps in determining the depth of water.
+#a Both A and R are true and R is the correct explanation of A
+#b Both A and R are true but R is not a correct explanation of A
+#c A is true but R is false
+#d A is false but R is true
+
+## 360 | tag=ES 93 | p=91 | hw=a | fix=Assertion-Reason question: options are the common codes printed once under 'Directions' before Q359.
+Assertion A : Rise and fall method is preferred for reduction of levels in important works.
+Reason R : It provides a complete check on reduction of levels of all points.
+#a Both A and R are true and R is the correct explanation of A
+#b Both A and R are true but R is not a correct explanation of A
+#c A is true but R is false
+#d A is false but R is true
+
+## 361 | tag=ES 96 | p=91 | hw=a | fix=Assertion-Reason question: options are the common codes printed once under 'Directions' before Q359.
+Assertion A : The vertical angles cannot be measured by the method of repetition.
+Reason R : There is only one rotation that is possible in the vertical plane.
+#a Both A and R are true and R is the correct explanation of A
+#b Both A and R are true but R is not a correct explanation of A
+#c A is true but R is false
+#d A is false but R is true
+
+## 362 | tag=CS 93 | p=91 | hw=a | fix=Assertion-Reason question: options are the common codes printed once under 'Directions' before Q359.
+Assertion A : If a place is in the western hemisphere, the magnetic needle will be to the west of the geographical meridian. If the place is in the eastern hemisphere, the needle will be to the east of the geographical meridian.
+Reason R : The magnetic needle does not remain on one side of the geographical meridian. It varies from place to place.
+#a Both A and R are true and R is the correct explanation of A
+#b Both A and R are true but R is not a correct explanation of A
+#c A is true but R is false
+#d A is false but R is true
+
+## 363 | tag=CS 93 | p=91 | hw=a | fix=Assertion-Reason question: options are the common codes printed once under 'Directions' before Q359.
+Assertion A : The position of a boat in sea can be fixed by looking at the light house, a church tower and a chimney on the coast
+Reason R : The principle of three-point problem can be used.
+#a Both A and R are true and R is the correct explanation of A
+#b Both A and R are true but R is not a correct explanation of A
+#c A is true but R is false
+#d A is false but R is true
+
+## 364 | tag=CS 93 | p=91 | hw=b | fix=Assertion-Reason question: options are the common codes printed once under 'Directions' before Q359.
+Assertion A : Combined correction due to the curvature and refraction to the staff reading on a distance object is negative.
+Reason R : Due to curvature effect, the actual reading should be smaller than what is observed. However, due to horizontal line of sight, the observed reading will be higher.
+#a Both A and R are true and R is the correct explanation of A
+#b Both A and R are true but R is not a correct explanation of A
+#c A is true but R is false
+#d A is false but R is true
+
+## 365 | tag=CS 94 | p=91 | hw=a | fix=Assertion-Reason question: options are the common codes printed once under 'Directions' before Q359.
+Assertion A : In rise and fall method of booking observations and reducing elevations of points, a complete check on the reduction of R.Ls. of intermediate stations is there.
+Reason R : Intermediate sights are included for the calculation of rise and fall.
+#a Both A and R are true and R is the correct explanation of A
+#b Both A and R are true but R is not a correct explanation of A
+#c A is true but R is false
+#d A is false but R is true
+
+## 366 | tag=CS 94 | p=91 | hw=a | fix=Assertion-Reason question: options are the common codes printed once under 'Directions' before Q359.
+Assertion A : The super-elevation increases along the length of transition curve.
+Reason R : The radius of transition curve decreases along the length of the curve.
+#a Both A and R are true and R is the correct explanation of A
+#b Both A and R are true but R is not a correct explanation of A
+#c A is true but R is false
+#d A is false but R is true
+
+## 367 | tag=CS 95 | p=91 | hw=d | fix=Assertion-Reason question: options are the common codes printed once under 'Directions' before Q359.
+Assertion A : The object of providing an additional concave lens in the telescope, in a tacheometer is to eliminate the additive constant.
+Reason R : The anallactic lens absorbs some of the incident light and to compensate this and to increase the illumination, a larger object glass is required.
+#a Both A and R are true and R is the correct explanation of A
+#b Both A and R are true but R is not a correct explanation of A
+#c A is true but R is false
+#d A is false but R is true
+
+## 368 | tag=CS 96 | p=91 | hw=a | fix=Assertion-Reason question: options are the common codes printed once under 'Directions' before Q359.
+Assertion A : The magnetic bearings of different lines connot be regarded as fixed.
+Reason R : The magnetic meridian changes its direction due to variation from time to time, the magnetic bearings of survey line also change
+#a Both A and R are true and R is the correct explanation of A
+#b Both A and R are true but R is not a correct explanation of A
+#c A is true but R is false
+#d A is false but R is true
+
+## 369 | tag=CS 96 | p=92 | hw=c | fix=Assertion-Reason question: options are the common codes printed once under 'Directions' before Q359.
+Assertion A : Every point on the aerial photograph, which is displaced from its true orthographic position, is called relief displacement.
+Reason R : Relief displacement increases as the distance from the principal point decreases.
+#a Both A and R are true and R is the correct explanation of A
+#b Both A and R are true but R is not a correct explanation of A
+#c A is true but R is false
+#d A is false but R is true
+
+## 370 | tag=CS 97 | p=92 | hw=a | fix=Assertion-Reason question: options are the common codes printed once under 'Directions' before Q359.
+Assertion A : The meridian distance of any line is equal to the meridian distance of its midpoint.
+Reason R : The meridian distance of any line is equal to the meridian distance of the preceding line plus half the departure of the preceding line plus half the departure of the line itself.
+#a Both A and R are true and R is the correct explanation of A
+#b Both A and R are true but R is not a correct explanation of A
+#c A is true but R is false
+#d A is false but R is true
+
+## 371 | tag=CS 97 | p=92 | hw=a | fix=Assertion-Reason question: options are the common codes printed once under 'Directions' before Q359.
+Assertion A : The rate of increase of curvature along the transition curve should be equal to the rate of increase of super elevation.
+Reason R : The length of the transition curve should be fixed in such a manner that full super elevation is achieved at the junction with the circular curve.
+#a Both A and R are true and R is the correct explanation of A
+#b Both A and R are true but R is not a correct explanation of A
+#c A is true but R is false
+#d A is false but R is true
+
+## 372 | tag=CS 99 | p=92 | hw=a | fix=Assertion-Reason question: options are the common codes printed once under 'Directions' before Q359.
+Assertion A : Except in case of an overhanging cliff, two contour lines cannot merge or intersect at a point on the map.
+Reason R : Intersection of two contour lines means one point on the surface of the earth will have two different elevations. This is not possible.
+#a Both A and R are true and R is the correct explanation of A
+#b Both A and R are true but R is not a correct explanation of A
+#c A is true but R is false
+#d A is false but R is true
+
+## 373 | tag=CS 99 | p=92 | hw=d | fix=Assertion-Reason question: options are the common codes printed once under 'Directions' before Q359.
+Assertion A : The degree of curve is directly proportional to the radius of the curve.
+Reason R : A sharp curve has a large degree of curve and a flat curve has a small degree of curve.
+#a Both A and R are true and R is the correct explanation of A
+#b Both A and R are true but R is not a correct explanation of A
+#c A is true but R is false
+#d A is false but R is true
