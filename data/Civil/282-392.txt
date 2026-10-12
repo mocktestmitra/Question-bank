@@ -1,5 +1,6 @@
 # Transcript of Civil/282-392.pdf (format: see header of data/Civil/1-92.txt)
-# NOTE: one book page per scan page; scan page N = book page N+280 (scan p1 = book 281, start of ch.10).
+# NOTE: one book page per scan page. Scan p1-54 = book 281-334; p55-80 = book 365-390 (ch.12 start); p81 = book 336 (ch.11 start);
+# p82 = book 335 (end of ch.10); p83-110 = book 337-364; p111 = book 391. Book page 392 is not in this PDF.
 
 @chapter 10 Strength of Materials
 
@@ -2359,3 +2360,566 @@ The material of a rubber balloon has Poisson's ratio of 0.5. If uniform pressure
 #b 0.25
 #c 0.20
 #d zero
+
+## 313 | tag=CS 95 | p=43-44 | hw=d
+Sets of principal stresses acting at any point in a stressed body are given below:
+1. {σ, 0}
+2. {σ,σ}
+3. {σ, - σ}
+4. {σ, σ/2}
+The correct sequence of the ascending order of intensity of the maximum shear stress induced by the above sets will be
+#a 1, 4, 3, 2
+#b 2, 1, 4, 3
+#c 1, 3, 4, 2
+#d 2, 4, 1, 3
+
+## 314 | tag=CS 95 | p=44 | hw=b
+Consider the following statements regarding a simply supported beam subjected to a uniformly distributed load over the entire span:
+1. The bending moment is maximum at the central position.
+2. The shear force is zero at the central position.
+3. The slope is maximum at the middle position.
+Of these statements
+#a 1, 2 and 3 are correct
+#b 1 and 2 are correct
+#c 2 and 3 are correct
+#d 1 and 3 are correct
+
+## 315 | tag=CS 95 | p=44 | hw=b | fig=44:0.155,0.47,0.435,0.68
+Match List I with List II and select the correct answer using the codes given below the lists:
+List I (Beam with loading) — List II (B.M. diagram)
+A. [beam figure A] — 1. [B.M. diagram 1]
+B. [beam figure B] — 2. [B.M. diagram 2]
+C. [beam figure C] — 3. [B.M. diagram 3]
+D. [beam figure D] — 4. [B.M. diagram 4]
+(Fig. 10.70)
+Codes :
+#a A-3, B-4, C-2, D-1
+#b A-1, B-2, C-3, D-4
+#c A-1, B-3, C-4, D-2
+#d A-2, B-1, C-4, D-3
+
+## 316 | tag=CS 95 | p=44 | hw=c
+Match List I with List II and select the correct answer using the codes given below the lists :
+List I — List II
+A. Partial derivative of strain energy w.r.t. a load — 1. Equation for shear force
+B. Derivative of deflection — 2. Equation for slope
+C. Derivative of slope — 3. Equation for B.M.
+D. Derivative of moment — 4. Deflection under load
+Codes:
+#a A-4, B-3, C-2, D-1
+#b A-2, B-1, C-3, D-4
+#c A-4, B-2, C-3, D-1
+#d A-2, B-3, C-1, D-4
+
+## 317 | tag=CS, 95 | p=44 | hw=b
+A simply supported beam of uniform cross section is subjected to a maximum bending moment of 2.25 t.m. If it has rectangular cross section with width 15 cm and depth 30 cm, then the maximum bending stress induced in the beam will be
+#a 50 kg/cm²
+#b 100 kg/cm²
+#c 150 kg/cm²
+#d 225 kg/cm²
+
+## 318 | star | tag=CS 95 | p=44-45 | hw=b
+A beam has a solid circular cross section having diameter d. If a section of the beam is subjected to a shear force, F, the maximum shear stress in the cross section is given by
+#a (4/3) F/πd²
+#b (16/3) F/πd²
+#c (8/3) F/πd²
+#d (3/16) F/πd²
+
+## 319 | star | tag=CS 95 | p=45 | hw=a
+A cantilever beam 'A' with rectangular cross section is subjected to a concentrated load at its free end. If width and depth of another cantilever beam 'B' are twice those of beam A, then the deflection at free end of the beam 'B' as compared to that of 'A' will be
+#a 6.25%
+#b 14%
+#c 23.6%
+#d 28%
+
+## 320 | tag=CS 95 | p=45 | hw=b
+Consider a close coiled helical spring of radius R, subjected to a load. P. The spring consists of n turns of wire with wire radius r. The stiffness of the spring is
+#a PR³/GI_z
+#b Gr⁴/4nR³
+#c GI_z n r⁴/2πR³
+#d PR⁴ 2πn/GI_z
+
+## 321 | tag=CS 95 | p=45 | hw=b | fig=45:0.37,0.605,0.53,0.72
+A timber beam of rectangular section 100 mm x 50 mm is simply supported at the ends, has a 30 mm x 10 mm steel strip securely fixed to the top surface as shown in Fig.10.71.
+The centroid of the "equivalent timber beam" in this case from the top surface
+#a is 5 mm
+#b is 30 mm
+#c is 15 mm
+#d cannot be predicted
+
+## 322 | star | tag=CS 95 | p=45 | hw=a
+The 'Euler ' load for a column is 1000 kN and crushing load is 1500 kN. The 'Rankine' load is equal to
+#a 600 kN
+#b 1000 kN
+#c 1500 kN
+#d 2500 kN
+
+## 323 | tag=CS 95 | p=45 | hw=b | fig=45:0.655,0.285,0.91,0.43
+Fig. 10.72 shows a retaining wall of base width B₁ and height H₁. The sp. gravity of the material of construction is S. Further
+AB = BC = CD = B₁/3
+When the depth of storage increases from 0 to H₁, the resultant force will move from
+#a A to B
+#b B to C
+#c C to D
+#d B to D
+
+## 324 | tag=CS 95 | p=45-46 | hw=b | fig=45:0.67,0.595,0.85,0.72
+A column section as indicated in Fig. 10.73 is loaded with a concentrated load at a point 'P' so as to produce maximum bending stress due to eccentricities about xx axis and yy axis as 5 t/m² and 8 t/m² respectively.
+If the direct stress due to loading is 15 t/m² (compressive), then the intensity of resultant stress at the corner 'B' of the column section is
+#a 2 t/m² (compressive)
+#b 12 t/m² (compressive)
+#c 18 t/m² (tensile)
+#d 28 t/m² (compressive)
+
+## 325 | star | tag=CS 95 | p=46 | hw=a | fig=46:0.15,0.212,0.365,0.397
+Two similar round bars A and B are each 30 cm long as shown in Fig. 10.74.
+The ratio of the energies stored by the bars A and B, U_B/U_A is
+#a 3/2
+#b 1.0
+#c 5/8
+#d 2/3
+
+## 326 | tag=CS 96 | p=46 | hw=b | fig=46:0.11,0.55,0.36,0.69
+Match the items in List I with those in List II (with reference to Fig. 10.75) and select the correct answer using the codes given below the lists:
+List I — List II
+A. Maximum principal stress — 1. 9.0
+B. Minimum principal stress — 2. –8.0
+C. Maximum shear stress — 3. 5.0
+D. Normal stress on the plane of maximum shear stress — 4. 18.0
+5. 13.0
+Codes :
+#a A-4, B-3, C-5, D-2
+#b A-4, B-2, C-5, D-3
+#c A-4, B-5, C-1, D-2
+#d A-2, B-5, C-1, D-3
+
+## 327 | tag=CS 96 | p=46 | hw=b
+Match List I with List II and select the correct answer using the codes given below the lists:
+List I — List II
+A. Impulse — 1. Shear centre
+B. Torsion — 2. Plane motion
+C. Plane of loading — 3. Modulus of rigidity
+D. Instantaneous centre of rotation — 4. Time effect of a force
+Codes :
+#a A-4, B-3, C-2, D-1
+#b A-4, B-3, C-1, D-2
+#c A-3, B-4, C-1, D-2
+#d A-2, B-4, C-1, D-3
+
+## 328 | tag=CS 96 | p=47 | hw=b | fig=47:0.24,0.095,0.51,0.238
+A truss ABC, carries two horizontal and two vertical loads, as shown in Fig. 10.76.
+The horizontal and vertical components of the reaction at A will be
+#a H_A = 1000 kN; V_A = 1706.25 kN
+#b H_A = 2000 kN; V_A = 2550 kN
+#c H_A = 1000 kN; V_A = 2550 kN
+#d H_A = 2000 kN; V_A = 1706.25 kN
+
+## 329 | tag=CS 96 | p=47 | hw=c | fig=47:0.23,0.345,0.45,0.448
+In the cantilever truss shown in Fig.10.77, the reaction at A is
+#a 10 t
+#b 20 t
+#c 30 t
+#d 40 t
+
+## 330 | tag=CS 96 | p=47 | hw=c
+Match List I with List II and select the correct answer using the codes given below the lists:
+List I (Nature of beam) — List II (Max. deflection)
+A. Cantilever beam subjected to a concentrated load W at free end — 1. WL³/15 EI
+B. Simply supported beam subjected to a point load W at the centre — 2. WL³/3 EI
+C. Cantilever beam subjected to a hydrostatic load with zero intensity at the free end and W at the fixed end — 3. WL³/60 EI
+D. Simply supported beam subjected to a triangularly distributed load with its apex of magnitude W at the mid span — 4. WL³/48 EI
+Codes :
+#a A-2, B-1, C-4, D-3
+#b A-3, B-1, C-2, D-4
+#c A-2, B-4, C-1, D-3
+#d A-1, B-4, C-2, D-3
+
+## 331 | tag=CS 96 | p=47 | hw=a
+The deflection at the free end of a cantilever subjected to a couple M at its free end and having a uniform flexural rigidity EI throughout its length 'L' is equal to
+#a ML²/2 EI
+#b ML²/3 EI
+#c ML²/6 EI
+#d ML²/8 EI
+
+## 332 | tag=CS 96 | p=47-48 | hw=a | fig=47:0.585,0.64,0.85,0.738
+In Fig. 10.78, the maximum bending moment at the fixed end of the cantilever caused by the UDL is M.
+The bending moment at a section l/5 from the free end is
+#a 4% of M
+#b 5% of M
+#c 10% of M
+#d 20% of M
+
+## 333 | tag=CS 96 | p=48 | hw=c | fig=48:0.14,0.19,0.40,0.268
+The shear force diagram for a simply supported beam of span 'l' is given in Fig. 10.79.
+The maximum bending moment is
+#a Wl/2
+#b W(l/2 − l₁)
+#c Wl₁
+#d W (l-2l₁)
+
+## 334 | tag=CS 96 | p=48 | hw=c
+Match List I with List II and select the correct answer using the codes given below the lists:
+List I (Name of person whom the methods of analysis are associated) — List II (Method)
+A. Clapeyron — 1. Moment distribution method
+B. Hardycross — 2. Method for determining crippling load on a column
+C. Lame — 3. Theorem of three moments
+D. Euler — 4. Thick cylinders
+Codes :
+#a A-3, B-1, C-2, D-4
+#b A-1, B-3, C-4, D-2
+#c A-3, B-1, C-4, D-2
+#d A-1, B-2, C-4, D-3
+
+## 335 | star | tag=CS 96 | p=48 | hw=b
+A propped cantilever of span 'l' carries a uniformly distributed load of 'w' per unit run over its entire span. The value of prop reaction to keep the beam horizontal is
+#a wl/3
+#b (3/8) wl
+#c wl/2
+#d (5/8) wl
+
+## 336 | star | tag=CS 96 | p=48 | hw=c | fig=48:0.51,0.40,0.745,0.487
+ABCD is a beam of length 5l which is supported at B and C (having supported length BC = l) and having two equal overhangs AB and CD of length 2l each. It carries a u.d.l. of intensity p per unit length throughout the beam as shown in Fig. 10.80.
+The points of contraflexure will occur
+#a at B and C
+#b at the mid point of BC
+#c nowhere in the beam
+#d at the mid point of AB and CD
+
+## 337 | star | tag=CS 96 | p=48-49 | hw=d | fig=48:0.505,0.572,0.735,0.648
+The structure shown in Fig. 10.81 is stable if
+#a x = 2y
+#b 2x = y
+#c √2x = y
+#d x = √2 y
+
+## 338 | star | tag=CS 96 | p=49 | hw=a
+Two simply supported beams B₁ and B₂ have spans l and 2l respectively. Beam B₁ has a cross section of 1x1 units and beam B₂ has a cross section of 2 x 2 units. These beams are subjected to concentrated load W each at the centre of their spans. The ratio of the maximum flexural stress in these beams is
+#a 4
+#b 2
+#c ½
+#d ¼
+
+## 339 | tag=CS 97 | p=49 | hw=a
+In a particular material, if the modulus of rigidity is equal to the bulk modulus, then the Poisson's ratio will be
+#a 1/8
+#b ¼
+#c ½
+#d 1
+
+## 340 | tag=CS 97 | p=49 | hw=b
+Consider the following statements :
+When two planes at right angles are subjected to direct stresses, the Y axis which denotes shear stress, will pass through the centre of the Mohr's circle when the direct stresses are
+1. equal in magnitude
+2. unequal in magnitude, in the ratio of 1:2
+3. of the same sign
+4. of opposite signs.
+Of these statements
+#a 1 and 3 are correct
+#b 1 and 4 are correct
+#c 2 and 3 are correct
+#d 2 and 4 are correct
+
+## 341 | tag=CS 97 | p=49 | hw=a | fig=49:0.25,0.645,0.49,0.725;49:0.64,0.125,0.90,0.368 | fix=Options are the four shear force diagrams (a)-(d) of Fig. 10.83.
+Figure 10.82 shows a beam cantilevering out at one end. It carries a uniformly distributed load W over the cantilever.
+Which one of the following figures correctly represents the shear force diagram for the beam ?
+#a Fig. 10.83 (a)
+#b Fig. 10.83 (b)
+#c Fig. 10.83 (c)
+#d Fig. 10.83 (d)
+
+## 342 | tag=CS 97 | p=49 | hw=c | fig=49:0.61,0.432,0.87,0.51
+A simply supported beam of span 'l' is loaded (as shown in Fig.10.84) with a uniformly varying load of intensity w₁/ unit length at 'A' to w₂/ unit length at 'B'.
+The shear force at the support 'B' is given by
+#a (w₁ + w₂)l/3
+#b (w₁ + w₂)l/6
+#c w₁l/6 + w₂l/3
+#d w₁l/3 + w₂l/6
+
+## 343 | tag=CS 97 | p=49-50 | hw=b
+A cantilever beam of span 4 m and cross sectional area 0.3 m wide and 0.4 m deep is subjected to a concentrated load of 10 kN at the free end. Neglecting self-weight, the maximum bending stress at a section 2 m from the free end will be
+#a 20 kN/m²
+#b 2500 kN/m²
+#c 4000 kN/m²
+#d 5000 kN/m²
+
+## 344 | star | tag=CS 97 | p=50 | hw=b
+A beam of rectangular section 100 mm x 300 mm carries certain loads such that the Bending Moment at a section A is M and at another section B it is (M+C). The distance between the sections A and B is 0.5 m and there are no external loads acting between the two sections. If the value of C is 10,000 Nm, then the maximum shear stress is
+#a 1.5 MN/m²
+#b 1.0 MN/m²
+#c 0.5 MN/m²
+#d 0.25 MN/m²
+
+## 345 | star | tag=CS 97 | p=50 | hw=c
+A cantilever is subjected to a uniformly distributed load W over its whole length 'L' and a concentrated upward force W at its free end. The deflection of the free end is
+#a zero
+#b (1/384) WL³/EI ↓
+#c (5/24) WL³/EI ↑
+#d (1/2) WL³/EI ↓
+
+## 346 | star | tag=CS 98 | p=50 | hw=a
+A steel rod of circular section tapers from 2 cm diameter to 1 cm diameter over a length of 50 cm. If the modulus of elasticity of the material is 2 x 10⁶ kg/cm², then the increase in length under a pull of 3000 kg will be
+#a 0.3/2π cm
+#b 30/π cm
+#c 300/π cm
+#d 750 cm
+
+## 347 | tag=CS 98 | p=50 | hw=d | fig=50:0.51,0.09,0.75,0.17;50:0.48,0.205,0.72,0.555 | fix=Options are the four SFD/BMD pairs (a)-(d) of Fig. 10.86.
+A simply supported beam AB of span 4 m carries loads as shown in Fig. 10.85.
+The corresponding SFD and BMD for the beam will be as shown in
+#a Fig. 10.86 (a)
+#b Fig. 10.86 (b)
+#c Fig. 10.86 (c)
+#d Fig. 10.86 (d)
+
+## 348 | star | tag=CS 98 | p=50-51 | hw=a | fig=50:0.47,0.585,0.75,0.725
+For the system of springs shown in Fig. 10.87, the equivalent spring stiffness is
+#a 58 kN/m
+#b 62 kN/m
+#c 78 kN/m
+#d 90 kN/m
+
+## 349 | tag=CS 98 | p=51 | hw=d
+A cantilever beam of span L carries concentrated load 'W' at the free end. If the width 'b' of the beam is constant throughout the span, then for the beam to have uniform strength, the depth 'd' at the free end should be
+#a 6 WL/bf
+#b 3 WL/bf
+#c √(3 WL/bf)
+#d √(6 WL/bf)
+
+## 350 | tag=CS 98 | p=51 | hw=d
+Consider the following statements:
+The theory of simple bending assumes that
+1. the material of the beam is homogeneous, isotropic and obeys Hook's law
+2. plane sections of the beam remain plane after bending
+3. Each cross section of the beam is symmetric about the loading plane
+4. Young's moduli are the same for tension and compression.
+Of these statements:
+#a 1 and 2 are correct
+#b 1, 3 and 4 are correct
+#c 2, 3 and 4 are correct
+#d 1,2,3 and 4 are correct
+
+## 351 | tag=CS 98 | p=51 | hw=d | fig=51:0.29,0.625,0.51,0.725
+In a simply supported beam shown in Fig. 10.88, if dimensions ac and ab are doubled, then the bending moment and the shear force at 'c' will be such that
+#a both SF and BM are double
+#b SF is half and BM is double
+#c SF is double and BM is half
+#d SF is double and BM is four times
+
+## 352 | tag=CS 98 | p=51 | hw=a
+A rectangular beam 10 cm wide, is subjected to a maximum shear force of 50000 N, the corresponding maximum shear stress being 3 N/mm². The depth of the beam is
+#a 25 cm
+#b 22 cm
+#c 16.67 cm
+#d 30 cm
+
+## 353 | tag=CS 98 | p=51 | hw=d
+Match List I (deflection) with List II (Expressions for deflection in different types of beams of span 'l' subjected to total load 'W') and select the correct answer using the codes given below the lists:
+List I — List II
+A. Central deflection in a fixed beam subject to uniformly distributed load — 1. Wl³/3EI
+B. Central deflection in a simply supported beam subject to uniformly distributed load — 2. Wl³/48 EI
+C. Central deflection in a simply supported beam subject to concentrated load at mid-span — 3. 5 Wl³/384 EI
+D. Deflection at free end of a cantilever subject to concentrated load at free end — 4. Wl³/384 EI
+Codes :
+#a A-4, B-3, C-1, D-2
+#b A-3, B-4, C-2, D-1
+#c A-3, B-4, C-1, D-2
+#d A-4, B-3, C-2, D-1
+
+## 354 | star | tag=CS 98 | p=52 | hw=c
+A 4-metre long beam, simply supported at its ends, carries a point load 'W' at its centre. If the slope at the ends of the beam is 1°, then the deflection at the centre of the beam will be
+#a 10.56 mm
+#b 18.32 mm
+#c 23.27 mm
+#d 39.37 mm
+
+## 355 | tag=CS 98 | p=52 | hw=a
+Consider the following statements about flitched beams:
+1. A flitched beam has a composite section made of two or more materials joined together in such a manner that they behave as a unit piece and each material bends to the same radius of curvature.
+2. The total moment of resistance of a flitched beam is equal to the sum of the moments of resistance of individual sections.
+3. Flitched beams are used when a beam of one material, if used alone, would require quite a large cross sectional area.
+Of these statements
+#a 1, 2 and 3 are correct
+#b 1 and 2 are correct
+#c 1 and 3 are correct
+#d 2 and 3 are correct
+
+## 356 | tag=CS 98 | p=52 | hw=c
+Match List I (Euler load formulae for different end restraints) with List II (conditions of end restraints) and select the correct answer using the codes given below the lists:
+List I — List II
+A. 4π² EI/L² — 1. Pin-ended at both ends
+B. π² EI/4L² — 2. Fixed at one end and pinned at the other end
+C. π² EI/L² — 3. Fixed at both ends
+D. 2π² EI/L² — 4. Fixed at one end and free at the other end
+Codes :
+#a A-4, B-3, C-2, D-1
+#b A-3, B-4, C-2, D-1
+#c A-3, B-4, C-1, D-2
+#d A-4, B-3, C-1, D-2
+
+## 357 | tag=CS 98 | p=52 | hw=c
+In order to produce a maximum shearing stress of 75 MN/m² in the material of a hollow circular shaft of 25 cm outer diameter and 17.5 cm inside diameter, the torque that should be applied to the shaft is
+#a 87.4 kN.m
+#b 17.49 kN.m
+#c 174.9 kN.m
+#d 349.7 kN.m
+
+## 358 | tag=CS 98 | p=52 | hw=c
+Strain energy in a member is
+#a directly proportional to strains
+#b directly proportional to changes in strain
+#c a function of strains as well as stresses
+#d a function of loads only
+
+## 359 | tag=CS 99 | p=52 | hw=d
+Match list I with List II and select the correct answer using the codes given below the lists:
+List I — List II
+A. Ratio of lateral strain to linear strain — 1. Strain
+B. Ratio of stress to strain — 2. Poisson's ratio
+C. Ratio of extension to original length — 3. Tensile stress
+D. Ratio of axial pull to area of section — 4. Young's modulus
+Codes :
+#a A-4, B-2, C-3, D-1
+#b A-4, B-2, C-1, D-3
+#c A-2, B-4, C-3, D-1
+#d A-2, B-4, C-1, D-3
+
+## 360 | tag=CS 99 | p=53 | hw=d | fig=53:0.24,0.075,0.49,0.158;53:0.235,0.228,0.515,0.412 | fix=Options are the four shear force diagrams (a)-(d) of Fig. 10.90. Book labels the beam figure Fig. 10.89 but the question text refers to the beam as Fig. 10.90; kept as printed.
+Which one of the following represents the correct shear force diagram of the simply supported beam shown in Fig. 10.90
+#a Fig. 10.90 (a)
+#b Fig. 10.90 (b)
+#c Fig. 10.90 (c)
+#d Fig. 10.90 (d)
+
+## 361 | star | tag=CS 99 | p=53 | hw=b | fig=53:0.26,0.485,0.495,0.552
+A simply supported beam with equal overhang on both sides is loaded as shown in Fig.10.91.
+If the bending moment at mid-span is zero, then the percentage overhang on each side will be
+#a 33.3
+#b 25
+#c 20
+#d 15
+
+## 362 | tag=CS 99 | p=53 | hw=b
+Match list I with List II and select the correct answer using the codes given below the lists:
+List I (Beam/Column and loading) — List II (Number of points of contraflexure)
+A. Propped cantilever beam under mid point loading — 1. Two
+B. Fixed beam under uniformly distributed load — 2. Three
+C. Fixed beam subjected to a moment at mid point — 3. One
+D. Simply supported column subjected to eccentric load at an intermediate point
+Codes :
+#a A-3, B-2, C-1, D-3
+#b A-3, B-2, C-3, D-1
+#c A-2, B-3, C-3, D-1
+#d A-2, B-3, C-1, D-3
+
+## 363 | tag=CS 99 | p=53-54 | hw=b | fig=53:0.645,0.51,0.865,0.64 | check=Handwritten 'b' is written beside the A-R Directions codes printed below this question, not beside its options; assumed to belong to Q363.
+A simply supported truss shown in Fig. 10.92 carries a load of 20 kN at F.
+The forces in the members EF and BE are respectively.
+#a zero and 10 kN (compression)
+#b zero and 10 kN (tension)
+#c 10 kN (tension) and 10 kN (compression)
+#d 10 kN (compression) and 10 kN (tension)
+
+## 364 | tag=ES 94 | p=54 | check=A faint mark beside this question cannot be read as a letter; no answer mark recorded. | fix=Assertion-Reason question: options are the common codes printed once under 'Directions' before Q364.
+Assertion A: In a Mohr's circle, the vertical coordinates of the ends of any diameter are equal in magnitude and opposite in direction.
+Reason R : The shear stresses on two planes at right angles are equal in magnitude and tend to rotate the element in opposite directions.
+#a Both A and R are true and R is the correct explanation of A
+#b Both A and R are true but R is not a correct explanation of A
+#c A is true but R is false
+#d A is false but R is true
+
+## 365 | tag=ES 95 | p=54 | check=No handwritten answer mark found for this question. | fix=Assertion-Reason question: options are the common codes printed once under 'Directions' before Q364.
+Assertion A: Bending moment in a beam is maximum at a section where shear force is zero.
+Reason R: Shear force at a section is given by the rate of change of bending moment
+#a Both A and R are true and R is the correct explanation of A
+#b Both A and R are true but R is not a correct explanation of A
+#c A is true but R is false
+#d A is false but R is true
+
+## 366 | tag=ES 96 | p=54 | check=No handwritten answer mark found for this question. | fix=Assertion-Reason question: options are the common codes printed once under 'Directions' before Q364.
+Assertion A : Strain is a fundamental behaviour of the material, while the stress is a derived concept.
+Reason R : Strain does not have a unit while the stress has a unit.
+#a Both A and R are true and R is the correct explanation of A
+#b Both A and R are true but R is not a correct explanation of A
+#c A is true but R is false
+#d A is false but R is true
+
+## 367 | tag=ES 96 | p=54 | check=No handwritten answer mark found for this question. | fix=Assertion-Reason question: options are the common codes printed once under 'Directions' before Q364.
+Assertion A : The maximum bending moment occurs where the shear force is either zero or changes sign.
+Reason R: If the shear force diagram line between the two, points is horizontal, the BM diagram line is inclined. But if the SF diagram is inclined, the BM diagram is a parabola of second degree.
+#a Both A and R are true and R is the correct explanation of A
+#b Both A and R are true but R is not a correct explanation of A
+#c A is true but R is false
+#d A is false but R is true
+
+## 368 | tag=ES 96 | p=54 | check=No handwritten answer mark found for this question. | fix=Assertion-Reason question: options are the common codes printed once under 'Directions' before Q364.
+Assertion A : I-section is preferred to rectangular section for resisting bending moment.
+Reason R: In I-section more than 80% of bending moment is resisted by flanges only.
+#a Both A and R are true and R is the correct explanation of A
+#b Both A and R are true but R is not a correct explanation of A
+#c A is true but R is false
+#d A is false but R is true
+
+## 369 | tag=ES 96 | p=54 | check=No handwritten answer mark found for this question. | fix=Assertion-Reason question: options are the common codes printed once under 'Directions' before Q364.
+Assertion A : A beam of circular cross-section in comparison to rectangular section of the same material but of equal cross sectional area can resist a larger shear force.
+Reason R : The maximum intensities of shear stress in the sections of a beam of circular cross section and of a rectangular cross section are 1.33 times and 1.5 times the average shear stress respectively.
+#a Both A and R are true and R is the correct explanation of A
+#b Both A and R are true but R is not a correct explanation of A
+#c A is true but R is false
+#d A is false but R is true
+
+## 370 | tag=ES 96 | p=54 | check=No handwritten answer mark found for this question. | fix=Assertion-Reason question: options are the common codes printed once under 'Directions' before Q364.
+Assertion A : The buckling load for a column of specified material, cross section and end conditions calculated as per Euler's formula varies inversely with the column length.
+Reason R : Euler's formula takes into account the end conditions in determining the effective length of column.
+#a Both A and R are true and R is the correct explanation of A
+#b Both A and R are true but R is not a correct explanation of A
+#c A is true but R is false
+#d A is false but R is true
+
+## 371 | tag=ES 98 | p=54 | check=No handwritten answer mark found for this question. | fix=Assertion-Reason question: options are the common codes printed once under 'Directions' before Q364.
+Assertion A : A bar tapers from a diameter of d₁ to a diameter of d₂ over its length 'l' and is subjected to a tensile force 'P'. If extension is calculated based on treating it as a bar of average diameter, the calculated extension will be more than the actual extension.
+Reason R : The actual extension in such bars is given by
+Δ = (4P/πd₁d₂) (L/E)
+#a Both A and R are true and R is the correct explanation of A
+#b Both A and R are true but R is not a correct explanation of A
+#c A is true but R is false
+#d A is false but R is true
+
+## 372 | tag=ES 98 | p=54 | check=No handwritten answer mark found for this question. | fix=Assertion-Reason question: options are the common codes printed once under 'Directions' before Q364.
+Assertion A : Bending moment may be defined as the algebraic sum of the moments of all forces on either side of the section.
+Reason R: The rate of change of bending moment is equal to shear force at the section.
+#a Both A and R are true and R is the correct explanation of A
+#b Both A and R are true but R is not a correct explanation of A
+#c A is true but R is false
+#d A is false but R is true
+
+## 373 | tag=ES 99 | p=54-82 | check=No handwritten answer mark found for this question. | fix=Assertion-Reason question: options are the common codes printed once under 'Directions' before Q364.
+Assertion A : Macaulay's method to determine the slope and deflection at a point in a beam is suitable for beams subjected to concentrated loads and can be extended to uniformly distributed loads.
+Reason R: Macaulay's method is based upon the modification of moment area method. This is applicable to a simple beam carrying a single concentrated load but by superposition, this method can be extended to cover any kind of loading.
+#a Both A and R are true and R is the correct explanation of A
+#b Both A and R are true but R is not a correct explanation of A
+#c A is true but R is false
+#d A is false but R is true
+
+## 374 | tag=ES 99 | p=82 | check=No handwritten answer mark found for this question. | fix=Assertion-Reason question: options are the common codes printed once under 'Directions' before Q364.
+Assertion A: Rankine's theory is generally used for finding out the buckling load of intermediate columns.
+Reason R: Euler's theory gives higher values for buckling loads in intermediate columns.
+#a Both A and R are true and R is the correct explanation of A
+#b Both A and R are true but R is not a correct explanation of A
+#c A is true but R is false
+#d A is false but R is true
+
+## 375 | tag=CS 96 | p=82 | check=No handwritten answer mark found for this question. | fix=Assertion-Reason question: options are the common codes printed once under 'Directions' before Q364.
+Assertion A: A three hinged parabolic arch will not have bending moment due to uniformly distributed load.
+Reason R: The vertical intercept between the linear arch and the centre line of the actual arch gives the bending moment at a section. Due to uniformly distributed load, the linear arch will be a parabola. It will pass through the hinge and the crown. The centre line of the actual arch is also parabolic, passing through the central hinge. These two parabolas pass through three common points and hence they overlap each other.
+#a Both A and R are true and R is the correct explanation of A
+#b Both A and R are true but R is not a correct explanation of A
+#c A is true but R is false
+#d A is false but R is true
+
+## 376 | tag=CS 98 | p=82 | check=No handwritten answer mark found for this question. | fix=Assertion-Reason question: options are the common codes printed once under 'Directions' before Q364.
+Assertion A: The bending moment on a section is maximum where the shearing force changes sign.
+Reason R: In a continuous curve of bending moment, the point of zero bending moment where it changes sign, is called the point of contra-flexure.
+#a Both A and R are true and R is the correct explanation of A
+#b Both A and R are true but R is not a correct explanation of A
+#c A is true but R is false
+#d A is false but R is true
