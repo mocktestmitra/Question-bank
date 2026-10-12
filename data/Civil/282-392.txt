@@ -4646,3 +4646,363 @@ Reason R : The angle θ₁ is smaller than angle θ₂.
 #b Both A and R are true but R is not a correct explanation of A
 #c A is true but R is false
 #d A is false but R is true
+
+@chapter 12 Structural Analysis
+
+## 1 | p=55 | hw=c
+The number of independent equations to be satisfied for static equilibrium of a plane structure is
+#a 1
+#b 2
+#c 3
+#d 6
+
+## 2 | p=55 | hw=c
+If there are m unknown member forces, r unknown reaction components and j number of joints, then the degree of static indeterminacy of a pin-jointed plane frame is given by
+#a m + r + 2j
+#b m − r + 2j
+#c m + r − 2j
+#d m + r − 3j
+
+## 3 | star | p=55 | hw=c
+Number of unknown internal forces in each member of a rigid jointed plane frame is
+#a 1
+#b 2
+#c 3
+#d 6
+
+## 4 | star | p=55 | hw=c
+Degree of static indeterminacy of a rigid-jointed plane frame having 15 members, 3 reaction components and 14 joints is
+#a 2
+#b 3
+#c 6
+#d 8
+
+## 5 | p=55 | hw=a
+Degree of kinematic indeterminacy of a pin-jointed plane frame is given by
+#a 2j − r
+#b j − 2r
+#c 3j − r
+#d 2j + r
+
+## 6 | p=55 | hw=b
+Independent displacement components at each joint of a rigid-jointed plane frame are
+#a three linear movements
+#b two linear movements and one rotation
+#c one linear movement and two rotations
+#d three rotations
+
+## 7 | p=55 | hw=b
+If in a pin-jointed plane frame (m + r) > 2j, then the frame is
+#a stable and statically determinate
+#b stable and statically indeterminate
+#c unstable
+#d none of the above
+#note where m is number of members, r is reaction components and j is number of joints
+
+## 8 | p=55 | hw=a
+A pin-jointed plane frame is unstable if
+#a (m + r) < 2j
+#b m + r = 2j
+#c (m + r) > 2j
+#d none of the above
+#note where m is number of members, r is reaction components and j is number of joints
+
+## 9 | p=55 | hw=c
+A rigid-jointed plane frame is stable and statically determinate if
+#a (m + r) = 2j
+#b (m + r) = 3j
+#c (3m + r) = 3j
+#d (m + 3r) = 3j
+
+## 10 | p=56 | hw=a | fig=56:0.13,0.148,0.415,0.25 | fix=Options are the four beams (a)-(d) of Fig. 12.1.
+Which of the beams shown in Fig. 12.1 is unstable ?
+#a Fig. 12.1 (a)
+#b Fig. 12.1 (b)
+#c Fig. 12.1 (c)
+#d Fig. 12.1 (d)
+
+## 11 | p=56 | hw=d | fig=56:0.145,0.305,0.39,0.355
+Degree of kinematic indeterminacy of the beam shown in Fig. 12.2 is
+#a 4
+#b 6
+#c 8
+#d 10
+
+## 12 | p=56 | hw=b | fig=56:0.16,0.462,0.335,0.60
+The rigid-jointed frame shown in Fig. 12.3 is
+#a unstable
+#b stable and statically determinate
+#c stable and statically indeterminate by one degree
+#d stable and statically indeterminate by two degrees
+
+## 13 | p=56 | hw=c | fig=56:0.505,0.065,0.69,0.155
+The degree of kinematic indeterminacy of the pin-joined frame shown in Fig. 12.4 is
+#a 0
+#b 1
+#c 2
+#d 4
+
+## 14 | p=56 | hw=d
+The number of independent equations to be satisfied for static equilibrium in a space structure is
+#a 2
+#b 3
+#c 4
+#d 6
+
+## 15 | p=56 | hw=b
+The degree of static indeterminacy of a pin-jointed space frame is given by
+#a m + r − 2j
+#b m + r − 3j
+#c 3m + r − 3j
+#d m + r + 3j
+#note where m is number of unknown member forces, r is unknown reaction components and j is number of joints
+
+## 16 | p=56 | hw=d
+The degree of static indeterminacy of a rigid-jointed space frame is
+#a m + r − 2j
+#b m + r − 3j
+#c 3m + r − 3j
+#d 6m + r − 6j
+#note where m, r and j have their usual meanings
+
+## 17 | p=56 | hw=b
+The degree of kinematic indeterminacy of a pin-jointed space frame is
+#a 2j − r
+#b 3j − r
+#c j − 2r
+#d j − 3r
+#note where j is number of joints and r is reaction components
+
+## 18 | p=56-57 | hw=d
+The number of independent displacement components at each joint of a rigid-jointed space frame is
+#a 1
+#b 2
+#c 3
+#d 6
+
+## 19 | p=57 | hw=a
+If in a rigid-jointed space frame, (6m + r) < 6j, then the frame is
+#a unstable
+#b stable and statically determinate
+#c stable and statically indeterminate
+#d none of the above
+
+## 20 | p=57 | hw=c
+The principle of virtual work can be applied to elastic system by considering the virtual work of
+#a internal forces only
+#b external forces only
+#c internal as well as external forces
+#d none of the above
+
+## 21 | p=57 | hw=c
+Castigliano's first theorem is applicable
+#a for statically determinate structures only
+#b when the system behaves elastically
+#c only when principle of superposition is valid
+#d none of the above
+
+## 22 | p=57 | hw=a
+Principle of superposition is applicable when
+#a deflections are linear functions of applied forces
+#b material obeys Hooke's law
+#c the action of applied forces will be affected by small deformations of the structure
+#d none of the above
+
+## 23 | p=57 | hw=c | fix=Option d printed as 'greater than' (number not printed).
+In moment distribution method, the sum of distribution factors of all the members meeting at any joint is always
+#a zero
+#b less than 1
+#c 1
+#d greater than
+
+## 24 | p=57 | hw=b
+The carryover factor in a prismatic member whose far end is fixed is
+#a 0
+#b 1/2
+#c 3/4
+#d 1
+
+## 25 | p=57 | hw=a
+The carryover factor in a prismatic member whose far end is hinged is
+#a 0
+#b 1/2
+#c 3/4
+#d 1
+
+## 26 | p=57 | hw=a
+The moment required to rotate the near end of a prismatic beam through a unit angle without translation, the far end being simply supported, is given by
+#a 3EI/L
+#b 4EI/L
+#c 2EI/L
+#d EI/L
+#note where EI is flexural rigidity and L is span of beam
+
+## 27 | p=57 | hw=d
+The moment required to rotate the near end of a prismatic beam through unit angle, without translation (the far end being fixed), is given by
+#a EI/L
+#b 2EI/L
+#c 3EI/L
+#d 4EI/L
+#note where EI is flexural rigidity and L is span of beam
+
+## 28 | p=57 | hw=a
+If M is the external moment which rotates the near end of a prismatic beam without translation (the far end being fixed), then the moment induced at the far end is
+#a M/2 in same direction as M
+#b M/2 in opposite direction as M
+#c M in opposite direction
+#d 0
+
+## 29 | p=57-58 | hw=a
+The principle of superposition is not applicable when
+i) the material does not obey Hooke's law
+ii) the effects of temperature changes are taken into consideration
+iii) the structure is being analysed for the effect of support settlement
+The correct answer is
+#a only (i)
+#b both (i) and (ii)
+#c both (ii) and (iii)
+#d (i), (ii) and (iii)
+
+## 30 | p=58 | hw=a
+If the displacement at coordinate i due to unit force at coordinate j is δij, and displacement at coordinate j due to unit force at coordinate i is δji, then according to Maxwell's Reciprocal theorem,
+#a δij = δji
+#b δij > δji
+#c δij < δji
+#d δij ≠ δji
+
+## 31 | p=58 | hw=b
+The ordinates of influence line diagram for bending moment always have the dimensions of
+#a force
+#b length
+#c force × length
+#d force / length
+
+## 32 | p=58 | hw=d
+If one end of a prismatic beam AB with fixed ends is given a transverse displacement Δ without any rotation, then the transverse reactions at A or B due to displacement is
+#a 6EIΔ/l²
+#b 6EIΔ/l³
+#c 12EIΔ/l²
+#d 12EIΔ/l³
+#note where l is span of beam AB and EI is flexural rigidity
+
+## 33 | p=58 | hw=a | fix=Last letter of 'equal'/'different' in options c, d is lost in the binding on both scans p58 and p59; completed.
+If the sinking of a support of a fixed beam causes the beam to rotate in the clockwise direction, then the moments induced at both the ends of the beam will be
+#a in anticlockwise direction and of equal magnitude
+#b in clockwise direction and of different magnitudes
+#c in opposite directions and of equal magnitude
+#d in opposite directions and of different magnitudes
+
+## 34 | p=58 | hw=a | fix=Last letter of 'an'/'of' is lost in the binding on both scans p58 and p59; completed.
+In column analogy method, the area of an analogous column for a fixed beam of span L and flexural rigidity EI is taken as
+#a L/EI
+#b L/2 EI
+#c L/3EI
+#d L/4EI
+
+## 35 | p=58 | hw=b
+The degree of static indeterminacy up to which column analogy method can be used is
+#a 2
+#b 3
+#c 4
+#d unrestricted
+
+## 36 | p=58 | hw=d
+The deflection at any point of a perfect frame can be obtained by applying a unit load at the joint in
+#a vertical direction
+#b horizontal direction
+#c inclined direction
+#d the direction in which the deflection is required
+
+## 37 | p=58 | hw=a
+In the slope deflection equations, the deformations are considered to be caused by
+i) bending moment
+ii) shear force
+iii) axial force
+The correct answer is
+#a only (i)
+#b (i) and (ii)
+#c (ii) and (iii)
+#d (i), (ii) and (iii)
+
+## 38 | p=58 | hw=c
+The three moments equation is applicable only when
+#a the beam is prismatic
+#b there is no settlement of supports
+#c there is no discontinuity such as hinges within the span
+#d the spans are equal
+
+## 39 | p=58 | hw=a | fix=Right edge cut off on scan p58; options completed from scan p59, which shows the full right column of book p368.
+While using three moments equation, a fixed end of a continuous beam is replaced by an additional span of
+#a zero length
+#b infinite length
+#c zero moment of inertia
+#d none of the above
+
+## 40 | p=58 | hw=b | fix=Right edge cut off on scan p58; text completed from scan p59, which shows the full right column of book p368.
+The Castigliano's second theorem can be used to compute deflections
+#a in statically determinate structures only
+#b for any type of structure
+#c at the point under the load only
+#d for beams and frames only
+
+## 41 | p=58 | hw=c | fix=Right edge cut off on scan p58; text completed from scan p59, which shows the full right column of book p368.
+Bending moment at any section in a conjugate beam gives in the actual beam
+#a slope
+#b curvature
+#c deflection
+#d bending moment
+
+## 42 | p=58 | hw=c | fix=Right edge cut off on scan p58; text completed from scan p59, which shows the full right column of book p368.
+For a two-hinged arch, if one of the supports settles down vertically, then the horizontal thrust
+#a is increased
+#b is decreased
+#c remains unchanged
+#d becomes zero
+
+## 43 | p=58 | hw=b | fix=Right edge cut off on scan p58; text completed from scan p59, which shows the full right column of book p368.
+For a symmetrical two hinged parabolic arch, if one of the supports settles horizontally, then the horizontal thrust
+#a is increased
+#b is decreased
+#c remains unchanged
+#d becomes zero
+
+## 44 | p=58 | hw=c | fix=Right edge cut off on scan p58; text completed from scan p59, which shows the full right column of book p368.
+A single rolling load of 8 kN rolls along a girder of 15 m span. The absolute maximum bending moment will be
+#a 8 kN.m
+#b 15 kN.m
+#c 30 kN.m
+#d 60 kN.m
+
+## 45 | p=58 | hw=b | fix=Right edge cut off on scan p58; text completed from scan p59, which shows the full right column of book p368.
+The maximum bending moment due to a train of wheel loads on a simply supported girder
+#a always occurs at centre of span
+#b always occurs under a wheel load
+#c never occurs under a wheel load
+#d none of the above
+## 46 | p=59 | hw=d
+When a uniformly distributed load, longer than the span of the girder, moves from left to right, then the maximum bending moment at mid section of span occurs when the uniformly distributed load occupies
+#a less than the left half span
+#b whole of left half span
+#c more than the left half span
+#d whole span
+
+## 47 | p=59 | hw=d
+When a uniformly distributed load, shorter than the span of the girder, moves from left to right, then the conditions for maximum bending moment at a section is that
+#a the head of the load reaches the section
+#b the tail of the load reaches the section
+#c the load position should be such that the section divides it equally on both sides
+#d the load position should be such that the section divides the load in the same ratio as it divides the span
+
+## 48 | p=59 | hw=b
+When a series of wheel loads crosses a simply supported girder, the maximum bending moment under any given wheel load occurs when
+#a the centre of gravity of the load system is midway between the centre of span and wheel load under consideration
+#b the centre of span is midway between the centre of gravity of the load system and the wheel load under consideration
+#c the wheel load under consideration is midway between the centre of span and the centre of gravity of the load system
+#d none of the above
+
+## 49 | p=59 | hw=b
+Which of the following is not the displacement method ?
+#a Equilibrium method
+#b Column analogy method
+#c Moment distribution method
+#d Kani's method
