@@ -5,7 +5,8 @@ usage: python3 scripts/build.py            # all subjects
 
 Transcript format (see header of data/Civil/1-92.txt):
   @chapter N Name
-  ## QNO | star | tag=ES 99 | p=4 | hw=b | fig=PAGE:x0,y0,x1,y1 | check=reason | fix=reason
+  ## QNO | star | tag=ES 99 | p=4 | hw=b | fig=PAGE:x0,y0,x1,y1 | check=reason | fix=reason | dup=2
+  (dup=N marks the Nth question printed with an already-used number; keyed as "QNO-N")
   question lines...
   #a option text (continuation lines allowed)
   #b ... #c ... #d ...
@@ -108,7 +109,7 @@ def validate(chapters, qs, keys, expl):
     for q in qs:
         by_ch.setdefault(q["ch"], []).append(q)
     for ch, lst in sorted(by_ch.items()):
-        nums = [int(q["qno"]) for q in lst]
+        nums = [int(q["qno"]) for q in lst if not q.get("dup")]
         seen = set()
         for n in nums:
             if n in seen:
@@ -117,7 +118,7 @@ def validate(chapters, qs, keys, expl):
         for n in range(1, max(nums) + 1):
             if n not in seen:
                 issues.append((ch, n, f"missing Q number {n}"))
-        if nums != sorted(nums):
+        if [int(q["qno"]) for q in lst] != sorted(int(q["qno"]) for q in lst):
             issues.append((ch, None, "Q numbers out of order"))
     for q in qs:
         flags = []
@@ -131,9 +132,10 @@ def validate(chapters, qs, keys, expl):
             flags.append(f"handwritten mark '{hw}' not a-d")
         if q.get("check"):
             flags.append(q["check"])
-        k = keys.get((q["ch"], q["qno"]))
+        kid = q["qno"] + (f"-{q['dup']}" if q.get("dup") else "")
+        k = keys.get((q["ch"], kid))
         q["key"] = k or ""
-        q["expl"] = expl.get((q["ch"], q["qno"]), "")
+        q["expl"] = expl.get((q["ch"], kid), "")
         if not k:
             q["match"] = "NO_KEY"
         elif not hw:
@@ -153,7 +155,7 @@ def validate(chapters, qs, keys, expl):
 def crop_figure(q, outdir):
     """fig=PAGE:x0,y0,x1,y1 ; several boxes may be joined with ';' (stacked vertically)."""
     os.makedirs(outdir, exist_ok=True)
-    out = os.path.join(outdir, f"ch{q['ch']:02d}_q{int(q['qno']):03d}.png")
+    out = os.path.join(outdir, f"ch{q['ch']:02d}_q{int(q['qno']):03d}" + (f"_{q['dup']}" if q.get("dup") else "") + ".png")
     if not os.path.exists(out):
         parts = []
         for spec in q["fig"].split(";"):
@@ -189,6 +191,8 @@ WIDTH = {"Question": 60, "Option a": 28, "Option b": 28, "Option c": 28, "Option
 def row(subj, chapters, q):
     question = q["q"] + ("\n" + q["note"] if q["note"] else "")
     notes = list(q["flags"])
+    if q.get("dup"):
+        notes.append(f"Book prints question number {q['qno']} more than once; this is occurrence {q['dup']}.")
     if q.get("fix"):
         notes.append(q["fix"])
     if q["note"]:
@@ -239,7 +243,7 @@ def build(subj):
     outdir = os.path.join(ROOT, "output", subj)
     figdir = os.path.join(outdir, "figures")
     os.makedirs(outdir, exist_ok=True)
-    qs.sort(key=lambda q: (q["ch"], int(q["qno"])))
+    qs.sort(key=lambda q: (q["ch"], int(q["qno"]), int(q.get("dup", 1))))
 
     wb = Workbook()
     idx = wb.active
