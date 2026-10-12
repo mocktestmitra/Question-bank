@@ -5006,3 +5006,1005 @@ Which of the following is not the displacement method ?
 #b Column analogy method
 #c Moment distribution method
 #d Kani's method
+
+## 50 | p=60 | hw=d
+The Muller-Breslau principle can be used to
+i) determine the shape of the influence line
+ii) indicate the parts of the structure to be loaded to obtain the maximum effect
+iii) calculate the ordinates of the influence lines
+The correct answer is
+#a only (i)
+#b both (i) and (ii)
+#c both (ii) and (iii)
+#d all (i), (ii) and (iii)
+
+## 51 | p=60 | hw=a | fig=60:0.105,0.285,0.425,0.408 | fix=Options are the four shear force diagrams (a)-(d) of Fig. 12.5.
+The correct shear force diagram for the beam shown below is
+#a Fig. 12.5 (a)
+#b Fig. 12.5 (b)
+#c Fig. 12.5 (c)
+#d Fig. 12.5 (d)
+
+## 52 | star | tag=ES 98 | p=60 | hw=d | fig=60:0.08,0.457,0.415,0.567 | fix=Options are the four diagrams (a)-(d) of Fig. 12.6.
+The correct bending moment diagram for the middle column of the frame shown below is
+#a Fig. 12.6 (a)
+#b Fig. 12.6 (b)
+#c Fig. 12.6 (c)
+#d Fig. 12.6 (d)
+
+## 53 | p=60 | hw=a | fig=60:0.145,0.60,0.345,0.69
+The reaction at support A of the propped cantilever beam shown in Fig. 12.7 is
+#a 0
+#b 1 t
+#c 0.5 t
+#d 2 t
+
+## 54 | p=60 | hw=a | fig=60:0.50,0.105,0.745,0.17
+(Fig. 12.8)
+For unyielding supports, the slope deflection equation for part BC of the beam shown in Fig. 12.8 is
+#a M_BC = M_FBC + (2EI₂/L₂)(2θ_B + θ_C)
+#b M_BC = M_FBC + (2EI₂/L₂)(2θ_C + θ_B)
+#c M_BC = M_FBC + (2EI₂/L₂)(2θ_B + θ_C) + (1/2) M_FBC
+#d M_BC = M_FBC + (2EI₂/L₂)(2θ_B + θ_C) + M_FBA
+#note where symbols have their usual meanings
+
+## 55 | p=60 | hw=c | fig=60:0.54,0.375,0.67,0.478
+(Fig. 12.9)
+What is the degree of static indeterminacy of the structure shown in Fig. 12.9 ?
+#a 1
+#b 2
+#c 3
+#d 4
+
+## 56 | p=60 | hw=d | fig=60:0.50,0.568,0.69,0.623
+(Fig. 12.10)
+What is the degree of kinematic indeterminacy of the beam shown in Fig. 12.10 ?
+#a 2
+#b 3
+#c 4
+#d 5
+
+## 57 | p=60-61 | hw=b
+What is the degree of kinematic indeterminacy of the beam shown in Fig. 12.10, if the axial deformation is ignored?
+#a 2
+#b 3
+#c 4
+#d 5
+
+## 58 | p=61 | hw=a | fig=61:0.31,0.165,0.448,0.31
+(Fig. 12.11)
+What is the degree of kinematic indeterminacy of the frame shown in Fig. 12.11, if the axial deformation is ignored ?
+#a 8
+#b 10
+#c 12
+#d 14
+
+## 59 | p=61 | hw=b | fig=61:0.285,0.41,0.52,0.475
+(Fig. 12.12)
+What is the degree of static indeterminacy of the beam shown in Fig. 12.12 ?
+#a 1
+#b 2
+#c 3
+#d 4
+
+## 60 | p=61 | hw=c | fig=61:0.325,0.56,0.478,0.705
+(Fig. 12.13)
+The portal frame shown in Fig. 12.13 will
+#a not sway
+#b sway towards left
+#c sway towards right
+#d sway either to left or right
+
+## 61 | p=61 | hw=c | fig=61:0.632,0.14,0.84,0.205
+(Fig. 12.14)
+Due to uniformly distributed load, maximum reaction at support B for the beam shown in Fig. 12.14 will be when
+#a only AB is loaded
+#b only BC is loaded
+#c entire span is loaded
+#d none of the above
+
+## 62 | p=61 | hw=b | fig=61:0.61,0.335,0.915,0.51 | fix=Options are the four influence lines (a)-(d) of Fig. 12.15.
+The influence line for force in member DC of the truss, shown below will be
+#a Fig. 12.15 (a)
+#b Fig. 12.15 (b)
+#c Fig. 12.15 (c)
+#d Fig. 12.15 (d)
+
+## 63 | p=61 | hw=a | fig=61:0.675,0.518,0.895,0.60
+(Fig. 12.16)
+In the beam shown in Fig. 12.16, if the displacement at C due to load W at B is 5 mm, then the displacement at B due to a load of 0.2 W at C will be
+#a 1 mm
+#b 2 mm
+#c 5 mm
+#d 25 mm
+
+## 64 | p=62 | hw=c | fig=62:0.15,0.072,0.40,0.152
+(Fig. 12.17)
+The flexibility matrix corresponding to co-ordinates 1 and 2 for the structure shown in Fig. 12.17 is
+#a (L/3EI) [4 1; 1 2]
+#b (L/2EI) [3 2; 2 4]
+#c (L/6EI) [4 1; 1 2]
+#d (L/3EI) [3 2; 2 4]
+
+## 65 | star | p=62 | hw=a
+The elements of flexibility matrix of a structure
+#a are dependent on the choice of co-ordinates
+#b are independent of the choice of co-ordinates
+#c are always dimensionally homogeneous
+#d both (a) and (c}
+
+## 66 | p=62 | hw=d
+Study the following statements.
+i) The displacement method is more useful when degree of kinematic indeterminacy is greater than the degree of static indeterminacy.
+ii) The displacement method is more useful when degree of kinematic indeterminacy is less than the degree of static indeterminacy.
+iii) The force method is more useful when degree of static indeterminacy is greater than the degree of kinematic indeterminacy.
+iv) The force method is more useful when degree of static indeterminacy is less than the degree of kinematic indeterminacy.
+The correct answer is
+#a (i) and (iii)
+#b (ii) and (iii)
+#c (i) and (iv)
+#d (ii) and (iv)
+
+## 67 | p=62 | hw=c
+Select the correct statement
+#a Flexibility matrix is a square symmetrical matrix
+#b Stiffness matrix is a square symmetrical matrix
+#c both (a) and (b)
+#d none of the above
+
+## 68 | p=62 | hw=a
+To generate the j th column of the flexibility matrix
+#a a unit force is applied at coordinate j and the displacements are calculated at all coordinates
+#b a unit displacement is applied at co-ordinate j and the forces are calculated at all coordinates
+#c a unit force is applied at coordinate j and the forces are calculated at all coordinates
+#d a unit displacement is applied at co-ordinate j and the displacements are calculated at all co-ordinates
+
+## 69 | star | p=62 | hw=a
+For stable structures, one of the important properties of flexibility and stiffness matrices is that the elements on the main diagonal
+i) of a stiffness matrix must be positive
+ii) of a stiffness matrix must be negative
+iii) of a flexibility matrix must be positive
+iv) of a flexibility matrix must be negative
+The correct answer is
+#a (i) and (iii)
+#b (ii) and (iii)
+#c (i) and (iv)
+#d (ii) and (iv)
+
+## 70 | p=62 | hw=b
+The strain energy of a structure due to bending is given by
+#a ∫M²dx/EI
+#b (1/2) ∫M²dx/EI
+#c ∫2M²dx/EI
+#d (1/3) ∫M²dx/2EI
+
+## 71 | p=62-63 | hw=d
+Effects of shear force and axial force on plastic moment capacity of a structure are respectively to
+#a increase and decrease
+#b increase and increase
+#c decrease and increase
+#d decrease and decrease
+
+## 72 | p=63 | hw=c | fig=63:0.28,0.262,0.445,0.388
+For the structure shown in Fig. 12.18, the ratio of relative stiffness for AB and AC is
+#a 1/2
+#b 3/4
+#c 4/3
+#d 2
+#note where I and L represent moment of inertia and length respectively.
+
+## 73 | p=63 | hw=b | fig=63:0.27,0.524,0.47,0.60
+When a unit rotation is given at end A of the beam shown in Fig. 12.19, the moment produced at end B will be
+#a 0
+#b 2 EI/L
+#c 4 EI/L
+#d 6 EI/L
+
+## 74 | p=63 | hw=b
+Which of the following methods of structural analysis is a force method ?
+#a slope deflection method
+#b column analogy method
+#c moment distribution method
+#d none of the above
+
+## 75 | p=63 | hw=a
+Which of the following methods of structural analysis is a displacement method ?
+#a moment distribution method
+#b column analogy method
+#c three moment equation
+#d none of the above
+
+## 76 | p=63 | hw=a
+In the displacement method of structural analysis, the basic unknowns are
+#a displacements
+#b force
+#c displacements and forces
+#d none of the above
+
+## 77 | p=63 | hw=d
+The fixed support in a real beam becomes in the conjugate beam a
+#a roller support
+#b hinged support
+#c fixed support
+#d free end
+
+## 78 | p=63 | hw=b
+The width of the analogous column in the method of column analogy is
+#a 2/EI
+#b 1/EI
+#c 1/2 EI
+#d 1/4 EI
+
+## 79 | p=63 | hw=a
+A simply supported beam deflects by 5 mm when it is subjected to a concentrated load of 10 kN at its centre. What will be deflection in a 1/10 model of the beam if the model is subjected to a 1 kN load at its centre ?
+#a 5 mm
+#b 0.5 mm
+#c 0.05 mm
+#d 0.005mm
+
+## 80 | p=63 | hw=b
+The deformation of a spring produced by a unit load is called
+#a stiffness
+#b flexibility
+#c influence coefficient
+#d unit strain
+
+## 81 | p=63-64 | hw=c | fig=64:0.15,0.055,0.41,0.165
+A force P is applied at the support B of the model (scale 1/10) of a two hinged arch as shown in Fig. 12.20. This force causes B to move through 100 mm and raises the crown C of the arch by 50 mm.
+In the prototype structure if a load of 10 kN is applied at the crown, the horizontal thrust produced will be
+#a 20 kN
+#b 10 kN
+#c 5 kN
+#d 1kN
+
+## 82 | p=64 | hw=b
+A fixed beam of span L is carrying a point load P at its midspan. If the moment of interia of the middle half length is two times that of the remaining length, then the fixed end moments will be
+#a PL/32
+#b 5PL/48
+#c 3PL/32
+#d 5PL/32
+
+## 83 | p=64 | hw=a
+A fixed beam AB of span L is subjected to a clockwise moment M at a distance 'a' from end A. Fixed end moment at end A will be
+#a (M/L²)(L − a)(L − 3a)
+#b (M/L²) a (2L − 3a)
+#c (Ma/L²)(L − a)
+#d (M/L²)(L − a)(2L − a)
+
+## 84 | p=64 | hw=a | fix=Last word of some lines is lost in the binding on scans p64 and p65; completed from context (single words only).
+Consider the following statements.
+i) Conjugate beam can be used to determine slopes and deflection in a non-prismatic beam.
+ii) Conjugate beam may be statically indeterminate.
+iii) Conjugate beam method gives absolute slope and deflection.
+The correct answer is
+#a (i) and (iii)
+#b (i) and (ii)
+#c (ii) and (iii)
+#d (i), (ii ) and (iii)
+
+## 85 | p=64 | hw=c | fix=Last word of some lines is lost in the binding on scans p64 and p65; completed from context (single words only).
+In a three hinged arch,
+i) influence line for horizontal thrust is parabolic.
+ii) maximum horizontal thrust occurs when the unit load is at the crown
+iii) maximum sagging moment occurs when the unit load is at the section itself.
+The correct answer is
+#a (i) and (ii)
+#b (i) and (iii)
+#c (ii) and (iii)
+#d (i), (ii) and (iii)
+
+## 86 | p=64 | hw=b | fix=Last word of some lines is lost in the binding on scans p64 and p65; completed from context (single words only).
+Influence line for horizontal thrust in a two hinged parabolic arch is
+#a parabolic
+#b cubic
+#c triangular
+#d rectangle
+
+## 87 | star | p=64 | hw=a | fix=Last word of some lines is lost in the binding on scans p64 and p65; completed from context (single words only).
+For a single point load W moving on a symmetrical three hinged parabolic arch of span L, the maximum sagging moment occurs at a distance x from ends.
+The value of x is
+#a 0.211 L
+#b 0.25 L
+#c 0.234 L
+#d 0.5 L
+
+## 88 | p=64-65 | hw=a | fix=Last word of some lines is lost in the binding on scans p64 and p65; completed from context (single words only).
+Muller Breslau's principle for obtaining influence lines is applicable to
+i) trusses
+ii) statically determinate beams and frames
+iii) statically indeterminate structures, the material of which is elastic and follows Hooke's law
+iv) any statically indeterminate structure
+The correct answer is
+#a (i), (ii) and (iii)
+#b (i), (ii) and (iv)
+#c (i) and (ii)
+#d only (i)
+
+## 89 | p=65 | hw=b
+Consider the following statements in regard to finding stresses in truss members due to moving loads.
+i) The stress in a web member is given by the influence line of shear force for the panel containing the member.
+ii) The stress in a web member is given by the influence line of bending moment for the node point opposite to the member.
+iii) The stress in a chord member is given by the influence line of shear force for the panel containing the member.
+iv) The stress in a chord member is given by the influence line of bending moment for the node point opposite to the member.
+The correct answer is
+#a (i) and (iii)
+#b (i) and (iv)
+#c (ii) and (iii)
+#d (ii) and (iv)
+
+## 90 | p=65 | hw=b
+In which of the following truss members the stress depends upon, whether the load is moving on top chord or bottom chord.
+#a top chord and bottom chord
+#b verticals
+#c diagonals
+#d verticals and diagonals
+
+## 91 | star | p=65 | hw=c
+For approximate analysis of building frames under vertical loads, the point of inflection is assumed at
+#a centre of each beam
+#b centre of each column
+#c one-tenth of the span length from each end of the beam
+#d both (a) and (b)
+
+## 92 | star | p=65 | hw=c
+In the cantilever method of lateral load analysis, which of the following assumptions are made ?
+i) The axial force in the beam is zero.
+ii) The intensity of axial stress in each column of a storey is proportional to the horizontal distance of that column from the centre of gravity of all columns of the storey under consideration.
+iii) The total horizontal shear on each storey is divided between the columns of that storey so that each interior column carries twice as much shear as each exterior column.
+The correct answer is
+#a (i) and (ii)
+#b (i) and (iii)
+#c only (ii)
+#d only (iii )
+
+## 93 | p=65 | hw=b
+The factor method of analysing building frames is
+i) more accurate than either the portal or the cantilever method.
+ii) based upon the slope-deflection method of analysis.
+iii) used for lateral as well as vertical load analysis.
+The correct answer is
+#a only (i)
+#b (i) and (ii)
+#c only (ii )
+#d (i), (ii) and (iii)
+
+## 94 | tag=CS 93 | p=65-66 | hw=a | fig=65:0.665,0.455,0.84,0.60
+(Fig. 12.21)
+A rigid cantilever frame ABC is fixed at C, as shown in Fig. 12.21. It carries a point load P at A. Neglecting the axial deformation, the horizontal deflection Δ_HA of the point A will be
+#a Plh²/2EI
+#b Pl²h/3EI
+#c (Pl²/EI)(h + 1/3)
+#d (Pl²/EI)(h + 1/2)
+
+## 95 | tag=CS 93 | p=66 | hw=d
+Consider the following assumptions in the analysis of a plane truss:
+1. The individual members are straight.
+2. The individual members are connected by frictionless hinges.
+3. The loads and reactions act only at the joints.
+Of these assumptions
+#a 1 and 2 are valid
+#b 1 and 3 are valid
+#c 2 and 3 are valid
+#d 1, 2 and 3 are valid
+
+## 96 | star | tag=CS 93 | p=66 | hw=a | fig=66:0.145,0.385,0.41,0.51
+Two bars AO and BO are of uniform area 'A' each and are hinged at O as shown in Fig. 12.22. A load W is applied at O.
+The vertical deflection of O will be
+#a Wl/AE
+#b Wl/2AE
+#c W²l/AE
+#d W²l/2AE
+
+## 97 | star | tag=CS 93 | p=66 | hw=c | fig=66:0.52,0.125,0.775,0.262
+The influence line for bending moment at section X (Mₓ), at a distance of 4m from the left support of a simply supported girder AB is shown in Fig.12.23. A uniformly distributed load of intensity 2 t/m longer than the span crosses the girder from left to right.
+The maximum bending moment at section X is equal to
+#a 12 tm
+#b 24 tm
+#c 48 tm
+#d 96 tm
+
+## 98 | tag=CS 93 | p=66 | hw=b | fig=66:0.52,0.43,0.745,0.575
+A one-storeyed rigid portal frame, ABCD, carries loads P and Q as shown in Fig. 12.24. It is hinged at the two supports A and D.
+The structure is statically
+#a determinate
+#b indeterminate to the first degree
+#c indeterminate to the second degree
+#d indeterminate to the third degree
+
+## 99 | tag=CS 93 | p=66-67 | hw=a | fig=67:0.25,0.058,0.48,0.188
+The influence line for shear at section X(Fₓ) at a distance of 4 m from the left support of a simply-supported girder AB is shown in Fig. 12.25.
+The shear force at section X due to a uniformly distributed dead load of intensity 2 t/m covering the entire span will be
+#a 8t
+#b 4t
+#c 2t
+#d 1t
+
+## 100 | tag=CS 93 | p=67 | hw=d | fig=67:0.275,0.335,0.51,0.51
+Consider the propped cantilever shown in Fig. 12.26 and the fixed beam shown in Fig. 12.27.
+Consider the following statements regarding the two figures.
+Statement I : The fixed end moment (FEM) at A of the propped cantilever is 12 tm.
+Statement II : The FEM at A of the fixed beam is 6 tm.
+Of these statements
+#a both I and II are false
+#b I is correct but II is false
+#c both I and II are correct
+#d I is false but II is correct
+
+## 101 | tag=CS 93 | p=67 | hw=b | fig=67:0.615,0.058,0.86,0.50
+Which of the structures of Fig. 12.28 will experience sway ?
+Select the correct answer using the codes given below :
+#a A and B
+#b A and C
+#c C and D
+#d B and D
+
+## 102 | tag=CS 93 | p=67 | hw=b
+A symmetrical two-hinged parabolic arch when subjected to a uniformly distributed load on the entire horizontal span, is subject to
+#a radial shear alone
+#b normal thrust alone
+#c normal thrust and bending moment
+#d normal thrust, radial shear and bending moment
+
+## 103 | star | tag=CS 94 | p=68 | hw=b
+A two span continuous beam ABC is simply supported at A and C and is continuous over support B. Span AB=6 m, BC= 6m. The beam carries a udl of 2 t/m over both the spans. EI is constant for the entire beam. The fixed end moment at B in span BA or BC would be
+#a 12 t.m
+#b 9 t.m
+#c 8 t.m
+#d 6 t.m
+
+## 104 | tag=CS 94 | p=68 | hw=a | fig=68:0.175,0.285,0.41,0.69 | fix=Options are the four influence lines (a)-(d) of Fig. 12.30.
+A beam with a cantilevered arm BC supporting a freely supported end span CD is shown in Fig. 12.29. Which one of Fig. 12.30 represents the influence line diagram for shear force at A ?
+#a Fig. 12.30 (a)
+#b Fig. 12.30 (b)
+#c Fig. 12.30 (c)
+#d Fig. 12.30 (d)
+
+## 105 | tag=CS 94 | p=68 | hw=d
+The strain energy stored in a simply supported beam of span 'l' and flexural rigidity EI due to a central concentrated load W is
+#a W²l³/ 48 EI
+#b W²l²/ 48 EI
+#c W²l²/ 96 EI
+#d W²l³/ 96 EI
+
+## 106 | tag=CS 94 | p=68 | hw=c
+In a two hinged arch an increase in temperature induces
+#a no bending moment in the arch rib
+#b uniform bending moment in the arch rib
+#c maximum bending moment at the crown
+#d minimum bending moment at the crown
+
+## 107 | tag=CS 95 | p=68 | hw=c
+The following methods are used for structural analysis:
+1. Macaulay method
+2. Column analogy method
+3. Kani's method
+4. Method of sections
+Those used for indeterminate structural analysis would include
+#a 1 and 2
+#b 1 and 3
+#c 2 and 3
+#d 2,3 and 4
+
+## 108 | tag=CS 96 | p=68-69 | hw=b | fig=68:0.53,0.47,0.75,0.615
+Figure 12.31 shows a frame to be analyzed by moment distribution method.
+The distribution factors for members, GF, GH and GD will be respectively
+#a 1/4, 1/4 and 1/2
+#b 1/3, 1/3 and 1/3
+#c 1/2, 1/4 and 1/4
+#d 2/3, 0 and 1/3
+
+## 109 | tag=CS 97 | p=69 | hw=d | fig=69:0.245,0.14,0.405,0.245
+(Fig. 12.32)
+The frame shown in Fig. 12.32 has
+#a one unknown reaction component
+#b two unknown reaction components
+#c three unknown reaction components
+#d six unknown reaction components
+
+## 110 | tag=CS 97 | p=69 | hw=d
+The absolute maximum bending moment in a simply supported beam of span 20 m due to a moving udl of 4 t/m spanning over 5 m is
+#a 87.5 t-m at the support
+#b 87.5 t-m near the midpoint
+#c 3.5 t-m at the midpoint
+#d 87.5 t-m at the midpoint
+
+## 111 | tag=CS 98 | p=69 | hw=b | fig=69:0.24,0.475,0.465,0.72 | fix=Options (a)-(c) are the diagrams of Fig. 12.33.
+The influence line for horizontal thrust of a two-hinged parabolic arch of span 'l' and rise 'h' will be as shown in
+#a Fig. 12.33 (a)
+#b Fig. 12.33 (b)
+#c Fig. 12.33 (c)
+#d None of the above
+
+## 112 | tag=CS 98 | p=69 | hw=d | fig=69:0.63,0.10,0.83,0.248
+Force in the member BC of the truss shown in Fig. 12.34 is
+#a 5 t, tensile
+#b zero
+#c 2.88 t, compressive
+#d 5 t, compressive
+
+## 113 | tag=CS 98 | p=69 | hw=d | fig=69:0.62,0.33,0.87,0.428
+(Fig. 12.35)
+In respect of the beam and the given loading shown in Fig. 12.35, match list I (span fixed-end moments) with list II (values) and select the correct answer using the codes given below the lists.
+List I — List II
+A. M_FBA = -M_FAB — 1. 21 t.m
+B. M_FCB = -M_FBC — 2. 12 t.m
+C. M_FCD — 3. 13.3 t.m
+D. M_FDC — 4. -6.67 t.m
+Codes :
+#a A-1, B-2, C-3, D-4
+#b A-2, B-1, C-3, D-4
+#c A-1, B-2, C-4, D-3
+#d A-2, B-1, C-4, D-3
+
+## 114 | tag=CS 98 | p=70 | hw=a | fig=70:0.19,0.075,0.415,0.237
+(Fig. 12.36)
+The slope deflection equation of the member BC of the frame shown in Fig. 12.36 is given by
+#a M_BC = 0.25 EI (2θ_B + θ_C) – 80
+#b M_BC = 0.5 EI (θ_B + 2θ_C) – 80
+#c M_BC = 0.25 EI (θ_B + 2θ_C) – 40
+#d M_BC = 0.25 EI (2θ_B - θ_C) – 20
+
+## 115 | tag=CS 99 | p=70 | hw=d | fig=70:0.15,0.372,0.42,0.778 | fix=Options are the four influence lines (a)-(d) of Fig. 12.38.
+(Fig. 12.37)
+Which one of the following represents the correct influence line for bending moment at point C for the beam shown in Fig. 12.37 ?
+#a Fig. 12.38 (a)
+#b Fig. 12.38 (b)
+#c Fig. 12.38 (c)
+#d Fig. 12.38 (d)
+
+## 116 | tag=CS 99 | p=70 | hw=a
+Consider the following statements with respect to arches
+1. The normal thrust at any section of the arch is the component of interacting forces on the section along the tangent to the centre line of the arch.
+2. The radial shear at any section of the arch is the component of the interacting forces on the section along the normal to the centre line of the arch.
+3. The intercept between a given arch and the linear arch at a section is proportional to the bending moment at the section.
+Of these statements
+#a 1, 2 and 3 are correct
+#b 1 and 2 are correct
+#c 2 and 3 are correct
+#d 1and 3 are correct
+
+## 117 | star | tag=CS 99 | p=70 | hw=c
+A symmetrical parabolic arch of span 20 metres and rise 5 metres is hinged at the springings. It supports a uniformly distributed load of 2 tonnes per metre run of the span. The horizontal thrust in tonnes at each of the springings is
+#a 8
+#b 16
+#c 20
+#d zero
+
+## 118 | tag=CS 99 | p=70 | hw=b
+A beam AB is fixed at both ends and carries a uniformly distributed load of intensity p per unit length run over its entire length. Due to some constructional defects, the end B is now reduced to a simple support. The percentage increase in bending moment at A is
+#a 25
+#b 50
+#c 75
+#d 100
+
+## 119 | tag=CS 99 | p=70-71 | hw=d | fig=71:0.245,0.062,0.515,0.338 | fix=List I items (a)-(d) are the structures drawn in Fig. 12.39.
+Match list I with list II and select the correct answer using the codes given below the lists :
+List I (Structure) — List II (Degree of static indeterminacy)
+A. [structure (a) of Fig. 12.39] — 1. Three
+B. [structure (b) of Fig. 12.39] — 2. Six
+C. [structure (c) of Fig. 12.39] — 3. Two
+D. [structure (d) of Fig. 12.39] — 4. Four
+Codes :
+#a A-1, B-3, C-2, D-4
+#b A-3, B-1, C-2, D-4
+#c A-3, B-1, C-4, D-2
+#d A-1, B-3, C-4, D-2
+
+## 120 | star | tag=CS 99 | p=71 | hw=d
+A fixed beam AB is subjected to a triangular load varying from zero at end A to w per unit length at end B. The ratio of fixed end moment at B to A will be
+#a 1/2
+#b 1/3
+#c 2/3
+#d 3/2
+
+## 121 | tag=ES 93 | p=71 | hw=c | fig=71:0.25,0.64,0.50,0.716;71:0.60,0.105,0.865,0.30 | fix=Options are the four influence lines (a)-(d) of Fig. 12.41.
+(Fig. 12.40)
+The influence line diagram for force in member "XY" of the truss shown in Fig. 12.40 will be
+#a Fig. 12.41 (a)
+#b Fig. 12.41 (b)
+#c Fig. 12.41 (c)
+#d Fig. 12.41 (d)
+
+## 122 | star | tag=ES 93 | p=71 | hw=d | fig=71:0.67,0.36,0.875,0.485
+A truss is shown in Fig. 12.42. The cross-sectional area of each member is 'A' and the modulus of elasticity of the material is E. The strain energy in the member XY is given by
+#a P²L/2AE
+#b P²L/6AE
+#c P²L/3AE
+#d zero
+
+## 123 | star | tag=ES 93 | p=71-72 | hw=c | fig=71:0.63,0.548,0.84,0.682
+A rigid cantilever frame ABC is fixed at C. It carries a load P at A, as shown in Fig.12.43. Neglecting axial deformation, the vertical deflection of the point A is given by
+#a Pl h² /2EI
+#b Pl²h /3EI
+#c Pl² (3h + l)/3EI
+#d Pl² (2h + l)/2EI
+
+## 124 | star | tag=ES 93 | p=72 | hw=d
+The horizontal thrust due to rise in temperature in a semi-circular two hinged arch of radius R is proportional to
+#a R
+#b R²
+#c 1/R
+#d 1/R²
+
+## 125 | tag=ES 93 | p=72 | hw=a | fig=72:0.19,0.29,0.375,0.39
+(Fig. 12.44)
+For the continuous beam (EI constant) loaded as shown in Fig. 12.44, the moment at 'B' is
+#a 0.75 times free moment at mid-span
+#b same as the free moment at mid-span of AB
+#c 1.50 times free moment at mid-span of AB
+#d 2.00 times free moment at mid-span of AB
+
+## 126 | tag=ES 93 | p=72 | hw=c | fig=72:0.165,0.585,0.43,0.68
+A fixed beam AB of length 'l' having constant flexural rigidity EI carries two loads P at its third points C and D as shown in Fig. 12.45.
+Numerically, maximum bending moment will occur.
+#a at C and at D and will be equal to 2Pl/9
+#b between C and D and will be equal to Pl/9
+#c at A and at B and will be equal to 2Pl/9
+#d between A and C and also between B and D and will be equal to Pl/9
+
+## 127 | tag=ES 93 | p=72 | hw=a
+Consider the following statements:
+Sinking of an intermediate support of a continuous beam
+1. reduces the negative moment at support.
+2. increases the negative moment at support.
+3. reduces the positive moment at support.
+4. increases the positive moment at the centre of span.
+Of these statements
+#a 1 and 4 are correct
+#b 1 and 3 are correct
+#c 2 and 3 are correct
+#d 2 and 4 are correct
+
+## 128 | tag=ES 93 | p=72 | hw=b
+A number of wheel loads 3t, 4t, 5t and 6t spaced 2 m, 3m and 4m respectively move on a simply supported beam AB of span 24 m with the 3t load leading from left to right. To find the maximum bending moment at 18 m from A, the load that must be placed at the section is
+#a 3t
+#b 4t
+#c 5t
+#d 6t
+
+## 129 | tag=ES 93 | p=72 | hw=c
+A load 'W' is moving from left to right support on a simply supported beam of span 'l'. The maximum bending moment at 0.4 l from the left support is
+#a 0.16 Wl
+#b 0.20 Wl
+#c 0.24 Wl
+#d 0.25 Wl
+
+## 130 | tag=ES 94 | p=72-73 | hw=b | fig=73:0.24,0.175,0.495,0.342
+Consider the following statements regarding the beams and their loading shown in Fig. 12.46 and 12.47.
+Deflection at B of beam in Fig. 12.46 would equal
+1. (1/EI) x BM at B of beam in Fig. 12.47.
+2. (1/EI) x moment of the area about B of BMD of beam in Fig. 12.46.
+3. (1/EI) x moment of the area of BMD about B of beam in Fig. 12.47.
+Of these statements
+#a 1 and 3 are true
+#b 1 and 2 are true
+#c 2 alone is true
+#d 3 alone is true
+
+## 131 | tag=ES 94 | p=73 | hw=b | fig=73:0.23,0.462,0.515,0.712 | fix=Pairs 1-4 (given beam ...... conjugate beam) are drawn in Fig. 12.48.
+Which of the following pairs of a given beam and its conjugate beam are correctly matched ?
+(Fig. 12.48: pairs 1, 2, 3 and 4)
+Select the correct answer using the codes given below:
+Codes :
+#a 2, 3 and 4
+#b 1, 3 and 4
+#c 1, 2 and 4
+#d 1, 2 and 3
+
+## 132 | tag=ES 94 | p=73 | hw=a
+A cantilever beam AB, fixed at A and carrying a load W at the free end B, is found to deflect by δ at the mid-point of AB. The deflection of B due to a load W/2 at the mid-point will be
+#a 2δ
+#b δ
+#c δ/2
+#d δ/4
+
+## 133 | tag=ES 94 | p=73-74 | hw=c | fig=73:0.625,0.298,0.865,0.432;73:0.60,0.515,0.845,0.712;74:0.14,0.062,0.375,0.315 | fix=Options are the four bending moment diagrams (a)-(d) of Fig. 12.50 (printed across two pages).
+(Fig. 12.49)
+The frame shown in Fig. 12.49 is subjected to loads as indicated. The intensity of lateral load is 2 kN/m. The shape of the bending moment diagram for this frame will be
+#a Fig. 12.50 (a)
+#b Fig. 12.50 (b)
+#c Fig. 12.50 (c)
+#d Fig. 12.50 (d)
+
+## 134 | tag=ES 94 | p=74 | hw=b | fig=74:0.145,0.355,0.385,0.497
+In the frame shown in Fig. 12.51, support 4 settles by δ.
+The fixed end moment in the horizontal member of the frame will be (other symbols have the usual meaning)
+#a EIδ/8
+#b 6EIδ/16
+#c 3EIδ/16
+#d EIδ/16
+
+## 135 | star | tag=ES 94 | p=74 | hw=b | fig=74:0.535,0.058,0.745,0.238
+A plane frame is loaded as shown in Fig. 12.52. The rotations are indicated as θ_B and θ_C and the sway is indicated by the symbol Δ.
+For the given frame which one of the following statements is correct ?
+#a θ_B = θ_C ; Δ is present
+#b θ_B = – θ_C ; Δ is present
+#c θ_B = θ_C ; Δ is absent
+#d θ_B = – θ_C ; Δ is absent
+
+## 136 | star | tag=ES 94 | p=74 | hw=c | fig=74:0.555,0.37,0.73,0.522
+For the plane frame shown in Fig. 12.53, static and kinematic degrees of indeterminacy are respectively
+#a 12 and 27
+#b 12 and 24
+#c 9 and 24
+#d 9 and 27
+
+## 137 | tag=ES 94 | p=74-75 | hw=a | fig=74:0.51,0.605,0.78,0.705;75:0.24,0.03,0.53,0.385 | fix=Options are the four influence lines (a)-(d) of Fig. 12.55.
+A truss of panel dimensions 3 m x 4 m is shown in Fig. 12.54
+The influence line diagram for the force in the member U₂L₃ is
+#a Fig. 12.55 (a)
+#b Fig. 12.55 (b)
+#c Fig. 12.55 (c)
+#d Fig. 12.55 (d)
+
+## 138 | tag=ES 95 | p=75 | hw=b | fig=75:0.27,0.42,0.47,0.55
+What is the horizontal deflection at free end C of the frame shown in Fig. 12.56 ?
+#a Ml²/2EI
+#b Ml²/EI
+#c 3Ml²/2EI
+#d 2Ml²/EI
+
+## 139 | tag=ES 95 | p=75 | hw=a | fig=75:0.60,0.075,0.86,0.235
+(Fig. 12.57)
+Which one of the following gives the distribution factors for members AE and AC of box section shown in Fig. 12.57 ?
+#a 0.5 and 0.5
+#b 0.33 and 0.67
+#c 0.67 and 0.33
+#d zero and 1
+
+## 140 | tag=ES 95 | p=75 | hw=a | fig=75:0.60,0.35,0.89,0.71 | fix=Options are the four influence lines (a)-(d) of Fig. 12.59.
+(Fig. 12.58)
+For the fixed beam shown in Fig. 12.58, the influence line diagram for the bending moment at the mid-span of the beam is best represented as
+#a Fig. 12.59 (a)
+#b Fig. 12.59 (b)
+#c Fig. 12.59 (c)
+#d Fig. 12.59 (d)
+
+## 141 | tag=ES 95 | p=76 | hw=c | fig=76:0.125,0.075,0.415,0.46 | fix=Options are the four influence lines (a)-(d) of Fig. 12.61.
+(Fig. 12.60)
+For the continuous beam shown in Fig. 12.60, the influence line diagram for support reaction at D is best represented as
+#a Fig. 12.61 (a)
+#b Fig. 12.61 (b)
+#c Fig. 12.61 (c)
+#d Fig. 12.61 (d)
+
+## 142 | tag=ES 95 | p=76 | hw=a | fig=76:0.135,0.49,0.375,0.61
+Figure 12.62 shows a portal frame with one end fixed and other hinged.
+The ratio of the fixed end moments M_BA/M_CD due to sidesway will be
+#a 1.0
+#b 2.0
+#c 2.5
+#d 3.0
+
+## 143 | tag=ES 95 | p=76 | hw=d | fig=76:0.49,0.09,0.68,0.235;76:0.48,0.262,0.72,0.71 | fix=Options are the four bending moment diagrams (a)-(d) of Fig. 12.64.
+Figure 12.63 shows a portal frame with loads.
+The bending moment diagram for this frame will be
+#a Fig. 12.64 (a)
+#b Fig. 12.64 (b)
+#c Fig. 12.64 (c)
+#d Fig. 12.64 (d)
+
+## 144 | tag=ES 95 | p=77 | hw=c | fig=77:0.255,0.085,0.55,0.345 | fix=Options are the four influence lines (a)-(d) of Fig. 12.66.
+Figure 12.65 shows a Pratt truss.
+The influence line for force in member BC will be
+#a Fig. 12.66 (a)
+#b Fig. 12.66 (b)
+#c Fig. 12.66 (c)
+#d Fig. 12.66 (d)
+
+## 145 | tag=ES 96 | p=77 | hw=b
+A two hinged semicircular arch of radius R carries a concentrated load W at the crown. The horizontal thrust is
+#a W/2π
+#b W/π
+#c 2W/3π
+#d 4W/3π
+
+## 146 | tag=ES 96 | p=77 | hw=c | fig=77:0.29,0.525,0.49,0.652
+(Fig. 12.67)
+The rigid portal frame shown in Fig. 12.67 will not have any side sway if
+I₁ = the moment of inertia of the column cross section
+I₂ = the moment of inertia of the beam cross section
+#a it is subjected to vertical loading only
+#b I₂=2I₁
+#c the loading is symmetrical about its centre line
+#d loaded in any manner
+
+## 147 | tag=ES 96 | p=77 | hw=c | fig=77:0.63,0.17,0.83,0.28
+For the portal frame shown in Fig. 12.68, the shear equation is
+#a (M_BC + M_CB)/4 + P = 0
+#b (M_BA + M_AB)/4 + P = 0
+#c (M_BA + M_AB)/4 + M_CD/4 + P = 0
+#d M_CD/4 + P = 0
+
+## 148 | star | tag=ES 96 | p=77 | hw=a
+Due to some point load anywhere on a fixed beam, the maximum free bending moment is M. The sum of fixed end moment is
+#a M
+#b 1.5 M
+#c 2.0 M
+#d 3.0 M
+
+## 149 | tag=ES 96 | p=77-78 | hw=a | fig=77:0.62,0.545,0.83,0.705
+A steel frame is shown in Fig. 12.69.
+If joint O of the frame is rigid, the rotational stiffness of the frame at point O is given by
+#a 11EI/l
+#b 10EI/l
+#c 8EI/l
+#d 6EI/l
+
+## 150 | tag=ES 96 | p=78 | hw=d | fig=78:0.175,0.33,0.385,0.393
+Consider the following statements :
+In the beam shown in Fig. 12.70, for all positions of load W (except x = 0)
+1. bending moment is maximum at B.
+2. bending moment is maximum under load
+3. deflection is zero at A.
+4. deflection is zero at B.
+Of these statements
+#a 1 and 3 are correct
+#b 2 and 4 are correct
+#c 1 and 4 are correct
+#d 1,3 and 4 are correct
+
+## 151 | tag=ES 97 | p=78 | hw=a
+A fixed beam of uniform section is carrying a point load at its mid-span. If the moment of inertia of the middle half length is now reduced to half its previous value, then the fixed end moments will
+#a increase
+#b decrease
+#c remain constant
+#d change their directions
+
+## 152 | star | tag=ES 97 | p=78 | hw=c
+The maximum bending moment at the left quarter point of a simple beam due to crossing of UDL of length shorter than the span in the direction left to right; would occur after the load had just crossed the section by
+#a one-fourth of its length
+#b half of its length
+#c three-fourth of its length
+#d its full length
+
+## 153 | tag=ES 97 | p=78 | hw=d
+When a load crosses a through type Pratt truss in the direction left to right, the nature of force in any diagonal member in the left half of the span would
+#a change from compression to tension
+#b change from tension to compression
+#c always be compression
+#d always be tension
+
+## 154 | star | tag=ES 98 | p=78 | hw=b | fig=78:0.51,0.23,0.77,0.375
+In the Fig. 12.71, x, y and z are the deflections under A, B and C due to loads P and Q. x′, y′ and z′ are the deflections under A, B and C due to unit load at C.
+The deflection z would equal
+#a Px + Qy
+#b Px′ + Qy′
+#c Py + Qx
+#d Py′ + Qx′
+
+## 155 | tag=ES 98 | p=78 | hw=b | fig=78:0.51,0.46,0.80,0.71 | fix=Options are the four influence lines (a)-(d) of Fig. 12.73.
+(Fig. 12.72)
+The influence line R_C for the beam shown in Fig.12.72 will be as in
+#a Fig. 12.73 (a)
+#b Fig. 12.73 (b)
+#c Fig. 12.73 (c)
+#d Fig. 12.73 (d)
+
+## 156 | tag=ES 98 | p=79 | hw=b
+The moment at the indeterminate support of a two-span continuous beam of 6 m each with simple supports at the ends carrying a udl of 20 kN/m over only the left span is (flexural rigidity is the same for both the spans)
+#a 90 kN.m hogging
+#b 45 kN.m hogging
+#c 45 kN.m sagging
+#d zero
+
+## 157 | tag=ES 98 | p=79 | hw=d | fig=79:0.27,0.21,0.50,0.35
+(Fig. 12.74)
+For the rigid frame shown in Fig. 12.74, the force required for moving the girder AB through a horizontal displacement Δ is given by
+#a 6EIΔ/L³
+#b 8EIΔ/L³
+#c 9EIΔ/L³
+#d 15EIΔ/L³
+
+## 158 | tag=ES 98 | p=79 | hw=b | fig=79:0.26,0.53,0.48,0.63
+(Fig. 12.75)
+For the portal frame shown in Fig. 12.75, the final end moments are:
+M_AB = 15 kN.m
+M_BA = 10 kN.m
+M_CD = 20 kN.m
+The end moment at M_DC will be
+#a 10 kN.m
+#b 20 kN.m
+#c 30 kN.m
+#d 40 kN.m
+
+## 159 | tag=ES 99 | p=79 | hw=c | fig=79:0.61,0.155,0.83,0.272 | fix=Figure caption printed as 'Figure 1.276' (book misprint for Fig. 12.76); kept as printed in the image.
+The slope-deflection equation at the end B of member BC for the frame shown in Fig. 12.76 will be
+#a M_BC = (4EI/8)(2θ_C − θ_B)
+#b M_BC = (4EI/8)(2θ_B − θ_C)
+#c M_BC = (4EI/8)(2θ_B + θ_C)
+#d M_BC = (4EI/8)(θ_B + 2θ_C)
+
+## 160 | tag=ES 99 | p=79 | hw=c | fig=79:0.61,0.41,0.775,0.483
+(Fig. 12.77)
+Total degree of indeterminacy (both internal and external) of the plane frame shown in Fig. 12.77 is
+#a 10
+#b 11
+#c 12
+#d 15
+
+## 161 | tag=ES 99 | p=79-80 | hw=d | fig=79:0.61,0.595,0.87,0.71
+(Fig. 12.78, Fig. 12.79)
+For beam shown in Fig. 12.78, an influences line diagram is shown in Fig. 12.79. This refers to
+#a reaction R_A
+#b shear force at support D
+#c BM at support B
+#d shear force at section XX
+
+## 162 | tag=ES 99 | p=80 | hw=a | fig=80:0.155,0.215,0.39,0.505 | fix=List I beams A-D and List II influence lines 1-5 are drawn in Fig. 12.80.
+Match list I (Beam) with list II (Influence line for BM) and select the correct answer using the codes given below the lists.
+List I — List II
+A. [beam A of Fig. 12.80] — 1. [influence line 1]
+B. [beam B of Fig. 12.80] — 2. [influence line 2]
+C. [beam C of Fig. 12.80] — 3. [influence line 3]
+D. [beam D of Fig. 12.80] — 4. [influence line 4]
+5. [influence line 5]
+Codes :
+#a A-2, B-1, C-3, D-5
+#b A-3, B-1, C-4, D-5
+#c A-2, B-5, C-3, D-4
+#d A-1, B-3, C-5, D-4
+
+## 163 | tag=ES 99 | p=80 | hw=c | fig=80:0.53,0.055,0.77,0.105 | check=The second deflection value (at 'Y') is lost in the binding on scan p80; marked '[…]'; needs the printed book or a clearer scan.
+The beam shown in Fig. 12.81 carries loads of 20 kN and 40 kN at points 'X' and 'Y' respectively and produces a deflection of 6 mm at point Z.
+To produce deflections of 8 mm and […] mm at 'X' and 'Y' respectively, the load required at Z would be
+#a 20 kN
+#b 40 kN
+#c 60 kN
+#d 80 kN
+
+## 164 | tag=ES 99 | p=80-111 | hw=a | fig=80:0.51,0.215,0.77,0.325;80:0.51,0.37,0.77,0.69;111:0.25,0.06,0.52,0.19 | fix=Options are the four deflected shapes (a)-(d) of Fig. 12.83; (d) is printed on book p391 (scan p111). | check=Handwritten 'a' is written beside the A-R Directions codes printed below this question (scan p111), not beside its options; assumed to belong to Q164.
+(Fig. 12.82)
+A portal frame is shown in Fig.12.82. For EI constant, the deflected shape of the frame will be as in
+#a Fig. 12.83 (a)
+#b Fig. 12.83 (b)
+#c Fig. 12.83 (c)
+#d Fig. 12.83 (d)
+
+## 165 | tag=ES 94 | p=111 | check=No handwritten answer mark found for this question. | fig=111:0.30,0.395,0.49,0.495 | fix=Assertion-Reason question: options are the common codes printed once under 'Directions' before Q165.
+Assertion A : When the system of loads shown in Fig. 12.84 crosses a simple span of any length, the absolute maximum bending moment occurs at the mid-span when the middle load stays at mid-span.
+Reason R : The resultant load of the system coincides with the middle load.
+#a Both A and R are true and R is the correct explanation of A.
+#b Both A and R are true but R is not the correct explanation of A.
+#c A is true but R is false
+#d A is false but R is true
+
+## 166 | tag=ES 95 | p=111 | check=No handwritten answer mark found for this question. | fix=Assertion-Reason question: options are the common codes printed once under 'Directions' before Q165.
+Assertion A : The concept of strain energy can be used to analyse a statically indetermine structure.
+Reason R : There is a direct relationship between strain energy of a structure and the slopes and deflection caused in it.
+#a Both A and R are true and R is the correct explanation of A.
+#b Both A and R are true but R is not the correct explanation of A.
+#c A is true but R is false
+#d A is false but R is true
+
+## 167 | tag=ES 96 | p=111 | check=No handwritten answer mark found for this question. | fix=Assertion-Reason question: options are the common codes printed once under 'Directions' before Q165.
+Assertion A : In the analysis of rigid frames, the usual practice is to consider the strain energy due to flexure only.
+Reason R : The strain energies due to axial and shear forces are usually quite small compared to that of flexure.
+#a Both A and R are true and R is the correct explanation of A.
+#b Both A and R are true but R is not the correct explanation of A.
+#c A is true but R is false
+#d A is false but R is true
+
+## 168 | tag=ES 98 | p=111 | check=No handwritten answer mark found for this question. | fix=Assertion-Reason question: options are the common codes printed once under 'Directions' before Q165.
+Assertion A : Whether it is maximum BM at a section or absolute maximum BM, the moving UDL should cover the entire span of a simple beam if span is less than load length.
+Reason R : Whether it is maximum BM at a section or absolute maximum BM, the moving UDL should be divided by the section in the same ratio in which the section divides the span, if the span is greater than load length.
+#a Both A and R are true and R is the correct explanation of A.
+#b Both A and R are true but R is not the correct explanation of A.
+#c A is true but R is false
+#d A is false but R is true
+
+## 169 | tag=CS 96 | p=111 | check=No handwritten answer mark found for this question. | fix=Assertion-Reason question: options are the common codes printed once under 'Directions' before Q165.
+Assertion A : Influence Line Diagram (ILD) for S.F. at the fixed end of a cantilever and SFD due to unit load at the free end are same.
+Reason R : ILD for BM at the fixed end of a cantilever and BMD due to unit load at the free end are same.
+#a Both A and R are true and R is the correct explanation of A.
+#b Both A and R are true but R is not the correct explanation of A.
+#c A is true but R is false
+#d A is false but R is true
+
+## 170 | tag=ES 98 | p=111 | check=No handwritten answer mark found for this question. | fig=111:0.64,0.478,0.865,0.578 | fix=Assertion-Reason question: options are the common codes printed once under 'Directions' before Q165.
+Assertion A : When a single load crosses a simple span of any length, the shear force under the load to the right for all spans is constant, so long as the load maintains the same a/l ratio (see figure 12.85) .
+Reason R : When the load maintains the same a/l ratio in all spans, the reaction at the right hand support remains the same.
+#a Both A and R are true and R is the correct explanation of A.
+#b Both A and R are true but R is not the correct explanation of A.
+#c A is true but R is false
+#d A is false but R is true
