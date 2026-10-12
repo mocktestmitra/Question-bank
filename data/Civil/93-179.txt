@@ -1,0 +1,1924 @@
+# Transcript of Civil/93-179.pdf (format: see header of data/Civil/1-92.txt)
+
+@chapter 3 Irrigation, Water Resources Engineering and Hydrology
+
+## 1 | p=1 | hw=a
+Which of the following methods of applying water may be used on rolling land ?
+#a boarder flooding
+#b check flooding
+#c furrow flooding
+#d free flooding
+
+## 2 | p=1 | hw=b
+If the electrical conductivity of water is in between 250 to 750 micro mhos/cm at 25°C, then it is classified as
+#a low salinity water
+#b medium salinity water
+#c high salinity water
+#d very high salinity water
+
+## 3 | p=1 | hw=c
+Sodium Absorption Ratio (SAR) is defined as
+#a Na⁺/√(Ca⁺⁺ + Mg⁺⁺)
+#b Na⁺/(2√(Ca⁺⁺ + Mg⁺⁺))
+#c Na⁺/√((Ca⁺⁺ + Mg⁺⁺)/2)
+#d 2 Na⁺/√(Ca⁺⁺ + Mg⁺⁺)
+
+## 4 | p=1 | hw=c
+The value of Sodium Absorption Ratio for high sodium water lies between
+#a 0 to 10
+#b 10 to 18
+#c 18 to 26
+#d 26 to 34
+
+## 5 | p=1 | hw=c
+Optimum depth of kor watering for rice is
+#a 135 mm
+#b 165 mm
+#c 190 mm
+#d 215 mm
+
+## 6 | star | p=1 | hw=b
+Irrigation water having the concentration of Na⁺⁺ , Ca⁺⁺ and Mg⁺⁺ as 20, 3 and 1 milli-equivalent per litre respectively will be classified as
+#a low sodium water
+#b medium sodium water
+#c high sodium water
+#d very high sodium water
+
+## 7 | p=1 | hw=b
+The relation between duty D in hectares/ cumec, depth of water Δ in metres and base period B in days is given by
+#a Δ = 1.98 B/D
+#b Δ = 8.64 B/D
+#c Δ = 5.68 B/D
+#d Δ = 8.64 D/B
+
+## 8 | p=1 | hw=b
+The duty is largest
+#a at the head of water course
+#b on the field
+#c at the head of a main canal
+#d same at all places
+
+## 9 | p=1 | hw=c
+The "outlet discharge factor" is the duty at the head of
+#a main canal
+#b branch canal
+#c watercourse
+#d distributory
+
+## 10 | p=2 | hw=a
+The kor depth for rice is 190 mm and kor period is 14 days. The outlet factor for this will be
+#a 637 hectares/m³/sec
+#b 837 hectares/m³/sec
+#c 972 hectares/m³/sec
+#d 1172 hectares/m³/sec
+
+## 11 | p=2 | hw=c
+For supplying water to rabi crop, kharif crop and sugarcane, the channel is designed for a capacity equal to the greater of the water requirement of
+#a rabi or kharif
+#b rabi and kharif or sugarcane
+#c rabi and sugarcane or kharif and sugarcane
+#d rabi or kharif or sugarcane
+
+## 12 | tag=ES 93 | p=2 | hw=b
+The ratio of the quantity of water stored in the root zone of the crops to the quantity of water actually delivered in the field is known as
+#a water conveyance efficiency
+#b water application efficiency
+#c water use efficiency
+#d none of the above
+
+## 13 | p=2 | hw=b
+The water utilizable by plants is available in soils mainly in the form of
+#a gravity water
+#b capillary water
+#c hydroscopic water
+#d chemical water
+
+## 14 | star | p=2 | hw=c
+The amount of irrigation water required to meet the evapotranspiration needs of the crop during its full growth is called
+#a effective rainfall
+#b consumptive use
+#c consumptive irrigation requirement
+#d net irrigation requirement
+
+## 15 | p=2 | hw=d
+With the increase in the quantity of water supplied, the yield of most crops
+#a increases continuously
+#b decreases continuously
+#c increases upto a certain limit and then becomes constant
+#d increases upto a certain limit and then decreases
+
+## 16 | p=2 | hw=a
+Hydrograph is the graphical representation of
+#a runoff and time
+#b surface runoff and time
+#c ground waterflow and time
+#d rainfall and time
+
+## 17 | p=2 | hw=c
+Infiltration rate is always
+#a more than the infiltration capacity
+#b less than the infiltration capacity
+#c equal to or less than the infiltration capacity
+#d equal to or more than the infiltration capacity
+
+## 18 | p=2 | hw=c
+The depth of water required to bring the soil moisture content of a given soil upto its field capacity is called
+#a hygroscopic water
+#b equivalent moisture
+#c soil moisture deficiency
+#d pellicular water
+
+## 19 | p=2 | hw=d
+Infiltration capacity
+#a is a constant factor
+#b changes with time
+#c changes with location
+#d changes with both time and location
+
+## 20 | p=2 | hw=a
+Infiltration is the
+#a movement of water through the soil
+#b absorption of water by soil surface
+#c both (a) and (b)
+#d none of the above
+
+## 21 | p=2 | hw=b
+If the intensity of rainfall is more than the infiltration capacity of soil, then the infiltration rate will be
+#a equal to rate of rainfall
+#b equal to infiltration capacity
+#c more than rate of rainfall
+#d more than infiltration capacity
+
+## 22 | star | p=2 | hw=a
+Cyclonic precipitation is caused by lifting of an air mass due to
+#a pressure difference
+#b temperature difference
+#c natural topographical barriers
+#d all of the above
+
+## 23 | p=2 | hw=b
+Which of the following is a non-recording raingauge ?
+#a tipping bucket type raingauge
+#b Simon's raingauge
+#c Steven's weighing type raingauge
+#d floating type raingauge
+
+## 24 | p=2 | hw=c
+A raingauge should preferably be fixed
+#a near the building
+#b under the tree
+#c in an open space
+#d in a closed space
+
+## 25 | p=2-3 | hw=c
+If allowable percentage error in the estimate of basic rainfall is E and coefficient of variation of rainfall is C_V, then the optimum number of raingauges is given by
+#a C_V/E
+#b √(C_V/E)
+#c (C_V/E)²
+#d (C_V/E)^(3/2)
+
+## 26 | p=3 | hw=a
+Which of the following types of raingauges is used for measuring rain in remote hilly inaccessible areas ?
+#a tipping bucket type
+#b weighing type
+#c floating type
+#d Simon's raingauge
+
+## 27 | p=3 | hw=b
+Rate of evaporation from a water surface increases if
+i) difference of vapour pressure between water and air is increased
+ii) velocity of wind is decreased
+iii) concentration of soluble solids in water is decreased
+The correct answer is
+#a (i) and (ii)
+#b (i) and (iii)
+#c (ii) and (iii)
+#d (i). (ii) and (iii)
+
+## 28 | p=3 | hw=b
+A 70% index of wetness means
+#a rain excess of 30%
+#b rain deficiency of 30%
+#c rain deficiency of 70%
+#d none of the above
+
+## 29 | p=3 | hw=b
+Under the same conditions, which of the following shapes of water surface will give the highest rate of evaporation ?
+#a flat water surface
+#b convex water surface
+#c concave water surface
+#d independent of shape of water surface
+
+## 30 | p=3 | hw=a
+Assertion A : To estimate the rainfall over a catchment, the number of raingauges required per unit area is large for hilly areas.
+Reason R : Rainfall gradient is steep.
+Select your correct answer according to the coding system given below :
+#a Both A and R are true and R is the correct explanation of A
+#b Both A and R are true but R is not the correct explanation of A
+#c A is true but R is false
+#d A is false but R is true
+
+## 31 | p=3 | hw=a
+When surface of transpiration is submerged under water, then potential evapotranspiration is
+#a much more than evapotranspiration
+#b much less than evapotranspiration
+#c equal to evapotranspiration
+#d equal to or less than evapotranspiration
+
+## 32 | p=3 | hw=a
+Coefficient of variation is given by
+#a (standard deviation/mean) × 100
+#b (variance/mean) × 100
+#c (mean/standard deviation) × 100
+#d (mean/variance) × 100
+
+## 33 | p=3 | hw=a
+Unit of runoff in M.K.S. system is
+#a cubic metre/sec
+#b metre/sec
+#c cubic metre
+#d square metre
+
+## 34 | p=3 | hw=a
+The runoff increases with
+#a increase in intensity of rain
+#b increase in infiltration capacity
+#c increase in permeability of soil
+#d all of the above
+
+## 35 | star | p=3 | hw=c
+The area between the isohyets 45 cm and 55 cm is 100 square km and between 55 cm and 65 cm is 150 square km. The average depth of annual precipitation over the above basin of 250 square km will be
+#a 50 cm
+#b 55 cm
+#c 56 cm
+#d 60 cm
+
+## 36 | p=3 | hw=a
+A current meter is used to measure the
+#a velocity of flow of water
+#b depth of flow of water
+#c discharge
+#d none of the above
+
+## 37 | p=3-4 | hw=d
+If it rains between 2 P.M. and 3 P.M. and the entire basin area just starts contributing water at 3 P.M. to the outlet, then time of concentration will be
+#a 15 minutes
+#b 20 minutes
+#c 30 minutes
+#d 60 minutes
+
+## 38 | p=4 | hw=c
+The rainfall on five successive days were measured as 100 mm, 80 mm, 60 mm, 40 mm and 20 mm respectively. If the infiltration index or the storm loss rate for the catchment area is earlier estimated as 50 mm/day, the total surface run off will be
+#a 50 mm
+#b 60 mm
+#c 90 mm
+#d 140 mm
+
+## 39 | star | p=4 | hw=a
+The normal annual precipitation at stations X, A, B and C are 700 mm, 1000 mm, 900 mm and 800 mm respectively. If the storm precipitation at three station A, B and C were 100 mm, 90 mm and 80 mm respectively, then the storm precipitation for station X will be
+#a 70mm
+#b 80mm
+#c 90 mm
+#d 105 mm
+
+## 40 | p=4 | hw=b
+The best unit duration of storm for a unit hydrograph is
+#a 1 hour
+#b one-fourth of basin lag
+#c one-half of basin lag
+#d equal to basin lag
+
+## 41 | p=4 | hw=a
+The unit hydrograph due to a storm may be obtained by dividing the ordinates of the direct runoff hydrograph by
+#a direct runoff volume
+#b period of storm
+#c total rainfall
+#d none of the above
+
+## 42 | p=4 | hw=d
+The unit hydrograph of a specified duration can be used to evaluate the hydrograph of storms of
+#a same duration only
+#b same and shorter duration
+#c same and longer duration
+#d any duration
+
+## 43 | p=4 | hw=c
+S-hydrograph is used to obtain unit hydrograph of
+#a shorter duration from longer duration
+#b longer duration from shorter duration
+#c both (a) and (b)
+#d none of the above
+
+## 44 | p=4 | hw=d
+If two 4-hour unit hydrographs are staggered by 4 hours and added graphically, the resulting hydrograph will be
+#a 4-hour unit hydrograph
+#b 4-hour hydrograph with 20 mm runoff
+#c 8-hour unit hydrograph
+#d 8-hour hydrograph with 20 mm runoff
+
+## 45 | p=4 | hw=d
+According to Dicken's formula for estimating floods, the peak discharge is proportional to
+#a A
+#b A^(1/2)
+#c A^(2/3)
+#d A^(3/4)
+#note where A is catchment area in square kilometres.
+
+## 46 | p=4 | hw=a
+The relation between probability (P) and recurrence interval (T) is given by
+#a PT = 1
+#b PT² = 1
+#c P/T = 1
+#d P/T² = 1
+
+## 47 | p=4 | hw=c
+Dimensions of coefficient of transmissibility are
+#a M⁰ L⁰ T⁰
+#b M⁰ L¹ T⁻¹
+#c M⁰ L² T⁻¹
+#d M⁰ L³ T⁻¹
+
+## 48 | p=4 | hw=a
+If d is the depth of the aquifer through which water is flowing, then the relationship between permeability k and transmissibility T is given by
+#a T = kd
+#b T = k/d
+#c T = √(kd)
+#d k = √(Td)
+
+## 49 | p=4 | hw=b
+An artesian aquifer is the one where
+#a water surface under the ground is at atmospheric pressure
+#b water is under pressure between two impervious strata
+#c water table serves as upper surface of zone of saturation
+#d none of the above
+
+## 50 | star | p=5 | hw=b
+A deep well
+#a is always deeper than a shallow well
+#b has more discharge than a shallow well
+#c is weaker structurally than a shallow well
+#d both (a) and (b)
+
+## 51 | p=5 | hw=b
+A multipurpose reservoir is the one which is
+#a designed for one purpose but serves more than one purpose
+#b planned and constructed to serve various purposes
+#c both (a) and (b)
+#d none of the above
+
+## 52 | p=5 | hw=b
+The useful storage is the volume of water stored in the reservoir between
+#a minimum pool level and maximum pool level
+#b minimum pool level and normal pool level
+#c normal pool level and maximum pool level
+#d river bed and minimum pool level
+
+## 53 | p=5 | hw=b
+The water stored in the reservoir below the minimum pool level is called
+#a useful storage
+#b dead storage
+#c valley storage
+#d surcharge storage
+
+## 54 | p=5 | hw=d
+For a flood control reservoir, the effective storage is equal to
+#a useful storage – valley storage
+#b useful storage + surcharge storage
+#c useful storage + surcharge storage + valley storage
+#d useful storage + surcharge storage – valley storage
+
+## 55 | tag=ES 99 | p=5 | hw=a
+Trap efficiency of a reservoir is a function of
+#a capacity/inflow ratio
+#b capacity/outflow ratio
+#c outflow/inflow ratio
+#d none of the above
+
+## 56 | star | p=5 | hw=a
+The total capacity of a reservoir is 25 million cubic metres and dead storage is 5 million cubic metres. If the average volume of sediment deposition is 0.10 million cubic metre per year, then the usefulness of the reservoir will start reducing after
+#a 50 years
+#b 150 years
+#c 200 years
+#d 250 years
+
+## 57 | p=5 | hw=a
+The forces, which are considered for the analysis of an elementary profile of a gravity dam under empty reservoir condition, are
+i) Water pressure
+ii) Self weight
+iii) Uplift
+iv) Pressure due to earthquake
+The correct answer is
+#a Only (ii)
+#b (i), (ii) and (iii)
+#c (i), (ii) and (iv)
+#d (i), (ii), (iii) and (iv)
+
+## 58 | p=5 | hw=d
+When the upstream face of a gravity dam is vertical, then the intensity of water pressure at the water surface and at the base respectively will be
+#a 0 and wH² /2
+#b wH² /2 and wH² /3
+#c wH and 0
+#d 0 and wH
+#note where w is unit weight of water and H is the depth of water.
+
+## 59 | p=5 | hw=d
+The uplift pressure on a dam can be controlled by
+i) constructing cutoff under upstream face
+ii) constructing drainage channels between the dam and its foundation
+iii) by pressure grouting in foundation
+The corret answer is
+#a only (i)
+#b both (i) and (ii)
+#c both (i) and (iii)
+#d (i), (ii) and (iii)
+
+## 60 | p=5 | hw=c
+The uplift pressure on the face of a drainage gallery in a dam is taken as
+#a hydrostatic pressure at toe
+#b average of hydrostatic pressure at toe and heel
+#c two-third of hydrostatic pressure at toe plus one-third of hydrostatic pressure at heel
+#d none of the above
+
+## 61 | p=5-6 | hw=c
+Horizontal acceleration due to earthquake results in
+#a hydrodynamic pressure
+#b inertia force into the body of the dam
+#c both (a) and (b)
+#d none of the above
+
+## 62 | p=6 | hw=c
+Hydrodynamic pressure due to earthquake acts at a height of
+#a 3H/4π above the base
+#b 3H/4π below the water surface
+#c 4H/3π above the base
+#d 4H/3π below the water surface
+#note where H is the depth of water.
+
+## 63 | p=6 | hw=c
+The major resisting force in a gravity dam is
+#a water pressure
+#b wave pressure
+#c self-weight of dam
+#d uplift pressure
+
+## 64 | p=6 | hw=c
+Total force due to wave action on a gravity dam acts at a height of
+#a h_w/2 above the reservoir surface
+#b (5/4)h_w above the reservoir surface
+#c (3/8)h_w above the reservoir surface
+#d (2/3)h_w above the reservoir surface
+#note where h_w is the height of wave
+
+## 65 | p=6 | hw=a
+When the reservoir is full, the maximum compressive force in a gravity dam is produced
+#a at the toe
+#b at the heel
+#c within the middle third of base
+#d at centre of base
+
+## 66 | p=6 | hw=d
+The maximum permissible eccentricity for no tension at the base of a gravity dam is
+#a B/2
+#b B/3
+#c B/4
+#d B/6
+
+## 67 | p=6 | hw=d
+Presence of tail water in a gravity dam
+i) increases the principal stress
+ii) decreases the principal stress
+iii) increases the shear stress
+iv) decreases the shear stress
+The correct answer is
+#a (i) and (iii)
+#b (i)and (iv)
+#c (ii) and (iii)
+#d (ii) and (iv)
+
+## 68 | p=6 | hw=b
+Neglecting the effect due to earthquake forces and tail water pressure, the principal stress in a gravity dam is given by
+#a p_v
+#b p_v sec²θ
+#c p_v tan²θ
+#d p_v tan θ
+#note where p_v is vertical direct stress and θ is angle of downstream face of dam with the vertical.
+
+## 69 | p=6 | hw=d
+The elementary profile of a dam is
+#a a rectangle
+#b a trapezoidal
+#c an equilateral triangle
+#d a right angled triangle
+
+## 70 | p=6 | hw=c
+In the empty condition of reservoir and with the elementary profile of a dam, the vertical stress at heel and toe respectively are given by
+#a 0 and W/2B
+#b W/2B and 0
+#c 2W/B and 0
+#d 0 and 2W/B
+#note where B is base width and W is self-weight of unit length of dam
+
+## 71 | p=6 | hw=d
+Neglecting uplift pressure, the base width of an elementary profile of a gravity dam shall be taken as
+#a H/√G
+#b H/(μG)
+#c lesser of H/√G and H/(μG)
+#d greater of H/√G and H/(μG)
+#note where H is depth of water, G is specific gravity of material and μ is coefficient of friction.
+
+## 72 | p=6-7 | hw=c
+The maximum possible height of a safe dam having an elementary profile is
+#a f/(w√(G+1))
+#b f/(w√G)
+#c f/(w(G+1))
+#d f/(w√(G–1))
+#note where f = allowable stress of dam material
+G = specific gravity of dam material
+w = unit weight of water
+
+## 73 | p=7 | hw=c
+The focus of base parabola for a dam having a horizontal drainage filter is at a distance of
+#a B/2 from toe
+#b (B-b) from toe
+#c b from toe
+#d b/2 from toe
+#note where B is base width of dam and b is width of horizontal drainage filter.
+
+## 74 | p=7 | hw=a
+By providing a top width for roadway and freeboard in the elementary profile of a gravity dam, the resultant force for full reservoir condition will
+#a shift towards the heel
+#b shift towards the toe
+#c not shift at all
+#d none of the above
+
+## 75 | p=7 | hw=d
+For wave action in dams, the maximum height of freeboard is generally taken to be equal to
+#a 0.5 h_w
+#b 0.75 h_w
+#c 1.25 h_w
+#d 1.50 h_w
+#note where h_w is height of wave.
+
+## 76 | p=7 | hw=d
+As compared to gravity dams, earthen dams
+#a are costlier
+#b are less susceptible to failure
+#c require sound rock foundations
+#d require less skilled labour
+
+## 77 | p=7 | hw=d
+The most suitable material for the central impervious core of a zoned embankment type dam is
+#a clay
+#b coarse sand
+#c silty clay
+#d clay mixed with fine sand
+
+## 78 | p=7 | hw=c
+Seepage through embankments in an earthen dam is controlled by
+#a drainage filters
+#b relief wells
+#c drain trenches
+#d provision of downstream berms
+
+## 79 | p=7 | hw=c
+Seepage through foundation in an earthen dam is controlled by providing
+#a rock toe
+#b horizontal blanket
+#c impervious cut off
+#d chimney drain
+
+## 80 | p=7 | hw=a
+The flow of water after spilling over the weir crest in chute spillway and side channel spillway respectively are
+#a at right angle and parallel to weir crest
+#b parallel and at right angle to weir crest
+#c parallel to weir crest in both
+#d at right angle to weir crest in both
+
+## 81 | p=7 | hw=a
+The discharge passing over an ogee spillway is given by
+#a CLH^(3/2)
+#b CHL^(3/2)
+#c CLH^(5/2)
+#d CLH^(1/2)
+#note where, L is effective length of spillway crest and H is the total head over the spillway crest including velocity head.
+
+## 82 | p=7 | hw=d
+Coefficient of discharge of an ogee spillway
+#a depends on depth of approach and upstream slope
+#b depends on downstream apron interference and downstream submergence
+#c remains constant
+#d both (a) and (b)
+
+## 83 | p=7 | hw=a
+Which of the following spillways is least suitable for an earthen dam ?
+#a ogee spillway
+#b chute spillway
+#c side channel spillway
+#d shaft spillway
+
+## 84 | p=7-8 | hw=b
+In case of non-availability of space due to topography, the most suitable spillway is
+#a straight drop spillway
+#b shaft spillway
+#c chute spillway
+#d ogee spillway
+
+## 85 | p=8 | hw=d
+In a chute spillway, the flow is usually
+#a uniform
+#b subcritical
+#c critical
+#d super critical
+
+## 86 | p=8 | hw=a
+For the upstream face of an earthen dam, the most adverse condition for stability of slope is
+#a sudden drawdown
+#b steady seepage
+#c during construction
+#d sloughing of slope
+
+## 87 | p=8 | hw=d
+If there are two canals taking off from each flank of a river, then there will be
+#a one divide wall and one undersluice
+#b one divide wall and two undersluices
+#c two divide walls and one undersluice
+#d two divide walls and two undersluices
+
+## 88 | p=8 | hw=d
+Generally the weir is aligned at right angles to the direction of the main river current because
+#a it ensures less length of the weir
+#b it gives better discharging capacity
+#c it is economical
+#d all of the above
+
+## 89 | star | p=8 | hw=c
+The main function of a divide wall is to
+#a control the silt entry in the canal
+#b prevent river floods from entering the canal
+#c separate the undersluices from weir proper
+#d provide smooth flow at sufficiently low velocity
+
+## 90 | p=8 | hw=a
+A divide wall is provided
+#a at right angle to the axis of weir
+#b parallel to the axis of weir and upstream of it
+#c parallel to the axis of weir and downstream of it
+#d at an inclination to the axis of weir
+
+## 91 | p=8 | hw=a
+As compared to crest of the normal portion of the weir, the crest of the undersluice portion of weir is kept at
+#a lower level
+#b higher level
+#c same level
+#d any of the above depending on the design
+
+## 92 | star | p=8 | hw=a
+Silt excluders are constructed on the
+#a river bed upstream of head regulator
+#b river bed downstream of head regulator
+#c canal bed upstream of head regulator
+#d canal bed downstream of head regulator
+
+## 93 | p=8 | hw=c
+If h is the ordinate of hydraulic gradient line above the top of the floor and G is specific gravity of floor material, then the thickness of floor is given by the formula
+#a h/(G+1)
+#b (h–1)/(G–1)
+#c h/(G–1)
+#d (h–1)/G
+
+## 94 | p=8 | hw=c
+According to Khosla's theory, the exit gradient in the absence of a downstream cutoff is
+#a 0
+#b unity
+#c infinity
+#d very large
+
+## 95 | p=8 | hw=b
+The minimum size of stone that will remain at rest in a channel of longitudinal slope S and hydraulic mean depth R is given by
+#a 4 RS
+#b 11 RS
+#c 7 RS
+#d 15 RS
+
+## 96 | star | p=8 | hw=c
+The ratio of average values of shear stresses produced on the bed and the banks of a channel due to flowing water is
+#a less than 1
+#b equal to 1
+#c greater than 1
+#d equal to zero
+
+## 97 | star | p=8 | hw=b
+If the critical shear stress of a channel is τ_c, then the average value of shear stress required to move the grain on the bank is
+#a 0.5 τ_c
+#b 0.75 τ_c
+#c τ_c
+#d 1.33 τ_c
+
+## 98 | star | p=8-9 | hw=c
+A water shed canal
+#a irrigates only on one side
+#b is most suitable in hilly areas
+#c avoids the cross drainage works
+#d is generally aligned parallel to the contours of the area
+
+## 99 | p=9 | hw=d
+A canal which is aligned at right angles to the contour is called
+#a contour canal
+#b watershed canal
+#c branch canal
+#d side slope canal
+
+## 100 | p=9 | hw=a
+Garret's diagrams are based on
+#a Kennedy's theory
+#b Lacey's theory
+#c Khosla's theory
+#d Bligh's theory
+
+## 101 | p=9 | hw=b
+Garret's diagrams have been drawn for
+#a a semi-circular channel
+#b a trapezoidal channel with side slope ½ H: 1V
+#c a trapezoidal channel with side slope 1H: ½ V
+#d semi-elliptical channel
+
+## 102 | p=9 | hw=c
+Lacey's regime scour depth is given by
+#a 1.35 (q/f)^(1/3)
+#b 1.35 (q²/f)^(1/6)
+#c 1.35 (q²/f)^(1/3)
+#d 1.35 (q/f)^(1/6)
+#note where q is discharge per unit width and f is silt factor.
+
+## 103 | p=9 | hw=c
+According to Lacey's theory, the silt supporting eddies are generated from
+#a bottom of channel only
+#b sides of channel only
+#c bottom as well as sides of channel
+#d none of the above
+
+## 104 | p=9 | hw=c
+According to Lacey, the bed slope is given by
+#a f^(4/3)/(3340Q^(1/2))
+#b f^(2/3)/(3340Q^(1/4))
+#c f^(5/3)/(3340Q^(1/6))
+#d f^(1/3)/(3340Q^(5/3))
+#note where f is silt factor and Q is discharge in cumecs.
+
+## 105 | p=9 | hw=c
+As per Lacey's theory, the silt factor is
+#a directly proportional to average particle size
+#b inversely proportional to average particle size
+#c directly proportional to square root of average particle size
+#d not related to average particle size
+
+## 106 | p=9 | hw=b
+As per Lacey's regime theory, the flow velocity is proportional to
+#a (Qf²)^(1/3)
+#b (Qf²)^(1/6)
+#c Q/f²
+#d (Q/f²)^(1/6)
+
+## 107 | star | p=9 | hw=b
+Wetted perimeter of a regime channel for a discharge of 64 cumecs as per Lacey's theory will be
+#a 19 m
+#b 38m
+#c 57m
+#d 76m
+
+## 108 | p=9 | hw=c
+Which of the following canal structures is used to remove surplus water from an irrigation channel into a natural drain ?
+#a canal fall
+#b canal outlet
+#c canal escape
+#d canal regulator
+
+## 109 | p=9 | hw=c
+For a proportional outlet, the flexibility is
+#a zero
+#b between zero and 1
+#c 1
+#d greater than 1
+
+## 110 | p=9 | hw=a
+The sensitivity of a rigid module is
+#a zero
+#b between zero and one
+#c 1
+#d infinity
+
+## 111 | p=10 | hw=b
+Which of the following is a flexible outlet ?
+#a submerged pipe outlet
+#b Kennedy's gauge outlet
+#c Gibb's outlet
+#d none of the above
+
+## 112 | p=10 | hw=d
+A straight glacis type fall with a baffle platform and a baffle wall is called
+#a vertical dropfall
+#b glacis fall
+#c Montague type fall
+#d inglis fall
+
+## 113 | p=10 | hw=c
+Which of the following types of falls use parabolic glacis for energy dissipation ?
+#a vertical drop fall
+#b glacis fall
+#c Montague type fall
+#d inglis fall
+
+## 114 | p=10 | hw=c
+In a Sarda type fall, rectangular crest is used for discharge upto
+#a 6 cumecs
+#b 10 cumecs
+#c 14 cumecs
+#d 20 cumecs
+
+## 115 | p=10 | hw=a
+Which of the following can be used as a meter fall ?
+#a vertical drop fall
+#b flumed glacis fall
+#c unflumed glacis fall
+#d all of the above
+
+## 116 | p=10 | hw=b
+Vertical drop fall is satisfactory for a height upto
+#a 0.5 m
+#b 1.5 m
+#c 3.5 m
+#d 5.0 m
+
+## 117 | p=10 | hw=c
+Which of the following canal outlets maintains a constant discharge?
+#a non-modular outlet
+#b flexible outlet
+#c rigid module
+#d none of the above
+
+## 118 | p=10 | hw=b
+The ratio of rate of change of the discharge of an outlet to the rate of change of the discharge of distributing channel is called
+#a proportionality
+#b flexibility
+#c setting
+#d sensitivity
+
+## 119 | p=10 | hw=c
+The drainage water intercepting the canal can be disposed of by passing the canal below the drainage in
+#a aqueduct and syphon aqueduct
+#b aqueduct and super passage
+#c super passage and canal syphon
+#d level crossing
+
+## 120 | p=10 | hw=a
+If the R.L's of canal bed level and high flood level of drainage are 212.0 m and 210.0 m respectively, then cross drainage work will be
+#a aqueduct
+#b superpassage
+#c syphon
+#d syphon aqueduct
+
+## 121 | p=10 | hw=c
+The aqueduct or superpassage type of works are generally used when
+#a high flood drainage discharge is small
+#b high flood drainage discharge is large and short lived
+#c high flood drainage discharge is large and continues for a long time
+#d none of the above
+
+## 122 | p=10 | hw=a
+An aggrading river is a
+#a silting river
+#b scouring river
+#c both silting and scouring river
+#d neither silting nor scouring river
+
+## 123 | p=10 | hw=c
+Tortuosity of a meandering river is the ratio of
+#a meander belt to meander length
+#b meander length to meander belt
+#c curved length along the channel to the direct axial length of the river reach
+#d direct axial length of the river reach to curved length along the channel
+
+## 124 | star | p=10 | hw=b
+The meander pattern of a river is developed by
+#a average discharge
+#b dominant discharge
+#c maximum discharge
+#d critical discharge
+
+## 125 | p=10 | hw=c
+The main cause of meandering is
+#a presence of an excessive bed slope in the river
+#b degradation
+#c the extra turbulence generated by the excess of river sediment during floods
+#d none of the above
+
+## 126 | p=11 | hw=c
+Tortuosity of a meandering river is always
+#a equal to 1
+#b less than 1
+#c greater than 1
+#d less than or equal to 1
+
+## 127 | p=11 | hw=a
+Select the correct statement.
+#a A meander increases the river length but a cut off reduces the river length.
+#b A cutoff increases the river length but a meander reduces the river length.
+#c Both meander and cutoff increase the river length.
+#d Both meander and cutoff decrease the river length.
+
+## 128 | p=11 | hw=d
+River training for depth is achieved by
+#a groynes
+#b construction of dykes or leavees
+#c both (a) and (b)
+#d groynes and bandalling
+
+## 129 | star | p=11 | hw=c
+Main purpose of mean water training for rivers is
+#a flood control
+#b to provide sufficient depth of water in navigable channels, during low water periods
+#c to preserve the channel in good shape by efficient disposal of suspended and bed load
+#d all of the above
+
+## 130 | tag=ES 94 | p=11 | hw=b
+If D is the depth of scour below original bed, then the width of launching apron is generally taken as
+#a 1.2 D
+#b 1.5 D
+#c 2.0 D
+#d 2.5 D
+
+## 131 | p=11 | hw=b
+Study the following statements.
+i) Levees are constructed parallel to river flow.
+ii) Spurs are constructed parallel to river flow.
+iii) Levees are constructed transverse to river flow.
+iv) Spurs are constructed transverse to river flow.
+The correct answer is
+#a (i) and (ii)
+#b (i) and (iv)
+#c (ii) and (iii)
+#d (iii) and (iv)
+
+## 132 | p=11 | hw=a
+A repelling groyne is aligned
+#a pointing upstream
+#b pointing downstream
+#c perpendicular to bank
+#d parallel to bank
+
+## 133 | p=11 | hw=c
+A river training work is generally required when the river is
+#a aggrading type
+#b degrading type
+#c meandering type
+#d both (a) and (b)
+
+## 134 | p=11 | hw=b
+Length and width of a meander are proportional to
+#a discharge
+#b (discharge)^(1/2)
+#c (discharge)^(2/3)
+#d (discharge)²
+
+## 135 | p=11 | hw=d
+A river bend in alluvial soil is characterized by
+#a scouring on concave side
+#b silting on convex side
+#c scouring on convex side and silting on concave side
+#d scouring on concave side and silting on convex side
+
+## 136 | p=11 | hw=c
+Select the incorrect statement.
+#a Intensive irrigation should be avoided in areas susceptible to water logging.
+#b Extensive irrigation should be adopted in areas susceptible to water logging.
+#c Lift irrigation increases water logging.
+#d all of the above
+
+## 137 | p=11 | hw=c
+A land is known as waterlogged
+#a when the permanent wilting point is reached
+#b when gravity drainage has ceased
+#c capillary fringe reaches the root zone of plants
+#d none of the above
+
+## 138 | p=11 | hw=b
+Lining of irrigation channels
+#a increases the waterlogging area
+#b decreases the waterlogging area
+#c does not change the water logging area
+#d none of the above
+
+## 139 | p=11 | hw=a
+A runoff river plant is
+#a a low head scheme
+#b a medium head scheme
+#c a high head scheme
+#d none of the above
+
+## 140 | p=12 | hw=a
+The net speed under which the turbine reaches its peak efficiency is called
+#a design speed
+#b rated speed
+#c gross speed
+#d operating speed
+
+## 141 | p=12 | hw=c
+A runoff river plant
+#a is a medium head scheme
+#b generates power during peak hours only
+#c is suitable only on a perennial river
+#d has no pondage at all
+
+## 142 | p=12 | hw=a
+The net head under which the turbine reaches its peak efficiency at synchronous speed is called
+#a design head
+#b rated head
+#c gross head
+#d operating head
+
+## 143 | star | p=12 | hw=d
+The ratio of the average load to the installed capacity of the plant whose reserve capacity is zero will be equal to
+#a load factor
+#b plant factor
+#c utilisation factor
+#d both (a) and (b)
+
+## 144 | p=12 | hw=c
+A hydroelectric scheme operating under a head of 80 m will be classified as
+#a low head scheme
+#b medium head scheme
+#c high head scheme
+#d none of the above
+
+## 145 | p=12 | hw=a
+A hyetograph is a graphical representation of
+#a rainfall intensity and time
+#b rainfall depth and time
+#c discharge and time
+#d cumulative rainfall and time
+
+## 146 | p=12 | hw=c
+Variability of rainfall is
+i) largest in regions of high rainfall
+ii) largest in coastal areas
+iii) largest in regions of scanty rainfall
+The correct answer is
+#a only (i)
+#b (i) and (ii)
+#c only (iii)
+#d (ii) and (iii)
+
+## 147 | star | p=12 | hw=c
+In India, which of the following is adopted as standard recording raingauge ?
+#a Symon's raingauge
+#b tipping bucket type
+#c natural syphon type
+#d weighing bucket type
+
+## 148 | star | p=12 | hw=b
+The maximum average depth due to one day storm over an area of 100 km² is 100 mm. Depth-Area-Duration (DAD) curves indicate that for the same area of 100 km² the maximum average depth for a 3 hour storm will be
+#a 100 mm
+#b more than 100 mm
+#c less than 100 mm
+#d none of the above
+
+## 149 | star | p=12 | hw=b
+The maximum rainfall depth of 300 mm in 24 hours has a return period of 100 years. The probability of 24 hours rainfall equal to or greater than 300 mm occurring at least once in 10 years is given by
+#a (0.99)¹⁰
+#b 1 – (0.99)¹⁰
+#c (0.9)¹⁰⁰
+#d 1 – (0.9)¹⁰⁰
+
+## 150 | p=12 | hw=c
+The most suitable chemical which can be applied to the water surface for reducing evaporation is
+#a methyl alcohol
+#b ethyl alcohol
+#c cetyl alcohol
+#d butyl alcohol
+
+## 151 | p=12 | hw=a
+Interception losses are due to
+i) evaporation
+ii) transpiration
+iii) stream flow
+The correct answer is
+#a only (i)
+#b (i) and (ii)
+#c (ii) and (iii)
+#d (i), (ii) and (iii)
+
+## 152 | star | p=12 | hw=b
+A 6 hours storm had 4 cm of rainfall and the resulting runoff was 2 cm. If ϕ index remains at the same value, the runoff due to 10 cm of rainfall in 12 hours in the catchment is
+#a 4.5 cm
+#b 6.0 cm
+#c 7.5 cm
+#d 9.0 cm
+
+## 153 | p=12-13 | hw=a
+Which of the following methods is used to estimate flood discharge based on high water marks left over in the past ?
+#a slope–area method
+#b area–velocity method
+#c moving boat method
+#d ultra–sonic method
+
+## 154 | p=13 | hw=a
+In the moving boat method of stream flow measurements, the following measurements are required :
+i) velocity and direction of current meter
+ii) speed of the boat
+iii) depths and time interval between depth readings
+The correct answer is
+#a (i) and (iii)
+#b (ii) and (iii)
+#c only (ii)
+#d (i), (ii) and (iii)
+
+## 155 | star | p=13 | hw=c
+To determine the discharge at a section in a stream from its rating curve, the required data are
+i) slope of water surface at the section
+ii) stage at the section
+iii) current meter readings at the section
+The correct answer is
+#a (i) and (ii)
+#b (ii) and (iii)
+#c only (ii)
+#d only (iii)
+
+## 156 | p=13 | hw=c
+The stage of river carrying a discharge of Q m³/sec at a point is 10 m and slope of water surface is (1/4000). The discharge of a flood at the same point and same stage of 10 m with a water surface slope of (1/1000) will be
+#a √2 Q m³/sec
+#b 0.5 Q m³/sec
+#c 2 Q m³/sec
+#d 4 Q m³/sec
+
+## 157 | p=13 | hw=c
+The stream which does not have any base flow contribution is called
+#a perennial stream
+#b intermittant stream
+#c ephimeral stream
+#d none of the above
+
+## 158 | p=13 | hw=c
+The flow-mass curve is graphical representation of
+#a cumulative discharge and time
+#b discharge and percentage probability of flow being equalled or exceeded
+#c cumultative discharge, volume and time in chronological order
+#d discharge and time in chronological order
+
+## 159 | p=13 | hw=a
+If the demand line drawn from a ridge in a flow mass curve does not intersect the curve again, it indicates that
+#a demand cannot be met by inflow
+#b reservoir was not full at the beginning
+#c both (a) and (b)
+#d none of the above
+
+## 160 | star | p=13 | hw=a
+The shape of recession limb of a hydrograph depends upon
+#a basin characteristics only
+#b storm characteristics only
+#c both (a) and (b)
+#d none of the above
+
+## 161 | p=13 | hw=c
+Instantaneous unit hydrograph is a hydrograph of
+i) unit duration
+ii) unit rainfall excess
+iii) infinitely small duration
+iv) infinitely small rainfall excess
+The correct answer is
+#a (i) and (ii)
+#b (i) and (iv)
+#c (ii) and (iii)
+#d (iii) and (iv)
+
+## 162 | p=13 | hw=a
+For a catchment area of 120 km², the equilibrium discharge in m³/hour of an S-curve obtained by the summation of 6 hour unit hydrograph is
+#a 0.2 × 10⁶
+#b 0.6 × 10⁶
+#c 2.4 × 10⁶
+#d 7.2 × 10⁶
+
+## 163 | p=13 | hw=b
+A unit hydrograph has one unit of
+#a rainfall duration
+#b rainfall excess
+#c time base of direct runoff
+#d discharge
+
+## 164 | star | p=13 | hw=b
+The peak of a 4 hour flood hydrograph is 240 m³/sec . If the rainfall excess is 80 mm and base flow which is constant is 40 m³/sec, then the peak of 4–hours unit hydrograph will be
+#a 20 ³/sec
+#b 25 m³/sec
+#c 30 m³/sec
+#d 35 m³/sec
+
+## 165 | p=13-14 | hw=b
+A 4-hour direct runoff hydrograph of a catchment is triangular in shape with a time base of 100 hours and peak flow of 50 m³/sec. The catchment area is 360 km². The peak flow of this catchment area for a 4-hour unit hydrograph is
+#a 10 m³/sec
+#b 20 m³/sec
+#c 25 m³/sec
+#d 50 m³/sec
+
+## 166 | tag=ES 95 | p=14 | hw=b
+To estimate the magnitude of a flood with a return period of T years, Gumbel's distribution method requires the following data pertaining to annual flood series
+i) mean value
+ii) standard deviation
+iii) length of record
+iv) coefficient of skew
+The correct answer is
+#a (i) and (ii)
+#b (i), (ii) and (iii)
+#c (i), (ii) and (iv)
+#d (i), (ii), (iii) and (iv)
+
+## 167 | p=14 | hw=d
+For an annual flood series arranged in descending order of magnitude, the return for a magnitude listed at position period m in a total data N is
+#a N/(m+l)
+#b m/(N+1)
+#c m/N
+#d (N+1)/m
+
+## 168 | star | p=14 | hw=c
+If the risk of a flood occurring in the next 10 years is accepted to 10%, then the return period for design should be
+#a 1 + (0.9)^0.10
+#b 1 – (0.9)^0.10
+#c 1/( 1 – 0.9^0.10 )
+#d 1/( 1 + 0.9^0.10 )
+
+## 169 | star | p=14 | hw=a
+Partial duration series is mostly used for
+#a rainfall analysis
+#b flood analysis
+#c both (a) and (b)
+#d none of the above
+
+## 170 | p=14 | hw=a
+If storage, inflow rate and outflow rate are denoted by S, I and Q respectively, then the value of S in Muskingham method of flood routing is given by the expression
+#a K (XI – XQ – Q)
+#b K(XI + XQ – Q)
+#c K( –XI + XQ + I)
+#d KX(I – XQ – Q)
+#note where K and X are coefficients.
+
+## 171 | p=14 | hw=b
+Which of the following are Saint Venant's equations for unsteady open-channel flow ?
+i) continuity equation
+ii) momentum equation
+iii) energy equation
+The correct answer is
+#a only (i)
+#b (i) and (ii)
+#c (i) and (iii)
+#d (i), (ii) and (iii)
+
+## 172 | star | p=14 | hw=c
+In case of channel routing, the storage is a function of
+#a inflow discharge only
+#b outflow discharge only
+#c both (a) and (b)
+#d none of the above
+
+## 173 | p=14 | hw=b
+Muskingham method of flood routing is
+#a reservoir routing method
+#b channel routing method
+#c hydraulic method of flood routing
+#d none of the above
+
+## 174 | star | p=14 | hw=a
+Which of the following equations are used in hydrological flood routing methods ?
+i) continuity equation
+ii) equation of motion
+iii) energy equation
+The correct answer is
+#a only (i)
+#b (i) and (ii)
+#c (i) and (iii)
+#d (i), (ii) and (iii)
+
+## 175 | tag=ES 99 | p=14 | hw=c
+In linear reservior, storage varies linearly with
+#a time
+#b inflow rate
+#c outflow rate
+#d none of the above
+
+## 176 | p=14 | hw=d
+The dimensions of storage coefficient is
+#a M° L¹ T⁻¹
+#b M° L² T⁻¹
+#c M° L³ T⁻²
+#d dimensionless
+
+## 177 | p=14 | hw=b
+The porosity of a sand sample is 50%. The specific yield of an aquifer containing this sand will be
+#a equal to 50%
+#b less than 50%
+#c more than 50%
+#d none of the above
+
+## 178 | p=14 | hw=c
+Discharge per unit drawdown at a well is called
+#a specific storage
+#b specific yield
+#c specific capacity
+#d none of the above
+
+## 179 | p=15 | hw=b
+Permeability of a soil sample at a temprature of 20°C is 0.5 mm/sec. If the temperature is decreased to 15°C, the permeability of the same soil sample is
+#a 0.5 mm/sec
+#b less than 0.5 mm/sec
+#c more than 0.5 mm/sec
+#d none of the above
+
+## 180 | p=15 | hw=b
+Due to decrease in pressure, the water level in a well penetrating a confined aquifer will
+#a decrease
+#b increase
+#c not change
+#d none of the above
+
+## 181 | star | p=15 | hw=a
+According to Indian standards, the number of raingauge stations for an area of 5200 km² in plains should be
+#a 10
+#b 15
+#c 20
+#d 40
+
+## 182 | star | p=15 | hw=c
+For a storm of given duration, if the intensity of storm corresponding to a return period of T is I, then the intensity of storm for same duration but corresponding to a return period of T₁ (where T₁ > T) will be
+#a less than I
+#b equal to I
+#c greater than I
+#d none of the above
+
+## 183 | p=15 | hw=c
+What is the probability of a flood equal to or greater than 25 years flood occurring twice in the next three years ?
+#a 24/625
+#b 72/3125
+#c 72/15625
+#d 24/15625
+
+## 184 | p=15 | hw=b
+The rainfall in four successive 12 hours period on a catchment are 40, 80, 90 and 30 mm. If the infiltration index ϕ for the storm is 5 mm/hour, then the total surface run off will be
+#a 0
+#b 50 mm
+#c 120 mm
+#d 180 mm
+
+## 185 | p=15 | hw=c
+The 6–hour unit hydrograph of a catchment of area 180km² ia triangular in shape. If the peak ordinate of this hydrograph is 10 m³/sec, then the time base is
+#a 50 hours
+#b 75 hours
+#c 100 hours
+#d 120 hours
+
+## 186 | p=15 | hw=b
+Percentage of raingauge stations which should be equipped with self recording gauges for knowing the intensity of rainfall should be about
+#a 5%
+#b 10%
+#c 15%
+#d 20%
+
+## 187 | p=15 | hw=c
+If the same catchment area is situated in three zones X, Y, Z where X, Y and Z represent flat regions of tropical zone, mountaneous region of tropical zone and arid zone respectively, then the relation between the desirable number of raingauge stations in these three zones N_x, N_y and N_z respectively is
+#a N_x > N_y > N_z
+#b N_y > N_z > N_x
+#c N_y > N_x > N_z
+#d N_z > N_y > N_x
+
+## 188 | star | p=15 | hw=c
+If the coefficient of variation of rainfall values at 4 raingauge stations is 30% and permissible error in the estimation of mean rainfall is 10%, then the additional number of raingauge stations required in the catchment is
+#a 3
+#b 4
+#c 5
+#d 9
+
+## 189 | p=15 | hw=a
+Assertion A : Under identical conditions, the evaporation from sea water is less than that from fresh water.
+Reason R : Vapour pressure of sea water is less than that of pure water.
+Select your answer based on the coding system given below :
+#a Both A and R are true and R is the correct explanation of A.
+#b Both A and R are true but R is not the correct explanation of A.
+#c A is true but R is false.
+#d A is false but R is true.
+
+## 190 | p=16 | hw=b
+In a siphon aqueduct the most severe condition of uplift on the floor occurs when
+#a canal runs full, drain is dry but the water table is at stream bed
+#b canal is dry and drain is at high flood level
+#c canal runs dry and the drain also runs dry
+#d both the canal and the drain run full
+
+## 191 | p=16 | hw=c
+The double mass analysis is adopted to
+#a estimate the missing rainfall data
+#b obtain intensities of rainfall at various duration
+#c check the consistency of data
+#d obtain the amount of storage needed to maintain a demand pattern
+
+## 192 | p=16 | hw=c
+Retrogression of downstream levels, generally considered in the design of weirs or barrages, is
+#a higher at high flood stage than at low water levels
+#b same at high flood stage and at low water levels
+#c higher at low water levels stage than at high flood stage
+#d independent of the stage of flow
+
+## 193 | p=16 | hw=d
+Cross-regulators in main canals are provided to
+#a regulate water supply in the off-taking channel
+#b regulate water supply in the main channel
+#c regulate excessive flood water
+#d head up water for adequate supply into the off-taking channel
+
+## 194 | p=16 | hw=c
+For a barrage, the exit gradient is independent of
+#a the applied head of water
+#b the horizontal length of floor
+#c the depth of upstream cutoff
+#d the depth of downstream cutoff
+
+## 195 | p=16 | hw=a
+For the upstream slope of an earth dam, the most critical condition is
+#a sudden draw down condition
+#b steady seepage condition
+#c neither sudden draw down nor steady seepage condition
+#d during construction when the reservoir is allowed to be filled
+
+## 196 | p=16 | hw=a
+Bligh's creep theory of seepage assumes
+#a equal weightage to horizontal and vertical creeps
+#b more weightage to horizontal creep than vertical creep
+#c less weightage to horizontal creep than vertical creep
+#d loss of head follows a sine curve
+
+## 197 | p=16 | hw=d
+The sequent peak algorithm is a method used in the estimation of the
+#a maximum possible precipitation in a basin
+#b maximum possible flood peak in a catchment
+#c minimum evapotranspiration from a catchment
+#d minimum reservoir capacity needed to meet a given demand
+
+## 198 | p=16 | hw=d
+The probable maximum flood is
+#a the standard project flood of an extremely large river
+#b a flood adopted in the design of all kinds of spillways
+#c a flood adopted in all hydraulic structures
+#d an extremely large but physically possible flood in the region
+
+## 199 | p=16 | hw=a
+The probable maximum precipitation at a station is
+#a the greatest rainfall for a given duration that is physically possible
+#b the rainfall of a given duration with maximum probability of occurrence
+#c the rainfall for a given duration that is impossible to occur
+#d none of the above
+
+## 200 | p=16 | hw=d
+The flow duration curve is a plot of
+#a accumulated flow against time
+#b discharge against time in chronological order
+#c the base flow against the percentage of time the flow is equalled or exceeded
+#d the stream discharge against the percentage of time the flow is equalled or exceeded
+
+## 201 | p=16-17 | hw=b
+The DAD (Depth Area Duration) analysis for a catchment would indicate that
+#a for a given storm, the maximum depth increases with area
+#b for a given area, the maximum average depth of rainfall increases with storm duration
+#c for a given area, the maximum average depth of rainfall decreases with storm duration
+#d none of the above
+
+## 202 | p=17 | hw=b
+Permanent wilting point is
+#a a characteristic of the plant
+#b a soil characteristic
+#c a soil characteristic modified by the crop
+#d dependent on soil water plant fertiliser interaction
+
+## 203 | p=17 | hw=b
+Conjuctive use of water in a basin means
+#a combined use of water for irrigation and for hydropower generation
+#b combined use of surface and ground water resources
+#c use of irrigation water for both rabi and kharif season
+#d use of irrigation water by cooperative of farmers
+
+## 204 | p=17 | hw=a
+The tractive force method of designing stable channels is applicable to channels
+(i) in coarse non-cohesive material
+(ii) in cohesive material
+(iii) carrying clear water
+(iv) carrying water containing suspended load
+Of these statements
+#a (i) and (iii) are correct
+#b (ii) and (iii) are correct
+#c (i) and (iv) are correct
+#d (ii) and (iv) are correct
+
+## 205 | p=17 | hw=b
+As per Shield's criteria for the initiation of bed motion, the entertainment function is a unique function of
+#a Reynolds number
+#b Shear Reynolds number
+#c Froude number
+#d both (b) and (c)
+
+## 206 | p=17 | hw=b
+Rigid boundary canals, whose bed and banks are made with non-erodible materials, are in
+#a true regime
+#b permanent regime
+#c final regime
+#d none of above
+
+## 207 | p=17 | hw=c
+In which of the following section a breast wall is usually provided
+#a main canal
+#b under-sluice
+#c head regulator
+#d weir
+
+## 208 | p=17 | hw=b
+The most ideal condition for energy dissipation for the design of spillways is when the tail water curve
+#a lies above jump height curve at all discharges
+#b coincides with jump height curve at all discharges
+#c lies below the jump height curve at all discharges
+#d lies above or below the jump height curve, depending upon the discharge
+
+## 209 | tag=GATE 99 | p=17 | hw=d
+The ordinate of the Instantaneous Unit Hydrograph (IUH) of a catchment at any time t, is
+#a the slope of the 1-hour unit hydrograph at that time
+#b the slope of the direct runoff unit hydrograph at that time
+#c difference in the slope of the S-curve and 1-hour unit hydrograph
+#d the slope of the S-curve with effective rainfall intensity of 1 cm/hr
+
+## 210 | star | p=17 | hw=c
+The leaching requirement of a soil is 10%. If the consumptive use requirement of the crop is 90 mm, then the depth of water required to be applied to the field is
+#a 80 mm
+#b 90 mm
+#c 100 mm
+#d 110 mm
+
+## 211 | tag=ES 93 | p=17 | hw=b
+Which of the following pairs are correctly, matched?
+1. Device to receive and eject drainage — Inlet and outlet from canal
+2. Cross-drainage structure when canal bed level and drain bed level are same — Canal siphon
+3. Cross-masonry work to facilitate road transport — Bridge
+Select the correct answer using the codes given below.
+Codes:
+#a 1, 2 and 3
+#b 1 and 3
+#c 2 and 3
+#d 1 and 2
+
+## 212 | tag=ES 93 | p=18 | hw=b
+The ordinates of a 3-hour unit hydrograph for a small catchment are given below:
+Time: (hour) — Unit graph ordinates: (m³/s)
+0 — 0
+3 — 1.5
+6 — 4.5
+9 — 18.6
+12 — 12.0
+15 — 9.4
+18 — 4.6
+21 — 2.3
+24 — 0.8
+27 — 0
+If the design storm produces net rainfall depths of 4.6 cm and 3.5 cm in successive unit periods, and if the base flow is 2 m³/s, then the peak flood flow (in m³/s) will nearly be
+#a 270
+#b 130
+#c 90
+#d 86
+
+## 213 | tag=ES 93 | p=18 | hw=c
+A 4-hour rainfall in a catchment of 250 km² produces rainfall depths of 6.2 cm and 5.0 cm in successive 2-hour unit periods. Assuming the ϕ index of the soil to be 1.2 cm/hour, the run-off volume in ha-m will be
+#a 16
+#b 22
+#c 1600
+#d 2200
+
+## 214 | tag=ES 93 | p=18 | hw=c
+A 3-hour unit hydrograph (UH) differs from a 6-hour UH, for any catchment, in that
+#a both the time of rise and the peak ordinate for the former are less than that for the latter
+#b both the time of rise and the peak ordinate for the former are greater than that of the latter
+#c the time of rise is less but the peak ordinate is greater for the former as compared to that of the latter
+#d the time of rise is greater but the peak ordinate is less for the former as compared to that of the latter
+
+## 215 | tag=ES 93 | p=18 | hw=a
+As per the recommendations of the ISI (NBS), the shape of a lined canal is
+#a trapezoidal
+#b semicircular
+#c parabolic
+#d elliptic
+
+## 216 | tag=ES 94 | p=18 | hw=c | fig=18:0.64,0.11,0.83,0.25
+Figure 3.1 shows the curve of a hydrograph.
+Which of the following would cause the peak of the curve to shift to the right?
+1. When the length of the overland flow is more.
+2. When the slope of the land surface is less.
+3. When the run-off is more.
+4. When the rainfall is moderate.
+Select the correct answer using the codes given below.
+Codes:
+#a 3 and 4
+#b 2 and 4
+#c 1 and 2
+#d 2,3 and 4
+
+## 217 | tag=ES 94 | p=18-19 | hw=a
+Match List I with List II and select the correct answer using the codes given below the Lists:
+List I — List II
+A. Land capability — 1. Drip irrigation
+B. Sandy soil — 2. Parshall flume
+C. Consumptive use of a crop — 3. Contour strip cropping
+D. Water flow measurement — 4. Blaney-Criddle formula
+5. U.S. Bureau of Reclamation Classification
+Codes:
+#a A-5, B-1, C-4, D-2
+#b A-1, B-2, C-4, D-3
+#c A-5, B-3, C-1, D-2
+#d A-1, B-2, C-5, D-3
+
+## 218 | tag=ES 94 | p=19 | hw=b
+A tropical cyclone in the northern hemisphere is a zone of
+#a low pressure with clockwise wind
+#b low pressure with anticlockwise wind
+#c high pressure with clockwise wind
+#d high pressure with anticlockwise wind
+
+## 219 | star | tag=ES 94 | p=19 | hw=d
+If one wants to be 90% sure that the design flood in a dam project will not occur during the design life period of 100 years, the recurrence interval for such a flood would be
+#a about 90 years
+#b equal to 100 years
+#c about 110 years
+#d roughly 1000 years
+
+## 220 | star | tag=ES 94 | p=19 | hw=a
+A channel designed by Lacey's theory has a mean velocity of one m/s. The silt factor is unity. The hydraulic mean radius will be
+#a 2.5 m
+#b 2 m
+#c 1 m
+#d 0.5 m
+
+## 221 | tag=ES 95 | p=19 | hw=d
+Which one of the following constitutes the basic assumption of unit-hydrograph theory?
+#a Non-liner response and time invariance
+#b Non-linear time variance and linear response
+#c Linear response and linear time variance
+#d Time invariance and linear response
+
+## 222 | tag=ES 95 | p=19 | hw=c
+The following parameters relate to the design of weirs on permeable foundations:
+1. scour depth.
+2. exit gradient.
+3. uplift pressure.
+4. unbalanced head.
+Design of the downstream end pile of the weir depends upon
+#a 1 and 2
+#b 1 and 4
+#c 2 and 3
+#d 3 and 4
+
+## 223 | tag=ES 95 | p=19 | hw=c
+Given that the base period is 100 days and the duty of the canal is 1000 hectares per cumec, the depth of water will be
+#a 0.864 cm
+#b 8.64 cm
+#c 86.4 cm
+#d 864 cm
+
+## 224 | tag=ES 95 | p=19 | hw=c
+A pumped storage plant is a
+#a high head plant
+#b run-off river plant
+#c peak load plant
+#d base load plant
+
+## 225 | tag=ES 96 | p=19 | hw=c
+If p is the precipitation, a is the area represented by a rain gauge, and n is the number of rain gauges in a catchment area, then the weighted mean rainfall is
+#a Σap³/Σa²
+#b Σap/n
+#c Σap/Σa
+#d Σap⁵/Σa³
+
+## 226 | tag=ES 96 | p=19 | hw=b
+Depth-Area-Duration curves of precipitation are drawn as
+#a minimising envelopes through the appropriate data points
+#b maximising envelopes through the appropriate data points
+#c best fit mean curves through the appropriate data points
+#d best fit mean straight lines through the appropriate data points
+
+## 227 | tag=ES 96 | p=19-20 | hw=c
+Match List I with List II and select the correct answer using the codes given below the lists:
+List I — List II
+A. Conservation reservoirs — 1. Uncontrolled outlets
+B. Retarding basins — 2. Flood-fighting
+C. Flood plains — 3. Temporary storage of flood water
+D. Flood walls — 4. Controlled outlets
+Codes:
+#a A-1, B-4, C-3, D-2
+#b A-1, B-4, C-2, D-3
+#c A-4, B-1, C-3, D-2
+#d A-4, B-1, C-2, D-3
+
+## 228 | tag=ES 96 | p=20 | hw=c
+The following four hydrological features have to be estimated or taken as inputs before one can compute the flood hydrograph at any catchment outlet:
+1. unit hydrograph
+2. rainfall hydrograph
+3. infiltration index
+4. base flow
+The correct order in which they have to be employed in the computations is
+#a 1, 2, 3, 4
+#b 2, 1, 4, 3
+#c 2, 3, 1, 4
+#d 4,1, 3, 2
+
+## 229 | tag=ES 96 | p=20 | hw=c
+Match List I with List II and select the correct answer using the codes given below the lists:
+List I — List II
+A. Tailwater curve much above jump height curve — 1. Basin at bed level
+B. Tailwater curve slightly above jump height curve — 2. Sunk basin
+C. Tailwater curve coinciding with jump height curve — 3. Ski jump bucket
+D. Tail water curve below the jump height curve — 4. Sloping apron
+Codes:
+#a A-4, B-3, C-2, D-1
+#b A-3, B-4, C-1, D-2
+#c A-4, B-3, C-1, D-2
+#d A-3, B-4, C-2, D-1
+
+## 230 | tag=ES 97 | p=20 | hw=a
+The Standard Project Flood is
+#a derived from the probable maximum precipitation in the region
+#b derived from the severemost meteorological conditions anywhere in the country
+#c the flood with return period of 1000 years
+#d the same as the probable maximum flood
+
+## 231 | tag=ES 97 | p=20 | hw=b
+Match List I (Control structures) with List II (Functions of the Control structures) and select the correct answer using the codes given below the Lists:
+List I — List II
+A. Canal drop — 1. Control of flow depth
+B. Canal escape — 2. Control of bed grade
+C. Canal cross-regulator — 3. Control of full supply level
+D. Canal outlets — 4. Control of discharge
+Codes:
+#a A-2, B-3, C-4, D-1
+#b A-2, B-3, C-1, D-4
+#c A-3, B-2, C-1, D-4
+#d A-3, B-2, C-4, D-1
+
+## 232 | star | tag=ES 97 | p=20 | hw=c
+For medium silt whose average grain size is 0.16 mm, Lacey's silt factor is likely to be
+#a 0.30
+#b 0.45
+#c 0.70
+#d 1.32
+
+## 233 | tag=ES 97 | p=20-21 | hw=a
+Match List I (Main provision) with List II (Surplussing arrangement) and select the correct answer using the codes given below the Lists:
+List I — List II
+A. Minor irrigation work — 1. Saddle spillway
+B. Medium irrigation project in interior area — 2. Syphon spillway
+C. Earth dam across main river — 3. Ogee spillway
+D. Masonry dam on good rock — 4. Surplus weir
+Codes:
+#a A-4, B-2, C-1, D-3
+#b A-4, B-2, C-3, D-1
+#c A-2, B-4, C-3, D-1
+#d A-2, B-4, C-1, D-3
+
+## 234 | tag=ES 97 | p=21 | hw=d
+Mean precipitation over an area is best obtained from gauged amounts by
+#a arithmetic mean method
+#b Thiessen method
+#c linearly interpolated isohyetal method
+#d orographically weighted isohyetal method
+
+## 235 | tag=ES 97 | p=21 | hw=a
+The following steps are involved in arriving at a unit hydrograph :
+1. Estimating the surface runoff in depth
+2. Estimating the surface runoff in volume
+3. Separation of base flow
+4. Dividing surface runoff ordinates by depth of runoff
+The correct sequence of these steps is :
+#a 3, 2, 1, 4
+#b 2, 3, 4, 1
+#c 3, 1, 2, 4
+#d 4, 3, 2, 1
+
+## 236 | star | tag=ES 97 | p=21 | hw=b
+Probability of a 10-year flood to occur at least once in the next 4 years is
+#a 25%
+#b 35%
+#c 50%
+#d 65%
+
+## 237 | tag=ES 97 | p=21 | hw=c
+The following data were recorded from an irrigated field :
+1. Field capacity : 20%
+2. Permanent wilting point : 10%
+3. Permissible depletion of available soil moisture : 50%
+4. Dry unit weight of soil : 1500 kgf/m³
+5. Effective rainfall : 25 mm
+Based on these data, the net irrigation requirement per metre depth of soil will be
+#a 75 mm
+#b 125 mm
+#c 50 mm
+#d 25 mm
+
+## 238 | tag=ES 98 | p=21 | hw=a
+Depth-area-duration curves would seem to resemble.
+#a arcs of a circle concave upwards with duration increasing outward
+#b first quadrant limbs of hyperbolae with duration increasing outward
+#c third quadrant limbs of hyperbolae with duration decreasing outward
+#d first quadrant limbs of hyperbolae with duration decreasing outward
+
+## 239 | tag=ES 99 | p=21 | hw=d
+The spacing of tile drains to relieve waterlogged land is directly proportional to the
+#a depth of drain below the ground surface
+#b depth of impervious strata from the drain
+#c depth of drain below the water level
+#d coefficient of permeability of the soil to be drained
+
+## 240 | tag=ES 99 | p=21 | hw=c
+The maximum permissible suction lift for centrifugal pump in practice (at sea level and at 30°C) is
+#a 12 m
+#b 10 m
+#c 6 m
+#d 3 m
+
+## 241 | tag=ES 99 | p=21 | hw=a
+An aquifer confined at top and bottom by impermeable layers is stratified into three layers as follows:
+Layer — Thickness (m) — Permeability (m/day)
+Top layer — 4 — 30
+Middle layer — 2 — 10
+Bottom layer — 6 — 20
+The transmissivity (m²/day) of the aquifer is
+#a 260
+#b 227
+#c 80
+#d 23
+
+## 242 | tag=ES 99 | p=21 | hw=c
+In a flow-mass curve study, the demand line drawn from a ridge does not intersect the mass curve again. This implies that
+#a the reservoir is not full at the beginning
+#b the storage is not adequate
+#c the demand cannot be met by the inflow as the reservoir will not refill
+#d the reservoir is wasting water by spill
+
+## 243 | tag=ES 99 | p=22 | hw=d
+The following rainfall data refers to stations A and B which are equidistant from station 'X' :
+— Station 'A' — Station 'X' — Station 'B'
+Long-term normal annual rainfall in mm — 200 — 250 — 300
+Annual rainfall in mm for the year 1940 — 140 — P — 270
+The value of P will be
+#a 250
+#b 220
+#c 205
+#d 200
+
+## 244 | tag=ES 99 | p=22 | hw=d
+Consider the following statements :
+1. A 100-year flood discharge is greater than a 50-year flood discharge.
+2. 90% dependable flow is greater than 50% dependable flow.
+3. Evaporation from salt-water surface is less than that from fresh-water surface.
+Which of these statements are correct ?
+#a 1 and 2
+#b 2 and 3
+#c 1 and 3
+#d 1, 2 and 3
+
+## 245 | tag=ES 99 | p=22 | hw=b
+If a 4-hour unit hydrograph of a certain basin has a peak ordinate of 80 m³/s, the peak ordinate of a 2-hour unit hydrograph for the same basin will be
+#a equal to 80 m³/s
+#b greater than 80 m³/s
+#c less than 80 m³/s
+#d between 40 m³/s to 80 m³/s
+
+## 246 | tag=ES 99 | p=22 | hw=c
+Match List I (Name of scientist) with List II (Contribution to field of hydrology) and select the correct answer using the codes given below the Lists :
+List I — List II
+A. Dalton — 1. Unit hydrograph
+B. Snyder — 2. Evaporation
+C. Blaney Criddle — 3. Empirical flood formula
+D. Sherman — 4. Synthetic unit hydrograph
+5. Consumptive use equation
+Codes:
+#a A-2, B-3, C-5, D-1
+#b A-1, B-4, C-3, D-2
+#c A-2, B-4, C-5, D-1
+#d A-1, B-3, C-4, D-5
+
+## 247 | tag=ES 99 | p=22 | hw=a
+A culvert is designed for a peak flow Q_P on the basis of rational formula. If a storm of the same intensity as used in the design and twice the duration occurs, then the resulting peak discharge will be
+#a Q_P
+#b Q_P /2
+#c √2 Q_P
+#d 2 Q_P
+
+## 248 | tag=ES 99 | p=22 | hw=a
+Match List I with List II and select the correct answer using the codes given below the Lists :
+List I — List II
+A. Specific yield — 1. Volume of water retained per unit volume of aquifer
+B. Specific capacity — 2. Volume of water drained by gravity per unit volume of aquifer
+C. Specific retention — 3. Difference of porosity and specific storage
+D. Specific storage — 4. Well yield per unit drawdown
+5. Volume of water released from unit volume of aquifer for unit decline in piezometric head
+Codes:
+#a A-2, B-4, C-1, D-5
+#b A-4, B-2, C-3, D-5
+#c A-2, B-5, C-1, D-4
+#d A-4, B-2, C-3, D-1
