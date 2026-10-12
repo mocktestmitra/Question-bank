@@ -1,6 +1,6 @@
 # Transcript of Civil/180-281.pdf (format: see header of data/Civil/1-92.txt)
-# NOTE: this file starts at book page 201 (chapter 8). Book pages 179-200 (end of ch.6 and all of ch.7
-# Construction Planning and Management) are not present in any uploaded PDF.
+# NOTE: scan pages 1-80 are book pages 201-280 (ch.8, ch.9); scan pages 81-102 are book pages 180-200
+# (end of ch.6 and ch.7 Construction Planning and Management), bound at the end of this PDF.
 
 @chapter 8 Soil Mechanics and Foundation Engineering
 
@@ -4393,3 +4393,2351 @@ Single flemish bond consists of
 #b English bond facing and double flemish bond backing in each course
 #c stretcher bond facing and double flemish bond backing in each course
 #d double flemish bond facing and header bond backing in each course
+
+## 117 | p=64 | hw=d
+The differential settlement in case of foundations on sandv soils should not exceed
+#a 25 mm
+#b 40 mm
+#c 65 mm
+#d 100 mm
+
+## 118 | p=64 | hw=d
+In case of foundations on black cotton soils, the most suitable method to increase the bearing capacity of soils is to
+#a increase the depth of foundation
+#b drain the soil
+#c compact the soil
+#d replace the poor soil
+
+## 119 | p=64 | hw=b
+The type of footing which is used to transmit heavy loads through steel columns is
+#a raft foundation
+#b grillage foundation
+#c well foundation
+#d isolated footing
+
+## 120 | p=64 | hw=c
+The maximum total settlement for isolated foundations on clayey soils should be limited to
+#a 25 mm
+#b 40 mm
+#c 65 mm
+#d 100 mm
+
+## 121 | p=64 | hw=c
+The type of pile which is driven at an inclination to resist inclined forces is known as
+#a friction pile
+#b sheet pile
+#c batter pile
+#d anchor pile
+
+## 122 | p=64 | hw=c
+The minimum depth of foundation in clayey soils is
+#a 0.5 m
+#b 0.7 m
+#c 0.9 m
+#d 1.2 m
+
+## 123 | p=64 | hw=d
+The maximum total settlement for raft foundation on clayey soils should be limited to
+#a 25 mm
+#b 25 to 40 mm
+#c 40 to 65 mm
+#d 65 to 100 mm
+
+## 124 | p=64 | hw=b
+The bearing capacity of a water logged soil can be improved by
+#a compacting the soil
+#b draining the soil
+#c increasing the depth of foundation
+#d grouting
+
+## 125 | p=64 | hw=a
+The type of flooring suitable for use in churches, theatres, public libraries and other places where noiseless floor covering is desired is
+#a cork flooring
+#b glass flooring
+#c wooden flooring
+#d linoleum flooring
+
+## 126 | p=64 | hw=b
+The vertical distance between the springing line and highest point of the inner curve of an arch is known as
+#a intrados
+#b rise
+#c spandril
+#d extrados
+
+## 127 | p=64 | hw=a
+Depth or height of the arch is the
+#a perpendicular distance between intrados and extrados
+#b vertical distance between springing line and intrados
+#c perpendicular distance between springing line and extrados
+#d none of the above
+
+## 128 | p=64 | hw=b
+The triangular space formed between the extrados and the horizontal line drawn through the crown of an arch is known as
+#a haunch
+#b spandril
+#c voussoirs
+#d skewbacks
+
+## 129 | p=64 | hw=d
+The lintels are preferred to arches because
+#a arches require more headroom to span the openings like doors, windows etc.
+#b arches require strong abutments to withstand arch thrust
+#c arches are difficult in construction
+#d all of the above
+
+## 130 | p=64-65 | hw=c
+In the construction of arches, sand box method is used for
+#a centring
+#b actual laying of arch work
+#c striking of centring
+#d none of the above
+
+## 131 | p=65 | hw=c
+The type of arch generally constructed over a wooden lintel or over a flat arch for the purpose of carrying the load of the wall above is
+#a segmental arch
+#b pointed arch
+#c relieving arch
+#d flat arch
+
+## 132 | p=65 | hw=b
+The type of joint commonly used at the junction of a principal rafter and tie beam in timber trussess is
+#a mortise and tennon joint
+#b oblique mortise and tennon joint
+#c butt joint
+#d mitred joint
+
+## 133 | p=65 | hw=b
+The type of roof suitable in plains where rainfall is meagre and temperature is high is
+#a pitched and sloping roof
+#b flat roof
+#c shell roof
+#d none of the above
+
+## 134 | p=65 | hw=a
+Pitched and sloping roofs are suitable for
+#a coastal regions
+#b plain regions
+#c covering large areas
+#d all of the above
+
+## 135 | p=65 | hw=c
+The type of roof which slopes in two directions with a break in the slope on each side is known as
+#a gable roof
+#b hip roof
+#c gambrel roof
+#d mansard roof
+
+## 136 | p=65 | hw=d
+Mansard roof is a roof which slopes in
+#a two directions without break in the slope on each side
+#b two directions with break in the slope on each side
+#c four directions without break in the slope on each side
+#d four directions with break in the slope on each side
+
+## 137 | p=65 | hw=a
+The horizontal timber piece provided at the apex of a roof truss which supports the common rafter is called
+#a ridge board
+#b hip rafter
+#c eaves board
+#d valley rafter
+
+## 138 | p=65 | hw=d
+The lower edge of the pitched roof, from where the rain water of the roof surface drops down, is known as
+#a hip
+#b gable
+#c ridge
+#d eaves
+
+## 139 | p=65 | hw=a
+Higher pitch of the roof
+i) results in stronger roof
+ii) results in weaker roof
+iii) requires more covering material
+iv) requires less covering material
+The correct answer is
+#a (i) and (iii)
+#b (i) and (iv)
+#c (ii) and (iii)
+#d (ii) and (iv)
+
+## 140 | p=65 | hw=c
+Couple close roof is suitable for maximum span of
+#a 2.5 m
+#b 3.5 m
+#c 4.5 m
+#d 5.5 m
+
+## 141 | p=65 | hw=c
+In a colar beam roof
+#a there is no horizontal tie beam
+#b there is a horizontal tie at the feet of rafters only
+#c there is a horizontal tie at almost the middle of rafters only
+#d there are two horizontal ties, one at the feet and other at the middle of the rafters
+
+## 142 | p=65 | hw=d
+The function of king post in a king post roof truss is
+#a to support the frame work of the roof
+#b to receive the ends of principal rafter
+#c to prevent the walls from spreading outward
+#d to prevent the tie beam from sagging at its centre
+
+## 143 | p=66 | hw=c
+The function of cleats in a roof truss is
+#a to support the common rafter
+#b to support purlins
+#c to prevent the purlins from tilting
+#d all of the above
+
+## 144 | p=66 | hw=c
+The term string is used for
+#a the underside of a stair
+#b outer projecting edge of a tread
+#c a sloping member which supports the steps in a stair
+#d a vertical member between two treads
+
+## 145 | p=66 | hw=b
+The vertical posts placed at the top and bottom ends of a flight supporting the hand rail are known as
+#a balusters
+#b newal posts
+#c balustrades
+#d railings
+
+## 146 | p=66 | hw=b
+The maximum number of steps in a flight should generally be restricted to
+#a 10
+#b 12
+#c 15
+#d no limit
+
+## 147 | p=66 | hw=b
+The number of steps in a flight generally should not be less than
+#a 2
+#b 3
+#c 5
+#d no limit
+
+## 148 | p=66 | hw=b
+Sum of tread and rise must lie between
+#a 300 to 350 mm
+#b 400 to 450 mm
+#c 500 to 550 mm
+#d 600 to 650 mm
+
+## 149 | p=66 | hw=a
+Minimum width of landing should be
+#a equal to width of stairs
+#b half the width of stairs
+#c twice the width of stairs
+#d one fourth the width of stairs
+
+## 150 | p=66 | hw=d
+In any good staircase, the maximum and minimum pitch respectively should be
+#a 90° and 0°
+#b 75° and 30°
+#c 60° and 10°
+#d 40° and 25°
+
+## 151 | p=66 | hw=a
+The height between two floors is 3.00 m and riser is 150 mm. Assuming two flights between the floors, the number of treads will be
+#a 18
+#b 19
+#c 20
+#d 21
+
+## 152 | p=66 | hw=b
+Half turn stairs are the stairs which change their direction through
+#a 90°
+#b 180°
+#c 270°
+#d 360°
+
+## 153 | p=66 | hw=a
+Doglegged stairs are
+#a half turn stairs
+#b quarter turn stairs
+#c straight stairs
+#d three quarter turn stairs
+
+## 154 | p=66 | hw=b
+Nosing is the outer projecting edge of a
+#a riser
+#b tread
+#c baluster
+#d landing
+
+## 155 | p=66 | hw=d
+The lower most horizontal piece of a shutter is known as
+#a style
+#b transom
+#c sill
+#d bottom rail
+
+## 156 | p=66 | hw=c
+From the point of view of maximum day light, the windows in a room should be located on
+#a eastern side
+#b western side
+#c northern side
+#d southern side
+
+## 157 | p=66 | hw=b
+In 10 DS 20, DS refers to
+#a double shutter door
+#b single shutter door
+#c double shutter window
+#d single shutter window
+
+## 158 | p=66-67 | hw=b
+The designation of frames of doors, windows and ventilators shows their
+i) width
+ii) height
+iii) type
+The correct order in which they are shown in the designation of frames is
+#a (i), (ii), (iii)
+#b (i), (iii), (ii)
+#c (ii), (i), (iii)
+#d (iii), (i), (ii)
+
+## 159 | p=67 | hw=b
+The minimum number of holdfasts recommended on each side of a door frame and a window frame respectively are
+#a 2 and 1
+#b 3 and 2
+#c 2 and 2
+#d 2 and 3
+
+## 160 | p=67 | hw=a
+The horizontal projections at head and sill of a door frame which are embedded into the side walls for fixing the frame are known as
+#a horns
+#b holdfasts
+#c jambs
+#d rebates
+
+## 161 | p=67 | hw=a
+The type of window provided on the sloping side of a pitched roof is called
+#a dormer window
+#b gable window
+#c lantern
+#d none of the above
+
+## 162 | p=67 | hw=c
+As compared to top rail, the bottom and lock rails in a door frame are normally made
+#a thinner
+#b thicker
+#c wider
+#d narrower
+
+## 163 | p=67 | hw=a
+The opening left in flat roofs for lighting purposes is called
+#a lantern
+#b dormer window
+#c sky light
+#d gable window
+
+## 164 | p=67 | hw=a
+The suitable door for entrance in an air conditioned building is a
+#a revolving door
+#b louvered door
+#c collapsible door
+#d swinging door
+
+## 165 | p=67 | hw=c
+Minimum elongation of steel for Fe250 and Fe415 respectively should be
+#a 14.5% and 14.5%
+#b 14.5 % and 23%
+#c 23% and 14.5%
+#d 23% and 23%
+
+## 166 | p=67 | hw=d
+Match list I with List II and select the correct answer using the codes given below the lists :
+List I — List II
+A. wired glass — 1. Used for thermal Insulation
+B. fibre glass — 2. used in outside windows to resist fire and breakage
+C. ground glass — 3. used where light is to be admitted but vision is to be obscured
+Codes :
+#a A-1, B-2, C-3
+#b A-2, B-3, C-1
+#c A-3, B-1, C-2
+#d A-2, B-1, C-3
+
+## 167 | p=67 | hw=b
+Select the incorrect statement.
+#a Cullet is a broken glass added to the batch prior to melting.
+#b Glass is unaffected by hydrofluoric acid.
+#c Lehr is a cooling oven in which completed articles of glassware are slowly cooled at a controlled rate.
+#d None of the above
+
+## 168 | star | p=67 | hw=d
+Select the correct statement.
+#a Thermoplastics undergo chemical change in the presence of heat.
+#b Thermoplastic does not soften on heating.
+#c both (a) and (b)
+#d none of the above
+
+## 169 | p=67-68 | hw=b
+Which of the following defect is caused by vapourization of entrapped moisture or solvents in a painted surface ?
+#a saponification
+#b blistering
+#c blooming
+#d cissing
+
+## 170 | p=68 | hw=d
+Extenders are added to the paint body to
+#a give colour
+#b accelerate the process of drying
+#c reduce the viscosity
+#d increase the volume
+
+## 171 | p=68 | hw=c
+Match list I with List II and select the correct answer using the codes given below the lists :
+List I — List II
+A. Pigment — 1. Turpentine
+B. Drier — 2. Iron oxide
+C. Thinner — 3. Zinc sulfate
+D. Extender — 4. Aluminium silicate
+Codes :
+#a A-3, B-2, C-1, D-4
+#b A-3, B-2, C-4, D-1
+#c A-2, B-3, C-1, D-4
+#d A-2, B-3, C-4, D-1
+
+## 172 | p=68 | hw=b
+Fibre saturation point of timber is the moisture content in % when
+#a it is 12%
+#b the cell walls are saturated with water and cells cavity contains no water
+#c the cell walls are dried and cells cavity contains water
+#d the cell walls are dried and cells cavity contains no water
+
+## 173 | p=68 | hw=c
+Which of the following mortar is most suitable for construction work in waterlogged areas ?
+#a lime mortar
+#b gauged mortar
+#c cement mortar
+#d mud mortar
+
+## 174 | p=68 | hw=b
+After addition of cement, the gauged mortar should be used within
+#a 30 minutes
+#b 1-2 hours
+#c 8-10 hours
+#d 24 hours
+
+## 175 | p=68 | hw=c
+Which of the following test is used to determine the rate of wear of stones ?
+#a crushing test
+#b abrasion test
+#c attrition test
+#d impact test
+
+## 176 | tag=ES 93 | p=68 | hw=b
+Match list I with List II and select the correct answer using the codes given below the lists :
+List I — List II
+A. Agricultural implements — 1. Jack
+B. Boat construction — 2. Deodar
+C. Railway sleepers — 3. Babul
+D. Musical Instruments — 4. Benteak
+Codes :
+#a A-1, B-2, C-3, D-4
+#b A-3, B-4, C-2, D-1
+#c A-4, B-3, C-1, D-2
+#d A-2, B-1, C-4, D-3
+
+## 177 | tag=ES 93 | p=68-69 | hw=b
+Which of the following pairs regarding the defects in timber are correctly matched?
+1. Upsets ………… Due to over maturity and unventilated storage of wood
+2. Foxiness ………..Due to crushing of fibres running transversely
+3. Star shakes ……… Radial splits widest at the circumference and diminishing towards the centre
+4. Heart shakes ……Cracks widest at the centre and diminishing towards the outer circumference
+Select the correct answer using the codes given below.
+Codes :
+#a 1 and 2
+#b 3 and 4
+#c 1, 3 and 4
+#d 2 and 4
+
+## 178 | tag=ES 93 | p=69 | hw=b
+Which of the following pairs regarding explanations and the terminologies pertaining to masonry are correctly matched?
+1. Reveal ………… Projecting stone to serve as support for joist
+2. Throating ………Groove provided on the underside of projecting elements like sills
+3. Gable ………… Triangle shaped masonry work provided at the ends of sloped roof
+4. Freeze ………… Vertical sides of finished openings for doors and windows
+Select the correct answer using the codes given below.
+Codes :
+#a 1 and 2
+#b 2 and 3
+#c 3 and 4
+#d 1 and 4
+
+## 179 | tag=ES 93 | p=69 | hw=a
+What is efflorescence ?
+#a Formation of white patches on the brick surface due to insoluble salts in the brick clay
+#b Swelling of brick due to presence of carbonaceous matter and gas
+#c Deformation of brick due to exposure to rain
+#d Impurities in the brick clay which show after burning.
+
+## 180 | tag=ES 93 | p=69 | hw=d
+Match list I with List II and select the correct answer using the codes given below the lists :
+List I (Laboratory Tests) — List II (Property)
+A. Vicat apparatus — 1. Soundness of cement
+B. Le-Chatelier apparatus — 2. Initial setting time of cement
+C. Slump test — 3. Workability of cement concrete
+D. Fineness modulus — 4. Relative size of aggregates
+Codes :
+#a A-1, B-2, C-3, D-4
+#b A-1, B-4, C-3, D-2
+#c A-3, B-4, C-2, D-1
+#d A-2, B-1, C-3, D-4
+
+## 181 | star | tag=ES 93 | p=69 | hw=b
+For a given environment, the most significant factor that influences the total shrinkage of concrete is
+#a cement content of mix
+#b total amount of water added at the time of mixing
+#c size of the member concreted
+#d maximum size of the coarse aggregate used
+
+## 182 | tag=ES 93 | p=69 | hw=a
+As a construction material, plywood is preferred to thin planks of timber because of
+#a good strength and dimensional stability in both lateral and longitudinal directions
+#b good dimensional stability in both longitudinal and lateral directions
+#c good strength in both longitudinal and lateral directions
+#d savings in cost and environmental considerations.
+
+## 183 | tag=ES 93 | p=69 | hw=c
+The aggregate crushing value of coarse aggregates which is used for making concrete, which in turn is used for purposes other than wearing surfaces, should not exceed
+#a 30%
+#b 40%
+#c 45%
+#d 50%
+
+## 184 | tag=ES 93 | p=69 | hw=a
+Vanadium steel is normally used in the manufacture of
+#a axles and springs
+#b ball bearings
+#c magnets
+#d railway switches and crossings
+
+## 185 | tag=ES 93 | p=70 | hw=c
+Match list I with List II and select the correct answer using the codes given below the lists :
+List I — List II
+A. Pig iron — 1. L.D. process
+B. Cast iron — 2. Reverberatory furnace
+C. Wrought iron — 3. Cupola furnace
+D. Steel — 4. Electric reduction Furnace
+Codes :
+#a A-2, B-1, C-4, D-3
+#b A-3, B-1, C-2, D-4
+#c A-4, B-3, C-2, D-1
+#d A-3, B-4, C-1, D-2
+
+## 186 | tag=ES 93 | p=70 | hw=a
+Neoprene is suitable for use in
+#a bearings of bridges
+#b hard duty rubber coatings of floors
+#c joinery works
+#d floors of dance halls
+
+## 187 | tag=ES 94 | p=70 | hw=b
+Consider the following statements:
+For the manufacture of good quality bricks it is essential to
+1. use a reverberatory kiln
+2. blend the soil with clay or sand as deemed appropriate
+3. knead the soil in a ghani
+4. temper the soil in a pug mill
+Of these statements
+#a 1 and 3 are correct
+#b 2 and 4 are correct
+#c 1, 3, and 4 are correct
+#d 2,3, and 4 are correct
+
+## 188 | tag=ES 94 | p=70 | hw=b
+Which one of the following pairs is correctly matched ?
+#a Sandstone ……… igneous rock
+#b Limestone………… sedimentary rock
+#c Basalt……………metamorphic rock
+#d Granite………… argillaceous rock
+
+## 189 | tag=ES 94 | p=70 | hw=c
+To produce low heat cements, it is necessary to reduce the compound
+#a C₃S
+#b C₂S
+#c C₃A
+#d C₄AF
+
+## 190 | tag=ES 94 | p=70 | hw=d
+Match list I with List II and select the correct answer using the codes given below the lists :
+List I (Terms) — List II (Brief definition)
+A. Sap wood — 1. Separation between adjacent layers of tissues
+B. Knot — 2. Disintegration caused by fungi
+C. Shake — 3. A branch base embedded in timber by natural growth
+D. Rot — 4. Outer layers of a log of wood
+Codes :
+#a A-1, B-2, C-3, D-4
+#b A-3, B-4, C-2, D-1
+#c A-1, B-3, C-2, D-4
+#d A-4, B-3, C-1, D-2
+
+## 191 | tag=ES 94 | p=70 | hw=c
+Consider the following statements:
+Seasoning of timber results in
+1. increased strength
+2. increased durability
+3. reduced resilience
+Of these statements
+#a 1,2 and 3 are correct
+#b 1 and 3 are correct
+#c 1 and 2 are correct
+#d 2 and 3 are correct
+
+## 192 | tag=ES 94 | p=70 | hw=b
+Timber can be made more fire resistant by
+#a dipping and steeping process
+#b Sir Abel's process
+#c charring
+#d hot and cold open tank treatment
+
+## 193 | tag=ES 94 | p=71 | hw=a
+Consider the following statements:
+Among the more common varieties of timber, namely, sal, mango and deodar,
+1. sal is the strongest
+2. mango is the least durable
+3. deodar is the lightest
+Of these statements
+#a 1,2 and 3 are correct
+#b 1 and 2 are correct
+#c 1 and 3 are correct
+#d 2 and 3 are correct
+
+## 194 | tag=ES 94 | p=71 | hw=a
+The wood preservative "Creosote" is derived from
+#a wood or coal
+#b acidic cupric chromate
+#c chromated zinc chloride
+#d pentachlorophenol
+
+## 195 | tag=ES 94 | p=71 | hw=b
+Consider the following statements:
+A good soil for making bricks should contain
+1. about 30% alumina
+2. about 10% lime nodules
+3. a small quantity of iron oxides
+4. about 15% magnesia
+Of these statements
+#a 1 and 2 are correct
+#b 1 and 3 are correct
+#c 1,3 and 4 are correct
+#d 2, 3 and 4 are correct
+
+## 196 | tag=ES 94 | p=71 | hw=c
+Consider the following statements:
+The effect of sea water on hardened concrete is to
+1. increase its strength
+2. reduce its strength
+3. retard setting
+4. decrease its durability
+Of these statements
+#a 1 and 3 are correct
+#b 2 and 3 are correct
+#c 2 and 4 are correct
+#d 1 and 4 are correct
+
+## 197 | tag=ES 94 | p=71 | hw=c
+Consider the following statements:
+Soft varieties of pig iron are also known as
+1. foundry pig
+2. grey pig
+3. forge pig
+4. mottled pig
+Of these statements
+#a 1, 2, 3 and 4 are correct
+#b 1 alone is correct
+#c 1 and 2 are correct
+#d 3 and 4 are correct
+
+## 198 | tag=ES 94 | p=71 | hw=a
+Consider the following statements:
+Excess of sulphur in steel results in
+1. red shortness
+2. segregation
+3. cold shortness
+Of these statements
+#a 1 alone is correct
+#b 2 alone is correct
+#c 2 and 3 are correct
+#d 1 and 2 are correct
+
+## 199 | tag=ES 94 | p=71 | hw=b
+Distemper is used to coat
+#a external concrete surfaces
+#b interior surfaces not exposed to weather
+#c wood work
+#d compound walls
+
+## 200 | tag=ES 94 | p=71 | hw=b
+Putty is made up of
+#a white lead and turpentine
+#b powered chalk and raw linseed oil
+#c red lead and linseed oil
+#d zinc oxide and boiled linseed oil
+
+## 201 | tag=ES 94 | p=71 | hw=d
+The limit of proportionality is applicable more in the case of
+#a concrete
+#b wood
+#c cast iron
+#d mild steel
+
+## 202 | tag=ES 94 | p=71 | hw=d
+The compacting factor test of cement concrete determines its
+#a strength
+#b porosity
+#c degree of compaction under loads
+#d workability
+
+## 203 | star | tag=ES 95 | p=71 | hw=a
+The split tensile strength of M15 grade concrete when expressed as a percentage of its compressive strength is
+#a 10 to 15%
+#b 15 to 20%
+#c 20 to 25%
+#d 25 to 30%
+
+## 204 | tag=ES 95 | p=72 | hw=b
+The approximate ratio between the strengths of cement concrete at 7 days and 28 days is
+#a 3/4
+#b 2/3
+#c 1/2
+#d 1/3
+
+## 205 | tag=ES 95 | p=72 | hw=d
+According to the relevant I.S. code, the weight of the timber is to be reckoned at a moisture content of
+#a zero
+#b 4 %
+#c 8 %
+#d 12 %
+
+## 206 | tag=ES 95 | p=72 | hw=c
+Match list I with List II and select the correct answer using the codes given below the lists :
+List I (Name of stone) — List II (Use of stone)
+A. Granite — 1. Ornamental work
+B. Marble — 2. Ballast
+C. Chalk — 3. Rough stone work
+D. Laterite — 4. Manufacture of cement
+Codes :
+#a A-3, B-1, C-2, D-4
+#b A-2, B-3, C-1, D-4
+#c A-2, B-1, C-4, D-3
+#d A-1, B-4, C-2, D-3
+
+## 207 | tag=ES 95 | p=72 | hw=b
+If p is the standard consistency of cement, the amount of water used in conducting the initial setting time test on cement is
+#a 0.65 p
+#b 0.85 p
+#c 0.6 p
+#d 0.8 p
+
+## 208 | tag=ES 95 | p=72 | hw=c
+For good bonding in brick masonry
+#a all bricks need not be uniform in size
+#b bats must be used in alternate courses only
+#c the vertical joints in alternate courses should fall in plumb
+#d cement mortar used must have surkhi as additive
+
+## 209 | tag=ES 95 | p=72 | hw=d | fix=Book misprint: code a) repeats 4 for both B and C (A-3, B-4, C-4, D-2); kept as printed.
+Match List I with List II and select the correct answer using the codes given below the lists :
+List I (Metals or alloys) — List II (Their common use in building industry)
+A. Steel bars — 1. Water taps
+B. Zinc — 2. Door frames
+C. Aluminium — 3. Reinforcement in concrete
+D. Brass castings — 4. Corrugated roof sheet
+Codes :
+#a A-3, B-4, C-4, D-2
+#b A-3, B-2, C-4, D-1
+#c A-1, B-3, C-4, D-2
+#d A-3, B-4, C-2, D-1
+
+## 210 | tag=ES 95 | p=72 | hw=c
+Lime mortar is generally made with
+#a quick lime
+#b fat lime
+#c hydraulic lime
+#d white lime
+
+## 211 | star | tag=ES 96 | p=72 | hw=b
+If in a concrete mix the fineness modulus of coarse aggregate is 7.6, the fineness modulus of fine aggregate is 2.8 and the economical value of the fineness modulus of combined aggregate is 6.4, then the proportion of fine aggregate is
+#a 25%
+#b 33.33%
+#c 50%
+#d 66.67%
+
+## 212 | tag=ES 96 | p=72-73 | hw=b
+Match List I with List II and select the correct answer using the codes given below the lists :
+List I — List II
+A. Vicat's needles — 1. Setting time
+B. Michaeli's compound lever apparatus — 2. Specific surface
+C. Le-Chatelier's apparatus — 3. Tensile strength
+D. Turbidimeter — 4. Soundness
+Codes :
+#a A-1, B-2, C-3, D-4
+#b A-1, B-3, C-4, D-2
+#c A-2, B-4, C-3, D-1
+#d A-3, B-4, C-1, D-2
+
+## 213 | tag=ES 96 | p=73 | hw=c
+Tensile strength of concrete is measured by
+#a direct tension test in the universal testing machine
+#b applying compressive load along the diameter of the cylinder
+#c applying third point loading on a prism
+#d applying tensile load along the diameter of the cylinder
+
+## 214 | tag=ES 96 | p=73 | hw=c
+The approximate ratio of strength of 15 cm x 30 cm concrete cylinder to that of 15 cm cube of the same concrete is
+#a 1.25
+#b 1.00
+#c 0.85
+#d 0.50
+
+## 215 | tag=ES 96 | p=73 | hw=a
+The coefficient of linear expansion of granite is in the range of that of
+#a glass
+#b mild steel
+#c high carbon steel
+#d bamboo
+
+## 216 | tag=ES 96 | p=73 | hw=d
+The texture of sandstone is
+#a porphyritic
+#b conglomerate
+#c vesicular
+#d granular crystalline
+
+## 217 | tag=ES 95, 96 | p=73 | hw=a
+A good brick, when immersed in water bath for 24 hours, should not absorb more than
+#a 20% of its dry weight
+#b 30% of its saturated weight
+#c 10% of its dry weight
+#d 20% of its saturated weight
+
+## 218 | tag=ES 96 | p=73 | hw=c
+For complete hydration of cement the w/c ratio needed is
+#a less than 0.25
+#b more than 0.25 but less than 0.35
+#c more than 0.35 but less than 0.45
+#d more than 0.45 but less than 0.60
+
+## 219 | tag=ES 96 | p=73 | hw=c
+Match list I with List II and select the correct answer using the codes given below the lists :
+List I (Type of cement) — List II (Characteristics)
+A. Air entraining Portland cement — 1. Suitable for very large structures
+B. Low heat Portland cement — 2. Unsuitable for very large masses of concrete
+C. Hydrophobic Portland cement — 3. Greater resistance to frost attack
+D. Rapid hardening Portland cement — 4. Safe storage under unfavourable conditions of humidity
+Codes :
+#a A-4, B-2, C-1, D-3
+#b A-3, B-4, C-1, D-2
+#c A-3, B-1, C-4, D-2
+#d A-4, B-1, C-2, D-3
+
+## 220 | tag=ES 96 | p=73 | hw=c
+The expansion and shrinkage of plywoods are comparatively very low as
+#a they are held in position by adhesives
+#b they are glued under pressure
+#c plies are placed at right angles to each other
+#d they are prepared from veneers
+
+## 221 | tag=ES 96 | p=74 | hw=d
+Seasoning of timber is required to
+#a soften the timber
+#b harden the timber
+#c straighten the timber
+#d remove sap from the timber
+
+## 222 | tag=ES 96 | p=74 | hw=c
+Match list I with List II and select the correct answer using the codes given below the lists :
+List I (Cement mortar for different work) — List II (Proportion of cement: sand in mortar)
+A. Normal brick work — 1. 1:4
+B. Plastering works — 2. 1:3
+C. Grouting the cavernous rocks — 3. 1:6
+D. Guniting — 4. 1:1.5
+Codes :
+#a A-1, B-2, C-3, D-4
+#b A-3, B-1, C-2, D-4
+#c A-3, B-1, C-4, D-2
+#d A-4, B-3, C-2, D-1
+
+## 223 | tag=ES 96 | p=74 | hw=b
+The ratio of Young's modulus of high tensile steel to that of mild steel is about
+#a 0.5
+#b 1.0
+#c 1.5
+#d 2.0
+
+## 224 | tag=ES 96 | p=74 | hw=a
+Bureau of Indian Standards classifies bitumen into grades 65/25, 85/40 etc. The first and second numbers respectively refer to
+#a softening point and penetration
+#b penetration and softening point
+#c flash point and penetration
+#d flash point and softening point
+
+## 225 | tag=ES 96 | p=74 | hw=b
+Polyvinyl chloride (PVC) is a
+#a thermosetting material
+#b thermoplastic material
+#c elastoplastic material
+#d rigid-plastic material
+
+## 226 | star | tag=ES 96 | p=74 | hw=a
+Blast furnace slag has approximately
+#a 45% calcium oxide and about 35% silica
+#b 50% alumina and 20% calcium oxide
+#c 25% magnesia and 15% silica
+#d 25% calcium sulphate and 15% alumina
+
+## 227 | tag=ES 96 | p=74 | hw=d
+King closers are related to
+#a doors and windows
+#b king post truss
+#c queen post truss
+#d brick masonry
+
+## 228 | tag=ES 97 | p=74 | hw=a
+High alumina cement is produced by fusing together a mixture of
+#a limestone and bauxite
+#b limestone, bauxite and gypsum
+#c limestone, gypsum and clay
+#d limestone, gypsum bauxite, clay and chalk
+
+## 229 | tag=ES 97 | p=74 | hw=b
+Consider the following statements:
+High early strength of cement is obtained as a result of
+1. fine grinding
+2. decreasing the lime content
+3. burning at higher temperatures
+4. increasing the quantity of gypsum
+Of these statements
+#a 1 and 2 are correct
+#b 1 and 3 are correct
+#c 2, 3 and 4 are correct
+#d 1, 3 and 4 are correct
+
+## 230 | tag=ES 97 | p=74 | hw=b
+The optimum number of revolutions over which concrete is required to be mixed in a mixer machine is
+#a 10
+#b 20
+#c 50
+#d 100
+
+## 231 | tag=ES 97 | p=75 | hw=b
+Consider the following statements:
+The addition of surfactants in the concrete mix results in
+1. increase in the water cement ratio
+2. decrease in the water cement ratio
+3. increase in the strength of concrete
+4. decrease in the curing duration
+5. increase in the density of concrete
+Of these statements
+#a 1, 3 and 4 are correct
+#b 2, 3 and 5 are correct
+#c 3, 4 and 5 are correct
+#d 1, 4 and 5 are correct
+
+## 232 | tag=ES 97 | p=75 | hw=b
+Consider the following statements:
+Higher water cement ratio in concrete results in
+1. stronger mix
+2. better workable mix
+3. a weak mix
+4. less bleeding
+Of these statements
+#a 1 and 2 are correct
+#b 2 and 3 are correct
+#c 3 and 4 are correct
+#d 1 and 4 are correct
+
+## 233 | tag=ES 97 | p=75 | hw=b
+Which one of the following types of steels is used in the manufacture of rails?
+#a mild steel
+#b manganese steel
+#c cast steel
+#d bessemer steel
+
+## 234 | tag=ES 97 | p=75 | hw=c
+Match list I with List II and select the correct answer using the codes given below the lists :
+List I — List II
+A. Deciduous — 1. Soft wood
+B. Conifer — 2. Hard wood
+C. Endogenous — 3. Eucalyptus
+D. Exogenous — 4. Bamboo
+Codes :
+#a A-1, B-2, C-3, D-4
+#b A-2, B-1, C-3, D-4
+#c A-2, B-1, C-4, D-3
+#d A-1, B-2, C-4, D-3
+
+## 235 | tag=ES 97 | p=75 | hw=b
+During the conversion of timber by sawing, in order to obtain strong timber pieces, the cuts should be made by
+#a ordinary sawing
+#b tangential sawing
+#c quarter sawing
+#d radial sawing
+
+## 236 | tag=ES 97 | p=75 | hw=c
+Match list I with List II and select the correct answer using the codes given below the lists :
+List I — List II
+A. Pugmill — 1. Blasting
+B. Plug and feathers — 2. Lifting
+C. Lewis — 3. Splitting
+D. Gelignite — 4. Tempering
+Codes :
+#a A-2, B-1, C-3, D-4
+#b A-2, B-3, C-4, D-1
+#c A-4, B-3, C-2, D-1
+#d A-2, B-1, C-4, D-3
+
+## 237 | tag=ES 98 | p=75-76 | hw=b
+Match list I with List II and select the correct answer using the codes given below the lists :
+List I — List II
+A. The innermost part or core of the stem of a tree — 1. Transverse septa (Medullary rays)
+B. The vascular tissue which Encloses the pith — 2. Annual rings
+C. A cellular tissue and woody fibre arranged in distinct concentric circle — 3. The cambium layer
+D. The thin layer below the bark not converted into sap wood as yet — 4. The outermost cover or skin of the stem
+5. Medulla (pith)
+Codes :
+#a A-2, B-5, C-3, D-4
+#b A-5, B-1, C-2, D-3
+#c A-4, B-3, C-2, D-1
+#d A-5, B-1, C-4, D-3
+
+## 238 | tag=ES 98 | p=76 | hw=c
+A gauged mortar is obtained by adding which of the following ingredients to cement ?
+#a sand stone
+#b sand and surkhi
+#c sand and lime
+#d surkhi alone
+
+## 239 | tag=ES 98 | p=76 | hw=b
+To make one cubic metre of 1:2:4 by volume concrete, the volume of coarse aggregates required is
+#a 0.95 m³
+#b 0.85 m³
+#c 0.75 m³
+#d 0.65 m³
+
+## 240 | tag=ES 98 | p=76 | hw=c
+The temperature range in a cement kiln is
+#a 500 to 1000°C
+#b 1000 to 1200°C
+#c 1300 to 1500°C
+#d 1600 to 2000°C
+
+## 241 | tag=ES 98 | p=76 | hw=d
+Before testing setting time of cement one should test for
+#a soundness
+#b strength
+#c fineness
+#d consistency
+
+## 242 | tag=ES 98 | p=76 | hw=b
+A splitting tensile test is performed on a cylinder of diameter 'D' and length 'L'. If the ultimate load is 'P', then the splitting tensile strength of concrete is given by
+#a P/(πDL)
+#b 2P/(πDL)
+#c 4PL/(πD³)
+#d 2PD/(πL³)
+
+## 243 | tag=ES 98 | p=76 | hw=c
+Match list I (Admixtures) with List II (Chemicals) and select the correct answer using the codes given below the lists :
+List I — List II
+A. Water reducing admixture — 1. Sulphonated melanin formaldehyde
+B. Air entraining agent — 2. Calcium chloride
+C. Super-plasticiser — 3. Lignosulphonate
+D. Accelerator — 4. Neutralized vinsol resin
+Codes :
+#a A-2, B-4, C-1, D-3
+#b A-1, B-3, C-4, D-2
+#c A-3, B-4, C-1, D-2
+#d A-3, B-4, C-2, D-1
+
+## 244 | tag=ES 98 | p=76 | hw=d
+Match list I with List II and select the correct answer using the codes given below the lists :
+List I — List II
+A. Ductility — 1. Failure without warning
+B. Brittleness — 2. Drawn permanently over great changes of shape without rupture
+C. Tenacity — 3. Absorption of energy at high stress without rupture
+D. Toughness — 4. High tensile strength
+Codes :
+#a A-1, B-2, C-4, D-3
+#b A-1, B-2, C-3, D-4
+#c A-2, B-3, C-4, D-1
+#d A-2, B-1, C-4, D-3
+
+## 245 | tag=ES 98 | p=77 | hw=b
+Consider the following statements:
+Casein glue is
+1. obtained from milk
+2. obtained from the blood of animals
+3. used in painting of metals
+4. used in the plywood industry
+5. white in colour
+6. red in colour
+Of these statements
+#a 1, 3 and 5 are correct
+#b 1, 4 and 5 are correct
+#c 2, 3 and 6 are correct
+#d 2, 4 and 6 are correct
+
+## 246 | tag=ES 98 | p=77 | hw=a
+Match list I (Component of scaffolding) with List II (Function) and select the correct answer using the codes given below the lists :
+List I — List II
+A. Putlog — 1. Diagonal member
+B. Ledger — 2. Vertical member
+C. Brace — 3. Horizontal member
+D. Standard — 4. Transverse member
+Codes :
+#a A-4, B-3, C-1, D-2
+#b A-4, B-3, C-2, D-1
+#c A-3, B-4, C-1, D-2
+#d A-3, B-4, C-2, D-1
+
+## 247 | tag=ES 98 | p=77 | hw=b
+Match list I (Alloy metal) with List II (Application/characteristic) and select the correct answer using the codes given below the lists :
+List I — List II
+A. Aluminium alloy — 1. Building flashing and damp proof course
+B. Copper — 2. Radiation shielding
+C. Zinc — 3. Lightning conductor
+D. Lead — 4. Low density and high resistance to corrosion
+Codes :
+#a A-3, B-4, C-2, D-1
+#b A-4, B-3, C-2, D-1
+#c A-3, B-4, C-1, D-2
+#d A-4, B-3, C-1, D-2
+
+## 248 | tag=ES 99 | p=77 | hw=c
+Match list I (Property of cement) with List II (Testing apparatus) and select the correct answer using the codes given below the lists :
+List I — List II
+A. Specific gravity — 1. Blain's apparatus
+B. Setting time — 2. Le Chatelier's flask
+C. Soundness — 3. Compressometer
+D. Fineness — 4. Autoclave
+5. Vicat's apparatus
+Codes :
+#a A-3, B-5, C-1, D-2
+#b A-2, B-5, C-1, D-4
+#c A-2, B-5, C-4, D-1
+#d A-5, B-3, C-4, D-1
+
+## 249 | tag=ES 99 | p=77 | hw=c
+The role of superplasticizer in a cement paste is to
+#a disperse the particles
+#b disperse the particles and to remove air bubbles
+#c disperse the particles, remove air bubbles and to retard setting
+#d retard setting
+
+## 250 | tag=ES 99 | p=77-78 | hw=b
+Consider the following oxides :
+1. Al₂O₃
+2. CaO
+3. SiO₂
+The correct sequence in increasing order of their percentage in an ordinary Portland cement is
+#a 2, 1, 3
+#b 1, 3, 2
+#c 3, 1, 2
+#d 1, 2, 3
+
+## 251 | tag=ES 99 | p=78 | hw=d
+Surkhi is added to lime mortar to
+#a prevent shrinkage
+#b decrease setting time
+#c increase bulk
+#d impart hydraulicity
+
+## 252 | tag=ES 99 | p=78 | hw=d
+Increase in fineness of cement
+#a reduces the rate of strength development and leads to higher shrinkage
+#b increases the rate of strength development and reduces the rate of deterioration
+#c decreases the rate of strength development and increases the bleeding of cement
+#d increases the rate of strength development and leads to higher shrinkage
+
+## 253 | tag=ES 99 | p=78 | hw=d
+Consider the following statements :
+The effect of air entrainment in concrete is to
+1. increase resistance to freezing and thawing
+2. improve workability
+3. decrease strength
+Which of these statements are correct ?
+#a 2 and 3
+#b 1 and 3
+#c 1 alone
+#d 1, 2 and 3
+
+## 254 | tag=ES 99 | p=78 | hw=a
+Consider the following statements :
+Shrinkage of concrete depends upon the
+1. relative humidity of the atmosphere
+2. passage of time
+3. applied stress
+Which of these statements is/are correct?
+#a 1 and 2
+#b 2 and 3
+#c 1 alone
+#d 1, 2 and 3
+
+## 255 | tag=ES 99 | p=78 | hw=c
+Consider the following methods of preservation of timber
+1. Dipping
+2. Brushing or spraying
+3. Pressure impregnation
+The correct sequence in decreasing order of the effectiveness of these methods of preservation is
+#a 1, 2, 3
+#b 2, 1, 3
+#c 3, 1, 2
+#d 3, 2, 1
+
+## 256 | tag=ES 99 | p=78 | hw=b
+Consider the following statements :
+1. About 25% of alumina in brick earth imparts the plasticity necessary for moulding bricks into required shape.
+2. Iron pyrite present in brick earth preserves the form of the bricks at high temperatures.
+3. Presence of weeds in brick earth makes the bricks unsound.
+Which of these statements are correct?
+#a 1 and 2
+#b 1 and 3
+#c 2 and 3
+#d 1, 2 and 3
+
+## 257 | tag=ES 99 | p=78 | hw=a
+Consider the following strengths of concrete:
+1. Cube strength
+2. Cylinder strength
+3. Split-tensile strength
+4. Modulus of rupture
+The correct sequence in increasing order of these strengths is :
+#a 3, 4, 2, 1
+#b 3, 4, 1, 2
+#c 4, 3, 2, 1
+#d 4, 3, 1, 2
+
+## 258 | tag=ES 99 | p=78 | hw=c
+The most important purpose of frog in a brick is to
+#a emboss manufacturer's name
+#b reduce the weight of brick
+#c form keyed joint between brick and mortar
+#d improve insulation by providing 'hollows'
+
+## 259 | tag=ES 99 | p=79 | hw=c
+Bricks are burnt at a temperature range of
+#a 500° to 700° C
+#b 700° to 900° C
+#c 900° to 1200° C
+#d 1200° to 1500° C
+
+## 260 | tag=ES 99 | p=79 | hw=b
+Consider the following statements :
+1. Tests on cement paste to determine initial and final setting times are done at normal consistency condition.
+2. Low heat cement has a high percentage of tri-calcium aluminate.
+3. High early strength Portland cement contains a larger percentage of tricalcium silicate and a lower percentage of dicalcium silicate.
+Which of these statements are correct ?
+#a 1 and 2
+#b 1 and 3
+#c 2 and 3
+#d 1, 2 and 3
+
+## 261 | tag=ES 99 | p=79 | hw=a
+Match list I (Material) with List II (Characteristic) and select the correct answer using the codes given below the lists :
+List I — List II
+A. Inelastic material — 1. No plastic zone
+B. Rigid plastic material — 2. Large plastic zone
+C. Ductile material — 3. Strain is not recovered after unloading
+D. Brittle material — 4. Strain is zero up to a stress level and then stress remains constant
+Codes :
+#a A-3, B-4, C-2, D-1
+#b A-3, B-4, C-1, D-2
+#c A-4, B-3, C-2, D-1
+#d A-4, B-3, C-1, D-2
+
+## 262 | tag=ES 99 | p=79 | hw=a
+Match list I (Property) with List II (Characteristic) and select the correct answer using the codes given below the lists :
+List I — List II
+A. Fatigue — 1. Material continues to deform with time under sustained loading
+B. Creep — 2. Decreased resistance of material to repeated reversals of stress
+C. Plasticity — 3. Material has a high probability of not failing under reversal of stress of magnitude below this level
+D. Endurance limit — 4. Material continues to deform without any further increase in stress
+Codes :
+#a A-2, B-1, C-4, D-3
+#b A-2, B-1, C-3, D-4
+#c A-1, B-2, C-4, D-3
+#d A-1, B-2, C-3, D-4
+
+## 263 | tag=ES 96 | p=79 | check=No handwritten answer mark found for this question. | fix=Assertion-Reason question: options are the common codes printed once under 'Directions' before Q263.
+Assertion A : The specific surface of aggregate decreases with increase in size of the aggregate.
+Reason R : The workability of a mix is influenced more by the finer fractions than the coarse particles.
+#a Both A and R are true and R is the correct explanation of A
+#b Both A and R are true but R is not a correct explanation of A
+#c A is true but R is false
+#d A is false but R is true
+
+## 264 | tag=ES 96 | p=80 | check=No handwritten answer mark found for this question. | fix=Assertion-Reason question: options are the common codes printed once under 'Directions' before Q263.
+Assertion A : Workability of concrete is improved by air entraining agent.
+Reason R : Air entraining agent increases concrete strength.
+#a Both A and R are true and R is the correct explanation of A
+#b Both A and R are true but R is not a correct explanation of A
+#c A is true but R is false
+#d A is false but R is true
+
+## 265 | tag=ES 95 | p=80 | check=No handwritten answer mark found for this question. | fix=Assertion-Reason question: options are the common codes printed once under 'Directions' before Q263.
+Assertion A : Dimensional changes in wood result due to variation in the moisture content of the wood with atmospheric condition.
+Reason R : The cell walls in wood are highly hygroscopic and when exposed to moisture, absorb large amounts of water and swell.
+#a Both A and R are true and R is the correct explanation of A
+#b Both A and R are true but R is not a correct explanation of A
+#c A is true but R is false
+#d A is false but R is true
+
+## 266 | tag=ES 95 | p=80 | check=No handwritten answer mark found for this question. | fix=Assertion-Reason question: options are the common codes printed once under 'Directions' before Q263.
+Assertion A : Pozzolana is added to cement to increase early strength.
+Reason R : It reduces the heat of hydration.
+#a Both A and R are true and R is the correct explanation of A
+#b Both A and R are true but R is not a correct explanation of A
+#c A is true but R is false
+#d A is false but R is true
+
+## 267 | tag=ES 95 | p=80 | check=No handwritten answer mark found for this question. | fix=Assertion-Reason question: options are the common codes printed once under 'Directions' before Q263.
+Assertion A : Use of cement lime mortar is generally preferred to cement mortar.
+Reason R : Cement lime mortar has higher mortiability and water rententivity characteristics than cement mortar.
+#a Both A and R are true and R is the correct explanation of A
+#b Both A and R are true but R is not a correct explanation of A
+#c A is true but R is false
+#d A is false but R is true
+
+## 268 | tag=ES 98 | p=80 | check=No handwritten answer mark found for this question. | fix=Assertion-Reason question: options are the common codes printed once under 'Directions' before Q263.
+Assertion A : Facing bond is used when the bricks of different thicknesses are to be used in the facing and backing of the wall.
+Reason R : Facing bond is structurally good and results in uniform distribution of load.
+#a Both A and R are true and R is the correct explanation of A
+#b Both A and R are true but R is not a correct explanation of A
+#c A is true but R is false
+#d A is false but R is true
+
+## 269 | tag=ES 99 | p=80 | check=No handwritten answer mark found for this question. | fix=Assertion-Reason question: options are the common codes printed once under 'Directions' before Q263.
+Assertion A : In double flemish bond, each course presents the same appearance both on front face and on back face.
+Reason R : Quoin closers are used next to quoin headers in every alternate course in double flemish bond.
+#a Both A and R are true and R is the correct explanation of A
+#b Both A and R are true but R is not a correct explanation of A
+#c A is true but R is false
+#d A is false but R is true
+
+
+@chapter 6 Environmental Engineering
+
+## 320 | star | p=81 | hw=c
+The F/M ratio is controlled in the activated sludge process by adjusting the
+#a flow rate
+#b volume of aeration tank
+#c amount of sludge wasting
+#d BOD
+
+## 321 | star | p=81 | hw=d
+Phosphorus can be removed from waste water by
+#a rapid sand filteration
+#b chlorine addition
+#c carbon adsorption
+#d ferric chloride addition
+
+## 322 | p=81 | hw=b | check=Handwritten 'b' is written beside the A-R Directions codes below this question, not beside its options; assumed to belong to Q322.
+Which of the following compounds does not provide free chloride ?
+#a CaCl₂
+#b NHCl₂
+#c HOCl
+#d NaOCl
+
+## 323 | tag=ES 94 | p=81 | check=No handwritten answer mark found for this question. | fix=Assertion-Reason question: options are the common codes printed once under 'Direction' before Q323.
+Assertion A : Alum or aluminum sulphate is widely used for the purpose of flocculation in water treatment.
+Reason R : It is effective even in the absence of alkalinity in the raw water.
+#a Both A and R are true and R is the correct explanation of A
+#b Both A and R are true but R is not the correct explanation of A
+#c A is true but R is false
+#d A is false but R is true.
+
+## 324 | tag=ES 94 | p=81 | check=No handwritten answer mark found for this question. | fix=Assertion-Reason question: options are the common codes printed once under 'Direction' before Q323.
+Assertion A : Microbiological examinations of water samples are usually based on tests for the detection and enumeration of indicator organisms rather than of pathogens.
+Reason R : The identification of pathogens in water is both extremely time consuming and difficult.
+#a Both A and R are true and R is the correct explanation of A
+#b Both A and R are true but R is not the correct explanation of A
+#c A is true but R is false
+#d A is false but R is true.
+
+## 325 | tag=ES 95 & 96 | p=81 | check=No handwritten answer mark found for this question. | fix=Assertion-Reason question: options are the common codes printed once under 'Direction' before Q323.
+Assertion A : Tapered flocculation is more efficient when compared to the conventional process of flocculation.
+Reason R : In tapered flocculation, velocity gradient at the inlet is less than that at the outlet of the flocculation unit.
+#a Both A and R are true and R is the correct explanation of A
+#b Both A and R are true but R is not the correct explanation of A
+#c A is true but R is false
+#d A is false but R is true.
+
+## 326 | tag=ES 95 | p=81 | check=No handwritten answer mark found for this question. | fix=Assertion-Reason question: options are the common codes printed once under 'Direction' before Q323.
+Assertion A : In wastewater treatment, waste stabilization ponds are more successful in sunny tropical regions.
+Reason R : The bacterial action of purification is achieved through photosynthetic bacteria.
+#a Both A and R are true and R is the correct explanation of A
+#b Both A and R are true but R is not the correct explanation of A
+#c A is true but R is false
+#d A is false but R is true.
+
+## 327 | tag=ES 96 | p=81 | check=No handwritten answer mark found for this question. | fix=Assertion-Reason question: options are the common codes printed once under 'Direction' before Q323.
+Assertion A : Presence of E-coli bacteria in water indicates that the water is polluted with facal discharge.
+Reason R : E-coli is a pathogenic bacteria.
+#a Both A and R are true and R is the correct explanation of A
+#b Both A and R are true but R is not the correct explanation of A
+#c A is true but R is false
+#d A is false but R is true.
+
+## 328 | tag=ES 98 | p=81 | check=No handwritten answer mark found for this question. | fix=Assertion-Reason question: options are the common codes printed once under 'Direction' before Q323.
+Assertion A : Ozone is not widely used in community water supplies.
+Reason R : It is not possible to maintain residual concentration of ozone in water after the disinfection process.
+#a Both A and R are true and R is the correct explanation of A
+#b Both A and R are true but R is not the correct explanation of A
+#c A is true but R is false
+#d A is false but R is true.
+
+## 329 | tag=ES 98 | p=81 | check=No handwritten answer mark found for this question. | fix=Assertion-Reason question: options are the common codes printed once under 'Direction' before Q323.
+Assertion A : In the case of dual media filter, the rate of filteration is more than that of rapid sand filter.
+Reason R : The direction of flow is from fine medium to coarse medium.
+#a Both A and R are true and R is the correct explanation of A
+#b Both A and R are true but R is not the correct explanation of A
+#c A is true but R is false
+#d A is false but R is true.
+
+## 330 | tag=ES 98 | p=81 | check=No handwritten answer mark found for this question. | fix=Assertion-Reason question: options are the common codes printed once under 'Direction' before Q323.
+Assertion A : Horizontal velocity of flow through grit chambers is maintained between 24 to 30 cm/sec.
+Reason R : Removal of organic and inorganic particles larger than 0.1 mm direction is very essential.
+#a Both A and R are true and R is the correct explanation of A
+#b Both A and R are true but R is not the correct explanation of A
+#c A is true but R is false
+#d A is false but R is true.
+
+## 331 | tag=ES 99 | p=81 | check=No handwritten answer mark found for this question. | fix=Assertion-Reason question: options are the common codes printed once under 'Direction' before Q323.
+Assertion A : At the ferrule point of a water supply distribution pipe network for Indian towns having a majority of two-storey buildings, the ideal minimum pressure head of water is 12 m.
+Reason R : This magnitude of pressure head at ferrule is necessary to reach the highest floor of the two-storey buildings.
+#a Both A and R are true and R is the correct explanation of A
+#b Both A and R are true but R is not the correct explanation of A
+#c A is true but R is false
+#d A is false but R is true.
+
+## 332 | tag=ES 99 | p=81 | check=No handwritten answer mark found for this question. | fix=Assertion-Reason question: options are the common codes printed once under 'Direction' before Q323.
+Assertion A : Sanitary landfills can no longer be used for the disposal of solid wastes in India.
+Reason R : The leachates from sanitary landfills may pollute the ground water.
+#a Both A and R are true and R is the correct explanation of A
+#b Both A and R are true but R is not the correct explanation of A
+#c A is true but R is false
+#d A is false but R is true.
+
+@chapter 7 Construction Planning and Management
+
+## 1 | p=82 | hw=c
+PERT technique of network analysis is mainly useful for
+#a small projects
+#b large and complex projects
+#c research and development projects
+#d deterministic activities
+
+## 2 | p=82 | hw=d
+Select the correct statement.
+#a Activity arrows in a CPM network are drawn to scale.
+#b The tail of an arrow represents the finish of an activity.
+#c Arrow bead represents the start of an activity.
+#d none of the above
+
+## 3 | p=82 | hw=d
+Which of the following is a weakness of bar chart ?
+#a interdependencies of activities
+#b project progress
+#c uncertainties
+#d all of the above
+
+## 4 | p=82 | hw=d | fig=82:0.14,0.6,0.4,0.68
+In the network shown in Fig. 7.1, activity 4–5 can be started only when
+#a activity 3–4 is completed
+#b activity 2–4 is completed
+#c activity 2–3 is completed
+#d activity 2–4 and 3–4 both are completed
+
+## 5 | p=82 | hw=d
+Which of the following is not a PERT event ?
+#a site investigation started
+#b sessional work completed
+#c bus starts from Jaipur
+#d class is being attended
+
+## 6 | tag=ES 98 | p=82 | hw=c
+In PERT analysis, the time estimates of activities and probability of their occurrence follow
+#a normal distribution curve
+#b Poisson's distribution curve
+#c β - distribution curve
+#d binomial distribution curve
+
+## 7 | p=82 | hw=a
+Expected project duration generally follows
+#a normal distribution curve
+#b Poisson's distribution curve
+#c β - distribution curve
+#d none of the above
+
+## 8 | p=82 | hw=d
+The area under the β - distribution curve is divided into two equal parts by
+#a most likely time
+#b optimistic time
+#c pessimistic time
+#d expected time
+
+## 9 | p=82-83 | hw=b | fig=83:0.24,0.04,0.53,0.17
+According to Fulkerson's rule, what are the correct event numbers corresponding to events A, B, C, D,E, F and G of the network shown in Fig. 7.2 ?
+#a 1, 2, 3, 4, 5, 6 and 7 respectively
+#b 1, 3, 2, 4, 5, 6 and 7 respectively
+#c 1,2, 3, 5, 6, 4 and 7 respectively
+#d 1, 3, 2, 5, 6, 4 and 7 respectively
+
+## 10 | star | p=83 | hw=b | fig=83:0.24,0.26,0.51,0.37
+With reference to the network shown in Fig. 7.3,which statement is incorrect ?
+#a Events 3 and 4 occur after event 2.
+#b Event 7 can occur after event 4.
+#c Event 7 precedes event 6.
+#d Event 5 follows event 3.
+
+## 11 | p=83 | hw=b | fig=83:0.24,0.26,0.51,0.37
+In the network shown in Fig.7.3, the concurrent and preceding activities corresponding to activity 2–4 are respectively
+#a 1-2 and 4-7
+#b 2-3 and 1-2
+#c 2–3 and 4-7
+#d 1-2 and 3-6
+
+## 12 | p=83 | hw=a
+Which of the following does not represent an activity?
+#a site located
+#b foundation is being dug
+#c the office area is being cleaned
+#d the invitations are being sent
+
+## 13 | p=83 | hw=c
+Earliest finish of an activity is always
+#a greater than earliest event time of the following node
+#b less than earliest event time of the following node
+#c less than or equal to earliest event time of the following node
+#d greater than or equal to earliest event time of the following node
+
+## 14 | p=83 | hw=d
+Select the incorrect statement.
+#a Earliest start of an activity is the early event time of the node it leaves.
+#b Latest finish of an activity is the late event time of the node it enters.
+#c Latest start of an activity is its latest finish minus its duration.
+#d none of the above
+
+## 15 | p=83 | hw=c | fig=83:0.63,0.25,0.88,0.35
+In the network shown in Fig. 7.4, the earliest start time of activity 5–6 is (the number on the arrow shows duration of the activity)
+#a 7
+#b 8
+#c 9
+#d 5
+
+## 16 | p=83 | hw=a
+Latest start of an activity is always
+#a greater than or equal to latest event time of preceding node
+#b less than or equal to latest event time of preceding node
+#c equal to latest event time of preceding node
+#d less than latest event time of preceding node
+
+## 17 | p=83 | hw=b | fig=83:0.63,0.25,0.88,0.35
+In the network shown in Fig. 7.4 the latest start time of an activity 4–5 is
+#a 2
+#b 4
+#c 8
+#d 7
+
+## 18 | p=83-84 | hw=d | fig=83:0.63,0.6,0.89,0.71
+In the network shown in Fig. 7.5, the activity 6–8 can be started only when
+#a activity 4—6 is completed
+#b activity 3 - 5 is completed
+#c activity 2—3 is completed
+#d both activities 2—3 and 4—6 are completed
+
+## 19 | star | p=84 | hw=c
+If the optimistic time, most likely time and pessimistic time for activity A are 4, 6 and 8 respectively and for activity B are 5, 5.5 and 9 respectively, then
+#a expected time of activity A is greater than the expected time of activity B
+#b expected time of activity B is greater than the expected time of activity A
+#c expected time of both activities A and B are same
+#d none of the above
+
+## 20 | p=84 | hw=c
+If an activity has its optimistic, most likely and pessimistic times as 2, 3 and 7 respectively, then its expected time and variance are respectively
+#a 3.5 and 5/6
+#b 5 and 25/36
+#c 3.5 and 25/36
+#d 4 and 5/6
+
+## 21 | p=84 | hw=c
+Select the incorrect statement.
+#a Start float and finish float are always equal.
+#b Total float can be either start float or finish float.
+#c Start float and finish float need not be equal.
+#d Start float and finish float are the differences between activity times and not event times.
+
+## 22 | p=84 | hw=b
+Free float is mainly used to
+#a identify the activities which can be delayed without affecting the total float of preceding activity
+#b identify the activities, which can be delayed without affecting the total float of succeeding activity
+#c establish priorities
+#d identify the activities which can be delayed without affecting the total float of either the preceding or succeeding activities
+
+## 23 | p=84 | hw=c
+Whenever an activity has zero total float, then
+#a free float of the activity must be zero but independent float need not be zero
+#b independent float must be zero but free float need not be zero
+#c free float and independent float both must be zero
+#d free float and independent float both need not be zero
+
+## 24 | p=84 | hw=b
+Total float for any activity is defined as the difference between
+#a its latest finish time and earliest start time for its successor activity
+#b its latest start time and earliest start time
+#c its latest start time and earliest finish time
+#d its earliest finish time and earliest start time for its successor activity
+
+## 25 | p=84 | hw=b | fig=84:0.55,0.41,0.79,0.51
+In the network shown in Fig. 7.6, independent float for the activity 3–5 will be (the number on the arrow shows the duration of activity)
+#a 0
+#b 1
+#c 2
+#d none of the above
+
+## 26 | p=84 | hw=a | fig=84:0.55,0.41,0.79,0.51
+In the network shown in Fig. 7.6, the critical path is
+#a 1–2–3–4–5–6
+#b 1–2–4–5–6
+#c 1–2–3–5–6
+#d 1–2–4–3–5–6
+
+## 27 | p=84-85 | hw=d
+Select the incorrect statement.
+#a A critical path always begins at the very first event.
+#b A critical path always terminates at the last event.
+#c Critical activities control the project duration.
+#d Critical activity is the one for which free float is zero.
+
+## 28 | p=85 | hw=a
+Free float for any activity is defined as the difference between
+#a its earliest finish time and earliest start time for its successor activity
+#b its latest start time and earliest start time
+#c its latest finish time and earliest start time for its successor activity
+#d its earliest finish time and latest start time for its successor activity
+
+## 29 | p=85 | hw=b
+Critical path
+#a is always longest
+#b is always shortest
+#c may be longest
+#d may be shortest
+
+## 30 | p=85 | hw=a
+Following are the activities and their total floats
+Activity — Total float
+1–2 — 2
+2–3 — 3
+3–4 — 4
+4–5 — 5
+Which is the most critical activity ?
+#a 1–2
+#b 2–3
+#c 3–4
+#d 4–5
+
+## 31 | star | p=85 | hw=c
+The independent float affects only
+#a preceding activities
+#b succeeding activities
+#c the particular activity involved
+#d none of the above
+
+## 32 | p=85 | hw=c
+A father notes that when his teenage daughter uses the telephone, she takes not less than 6 minutes for a call and sometimes as much as an hour. Fifteen minutes call are more frequent than calls of any other duration. If these phone calls were an activity in PERT project, then phone calls expected duration will be
+#a 15 minutes
+#b 20.143 minutes
+#c 21 minutes
+#d 27 minutes
+
+## 33 | p=85 | hw=d
+What estimate would you give for the variance in above problem ?
+#a 81
+#b 54
+#c 36
+#d 9
+
+## 34 | p=85-86 | hw=c | fig=86:0.18,0.06,0.65,0.17 | fix=Options are the four network sketches (a)-(d) in Fig. 7.7; see figure.
+Which of the following (Fig.7.7) represents correct oriented activity arrows
+#a Fig.7.7 (a)
+#b Fig.7.7 (b)
+#c Fig.7.7 (c)
+#d Fig.7.7 (d)
+
+## 35 | p=85 | hw=d
+The time by which a particular activity can be delayed without affecting the preceding and succeeding activities is known as
+#a total float
+#b free float
+#c interfering float
+#d independent float
+
+## 36 | p=85 | hw=b
+The time with which direct cost does not reduce with the increase in time is known as
+#a crash time
+#b normal time
+#c optimistic time
+#d standard time
+
+## 37 | star | p=85 | hw=d
+The time corresponding to minimum total project cost is
+#a crash time
+#b normal time
+#c optimistic time
+#d between normal time and crash time
+
+## 38 | p=85 | hw=d
+The cost slope is defined as
+#a (crash cost – normal cost)/(crash time)
+#b (crash cost)/(normal time – crash time)
+#c (crash cost – normal cost)/(normal time)
+#d (crash cost – normal cost)/(normal time – crash time)
+
+## 39 | p=85 | hw=a
+The direct cost of a project with respect to normal time is
+#a minimum
+#b maximum
+#c zero
+#d infinite
+
+## 40 | tag=ES 98 | p=86 | hw=b
+The reduction in project time normally results in
+#a decreasing the direct cost and increasing indirect cost
+#b increasing the direct cost and decreasing the indirect cost
+#c increasing the direct cost and indirect cost both
+#d decreasing the direct cost and indirect cost both
+
+## 41 | p=86 | hw=a
+Economic saving of time results by crashing
+#a cheapest critical activity
+#b cheapest non-critical activity
+#c costliest critical activity
+#d costliest non-critical activity
+
+## 42 | p=86 | hw=c
+The process of incorporating changes and rescheduling or replanning is called
+#a resource levelling
+#b resource smoothening
+#c updating
+#d critical path scheduling
+
+## 43 | p=86 | hw=b
+Slack time refers to
+#a an activity
+#b an event
+#c both event and activity
+#d none of the above
+
+## 44 | star | p=86 | hw=a | fig=86:0.13,0.59,0.39,0.68
+Figure 7.8 shows the network for a particular project which consists of four activities.
+Normal duration time and crash time for each activity are given below
+Activity — Normal time days — Crash time days
+1–2 — 3 — 2
+2–3 — 4 — 2
+2–4 — 5 — 4
+3–4 — 7 — 5
+The minimum time required for the completion of project is
+#a 9 days
+#b 13 days
+#c 14 days
+#d 19 days
+
+## 45 | star | p=86 | hw=c | fig=86:0.13,0.59,0.39,0.68
+The normal time required for the completion of project in the above problem is
+#a 9 days
+#b 13 days
+#c 14 days
+#d 19 days
+
+## 46 | star | p=86 | hw=b
+The constraints in case of resource smoothening operation would be
+#a resources
+#b project duration time
+#c both resources and project duration time
+#d none of the above
+
+## 47 | p=86 | hw=d
+Updating may result in
+#a change of critical path
+#b decrease of project completion time
+#c increase of project completion time
+#d all of the above
+
+## 48 | p=86-87 | hw=d
+Crash project duration is obtained by summing the
+#a normal durations for all the activities
+#b crash durations for all activities
+#c crash durations for all the activities along the critical path obtained by taking into account the normal duration for all the activities
+#d crash durations for all the activities along the critical path obtained by taking into account the crash duration for all the activities.
+
+## 49 | p=87 | hw=a | fig=87:0.6,0.03,0.88,0.18
+Table 7.1 shows the activity, normal time, normal cost, crash time and crash cost for a network shown in Fig.7.9.
+TABLE 7.1
+Activity — Normal Time (days) — Normal Cost (Rs.) — Crash Time (days) — Crash Cost (Rs.) — ΔT — ΔC — ΔC/ΔT
+1-2 — 4 — 400 — 2 — 460 — 2 — 60 — 30
+2-3 — 3 — 330 — 2 — 380 — 1 — 50 — 50
+3-4 — dummy
+2-4 — 2 — 260 — 1 — 280 — 1 — 20 — 20
+4-5 — 7 — 560 — 4 — 740 — 3 — 100 — 60
+The normal cost and crash cost for the whole project are respectively
+#a Rs. 1550 and Rs. 1860
+#b Rs. 1290 and Rs. 1580
+#c Rs 1860 and Rs. 1550
+#d Rs. 1580 and Rs. 1290
+
+## 50 | p=87 | hw=a
+If the management decides to complete the projects of Q. No 49 in 12 days, which activity would you prefer to crash ?
+#a activity 1-2 by 2 days
+#b activity 2-4 by 1 day and activity 1-2 by 1 day
+#c activity 2-3 by 1 day and activity 1-2 by 1 day
+#d activity 4-5 by 2 days
+
+## 51 | star | p=87 | hw=d
+Slack time in PERT analysis
+#a can never be greater than zero
+#b is always zero for critical activities
+#c can never be less than zero
+#d is minimum for critical events
+
+## 52 | p=87 | hw=c
+If the completion time for a particular project is 20 weeks and its earliest expected time is 22 weeks, then the slack time for the project is
+#a 2 weeks
+#b 0
+#c –2 weeks
+#d none of the above
+
+## 53 | p=87 | hw=a | fig=87:0.62,0.47,0.88,0.59
+Study the network given in Fig.7.10 and the following statements :
+i) Activity A must precede B and C.
+ii) Activity B must precede D and F.
+iii) Activity C must precede D and E.
+The correct answer is
+#a only (i)
+#b both (i) and (ii)
+#c both (i) and (iii)
+#d (i), (ii) and (iii)
+
+## 54 | p=88 | hw=a
+Interfering float is the difference between
+#a total float and free float
+#b total float and independent float
+#c free float and independent float
+#d none of the above
+
+## 55 | star | p=88 | hw=a
+Any delay in starting, that involves consumption of any of the interfering floats of an activity, will result in
+#a retarding of some following activity
+#b delaying the overall project time
+#c both (a) and (b)
+#d none of the above
+
+## 56 | p=88 | hw=c | fig=88:0.1,0.26,0.47,0.42 | fix=First two lines are the common stem printed once before Q56 (applies to Q56-59).
+Study the network shown in Fig.7.11 and answer questions 56 to 59 based on this network.
+In this network box shows earliest finish time in left side and latest finish time in right side for the event (in days).
+In the network shown in Fig. 7.11, the correct critical path is
+#a 1–2–4–7–9
+#b 1–2–4–5–9
+#c 1–2–4–5–7–9
+#d none of the above
+
+## 57 | p=88 | hw=b | fig=88:0.1,0.26,0.47,0.42
+The number of critical activities in the network shown in Fig.7.11 is
+#a 4
+#b 5
+#c 6
+#d 7
+
+## 58 | star | p=88 | hw=c | fig=88:0.1,0.26,0.47,0.42
+In which of the following activities of the network shown in Fig. 7.11, the total float is maximum ?
+#a activity 6-7
+#b activity 2-6
+#c activities 6-8 and 8-9
+#d activities 2-6 and 6-7
+
+## 59 | star | p=88 | hw=a | fig=88:0.1,0.26,0.47,0.42
+Assertion (A) : Activity 5-7 is critical.
+Reason (R) : Earliest finish time and latest finish time for events 5-7 are same
+Select the correct answer.
+#a A is correct but R is not correct
+#b R is correct but A is not correct
+#c both A and R are correct
+#d both A and R are incorrect
+
+## 60 | p=88 | hw=a
+A tractor whose weight is 20 tonnes has a drawbar pull of 2500 kg, when operated on a level road having a rolling resistence of 30 kg per tonne. If this tractor is operated on a level road having a rolling resistance of 40 kg per tonne, then the drawbar pull of the tractor will
+#a reduce by 200 kg
+#b increase by 200 kg
+#c increase by 250 kg
+#d reduce by 250 kg
+
+## 61 | p=88 | hw=d
+Which of the following earth moving machines has the shortest cycle time?
+#a Drag line
+#b Hoe
+#c Clam shell
+#d Dipper shovel
+
+## 62 | p=88 | hw=a
+Which of the following excavators is most suitable for digging under water?
+#a Drag line
+#b Hoe
+#c Clam shell
+#d Dipper shovel
+
+## 63 | p=88 | hw=d
+The part of a derrick crane include
+(i) Mast
+(ii) Boom
+(iii) Bull wheel
+(iv) Jack
+Of these statements
+#a (i), (ii) and (iv) are correct
+#b (ii), (iii) and (iv) are correct
+#c (i), (iii) and (iv) are correct
+#d (i), (ii) and (iii) are correct
+
+## 64 | star | p=88 | hw=a
+For which of the following materials, the output of power shovels for a fixed shovel size will be maximum
+#a Moist loam
+#b Good common earth
+#c Well blasted rock
+#d Wet sticky clay
+
+## 65 | star | p=89 | hw=d
+For a given size of bucket, the ideal output of a dragline will be least in
+#a Moist loam
+#b Sand and gravel
+#c Good common earth
+#d Wet sticky clay
+
+## 66 | p=89 | hw=b
+Consider the following statements for a power shovel :
+(i) Output can be increased by reducing the angle of swing for a given depth of cut.
+(ii) For a given angle of swing, output will be maximum at optimum depth of cut.
+(iii) Output can be increased by keeping the depth of cut less than optimum depth.
+(iv) Output can be increased by increasing the size of shovel.
+Of these statements
+#a (ii), (iii) and (iv) are correct
+#b (i), (ii) and (iv) are correct
+#c (i), (iii) and (iv) are correct
+#d (i) and (iv) are correct
+
+## 67 | p=89 | hw=a
+Assertion A: For a given depth of cut, the output of a power shovel can be increased by decreasing the angle of swing.
+Reason R: If the angle of swing is decreased, the cycle time will be decreased.
+Select the correct answer.
+#a Both A and R are true and R is the correct explanation of A.
+#b Both A and R are true but R is not the correct explanation of A.
+#c A is true but R is false.
+#d A is false but R is true.
+
+## 68 | star | p=89 | hw=c
+If the output of a dragline for 90⁰ angle of swing at optimum depth of cut is X, then the output for 120⁰ angle of swing at 120 % of optimum depth of cut will be
+#a equal to X
+#b more than X
+#c less than X
+#d any of the above
+
+## 69 | p=89 | hw=b
+Output of a bulldozer is
+(i) increased if drawbar HP of the tractor is increased for a given hauling distance
+(ii) decreased if drawbar HP of the tractor is increased for a given hauling distance
+(iii) increased if the hauling distance is increased for a given drawbar HP of the tractor
+(iv) decreased if the hauling distance is increased for a given drawbar HP of the tractor
+Of these statement
+#a (i) and (iii) are correct
+#b (i) and (iv) are correct
+#c (ii) and (iii) are correct
+#d (ii) and (iv) are correct
+
+## 70 | star | p=89 | hw=b
+A machine is purchased for Rs.10,000,00/- and has an estimated life of 10 years. The salvage value at the end of 10 years is Rs.1,50,000/-. The book value of the machine at the end of 5 years using general straight line method of evaluation of depreciation is
+#a Rs. 4,75,000/-
+#b Rs. 5,75,000/-
+#c Rs. 6,50,000/-
+#d Rs. 8,50,000/-
+
+## 71 | star | p=89 | hw=a
+An excavator costs Rs. 20,00,000/- and has an estimated life of 8 years. It has no salvage value at the end of 8 years. The book value of the excavator at the end of 3 years using general double declining balance method is
+#a Rs. 8,43,750/-
+#b Rs. 8,75,000/-
+#c Rs. 10,50,000/-
+#d Rs. 11,56,250/-
+
+## 72 | star | p=89 | check=No handwritten answer mark found for this question.
+If the excavation of earth is done manually then it costs Rs. 10 per cum. A machine can excavate at a fixed cost of Rs. 4000 plus a variable cost of Rs. 2 per cum. The quantity of earth for which the cost of excavation by machine will be equal to the cost of manual excavation is
+#a 500 cum
+#b 1000 cum
+#c 1500 cum
+#d 2000 cum
+
+## 73 | p=90 | hw=c
+Match List I with List II and select the correct answer using the codes given below the lists:
+List I (Material) — List II (Coeff. of traction for wheeled tractors)
+A. Loose sand — 1. 0.45
+B. Concrete — 2. 0.25
+C. Ice — 3. 0.12
+D. Loose earth — 4. 0.90
+Codes:
+#a A-2, B-3, C-4, D-1
+#b A-1, B-4, C-2, D-3
+#c A-2, B-4, C-3, D-1
+#d A-1, B-4, C-3, D-2
+
+## 74 | star | p=90 | hw=d
+Which one of the following surfaces will give highest coefficient of traction while using crawler track tractors?
+#a Ice
+#b Concrete
+#c Loose sand
+#d Earth
+
+## 75 | p=90 | hw=c
+Rolling resistance of a wheel depends upon
+(i) Vehicle load
+(ii) Grade
+(iii) Ground conditions
+Of these statements
+#a only (i) is correct
+#b (i) and (ii) are correct
+#c (i) and (iii) are correct
+#d (ii) and (iii) are correct
+
+## 76 | p=90 | hw=b
+Which of the following surfaces will give highest rolling resistance for a rubber tyred vehicle?
+#a Concrete
+#b Loose sand
+#c Asphalt
+#d Firm earth
+
+## 77 | p=90 | hw=c
+If the gross vehicle weight of a truck is 30 t and rolling resistance is 30 kg/tonne, then the tractive effort required to keep the truck moving at a uniform speed is
+#a 30 kg
+#b 300 kg
+#c 900 kg
+#d 1000 kg
+
+## 78 | p=90 | hw=c
+The grade resistance factor for an earth moving machine can be obtained by multiplying grade percentage by a factor approximately equal to
+#a 2 kg/tonne
+#b 6 kg/tonne
+#c 9 kg/tonne
+#d 20 kg/tonne
+
+## 79 | star | p=90 | hw=b
+A wheeled tractor hauling unit is working on firm earth. The total loaded weight distribution of this unit is:
+Drive wheels : 25000 kg
+Scraper wheels : 20000 kg
+If the coefficient of traction for wheeled tractor on firm earth is 0.5, the rimpull which this tractor can exert without slipping is
+#a 10000 kg
+#b 12500 kg
+#c 22500 kg
+#d 5000 kg
+
+## 80 | star | p=90 | hw=c
+A four wheel tractor whose operating weight is 12000 kg is pulled along a road having a rising slope of 2% at a uniform speed. Assume grade resistance factor = 10 kg/tonne. The tension in the tow cable is 720 kg. The rolling resistance of the road will be
+#a 20 kg/tonne
+#b 30 kg/tonne
+#c 40 kg/tonne
+#d 50 kg/tonne
+
+## 81 | star | p=90 | hw=a
+An earth moving equipment costs Rs. 5,00,000/- and has an estimated life of 10 years and a salvage value of Rs. 50,000/-.What uniform annual amount must be set aside at the end of each of the 10 years for replacement if the interest rate is 8% per annum and if the sinking fund factor at 8% per annum interest rate for 10 years is 0.069 ?
+#a Rs. 31050
+#b Rs. 34500
+#c Rs. 37950
+#d Rs. 50000
+
+## 82 | star | p=91 | hw=b
+A machine costs Rs. 20000 and its useful life is 8 years. The money is borrowed at 8% interest per annum. The capital recovery factor at 8% interest per annum for 8 years is 0.174. The annual equipment cost of the machine will be
+#a Rs.1740
+#b Rs.3480
+#c Rs.5220
+#d Rs.6960
+
+## 83 | p=91 | hw=a
+The probability of completion of any activity within its expected time is
+#a 50%
+#b 84.1%
+#c 99.9%
+#d 100%
+
+## 84 | p=91 | hw=c
+If the scheduled completion time of a project is more than the earliest expected time for completion of the project, then the probability of completion of the project within the scheduled completion time will be
+#a 50%
+#b less than 50%
+#c more than 50%
+#d 100 %
+
+## 85 | star | p=91 | hw=d
+If the expected time for completion of a project is 10 days with a standard deviation of 2 days, the expected time of completion of the project with 99.9% probability is
+#a 4 days
+#b 6 days
+#c 10 days
+#d 16 days
+
+## 86 | star | p=91 | hw=a
+If the expected time of completion of a project is 60 weeks with a standard deviation of 5 weeks, the probability of completing the project in 50 weeks and 65 weeks respectively will be
+#a 2.3% and 84.1%
+#b 97.7% and 84.1 %
+#c 97.7 % and 15.9%
+#d 15.9% and 97.7%
+
+## 87 | p=91 | hw=d
+With the usual notations, capital recovery factor is given by
+#a (1+i)ⁿ
+#b i/((1+i)ⁿ – 1)
+#c i/(1+i)ⁿ
+#d i(1+i)ⁿ/((1+i)ⁿ – 1)
+
+## 88 | tag=ES 93 | p=91 | hw=a | fig=91:0.58,0.22,0.86,0.53 | fix=Options are the four event sketches (a)-(d) in Fig. 7.12; see figure.
+A merge event is represented by
+#a Fig. 7.12 (a): arrows 1, 2, 3 enter A; arrow 4 leaves
+#b Fig. 7.12 (b): arrow 1 enters A; arrows 2, 3, 4 leave
+#c Fig. 7.12 (c): 1 → A → 2 → B → 3 → C → 4 in series
+#d Fig. 7.12 (d): 1 → A; 2 leaves A downward; 3 → B; 4 leaves B downward
+
+## 89 | tag=ES 93 | p=91 | hw=b
+A tractor shovel has a purchase price of Rs. 4.7 lacs and could save the organization an amount of rupees one lac per year on operating costs. The salvage value after the amortization period is 10% of the purchase price. The capital recovery period will be
+#a 3.7 years
+#b 4.23 years
+#c 5 years
+#d 7.87 years
+
+## 90 | tag=ES 93 | p=91-92 | hw=b
+Consider the following statements :
+In the bar chart planning
+1. interdependence of the operations cannot be portrayed.
+2. progress of work can be measured.
+3. spare time of the activities can be determined.
+4. schedule cannot be updated.
+Of these statements
+#a 1, 2 and 3 are correct
+#b 1 and 4 are correct
+#c 2, 3 and 4 are correct
+#d 1, 2 and 4 are correct
+
+## 91 | tag=ES 93 | p=92 | hw=c | fig=92:0.12,0.23,0.31,0.47 | fix=Options are the four network sketches (a)-(d) in Fig. 7.13; see figure.
+Activities A and B can be started independently. Activity E can be started only when A and B have been completed. Activity D follows A and precedes F. Activities E and F merge at the objective event. The network plan will be as in
+#a Fig. 7.13 (a)
+#b Fig. 7.13 (b)
+#c Fig. 7.13 (c)
+#d Fig. 7.13 (d)
+
+## 92 | tag=ES 93 | p=92 | hw=b
+Consider the following statements :
+In the critical path method of construction planning, Free Float can be.
+1. greater than Total Float.
+2. greater than Independent Float
+3. equal to Total Float.
+4. less than Independent Float.
+Of these statements
+#a 1 and 4 are correct
+#b 2 and 3 are correct
+#c 3 and 4 are correct
+#d 1 and 2 are correct
+
+## 93 | tag=ES 93 | p=92 | hw=b | fig=92:0.48,0.06,0.72,0.43 | fix=Options are the four cost-duration diagrams (a)-(d) in Fig. 7.14; see figure.
+Which one of the following diagrams will be the correct one for deciding the most optimal cost and duration of a project?
+#a Fig. 7.14 (a)
+#b Fig. 7.14 (b)
+#c Fig. 7.14 (c)
+#d Fig. 7.14 (d)
+
+## 94 | tag=ES 93 | p=92 | hw=d
+In time-cost optimization of a project, crashing is done.
+#a on all the activities
+#b on all the activities lying on the critical path
+#c only on activities lying on the orginal critical path and having flatter cost slopes
+#d on original critical activities and those that become critical at any stage of crashing in the order of ascending cost slope
+
+## 95 | star | tag=ES 93 | p=92-93 | hw=d | fig=92:0.5,0.6,0.77,0.72
+For the path of a certain network shown in Fig.7.15, the expected time and standard deviation will be respectively
+#a 15 and 1.5
+#b 20 and 1.75
+#c 15 and 1.62
+#d 20 and 1.93
+
+## 96 | tag=ES 93 | p=93 | hw=a
+Consider the following statements :
+The critical path in a network plan of a project
+1. helps in planning efficient time schedule.
+2. indicates the shortest path in time.
+3. helps in crashing the project judiciously.
+4. helps in encouraging discipline in execution.
+Of these statements
+#a 1, 3 and 4 are correct
+#b 1, 2, 3 and 4 are correct
+#c 1 and 4 are correct
+#d 2 and 3 are correct
+
+## 97 | tag=ES 93 | p=93 | hw=a
+Site order book is used for recording
+#a instructions of the executive engineer
+#b construction measurements
+#c requisition of plants and equipment
+#d indents for materials to be ordered
+
+## 98 | tag=ES 93 | p=93 | hw=b
+The system of organization introduced by F.W. Taylor is known as
+#a Effective Organization
+#b Functional Organization
+#c Line and Staff Organization
+#d Line Organization
+
+## 99 | tag=ES 93 | p=93 | hw=d | fig=93:0.27,0.56,0.52,0.69
+Figure 7.16 shows the arrow diagram for a particular project. The arrow A′ is known as
+#a critical activity
+#b sub-critical activity
+#c logic arrow
+#d dummy activity
+
+## 100 | tag=ES 94 | p=93 | hw=b
+During the construction period, price variation clause in contracts caters to
+#a increase in rates of only important materials
+#b variation in cost in materials element, labour element and petrol-oil-lubricant element
+#c variation in total cost of the project on an ad hoc basis
+#d rate of inflation
+
+## 101 | tag=ES 94 | p=93 | hw=b
+At a work site, statistical quality control of concrete means
+#a measurement of risks to eliminate failures
+#b applying the theory of probability to sample testing or inspection
+#c reduction in wastage of inspection costs
+#d reduction in costs for the removal of defects
+
+## 102 | tag=ES 94 | p=93 | hw=c
+In India, are prefabricated components costlier than those of traditional cast-in-situ items that the prefabricated components replace?
+#a Yes, because of heavier overheads and handling cost
+#b Yes, because of the very high order of quality control for the factory made components
+#c No, because of repetitive manufacture of a number of elements
+#d No, because of savings in site labour
+
+## 103 | tag=ES 94 | p=93 | hw=d
+Mobilization advance up to 10% of the cost of work is given to a contractor
+#a on commencement of work at site for payment of loan taken by him
+#b for the purchase of construction materials
+#c for the payment of advances to labour and other staff
+#d for all activities required to start the work at site on finalization of the contract document
+
+## 104 | tag=ES 94 | p=94 | hw=d
+Security deposit deducted at 5% from contractor's bills is
+#a refunded when the contractor has completed the work
+#b refunded even before the completion of the work provided good progress has been established
+#c retained till the expected life of the structure of say 100 years and spent for maintenance
+#d refunded when the defect liability period of six months or one monsoon whichever is later is over.
+
+## 105 | tag=ES 94 | p=94 | hw=a
+Sinking fund is
+#a the fund for rebuilding a structure when its economic life is over
+#b raised to meet maintenance costs
+#c the total sum to be paid to the municipal authorities by the tenants
+#d a part of the money kept in reserve for providing additional structures and structural modifications
+
+## 106 | star | tag=ES 94 | p=94 | hw=a
+A contractor has two options;(I) : Invest his money in project A or (II) : Invest his money in project B. If he decides to invest in A, for every rupee invested, he is assured of doubling his money in ten years. If he decides to invest in B, he is assured of making his money 1.5 times in 5 years. If the contractor values his money at 10% interest rate, he
+#a should invest in neither of the two projects
+#b could invest in either of the two projects
+#c should invest in project A
+#d should invest in project B
+
+## 107 | tag=ES 94 | p=94 | hw=c
+There are three parallel paths in a part of a network between a bursting node and the next merging node with only one activity in each path. The minimum number of dummy arrows needed will be
+#a zero
+#b 1
+#c 2
+#d 3
+
+## 108 | tag=ES 94 | p=94 | hw=c
+Match List I with List II and select the correct answer using the codes given below the Lists :
+List I (Activity types) — List II (Property of activity)
+A. Critical activity to be crashed first to reduce project duration — 1. It has float
+B. Critical activity — 2. It has least cost slope
+C. Dummy activity — 3. It maintains logic of network
+D. Subcritical activity — 4. It has no float
+Codes :
+#a A-1, B-2, C-4, D-3
+#b A-3, B-1, C-2, D-4
+#c A-2, B-4, C-3, D-1
+#d A-4, B-3, C-1, D-2
+
+## 109 | tag=ES 94 | p=94 | hw=b | fig=94:0.46,0.46,0.72,0.56
+Figure 7.17 indicates a project network, the number above each activity represents its normal duration in days:
+The critical path is along:
+#a 1→2→3→6→7→8
+#b 1→2→4→5→7→8
+#c 1→2→3→5→7→8
+#d 1→2→4→6→7→8
+
+## 110 | tag=ES 94 | p=94-95 | hw=b
+For an activity i – j, the early event times at i and j, and the late event times at i and j, respectively are 5, 24, 9 and 29. The activity duration is 6. Match List I with List II and select the correct answer using the codes given below the Lists:
+List I (Float) — List II (Duration)
+A. Free float — 1. 5
+B. Total float — 2. 9
+C. Interference — 3. 13
+D. Independent — 4. 18
+Codes:
+#a A-4, B-3, C-1, D-2
+#b A-3, B-4, C-1, D-2
+#c A-3, B-4, C-2, D-1
+#d A-4, B-3, C-2, D-1
+
+## 111 | tag=ES 94 | p=95 | hw=d
+Consider the following statements:
+CPM network helps an engineer to
+1. concentrate his attention on critical activities
+2. divert the resources from non-critical advanced activities to critical activities
+3. be cautious in avoiding any delay in the critical activities in order to avoid delay of the whole project
+Of these statements
+#a 1 and 2 are correct
+#b 2 and 3 are correct
+#c 1 and 3 are correct
+#d 1, 2 and 3 are correct
+
+## 112 | tag=ES 94 | p=95 | hw=b
+Consider the following statements:
+PERT
+1. takes care of uncertainties in the completion time.
+2. requires single time estimate.
+3. is useful for research and development oriented problems.
+4. uses beta distribution probability curve.
+Of these statements
+#a 1 and 2 are correct
+#b 1, 3 and 4 are correct
+#c 3 and 4 are correct
+#d 1, 2, 3 and 4 are correct
+
+## 113 | tag=ES 95 | p=95 | hw=a
+Functional organization system of working was introduced by
+#a F.W. Taylor
+#b Henry Gantt
+#c M.R. Walker
+#d J.E. Kelley
+
+## 114 | tag=ES 95 | p=95 | hw=c
+In resources levelling
+#a total duration of project is reduced
+#b total duration of project is increased
+#c uniform demand of resources is achieved
+#d cost of project is controlled
+
+## 115 | tag=ES 95 | p=95 | hw=c
+The original cost of an equipment is Rs. 10,000/-. Its salvage value at the end of its total useful life of five years is Rs. 1,000/-. Its book value at the end of two years of its useful life (as per straight line method of evaluation of depreciation) will be
+#a Rs. 8,800/-
+#b Rs. 7,600/-
+#c Rs. 6,400/-
+#d Rs. 5,000/-
+
+## 116 | tag=ES 95 | p=95 | hw=d
+Consider the following features/factors :
+1. Projects are of the non-repetitive type.
+2. Time required need not be known.
+3. Time required is known precisely.
+4. Events have been established for planning.
+5. Emphasis is given to activities of project.
+PERT is preferred for planning because of
+#a 1, 2 and 4
+#b 3, 4 and 5
+#c 1, 3 and 4
+#d 1, 2 and 5

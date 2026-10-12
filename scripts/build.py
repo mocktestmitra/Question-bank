@@ -228,7 +228,7 @@ def write_sheet(ws, rows, figs):
 def build(subj):
     sdir = os.path.join(ROOT, "data", subj)
     chapters, qs = {}, []
-    for f in sorted(glob.glob(os.path.join(sdir, "*.txt"))):
+    for f in sorted(glob.glob(os.path.join(sdir, "*.txt")), key=lambda f: (int(re.match(r"\d+", os.path.basename(f)).group()) if re.match(r"\d+", os.path.basename(f)) else 0)):
         if os.path.basename(f) in ("answers.txt", "explanations.txt"):
             continue
         c, q = parse(f)

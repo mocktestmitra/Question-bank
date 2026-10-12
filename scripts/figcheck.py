@@ -7,7 +7,7 @@ only = set(sys.argv[3:])
 pdf = os.path.join(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(src)))),
                    os.path.basename(os.path.dirname(src)), os.path.basename(src)[:-4] + ".pdf")
 os.makedirs(out, exist_ok=True)
-for m in re.finditer(r"^## (\d+) \|.*?fig=([^|]+)", open(src).read(), re.M):
+for m in re.finditer(r"^## (\d+) \|[^\n]*?fig=([^|\n]+)", open(src).read(), re.M):
     q, specs = m.group(1), m.group(2).strip()
     if only and q not in only:
         continue
