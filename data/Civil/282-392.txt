@@ -1458,3 +1458,904 @@ The cross-section of a bar is subjected to a uniaxial tensile stress p. The tang
 #b p sin 2 θ
 #c p cos 2θ/2
 #d p cos 2 θ
+
+## 200 | star | tag=ES 95 | p=23-24 | hw=b
+Consider the following statements:
+1. On planes having maximum and minimum principal stresses, there will be no tangential stress.
+2. Shear stresses on mutually perpendicular planes are numerically equal.
+3. Maximum shear stress is equal to half the sum of the maximum and minimum principal stresses.
+Of these statements
+#a 1, 2 and 3 are correct
+#b 1 and 2 are correct
+#c 2 and 3 are correct
+#d 1 and 3 are correct
+
+## 201 | tag=ES 95 | p=24 | hw=b
+In a stressed body, an elementary cube of material is taken at a point with its faces perpendicular to x and y reference axes. Tensile stresses equal to 15 kN/cm² and 9 kN/cm² are observed on these respective faces. They are also accompanied by shear stresses equal to 4 kN/cm². The magnitude of the principal stresses at the point are
+#a 12 kN/cm² tensile and 3 kN/cm² tensile
+#b 17 kN/cm² tensile and 7 kN/cm² tensile
+#c 9.5 kN/cm² compressive and 6.5 kN/cm² compressive
+#d 19 kN/cm² tensile and 13 kN/cm² tensile
+
+## 202 | tag=ES 95 | p=24 | hw=d
+In a rectangular element subjected to like principal tensile stresses p₁ and p₂ in two mutually perpendicular directions x and y, the maximum shear stress would occur along the
+#a plane normal to x-axis
+#b plane normal to y-axis
+#c plane at 45° to y-direction
+#d planes at 45° and 135° to the y-direction
+
+## 203 | tag=ES 95 | p=24 | hw=d | fig=24:0.50,0.072,0.785,0.343 | fix=Options are the four diagrams (a)-(d) of Fig. 10.24.
+When a mild steel specimen fails in a torsion-test, the fracture looks like
+#a Fig. 10.24 (a)
+#b Fig. 10.24 (b)
+#c Fig. 10.24 (c)
+#d Fig. 10.24 (d)
+
+## 204 | tag=ES 95 | p=24 | hw=c
+At a point in a structure, there ate two mutually perpendicular tensile stresses of 800 kg/cm² and 400 kg/cm². If the Poisson's ratio is μ = 0.25, what would be the equivalent stress in simple tension according to Maximum Principal Strain Theory ?
+#a 1200 kg/cm²
+#b 900 kg/cm²
+#c 700 kg/cm²
+#d 400 kg/cm²
+
+## 205 | tag=ES 95 | p=24-25 | hw=c | fig=24:0.494,0.534,0.744,0.624;25:0.25,0.061,0.43,0.335 | fix=Options are the four diagrams (a)-(d) of Fig. 10.26.
+For a square-sectioned beam bent as shown in Fig. 10.25, the exaggerated view of the deformed cross-section is
+#a Fig. 10.26 (a)
+#b Fig. 10.26 (b)
+#c Fig. 10.26 (c)
+#d Fig. 10.26 (d)
+
+## 206 | tag=ES 95 | p=25 | hw=a
+According to maximum shear stress failure criterion, yielding in material occurs when
+#a maximum shear stress = 1/2 yield stress
+#b maximum shear stress = √2 × yield stress
+#c maximum shear stress = √(2/3) × yield stress
+#d maximum shear stress = 2 × yield stress
+
+## 207 | tag=ES 95 | p=25 | hw=c
+Consider the following statements :
+1. If a beam has two axes of symmetry, even then shear centre does not coincide with the centroid.
+2. For a section having one axis of symmetry, the shear centre does not concincide with the centroid but lies on the axis of symmetry.
+3. If a load passes through the shear centre, then there will be only bending in the cross section and no twisting.
+Of these statements
+#a 1, 2 and 3 are correct
+#b 1 and 2 are correct
+#c 2 and 3 are correct
+#d 1 and 3 are correct
+
+## 208 | tag=ES 95 | p=25 | hw=b | fig=25:0.60,0.163,0.79,0.538 | fix=Options are the four diagrams (a)-(d) of Fig. 10.27.
+In a thin walled T-section, the shear centre C is located at the point shown in
+#a Fig. 10.27 (a)
+#b Fig. 10.27 (b)
+#c Fig. 10.27 (c)
+#d Fig. 10.27 (d)
+
+## 209 | tag=ES 95 | p=25-26 | hw=a | fig=25:0.62,0.553,0.83,0.643;26:0.13,0.062,0.38,0.512 | fix=Options are the four diagrams (a)-(d) of Fig. 10.29.
+The bending moment diagram of the beam shown in Fig. 10.28 is
+#a Fig. 10.29 (a)
+#b Fig. 10.29 (b)
+#c Fig. 10.29 (c)
+#d Fig. 10.29 (d)
+
+## 210 | tag=ES 95 | p=26 | hw=c | fig=26:0.13,0.515,0.38,0.645;26:0.49,0.065,0.785,0.326 | fix=Options are the four diagrams (a)-(d) of Fig. 10.31.
+The SFD and BMD for a beam are shown in 10.30(a) and 10.30(b). The corresponding loading diagram would be
+#a Fig. 10.31 (a)
+#b Fig. 10.31 (b)
+#c Fig. 10.31 (c)
+#d Fig. 10.31 (d)
+
+## 211 | star | tag=ES 96 | p=26 | hw=a
+A bar of circular cross section varies uniformly from a cross section 2D to D. If extension of the bar is calculated treating it as a bar of average diameter, then the percentage error will be
+#a 10
+#b 25
+#c 33.33
+#d 50
+
+## 212 | tag=ES 96 | p=26 | hw=b
+The length, coefficient of thermal expansion and Young's modulus of bar 'A' are twice that of bar 'B'. If the temperature of both bars is increased by the same amount while preventing any expansion, then the ratio of stress developed in bar A to that in bar B will be
+#a 2
+#b 4
+#c 8
+#d 16
+
+## 213 | tag=ES 96 | p=26-27 | hw=a | fig=27:0.305,0.063,0.515,0.19
+The side AD of the square block ABCD as shown in Fig. 10.32 is fixed at the base and it is under a state of simple shear causing shear stress τ and shear strain φ, where
+φ = τ / Modulus of rigidity G
+The distorted shape is AB′C′D. The diagonal strain (linear) will be
+#a φ/2
+#b φ/√2
+#c φ√2
+#d φ
+
+## 214 | tag=ES 96 | p=27 | hw=a
+The lists given below refer to a bar of length l cross sectional area A, Young's modulus E. Poisson's ratio μ and subjected to axial stress p. Match List I with List II and select the correct answer using the codes given below the lists :
+List I — List II
+A. Volumetric strain — 1. 2 ( 1+μ)
+B. Strain energy per unit volume — 2. 3 (1-2 μ)
+C. Ratio of Young's modulus to bulk modulus — 3. (p/E)(1 − 2μ)
+D. Ratio of Young's modulus to modulus of rigidity — 4. p²/2E
+5. 2 (1-μ)
+Codes :
+#a A-3, B-4, C-2, D-1
+#b A-5, B-4, C-1, D-2
+#c A-5, B-4, C-2, D-1
+#d A-2, B-3, C-1, D-5
+
+## 215 | tag=ES 96 | p=27 | hw=b
+If all the dimensions of a prismatic bar of square cross section suspended freely from the ceiling of a roof are doubled, then the total elongation produced by its own weight will increase
+#a eight times
+#b four times
+#c three times
+#d two times
+
+## 216 | tag=ES 96 | p=27 | hw=a | fig=27:0.615,0.252,0.85,0.408
+On an element shown in Fig. 10.33, the stresses are (in MPa)
+σx = 110
+σy = 30
+τxy = 30 = τyx
+The radius of Mohr's circle and principal stresses σ₁, σ₂ are (in MPa)
+Radius =r — σ₁ — σ₂
+#a 50 — 20 — 120
+#b 55 — 110 — 30
+#c 60 — 20 — 140
+#d 70 — 20 — 140
+
+## 217 | tag=ES 96 | p=27-28 | hw=c
+Consider the following statements :
+1. In a member subjected to uniaxial tensile force the maximum normal stress is the external load divided by the maximum cross sectional area.
+2. When the structural member is subjected to uniaxial loading, the shear stress is zero on a plane where the normal stress is maximum.
+3. In a member subjected to uniaxial loading, the normal stress on the planes of maximum shear stress is less than the maximum.
+Of these statements
+#a 1 and 2 are correct
+#b 1 and 3 are correct
+#c 2 and 3 are correct
+#d 1, 2 and 3 are correct
+
+## 218 | tag=ES 96 | p=28 | hw=d
+A certain steel has proportionality limit of 3000 kg/cm² in simple tension. It is subjected to principal stresses of 1200 kg/cm² (tensile), 600 kg/cm² (tensile) and 300 kg/cm² (compressive). What would be the factor of safety according to maximum shear stress theory?
+#a 1.50
+#b 1.75
+#c 1.80
+#d 2.00
+
+## 219 | tag=ES 96 | p=28 | hw=a
+Match List I with List II and select the correct answer using the codes given below the lists:
+List I — List II
+A. Shear centre — 1. Tension
+B. Principal plane — 2. Slope
+C. Fixed end — 3. Shear stress
+D. Middle third rule — 4. Twisting
+Codes :
+#a A-4, B-3, C-2, D-1
+#b A-3, B-1, C-4, D-2
+#c A-4, B-1, C-2, D-3
+#d A-4, B-2, C-3, D-1
+
+## 220 | tag=ES 96 | p=28 | hw=c
+The maximum deflection of a fixed beam carrying a central load W is equal to
+#a WL³/48EI
+#b WL³/96EI
+#c WL³/192EI
+#d (5/384) WL³/EI
+
+## 221 | tag=ES 96 | p=28 | hw=c | fig=28:0.48,0.072,0.71,0.21
+The cantilever frame shown in Fig. 10.34 is supported by vertical links at B and C and carries loads as shown. The force in the bar AE is
+#a 500 kg
+#b 1000 kg
+#c zero
+#d 2500 kg
+
+## 222 | tag=ES 96 | p=28 | hw=a | fig=28:0.48,0.365,0.77,0.483;28:0.445,0.508,0.775,0.715 | fix=Options are the four diagrams (a)-(d) of Fig. 10.36.
+If the loads and reactions of the beam shown in Fig. 10.35 are as given in the figure,
+the thrust diagram on the section of the beam, taking tension positive , will be
+#a Fig. 10.36 (a)
+#b Fig. 10.36 (b)
+#c Fig. 10.36 (c)
+#d Fig. 10.36 (d)
+
+## 223 | star | tag=ES 96 | p=29 | hw=d | fig=29:0.27,0.103,0.51,0.183
+For the beam shown in Fig. 10.37, the maximum positive bending moment is equal to negative bending moment.
+The value of L₁ is
+#a L/√2
+#b L/√3
+#c L/2
+#d L/(2√2)
+
+## 224 | tag=ES 96 | p=29 | hw=a | fig=29:0.245,0.347,0.48,0.447;29:0.245,0.474,0.48,0.716 | fix=Options are the four diagrams (a)-(d) of Fig. 10.39.
+For the shear force diagram shown in Fig. 10.38, the loaded beam will be
+#a Fig. 10.39 (a)
+#b Fig. 10.39 (b)
+#c Fig. 10.39 (c)
+#d Fig. 10.39 (d)
+
+## 225 | star | tag=ES 94, 96 & 97 | p=29 | hw=c
+A simply supported beam of span L carries a concentrated load W at mid-span. If the width b of the beam is constant and its depth is varying throughout the span, then what should be its mid-span depth, when design stress is f ?
+#a √(6WL/bf)
+#b 6WL/bf
+#c √(3WL/2bf)
+#d 3WL/2bf
+
+## 226 | tag=ES 96 | p=29 | hw=c | fig=29:0.645,0.325,0.845,0.398
+For the cantilever beam shown in Fig. 10.40, which one of the following pairs is not correctly matched ?
+Theorem — (EI) times of deflection at B
+#a Mohr's Theorem — Area of BMD × distance of centroid of of BMD from B.
+#b Castigliano's theorem — ∫₀ˡ Wx²dx
+#c Conjugate beam theorem — Shear force at the fixed end of conjugate beam
+#d Successive integration — ∫∫ −Wx dx
+
+## 227 | tag=ES 96 | p=29-30 | hw=d | fig=29:0.655,0.645,0.865,0.716
+A cantilever carries a load P at C as shown in Fig. 10.41.
+The deflection at B is
+#a (Pl²/2EI) (L − l)
+#b (Pl²/3EI) (L − l)
+#c (Pl²/2EI) (L + l/3)
+#d (Pl²/2EI) (L − l/3)
+
+## 228 | star | tag=ES 96 | p=30 | hw=c
+A cantilever of constant depth carries a uniformly distributed load on the whole span. To make the maximum stress at all sections the same, the breadth of the section at a distance x from the free end should be proportional to
+#a x
+#b √x
+#c x²
+#d x³
+
+## 229 | tag=ES 96 | p=30 | hw=c
+For a circular column having its ends hinged, the slenderness ratio is 160. The l/d ratio of the column is
+#a 80
+#b 57
+#c 40
+#d 20
+
+## 230 | tag=ES 96 | p=30 | hw=b | check=A second faint handwritten 'd' is also written in the margin beside the stem of this question; 'b' is the mark beside the options.
+A hollow circular column of internal diameter d and external diameter 1.5 d is subjected to compressive load. The maximum distance of the point of application of load from the centre for no tension is
+#a d/8
+#b 13d/48
+#c d/4
+#d 13d/96
+
+## 231 | tag=ES 96,98 | p=30 | hw=b
+Match List I (given sections) with List II (shape of the core) to ensure no tension condition and select the correct answer using the codes given below the lists:
+List I — List II
+A. Rectangular — 1. Circle
+B. I-section — 2. Annulus
+C. Hollow circular — 3. Rhombus
+D. Square — 4. I-section
+5. Square
+6. Rectangular
+Codes :
+#a A-4, B-6, C-1, D-2
+#b A-3, B-3, C-1, D-5
+#c A-6, B-4, C-2, D-5
+#d A-3, B-4, C-5, D-1
+
+## 232 | tag=ES 96 | p=30 | hw=b | fig=30:0.49,0.29,0.785,0.41
+A column ABCD (2y₁ x 2y₂) of rectangular section carries a load P at Z having the coordinates (x, y) as shown in Fig. 10.42.
+If the compressive stresses are taken as positive and area A=2y₁ x 2y₂ = 4y₁y₂ and the moment of intertia about x and y axis being Ixx and Iyy respectively, then the stress at the corner D is
+#a P/A + (Py/Ixx) y₁ + (Px/Iyy) y₂
+#b P/A − (Py/Ixx) y₁ − (Px/Iyy) y₂
+#c P/A + (Py/Iyy) y₁ + (Px/Ixx) y₂
+#d P/A − (Py/Iyy) y₁ − (Px/Ixx) y₂
+
+## 233 | tag=ES 96 | p=30-31 | hw=c
+A simply supported beam of span l and flexural rigidity EI, carries a unit point load at its centre. The strain energy in the beam due to bending is
+#a l³/48EI
+#b l³/192EI
+#c l³/96EI
+#d l³/16EI
+
+## 234 | star | tag=ES 96 | p=31 | hw=d
+Two closed-coil springs of stiffness s and 2s are arranged in series in one case and in parallel in the other case. The ratio of stiffness of springs connected in series to parallel is
+#a 1/3
+#b 1/9
+#c 2/3
+#d 2/9
+
+## 235 | tag=ES 96 | p=31 | hw=d
+Which one of the following pairs is not correctly matched ?
+#a Lame's constants : Thick cylinder
+#b Macaulay's method: deflection of beams
+#c Euler's method: Theory of columns
+#d Eddy's theorem : Torsion of shafts.
+
+## 236 | tag=ES 96 | p=31 | hw=b
+Two closed thin vessels, one cylindrical and the other spherical with equal internal diameter and wall thickness are subjected to equal internal fluid pressure. The ratio of hoop stresses in the cylindrical to that of spherical vessels is
+#a 4.0
+#b 2.0
+#c 1.0
+#d 0.5
+
+## 237 | tag=ES 97 | p=31 | hw=d
+A round steel bar of overall length 40 cm consists of two equal portions of 20 cm each having diameters of 10 cm and 8 cm respectively. If the rod is subjected to a tensile load of 10 tonnes, the elongation will be given by
+(E = 2 x 10⁶ kg/cm²)
+#a (1/10π) (1/25 + 1/16) cm
+#b (2/10π) (1/25 + 1/16) cm
+#c (3/10π) (1/25 + 1/16) cm
+#d (4/10π) (1/25 + 1/16) cm
+
+## 238 | tag=ES 97 | p=31 | hw=d | check=Options c and d are printed side by side on one line; the handwritten 'd' is beside that line.
+A copper bar of 25 cm length is fixed by means of supports at its ends. Supports can yield (total) by 0.01 cm. If the temperature of the bar is raised by 100°C, then the stress induced in the bar for αc = 20 x 10⁻⁶/°C and Ec = 1 x 10⁶ kg/cm² will be
+#a 2 x10² kg /cm²
+#b 4 x10² kg /cm²
+#c 8 x10² kg /cm²
+#d 16x10² kg /cm²
+
+## 239 | tag=ES 97 | p=31 | hw=d
+Match List I with List II and select the correct answer using the codes given below the lists:
+List I — List II
+A. Moment of inertia — 1. Tensile stress
+B. Elongation — 2. Modulus of rupture
+C. Neutral axis — 3. Zero shear stress
+D. Top fibre — 4. Zero longitudinal stress
+Codes :
+#a A-2, B-1, C-3, D-4
+#b A-1, B-2, C-4, D-3
+#c A-3, B-4, C-1, D-2
+#d A-2, B-1, C-4, D-3
+
+## 240 | tag=CS 93,ES 97 | p=31-32 | hw=a
+According to the Distortion Energy Theory, failure will not occur when (symbols have the usual meaning)
+#a [((σ₁ − σ₂)² + (σ₂ − σ₃)² + (σ₃ − σ₁)²)/2]^(1/2) ≤ σ₀
+#b [(σ₁ − σ₂)² + 4τ²]^(1/2) ≤ σ₀
+#c [(σ₁² + σ₂² + σ₃²) − (1/m)(σ₁σ₂ + σ₂σ₃ + σ₃σ₁)]^(1/2) ≤ σ₀
+#d [(σ₁ + σ₂)² + [(σ₁ − σ₂)² + 4τ²]^(1/2)]/2 ≤ σ₀
+
+## 241 | tag=ES 97 | p=32 | hw=b
+In a strained body, three principal stresses at a point are denoted by σ₁, σ₂ and σ₃ such that σ₁ > σ₂ > σ₃. If σₒ denoted yield stress, then according to the maximum shear stress theory
+#a σ₁ - σ₂ = σ₀
+#b σ₁ - σ₃ = σ₀
+#c σ₂ - σ₃ = σ₀
+#d (σ₁ + σ₃)/2 = σ₀
+
+## 242 | tag=ES 97 | p=32 | hw=a
+The shear centre of a section is defined as that point
+#a through which load must be applied to produce zero twisting moment on the section
+#b at which shear force is zero
+#c at which the shear force is a maximum
+#d at which the shear force is a minimum
+
+## 243 | tag=ES 96,97 | p=32 | hw=a | fig=32:0.16,0.50,0.42,0.715
+Match List I with List II and select the correct answer using the codes given below the lists:
+List I (Type of beam with type of loading) — List – II (Max. B.M. formula)
+A. [beam figure A] — 1. wL²/12
+B. [beam figure B] — 2. wL²/6
+C. [beam figure C] — 3. wL²/2
+D. [beam figure D] — 4. wL²/8
+(Fig.10.43)
+Codes :
+#a A-2, B-3, C-1, D-4
+#b A-1, B-2, C-3, D-4
+#c A-4, B-3, C-1, D-2
+#d A-2, B-1, C-4, D-3
+
+## 244 | tag=ES 97 | p=32 | hw=a
+If the area under the shear curve for a beam between the two points X₁ and X₂ is 'k', then the difference between the moments at the two points X₁ and X₂ will be equal to
+#a k
+#b 2k
+#c k/2
+#d k²
+
+## 245 | tag=CS 96,ES 97 | p=32 | hw=d
+The ratio of the flexural strengths of two beams of square cross-section, the first beam being placed with its top and bottom sides horizontally and the second beam being placed with one diagonal horizontally, is
+#a √3
+#b 1/√3
+#c 1/√2
+#d √2
+
+## 246 | tag=CS 94,ES 94,97 | p=32 | hw=c
+A short column of external diameter D₁ and internal diameter D₂ carries an external load W. For no-tension condition, the eccentricity will be
+#a (D₁² − D₂²)/8D₂
+#b (D₂² + D₁²)/8D₂
+#c (D₁² + D₂²)/8D₁
+#d (D₁ + D₂)²/8D₁
+
+## 247 | tag=ES 97 | p=32-33 | hw=b
+A three hinged semicircular arch of radius R carries a uniformly distributed load 'W' per unit run over the whole span. The horizontal thrust is
+#a WR
+#b WR/2
+#c −(4/3π) WR
+#d (2/3π) WR
+
+## 248 | star | tag=ES 97 | p=33 | hw=a
+A simply supported rectangular beam of span 'L' and depth 'd' carries a central load 'W'. The ratio of maximum deflection to maximum bending stress is
+#a L² / 6 Ed
+#b L² / 8 Ed
+#c L² / 48 Ed
+#d L² / 12 Ed
+
+## 249 | tag=ES 97 | p=33 | hw=b
+Consider the following statements regarding a beam of uniform cross section simply supported at its ends and carrying a concentrated load at one of its third points:
+a) Its deflection under the load will be maximum.
+b) The bending moment under the load will be maximum.
+c) The deflection at the mid-point of the span will be maximum.
+d) The slope at the nearer support will be maximum.
+Of these statements
+#a 1 and 3 are correct
+#b 2 and 4 are correct
+#c 1 and 2 are correct
+#d 3 and 4 are correct
+
+## 250 | tag=ES 97 | p=33 | hw=b
+If the diameter of a shaft subjected to torque alone is doubled, then the horse power P can be increased to
+#a 16 P
+#b 8 P
+#c 4 P
+#d 2 P
+
+## 251 | star | tag=ES 97 | p=33 | hw=c
+If the strain energy absorbed in a cantilever beam in bending under its own weight is 'K' times greater than the strain energy absorbed in an identical simply supported beam in bending under its own weight, then the magnitude of 'K' is
+#a 2
+#b 4
+#c 6
+#d 8
+
+## 252 | star | tag=ES 97 | p=33 | hw=a
+A thin cylindrical shell of internal diameter 'D' and thickness 't' is subjected to internal pressure 'p'. The change in diameter is given by
+#a (pD²/4tE) (2 − μ)
+#b (pD²/4tE) (1 − 2μ)
+#c (pd²/4tE) (1 − 2μ)
+#d (pd²/2tE) (2 − μ)
+
+## 253 | tag=ES 98 | p=33 | hw=c | fig=33:0.63,0.36,0.915,0.58
+Match List I with List II and select the correct answer using the codes given below the lists:
+List I (Fixed beam and types of various loading) — List II (The moments at A)
+P. [beam figure P] — 1. 5 WL/48
+Q. [beam figure Q] — 2. WL/15
+R. [beam figure R] — 3. WL/12
+S. [beam figure S] — 4. WL/8
+(Fig.10.44)
+Codes:
+#a P-4, Q-3, R-1, S-2
+#b P-3, Q-4, R-1, S-2
+#c P-4, Q-3, R-2, S-1
+#d P-3, Q-4, R-2, S-1
+
+## 254 | tag=ES 98 | p=34 | hw=d
+Consider the following statements:
+A simply supported beam is subjected to a couple somewhere in the span. It would produce
+1. a rectangular SF diagram
+2. parabolic BM diagrams
+3. both +ve and –ve BMs which are maximum at the point of application of the couple
+Of these statements
+#a 1, 2 and 3 are correct
+#b 1 and 2 are correct
+#c 2 and 3 are correct
+#d 1 and 3 are correct
+
+## 255 | star | tag=ES 98 | p=34 | hw=b
+A rectangular timber beam is cut out of a cylindrical log of diameter 'D'. The depth of the strongest timber beam will be
+#a D√(1/2)
+#b D√(2/3)
+#c D√(5/8)
+#d D√(3/4)
+
+## 256 | tag=ES 98 | p=34 | hw=d
+A beam of length 10 m carries a udl of 20 kN/m over its entire length and rests on two simple supports. In order that the maximum BM produced in the beam is the least possible, the supports must be placed from the ends at a distance of
+#a 5.86 m
+#b 4.14 m
+#c 2.93 m
+#d 2.07 m
+
+## 257 | star | tag=ES 98 | p=34 | hw=c
+A beam of square cross- section (B × B) is used as a beam with one diagonal horizontal. The location of the maximum shear stress from the neutral axis will be at a distance of
+#a zero
+#b B/4
+#c B/(4√2)
+#d B/8
+
+## 258 | star | tag=ES 98 | p=34 | hw=c | fig=34:0.52,0.108,0.765,0.198
+An overhang beam of uniform EI is loaded as shown in Fig. 10.45.
+The deflection at the free end will be
+#a PL³/81EI
+#b PL³/27EI
+#c 4PL³/81EI
+#d 2PL³/27EI
+
+## 259 | tag=ES 98 | p=34 | hw=b
+A cast iron pipe of 1m diameter is required to withstand a 200 m head of water. If he limiting tensile stress of the pipe material is 20 MPa, then the thickness of the pipe will be
+#a 25 mm
+#b 50 mm
+#c 75 mm
+#d 100 mm
+
+## 260 | tag=ES 98 | p=34 | hw=a | fig=34:0.47,0.515,0.74,0.652
+For the flitched beams shown in Fig. 10.46(I) and 10.46 (II), for the same value of maximum bending stress in timber,
+#a MR₁ > MR₂
+#b MR₂ > MR₁
+#c MR₁ = MR₂
+#d MR₁ and MR₂ can not be compared
+
+## 261 | tag=ES 98 | p=35 | hw=c
+If the eccentricity of total self weight 'W' of a masonry dam at its base is equal to one fourth of the base width 'B', then the maximum pressure at the base is given by
+#a 2W/3B
+#b 4W/3B
+#c 5W/2B
+#d 8W/3B
+
+## 262 | tag=ES 98 | p=35 | hw=c | fig=35:0.275,0.228,0.465,0.333
+The rectangular column shown in Fig. 10.47 carries a load 'P' having eccentricity eₓ and e_y along the x-axis and y-axis respectively.
+The stress at any point (x, y) is given by
+#a (P/bd) [1 + 12e_y.y/d² + 12eₓ.x/b²]
+#b (P/bd) [1 + 12e_y.y/b² + 12eₓ.x/d²]
+#c (P/bd) [1 + 6e_y.y/d² + 6eₓ.x/b²]
+#d (P/bd) [1 + 6e_y.y/b² + 6eₓ.x/d²]
+
+## 263 | tag=ES 98 | p=35 | hw=a
+Which one of the following pairs is NOT correctly matched ?
+#a Visco-plastic material — Small plastic zone
+#b Strain hardening material — Stiffening effect felt at some stage
+#c Orthotropic material — Different properties in three perpendicular directions
+#d Isotropic material — Same physical property in all directions at a point
+
+## 264 | tag=ES 98 | p=35 | hw=c
+In a plane stress problem there are normal tensile stresses σx and σy accompanied by shear stress τxy at a point along orthogonal cartesian coordinates x and y respectively. If it is observed that the minimum principal stress on a certain plane is zero then
+#a τxy = √(σx + σy)
+#b τxy = √(σx − σy)
+#c τxy = √(σx.σy)
+#d τxy = √(σx/σy)
+
+## 265 | tag=ES 98 | p=35 | hw=a
+In an experiment it is found that the bulk modulus of a material is equal to its shear modulus. The Poisson's ratio is
+#a 0.125
+#b 0.250
+#c 0.375
+#d 0.500
+
+## 266 | tag=ES 98 | p=35 | hw=c
+A mild steel bar is in two parts having equal lengths. The area of cross section of Part-1 is double that of Part-2. If the bar carries an axial load 'P', then the ratio of elongation in Part-1 to that in part-2 will be
+#a 2
+#b 4
+#c ½
+#d ¼
+
+## 267 | tag=ES 98 | p=35 | hw=c
+At a point in a steel member, the major principal stress is 200 MPa (tensile) and the minor principal stress is compressive. If the uniaxial tensile yield stress is 250 MPa , then according to the maximum shear stress theory, the magnitude of the minor principal stress (compressive) at which yielding will commence is
+#a 200 MPa
+#b 100 MPa
+#c 50 MPa
+#d 25 Mpa
+
+## 268 | tag=ES 98 | p=35-36 | hw=d
+The limit of proportionality of a certain sample is 300 MPa in simple tension. It is subjected to principal stresses of 150 MPa (tensile), 60 MPa (tensile) and 30 MPa (tensile). According to the maximum principal stress theory, the factor of safety in this case would be
+#a 10
+#b 5
+#c 4
+#d 2
+
+## 269 | tag=ES 98 | p=36 | hw=c
+Shear centre of a semi circular arc strip of radius 'r' will be at a distance of X from the centre of the arc, where 'X' is equal to
+#a πr/2
+#b 2r/π
+#c 4r/π
+#d πr/4
+
+## 270 | tag=ES 99 | p=36 | hw=d
+A round bar made of same material consists of 3 parts each of 100 mm length having diameters of 40 mm, 50 mm, and 60 mm respectively. If the bar is subjected to an axial load of 10 kN, the total elongation of the bar would be (E is modulus of elasticity in kN/mm²)
+#a (0.4/πE) (1/16 + 1/25 + 1/36) mm
+#b (4/πE) (1/16 + 1/25 + 1/36) mm
+#c (4√2/πE) (1/16 + 1/25 + 1/36) mm
+#d (40/πE) (1/16 + 1/25 + 1/36) mm
+
+## 271 | tag=ES 99 | p=36 | hw=a
+If a member is subjected to tensile stress of pₓ, compressive stress of p_y and tensile stress of p_z along the x, y, and z directions respectively, then the resultant strain 'eₓ' along the 'x' direction would be (E is Young's modulus of elasticity, μ is Poisson's ratio)
+#a (1/E) (pₓ + μp_y − μp_z)
+#b (1/E) (pₓ + μp_y + μp_z)
+#c (1/E) (pₓ − μp_y + μp_z)
+#d (1/E) (pₓ − μp_y − μp_z)
+
+## 272 | tag=ES 99 | p=36 | hw=d
+A cylindrical bar of 20 mm diameter and 1 m length is subjected to a tensile test. Its longitudinal strain is 4 times that of its lateral strain. If the modulus of elasticity is 2 x 10⁵ N/mm², then its modulus of rigidity will be
+#a 8 x 10⁶ N/mm²
+#b 8 x 10⁵ N/mm²
+#c 0.8 x 10⁴ N/mm²
+#d 0.8 x 10⁵ N/mm²
+
+## 273 | tag=ES 99 | p=36 | hw=d | fig=36:0.53,0.355,0.73,0.548
+The rectangular block shown in Fig. 10.48 is subjected to pure shear of intensity 'q'.
+If BE represents the principal plane and the principal stresses are σ₁, σ₂ ; then the values of θ, σ₁ and σ₂ will be respectively.
+#a 0°, 90°; + q and – q
+#b 30°, 120°; + q and – q
+#c 45°, 135°; + q/2 and − q/2
+#d 45°, 135°; + q and – q
+
+## 274 | tag=ES 99 | p=36-37 | hw=b | fig=37:0.285,0.068,0.50,0.21
+The state of stresses on an element is shown in the Fig. 10.49. The values of stresses are σx (=32 MPa); σy (=-10 MPa) and major principal stress σ₁ (= 40 MPa).
+The minor principal stress 'σ₂' is
+#a − 22 MPa
+#b − 18 MPa
+#c 22 MPa
+#d Indeterminable due to insufficient data
+
+## 275 | tag=ES 99 | p=37 | hw=a
+A material of Young's modulus 'E' and Poisson's ratio 'μ' is subjected to two principal stress σ₁ and σ₂ at a point in a two-dimensional stress system. The strain energy per unit volume of the material is
+#a (1/2E) (σ₁² + σ₂² − 2μσ₁σ₂)
+#b (1/2E) (σ₁² + σ₂² + 2μσ₁σ₂)
+#c (1/2E) (σ₁² − σ₂² + 2μσ₁σ₂)
+#d (1/2E) (σ₁² − σ₂² − 2μσ₁σ₂)
+
+## 276 | tag=ES 93,99 | p=37 | hw=c
+Given that for a channel section, the width of flange = b, the depth of the web between centres of flanges = h, the thickness of flange = t, the moment of inertia =I, the distance 'e' of the shear centre outside the channel section from the mid thickness of the web is
+#a th²b²/I
+#b t²h²b/4I
+#c th²b²/4I
+#d t²hb²/4I
+
+## 277 | tag=ES 99 | p=37 | hw=b | fig=37:0.615,0.095,0.915,0.48 | fix=Options are the four SFD/BMD pairs (a)-(d) of Fig. 10.51.
+A simply supported beam is shown in Fig. 10.50.
+The corresponding SFD and BMD would be
+#a Fig. 10.51 (a)
+#b Fig. 10.51 (b)
+#c Fig. 10.51 (c)
+#d Fig. 10.51 (d)
+
+## 278 | tag=ES 99 | p=37 | hw=a | fig=37:0.645,0.52,0.885,0.608
+The beam ABC shown in Fig. 10.52 is horizontal.
+The distance to the point of contraflexure from the fixed end 'A' is
+#a 0.333 m
+#b 0.666 m
+#c 0.25 m
+#d 0.75 m
+
+## 279 | tag=ES 99 | p=38 | hw=b | fig=38:0.13,0.095,0.43,0.205;38:0.13,0.24,0.43,0.522 | fix=Options are the four load diagrams (a)-(d) of Fig. 10.54.
+A beam's S.F.D. and B.M.D. are shown in Fig. 10.53(a) and (b) respectively.
+The corresponding load diagram will be
+#a Fig. 10.54 (a)
+#b Fig. 10.54 (b)
+#c Fig. 10.54 (c)
+#d Fig. 10.54 (d)
+
+## 280 | tag=ES 99 | p=38 | hw=d | fig=38:0.13,0.548,0.43,0.628;38:0.49,0.062,0.785,0.33 | fix=Options are the four diagrams (a)-(d) of Fig. 10.56.
+The bending moment diagram of the beam shown in Fig. 10.55 is
+#a Fig. 10.56 (a)
+#b Fig. 10.56 (b)
+#c Fig. 10.56 (c)
+#d Fig. 10.56 (d)
+
+## 281 | star | tag=ES 99 | p=38 | hw=a
+A simply supported beam of constant width and varying depth and uniform strength is subjected to a central concentrated load. The depth of the beam dₓ at a distance x from one of the supports is proportional to
+#a x^(1/2)
+#b x^(1/3)
+#c x
+#d x²
+
+## 282 | star | tag=ES 99 | p=38 | hw=b
+A mild steel flat of width 120 mm and thickness 10 mm is bent into an arc of a circle of radius 10 m by applying a pure moment 'M'. If E is 2 x 10⁵ N/mm², then the magnitude of the pure moment 'M' will be
+#a 2 x 10⁶ N-mm
+#b 2 x 10⁵ N-mm
+#c 0.2 x 10⁵ N-mm
+#d 0.2 x 10⁴ N-mm
+
+## 283 | tag=ES 99 | p=38-39 | hw=b | fig=39:0.25,0.058,0.535,0.18
+The cross section of a beam is shown in Fig. 10.57(a). Its Ixx is equal to 3 x 10⁶ mm⁴. It is subjected to a load as shown in Fig. 10.57(b).
+The maximum tensile stress in the beam would be
+#a indeterminable as data is insufficient
+#b 21 MN/m²
+#c 21kN/m²
+#d 21 N/m²
+
+## 284 | tag=ES 99 | p=39 | hw=a | fig=39:0.32,0.265,0.45,0.388;39:0.25,0.428,0.41,0.715 | fix=Options are the four cross sections (a)-(d) of Fig. 10.59.
+The shear stress distribution shown in Fig. 10.58 represents a beam with cross section.
+#a Fig. 10.59 (a)
+#b Fig. 10.59 (b)
+#c Fig. 10.59 (c)
+#d Fig. 10.59 (d)
+
+## 285 | tag=ES 99 | p=39 | hw=c | fig=39:0.615,0.088,0.885,0.17
+The three-hinged arch shown in Fig. 10.60 will have value of H as
+#a 20 kN
+#b 30 kN
+#c 40 kN
+#d 50 kN
+
+## 286 | tag=ES 99 | p=39 | hw=d
+Match List I with List II and select the correct answer using the codes given below the lists : (No. of members 'm', No. of joints 'n', No. of reaction elements 'r')
+List I (Types of structure) — List II (Statical indeterminacy)
+A. Plane frame — 1. m + r – 3n
+B. Space truss — 2. 6m + r – 6n
+C. Space frame — 3. 6m + r – 3n
+4. 3m + r – 3n
+Codes:
+#a A-1, B-2, C-3
+#b A-4, B-3, C-2
+#c A-2, B-1, C-3
+#d A-4, B-1, C-2
+
+## 287 | tag=ES 99 | p=39 | hw=c
+A shaft turns at 150 rpm under a torque of 1500 Nm. Power transmitted is
+#a 15 π kW
+#b 10 π kW
+#c 7.5 π kW
+#d 5 π kW
+
+## 288 | star | tag=ES 99 | p=39-40 | hw=c
+A hollow steel shaft of external diameter 100 mm and internal diameter 50 mm is to be replaced by a solid alloy shaft. Assuming the same value of polar modulus for both, the diameter of the solid alloy shaft will be
+#a 10 × ∛9375 mm
+#b 10 × ∛(9375 x10) mm
+#c 10 × ∛(9375/10) mm
+#d ∛9375 mm
+
+## 289 | tag=ES 96, 99 | p=40 | hw=b
+A shaft of diameter 'd' is subjected to bending moment 'M' and twisting moment 'T'. The developed principal stress will be
+#a ± (16/πd³) √(M² + T²)
+#b (16/πd³) (M ± √(M² + T²))
+#c (16/πd³) (T ± √(M² + T²))
+#d (16/πd³) √(M² + T²) ± M
+
+## 290 | tag=CS 93 | p=40 | hw=c | fig=40:0.14,0.33,0.385,0.422
+For the compound bar shown in Fig. 10.61, the ratio of stresses in the portions AB: BC: CD will be
+#a 4: 1: 2
+#b 1 : 2: 4
+#c 1 : 4: 2
+#d 4: 2: 1
+
+## 291 | tag=CS 93 | p=40 | hw=c
+The ratio of total elongation of a bar of uniform cross-section produced under its own weight to the elongation produced by an external load equal to the weight of the bar is
+#a 2
+#b 1
+#c 1/2
+#d 1/4
+
+## 292 | tag=CS 93 | p=40 | hw=d
+Match List I with list II and select the correct answer using the codes given below the lists:
+List I (Principal stress) — List II (Max. shearing stress)
+A. {+ 50, + 50} — 1. 25
+B. { + 150, + 50} — 2. Zero
+C. {0, + 50} — 3. 50
+D. {-50, - 200) — 4. 75
+Codes :
+#a A-2, B-3, C-4, D-1
+#b A-3, B-2, C-1, D-4
+#c A-3, B-2, C-4, D-1
+#d A-2, B-3, C-1, D-4
+
+## 293 | tag=CS 93 | p=40 | hw=a | fig=40:0.51,0.333,0.78,0.392;40:0.51,0.425,0.78,0.715 | fix=Options are the four diagrams (a)-(d) of Fig. 10.63.
+Figure 10.62 shows a simply-supported beam overhanging to the left. The beam carries a uniformly distributed load of w/m throughout.
+The correct bending moment diagram for the beam is
+#a Fig. 10.63 (a)
+#b Fig. 10.63 (b)
+#c Fig. 10.63 (c)
+#d Fig. 10.63 (d)
+
+## 294 | tag=CS 93 | p=41 | hw=c
+A beam of square section 'a' is used with its diagonal horizontal . The modulus of section of the beam is given by
+#a a⁴/(6√2)
+#b a⁴/(12√2)
+#c a³/(6√2)
+#d a³/(12√2)
+
+## 295 | tag=CS 93 | p=41 | hw=c | fig=41:0.295,0.295,0.505,0.448
+A section of a flitched beam is shown in Fig.10.64.
+The main role of the steel plate placed between the two timber sections is to
+#a increase the axial resistance of the section
+#b increase the density
+#c increase shear and bending resistance of the section
+#d avoid development of shear stress in the two timber sections
+
+## 296 | tag=CS 93 | p=41 | hw=c
+A three-hinged symmetric parabolic arch is hinged at the springings and at the crown. The span and rise are 40 m and 10 m respectively. The left half of the arch is loaded with U.D.L. of 3 t/m. The horizontal thrust at the springings will be
+#a 15 t
+#b 20 t
+#c 30 t
+#d 40 t
+
+## 297 | tag=CS 93 | p=41 | hw=a | fig=41:0.62,0.07,0.85,0.19
+In the truss shown in Fig. 10.65 the forces in the members AB and BC will be respectively (plus denotes tension)
+#a zero and zero
+#b –W/cos 60° and + W tan 60°
+#c –W/cos 60° and zero
+#d zero and + W tan 60°
+
+## 298 | tag=CS 93 | p=41 | hw=a
+The deflection at the free end of a cantilever of rectangular cross-section due to certain loading is 0.8 cm. If the depth of the section is doubled keeping the width the same, then the deflection at the free end due to the same loading will be
+#a 0.1 cm
+#b 0.4 cm
+#c 0.8 cm
+#d 1.6 cm
+
+## 299 | tag=CS 93 | p=41 | hw=a
+The ratio of torsional moments of resistance of a solid circular shaft of diameter D and a hollow shaft having external diameter D and internal diameter 'd' is given by
+#a D⁴/(D⁴ − d⁴)
+#b (D⁴ − d⁴)/D⁴
+#c D³/(D³ − d³)
+#d (D³ − d³)/D³
+
+## 300 | tag=CS 93 | p=41-42 | hw=a
+Two closely-coiled springs A and B of the same material, same wire and same number of turns are subjected to an axial load of W. The mean diameter of spring A is half that of spring B. The ratio of deflection on spring B to that of spring A will be
+#a 8
+#b 4
+#c 1/4
+#d 1/8
+
+## 301 | tag=CS 94 | p=42 | hw=b
+A straight wire 15 m long is subjected to a tensile stress of 2000 kgf/cm². Elastic modulus is 1.5 x10⁶ kgf/cm². Coefficient of linear expansion for the material is 16.66 x 10⁻⁶/°F. The temperature change in °F) to produce the same elongation as due to the 2000 kgf/cm² tensile stress in the material is
+#a 40
+#b 80
+#c 120
+#d 160
+
+## 302 | tag=CS 94 | p=42 | hw=b
+System A is a simply supported beam with a load P at mid span. System B is the same beam but the load is replaced by a udl of intensity P/L wherein L is the span. The mid span deflection of system B will
+#a be the same as that of system A at mid span
+#b be less than that of system A at mid span
+#c be more than that of system A at mid span
+#d bear no relation to that of system A
+
+## 303 | tag=CS 94 | p=42 | hw=c
+Given that
+P_E = the cripping load given by Euler,
+P_C = the load at failure due to direct compression
+P_R = the load in accordance with the Rankine's criterion of failure,
+P_R is given by
+#a (P_E + P_C)/2
+#b √(P_E x P_C)
+#c P_C P_E / (P_C + P_E)
+#d None of the above
+
+## 304 | tag=CS 94 | p=42 | hw=c | fig=42:0.49,0.06,0.76,0.172
+A simply supported truss shown in Fig. 10.66 carries load as shown. The force in member BE is
+#a √2 t (tensile)
+#b √2 t (compressive)
+#c 1 t (tensile)
+#d 1 t (compressive)
+
+## 305 | tag=CS 94 | p=42 | hw=d | fig=42:0.505,0.345,0.775,0.538
+The modular ratio of the materials used in the flitched beam is 10 and the ratio of the allowable stresses is also 10. Four different sections of the beam are shown in Fig. 10.67. The material shown hatched has larger modulus of elasticity and allowable stress than the rest.
+Which one of the following statements is true for the beam under consideration?
+#a All the given sections would support the same magnitude of load.
+#b Sections II, III and IV would support equal loads which is more than what section I would support
+#c Sections I and II would support equal loads which is more than what sections III and IV would support
+#d Section II would support the greatest load
+
+## 306 | tag=CS 94 | p=43 | hw=a | fig=43:0.285,0.105,0.505,0.268 | check=Question number printed partly cut off at the page edge ('6.'); read as 306 from sequence.
+A column ABCD of rectangular section is subjected to an eccentric load at Z as shown in Fig. 10.68.
+Under the compressive load, the direct stress is 400 t/m² and bending stresses are σxx = ± 1200 t/m² and σyy = ± 800 t/m²
+The stress at the corner A will be
+#a 800 t/m² (compressive)
+#b 1600 t/m² (tensile)
+#c 800 t/m² (tensile)
+#d 2000 t/m² (compressive)
+
+## 307 | star | tag=CS 94 | p=43 | hw=d
+The plane of maximum shear stress has normal stress that is
+#a maximum
+#b minimum
+#c zero
+#d none of the above
+
+## 308 | tag=ES 93 & CS 94 | p=43 | hw=b
+In the analysis of a closely-coiled helical spring under axial load, which of the following is /are negligible ?
+1. Torsion
+2. Bending
+3. Axial force in the wire
+Select the correct answer using the codes given below
+Codes :
+#a 1 alone
+#b 2 and 3
+#c 1 and 2
+#d 1 and 3
+
+## 309 | tag=CS 94 | p=43 | hw=c
+A thick cylinder is subjected to external pressure. The magnitude of hoop stress at internal radius will be
+#a equal to the magnitude of hoop stress at external radius
+#b less than the magnitude of hoop stress at external radius
+#c greater than the magnitude of hoop stress at external radius
+#d equal to the magnitude of radial stress at internal radius
+
+## 310 | tag=CS 94 | p=43 | hw=c
+A composite section made of two materials has moduli of elasticity in the ratio 1: 2 and lengths in the ratio 2:1. The ratio of corresponding stresses under a direct load is
+#a 2:1
+#b 1:2
+#c 4:1
+#d 1:4
+
+## 311 | tag=CS 94 | p=43 | hw=b | fig=43:0.64,0.28,0.885,0.376
+The slope at the support A of the overhanging beam shown in Fig. 10.69 is
+#a Wl²/12 EI
+#b Wl²/24 EI
+#c Wl/3 EI
+#d Wl/6 EI
+
+## 312 | star | tag=CS 95 | p=43 | hw=d
+The material of a rubber balloon has Poisson's ratio of 0.5. If uniform pressure is applied to blow the balloon, the volumetric strain of the material will be
+#a 0.50
+#b 0.25
+#c 0.20
+#d zero
