@@ -2923,3 +2923,1726 @@ Reason R: In a continuous curve of bending moment, the point of zero bending mom
 #b Both A and R are true but R is not a correct explanation of A
 #c A is true but R is false
 #d A is false but R is true
+
+@chapter 11 Applied Mechanics and Graphic Statics
+
+## 1 | p=81 | hw=d
+A force P of 50 N and another force Q of unknown magnitude act at 90° to each other. They are balanced by a force of 130 N. The magnitude of Q is
+#a 60 N
+#b 80 N
+#c 100 N
+#d 120 N
+
+## 2 | tag=ES 98 | p=81 | hw=d
+If the resultant of two forces has the same magnitude as either of the force, then the angle between the two forces is
+#a 30°
+#b 45°
+#c 60°
+#d 120°
+
+## 3 | p=81 | hw=a
+A rod AB carries three loads of 30 N, 70 N and 100 N at distances of 20 mm, 90 mm and 150 mm respectively from A. Neglecting the weight of the rod, the point at which the rod will balance is
+#a 109.5 mm from A
+#b 119.5 mm from A
+#c 125.5 mm from A
+#d 132.5 mm from A
+
+## 4 | p=81 | hw=d
+The angles between two forces to make their resultant a minimum and a maximum respectively are
+#a 0° and 90°
+#b 180° and 90°
+#c 90° and 180°
+#d 180° and 0°
+
+## 5 | p=81 | hw=b
+When two forces, each equal to P, act at 90° to each other, then the resultant will be
+#a P
+#b P√2
+#c P/√2
+#d 2P
+
+## 6 | star | p=81 | hw=b
+The resultant of two forces P and Q is R. If Q is doubled, the new resultant is perpendicular to P. Then,
+#a P = R
+#b Q = R
+#c P = Q
+#d None of the above is correct
+
+## 7 | p=81 | hw=a
+According to Lamis theorem, if three coplanar forces acting at a point are in equilibrium, then,
+#a P/sin α = Q/sin β = R/sin γ
+#b P/cos α = Q/cos β = R/cos γ
+#c P/tan α = Q/tan β = R/tan γ
+#d none is correct
+#note where P, Q and R are the forces and α, β and γ are the angles between Q and R, P and R, and P and Q respectively.
+
+## 8 | tag=CS 96 | p=81-83 | hw=b
+The centre of gravity of a semicircle of radius r from the diameter is
+#a 3r/2π
+#b 4r/3π
+#c 2r/3π
+#d 3r/4π
+
+## 9 | p=83 | hw=c
+The centre of gravity of a hemisphere of radius r from its base measured along the vertical radius is
+#a 4r/3
+#b 3r/2
+#c 3r/8
+#d 4r/7
+
+## 10 | p=83 | hw=a
+A circular section of radius r is cut out of a uniform disc of radius R. The centre of hole being R/2 from the centra of original disc The centre of gravity of the resulting body will lie on the line joining the centre of hole to the centre of disc at a distance of
+#a r²R/2(R² − r²) from the centre of disc and away from the hole
+#b r²R/2(R² − r²) from the centre of disc towards the hole
+#c r²R/2(R² − r²) from the centre of hole towards the centre of disc
+#d none of the above
+
+## 11 | tag=CS 96 | p=83 | hw=a
+Centre of gravity of a right circular solid cone lies on the vertical axis at a distance
+#a h/4
+#b h/3
+#c h/2
+#d 2h/3
+#note from the base of the cone where h is the height of the cone
+
+## 12 | p=83 | hw=d
+A cube on a smooth horizontal surface
+#a cannot be in stable equilibrium
+#b cannot be in neutral equilibrium
+#c cannot be in unstable equilibrium
+#d can be in any of these states
+
+## 13 | p=83 | hw=c
+The following is in unstable equilibrium
+#a a uniform solid cone resting on a generator on a smooth horizontal plane
+#b a uniform solid cone resting on its base on a horizontal plane
+#c a solid cube resting on one edge
+#d a satellite encircling the earth
+
+## 14 | star | p=83 | hw=b
+A block in the shape of a parallelopiped of sides lm × 2m × 3m lies on the surface. Which of the faces gives maximum stable block ?
+#a 1 m × 2 m
+#b 2 m × 3 m
+#c 1 m × 3m
+#d equally stable on all faces
+
+## 15 | p=83 | hw=a
+A uniform pyramid and a uniform prism of same height lie with their base on the surface. Which is more stable ?
+#a pyramid
+#b prism
+#c both equally stable
+#d none of the above
+
+## 16 | p=83 | hw=a
+Minimum potential energy of a system will be in the position of
+#a stable equilibrium
+#b unstable equilibrium
+#c neutral equilibrium
+#d all of the above
+
+## 17 | p=84 | hw=a
+A rigid body is in a stable equilibrium if the application of any force
+#a can raise the CG of the body but can not lower it
+#b tends to lower the CG of the body
+#c neither raises nor lowers the CG of the body
+#d none of above
+
+## 18 | p=84 | hw=d
+Which of the following represents the state of neutral equilibrium ?
+#a a cube resting on one edge
+#b a smooth cylinder lying on a curved surface
+#c a smooth cylinder lying on a convex surface
+#d none of the above
+
+## 19 | p=84 | hw=c
+A circular lamina of radius R has surface density Kr³/π at a distance of r from its centre. Its moment of inertia about an axis passing through its centre, perpendicular to its plane is
+#a KR⁵/6
+#b 2KR⁵/5
+#c 2KR⁷/7
+#d KR⁷/7
+
+## 20 | p=84 | hw=b
+The moment of inertia of a spherical shell of mass m and radius r about a diameter is
+#a (1/3) mr²
+#b (2/3) mr²
+#c (2/5) mr²
+#d (3/5) mr²
+
+## 21 | p=84 | hw=c
+The mass moment of inertia of a rectangular plate of mass M and sides a and b about an axis perpendicular to plate through its centre is
+#a (M/3)(a² + b²)
+#b (M/4)(a² + b²)
+#c (M/12)(a² + b²)
+#d Ma²/4 + Mb²/12
+
+## 22 | p=84 | hw=c
+The moment of inertia of a sphere of radius R and mass M about an axis tangential to it is
+#a (2/3) MR²
+#b (2/5) MR²
+#c (7/5) MR²
+#d (7/3) MR²
+
+## 23 | p=84 | hw=d
+The moment of inertia of a circular disc of radius R and mass M about its diameter is
+#a MR²
+#b MR²/2
+#c MR²/3
+#d MR²/4
+
+## 24 | p=84 | hw=a
+The moment of inertia about the base of a triangle of mass m and height h is
+#a mh²/6
+#b mh²/4
+#c mh²/36
+#d mh²/12
+
+## 25 | p=84-85 | hw=b
+Two circular discs of same weight and thickness are made from metals having different densities. Which disc will have the larger rotational inertia about its central axis ?
+#a disc with larger density
+#b disc with smaller density
+#c both discs will have same rotational inertia
+#d none of the above
+
+## 26 | p=85 | hw=b
+Using Routh's rule, the moment of inertia of an ellipsoid of unit mass and semi-axes equal to 2, 3 and 4 units about the last semi-axis is
+#a 13/4
+#b 13/5
+#c 29/5
+#d 5/4
+
+## 27 | p=85 | hw=a
+For rotation about a central axis, a solid cylinder of mass M and radius R is equivalent to a hoop of same mass and radius equal to
+#a R/√2
+#b √2R
+#c 2R
+#d R/2
+
+## 28 | p=85 | hw=c
+There are three solids viz., a hoop, a cylinder and a sphere, all having the same mass M and radius R. The rotational inertia about the axis passing through the centre of cross-section is
+i) maximum for hoop
+ii) minimum for sphere
+iii) maximum for hoop and minimum for cylinder
+iv) same for hoop, sphere and cylinder
+The correct answer is
+#a only (iii)
+#b only (iv)
+#c (i) and (ii)
+#d only (ii)
+
+## 29 | p=85 | hw=b
+A uniform rectangular lamina of unit mass is one unit wide and K units long. Its moment of inertia about an axis perpendicular to its plane and passing through its centre is 25/6. Thus K must be
+#a √99
+#b 7
+#c 8
+#d none of the above
+
+## 30 | p=85 | hw=b
+The moment of inertia about the x–axis of a homogenous lamina of density ρ, having the shape of the region bounded by y = 0, x = 4 and y = √x is given by
+#a (15/64) ρ
+#b (64/15) ρ
+#c 15 ρ
+#d 64 ρ
+
+## 31 | star | p=85 | hw=c
+The total kinetic energy of a hoop of mass 2 kg and radius 4 m sliding with linear velocity 8 m/sec and angular velocity 5 radian/sec is
+#a 64 J
+#b 400 J
+#c 464 J
+#d 89 J
+
+## 32 | p=85 | hw=c
+A symmetrical body is rotating about its axis of symmetry, its moment of inertia about the axis of rotation being 2 kg -m² and its rate of rotation 2 revolutions/see. The angular momentum of the body in kg-m²/sec is
+#a 4
+#b 6 π
+#c 8 π
+#d 8
+
+## 33 | p=85 | hw=a
+The angular speed of a car while taking a circular turn of radius 100m at 36 km/hour, is
+#a 0.1 radian/sec
+#b 1 radian/sec
+#c 100 radian/sec
+#d 1000 radian/sec
+
+## 34 | p=86 | hw=d
+The torque produced by a force depends on
+i) the magnitude of the force
+ii) the direction of the force
+iii) the point of application of the force relative to origin
+The correct answer is
+#a only (i)
+#b both (i) and (ii)
+#c both (i) and (iii)
+#d all (i), (ii) and (iii)
+
+## 35 | star | p=86 | hw=a
+The ratio of the speed of a rolling cylinder to the speed of sliding cylinder is
+#a less than 1
+#b equal to 1
+#c between 1 and 2
+#d greater than 2
+
+## 36 | p=86 | hw=b
+A sphere and a cylinder having the same mass and radii start from rest and roll down the same inclined plane. Which body gets to the bottom first ?
+#a sphere with greater rotational energy at bottom than cylinder
+#b sphere with lesser rotational energy at bottom than cylinder
+#c cylinder with greater rotational energy at bottom than sphere
+#d both reach the bottom simultaneously with equal rotational energy at bottom
+
+## 37 | p=86 | hw=b
+A metre-stick is held vertically with one end on the floor and is then allowed to fall. The speed of the other end when it hits the floor, assuming that the end on the floor does not slip, is given by
+#a √(2g) m/sec
+#b √(3g) m/sec
+#c √(5g) m/sec
+#d √(6g) m/sec
+#note where 'g' is acceleration due to gravity in m/sec².
+
+## 38 | star | p=86 | hw=b
+A hoop of radius 3 m weighs 100 kg. It rolls along a horizontal floor so that at its centre of mass has a speed of 200 mm/sec, The work required to stop the hoop is
+#a 2 J
+#b 4 J
+#c 6 J
+#d 8 J
+
+## 39 | p=86 | hw=c
+A solid cylinder of mass M and radius R rolls down an inclined plane without slipping. The acceleration of centre of mass of rolling cylinder is
+#a (1/3) g sin θ
+#b (2/3) g cos θ
+#c (2/3) g sin θ
+#d g sin θ
+#note where 'g' is acceleration due to gravity and θ is inclination of plane with horizontal.
+
+## 40 | p=86 | hw=d
+A solid sphere of mass M and radius R rolls down a plane inclined at θ with the horizontal. The acceleration of sphere is
+#a (1/3) g sin θ
+#b (2/5) g sin θ
+#c (3/7) g sin θ
+#d (5/7) g sin θ
+#note where g is acceleration due to gravity
+
+## 41 | star | p=86 | hw=a
+A cylinder will slip on an inclined plane of inclination θ if the coefficient of static friction between plane and cylinder is
+#a less than (1/3) tan θ
+#b less than (2/3) tan θ
+#c less than (1/3) sin θ
+#d less than (2/3) sin θ
+
+## 42 | p=86 | hw=b
+Rate of change of angular momentum is equal to
+#a force
+#b torque
+#c linear momentum
+#d impulse
+
+## 43 | star | p=86 | hw=c
+If the angular distance, θ = 2t³ − 3t², the angular acceleration at t = l sec. is
+#a 1 rad/sec²
+#b 4 rad/sec²
+#c 6 rad/sec²
+#d 12 rad/sec²
+
+## 44 | p=86-87 | hw=b
+A circular disc rotates at n rpm. The angular velocity of a circular ring of same mass and radius as the disc and to have the same angular momentum is
+#a n rpm
+#b n/2 rpm
+#c n/4 rpm
+#d 2n rpm
+
+## 45 | tag=CS 98 | p=87 | hw=b | check=Margin mark looks like 'b' written over another letter ('6b'); read as 'b'.
+A particle moves in a straight line and its position is defined by the equation x = 6 t² − t³ where t is expressed in seconds and x in metres. The maximum velocity during the motion is
+#a 6 m/sec
+#b 12 m/sec
+#c 24 m/sec
+#d 48 m/sec
+
+## 46 | p=87 | hw=b
+A flywheel of moment of inertia 20 kg-m² is acted upon by a tangential force of 5 N at 2 m from its axis, for 3 seconds. The increase in angular velocity in radian per second is
+#a 1/2
+#b 3/2
+#c 2
+#d 3
+
+## 47 | p=87 | hw=c
+A disc of mass 4 kg, radius 0.5m and moment of inertia 3 kg-m² rolls on a horizontal surface so that its centre moves with speed 5 m/see. Kinetic energy of the disc is
+#a 50 J
+#b 150 J
+#c 200 J
+#d 400 J
+
+## 48 | star | p=87 | hw=c
+When a circular wheel rolls on a straight track, then the shape of body centrode and space centrode respectively are
+#a straight line and parabola
+#b straight line and circle
+#c circle and straight line
+#d circle and parabola
+
+## 49 | p=87 | hw=a
+Select the correct statement
+#a The body centrode rolls on the space centrode.
+#b The space centrode rolls on the body centrode.
+#c Both body and space centrodes may role on each other.
+#d The body centrode never touches space centrode.
+
+## 50 | p=87 | hw=a
+At the instantaneous centre, the velocity of the moving lamina at any instant is
+#a zero
+#b maximum
+#c minimum
+#d varying
+
+## 51 | p=87 | hw=b
+Instantaneous centre is at infinity when the angular velocity is
+#a constant
+#b zero
+#c maximum
+#d minimum
+
+## 52 | p=87 | hw=d | fig=87:0.66,0.26,0.79,0.33
+Instantaneous centre for rolling wheel on a straight track as shown in Fig. 11.1 is at
+#a A
+#b B
+#c C
+#d D
+
+## 53 | p=87 | hw=c
+A 2 m long ladder rests against a wall and makes an angle of 30° with the horizontal floor. Where will be the instantaneous centre of rotation when the ladder starts slipping ?
+i) 1.0 m from the wall
+ii) 1.732 m from the wall
+iii) 1.0 m above the floor
+iv) 1.732 m above the floor
+The correct answer is
+#a (i) and (iii)
+#b (i) and (iv)
+#c (ii) and (iii)
+#d (ii) and (iv)
+
+## 54 | star | p=87 | hw=b
+For a given velocity of a projectile, the range is maximum when the angle of projection is
+#a 30°
+#b 45°
+#c 90°
+#d 0°
+
+## 55 | star | p=87-88 | hw=d
+The angle of projection at which the horizontal range and maximum height of a projectile are equal to
+#a 36°
+#b 45°
+#c 56°
+#d 76°
+
+## 56 | star | p=88 | hw=c
+The maximum value of the horizontal range for a projectile projected with a velocity of 98 m/sec is
+#a 98 m
+#b 490 m
+#c 980 m
+#d 1960m
+
+## 57 | star | p=88 | hw=c
+A stone is thrown vertically upwards with a vertical velocity of 49 m/sec. It returns to the ground in
+#a 5 sec
+#b 8 sec
+#c 10 sec
+#d 20 sec
+
+## 58 | p=88 | hw=a
+A projectile has maximum range of 40 m on a horizontal plane. If angle of projection is α and the time of flight is 1 second, then sin α must be about
+#a 1/4
+#b 1/3
+#c 1/2
+#d 1/5
+#note Assume g = 10 m/sec²
+
+## 59 | p=88 | hw=d
+Maximum height of a projectile, whose angle of projection is 30° with the horizontal and velocity of projection is u m/sec, is given by
+#a u²/g
+#b u²/2g
+#c u²/4g
+#d u²/8g
+
+## 60 | p=88 | hw=b
+If the direction of projection bisects the angle between the vertical and the inclined plane, then the range of projectile on the inclined plane is
+#a zero
+#b maximum
+#c minimum
+#d unpredictable
+
+## 61 | p=88 | hw=b
+If a projectile is fired with an initial velocity of 10 m/sec at an angle of 60° to the horizontal, its horizontal and vertical velocity at the highest point of trajectory are
+#a 0 and 5 m/sec
+#b 5 m/sec and 0
+#c 5 √3 m/sec and 0
+#d 5 and 5√3 m/sec
+
+## 62 | star | p=88 | hw=c
+The angle of projection at which the horizontal range and maximum height of a projectile are equal to
+#a 45°
+#b tan⁻¹ (2)
+#c tan⁻¹ (4)
+#d tan⁻¹ (1/4)
+
+## 63 | p=88 | hw=c
+A stone is thrown up a slope of inclination θ at a speed V and angle β to the slope. The stone reaches its greatest distance from the slope after a time of
+#a V sin θ / g cos β
+#b V cos β / g sin θ
+#c V sin β / g cos θ
+#d V cos θ / g sin β
+#note where 'g' is acceleration due to gravity
+
+## 64 | p=88 | hw=a
+A stone is thrown up a slope of inclination 60° to the horizontal. At what angle to the slope must the stone be thrown so as to land as far as possible from the point of projection ?
+#a 15°
+#b 30°
+#c 45°
+#d 75°
+
+## 65 | p=88-89 | hw=b
+A body is said to vibrate with simple harmonic motion (S.H.M ) if its acceleration is
+(i) proportional to the distance from mean position
+(ii) inversely proportional to the distance from mean position
+(iii) always directed away from the mean position
+(iv) always directed towards the mean position
+The correct answer is
+#a (i) and (iii)
+#b (i)and (iv)
+#c (ii) and (iii)
+#d (ii) and (iv)
+
+## 66 | p=89 | hw=a
+In a simple harmonic motion, the position of equilibrium is always
+#a stable
+#b unstable
+#c neutral
+#d none of the above
+
+## 67 | p=89 | hw=b
+If A is the amplitude of particle executing simple harmonic motion, then the total energy E of the particle is
+#a proportional to A
+#b proportional to A²
+#c proportional to 1/A²
+#d independent of A
+
+## 68 | p=89 | hw=b
+The time period of a simple pendulum depends on
+i) mass of suspended particle
+ii) length of the pendulum
+iii) acceleration due to gravity
+The correct answer is
+#a only (i)
+#b both (ii) and (iii)
+#c both (i) and (iii)
+#d all are correct
+
+## 69 | p=89 | hw=b
+A particle of mass 2 kg executes simple harmonic motion of frequency 6/π Hz and amplitude 0.25 m. Its maximum kinetic energy is
+#a 4.5 J
+#b 9.0 J
+#c 12.0 J
+#d 18.0 J
+
+## 70 | p=89 | hw=b
+The maximum displacement of a particle executing S.H.M. corresponds to
+#a zero potential energy and maximum kinetic energy
+#b zero kinetic energy and maximum potential energy
+#c maximum kinetic energy and maximum potential energy
+#d minimum kinetic energy and minimum potential energy
+
+## 71 | p=89 | hw=d
+It is observed that in a certain sinusoidal oscillation, the amplitude is linearly dependent on the frequency f. If the maximum velocity during the oscillation is V, then V must be proportional to
+#a f
+#b 1/f
+#c 1/f²
+#d f²
+
+## 72 | p=89 | hw=d
+A simple pendulum of length l has an energy E when its amplitude is A. If its amplitude is increased to 2 A, the energy becomes
+#a E
+#b E/2
+#c 2E
+#d 4E
+
+## 73 | tag=CS 99 | p=89 | hw=c
+If the kinetic energy and potential energy of a simple harmonic oscillator of amplitude A are both equal to half the total energy, then the displacement is equal to
+#a A
+#b A/2
+#c A/√2
+#d A√2
+
+## 74 | p=89 | hw=d
+The ratio of kinetic energy and potential energy of a simple harmonic oscillator, at a displacement equal to half its amplitude is given by
+#a 1 : 2
+#b 1 : 1
+#c 2 : 1
+#d 3 : 1
+
+## 75 | star | p=89 | hw=b
+A simple pendulum of length l has an energy E, when its amplitude is A. If the length of pendulum is doubled, the energy will be
+#a E
+#b E/2
+#c 2E
+#d 4E
+
+## 76 | p=90 | hw=c
+Time period and length of a seconds pendulum respectively are
+#a 1 sec and 99.4 cm
+#b 1 sec and 92.7 cm
+#c 2 sec and 99.4 cm
+#d 2 sec and 92.7 cm
+
+## 77 | p=90 | hw=a
+One end of an elastic string of natural length l and modulus λ is kept fixed while to the other end is attached a particle of mass m which is hanging freely under gravity. The particle is pulled down vertically through a distance x, held at rest and then released.
+The motion is
+#a a simple harmonic motion
+#b a rectilinear motion with constant speed
+#c a damped oscillatory motion
+#d none of the above
+
+## 78 | p=90 | hw=c
+A particle is executing simple harmonic motion in a line 1.0 m long. If the time of one complete vibration is 1 sec, then the maximum velocity of the particle is
+#a 1.00 m/sec
+#b 1.57 m/sec
+#c 3.14 m/sec
+#d 6.28 m/sec
+
+## 79 | star | p=90 | hw=c
+The potential energy of a particle falling through a straight shaft drilled through the earth (assumed homogenous and spherical) is proportional to
+#a log r
+#b r
+#c r²
+#d 1/r
+#note where r is the distance of 'the particle from centre of the earth
+
+## 80 | p=90 | hw=c
+Joule is the unit of
+#a power
+#b impulse
+#c work
+#d momentum
+
+## 81 | p=90 | hw=a
+One Newton is equivalent to
+#a 10⁵ dyne
+#b 10⁶ dyne.
+#c 10⁷ dyne
+#d 981 dyne
+
+## 82 | p=90 | hw=b
+A quantity whose dimensions are M²L² T⁻³ could be the product of
+#a force and pressure
+#b mass and power
+#c energy and velocity
+#d force and velocity
+
+## 83 | p=90 | hw=b
+The dimensions of Gravitational Universal constant 'G' are
+#a M⁻¹ L² T⁻²
+#b M⁻¹ L³ T⁻²
+#c M⁻² L³ T⁻²
+#d M¹ L³ T⁻²
+
+## 84 | p=90 | hw=b
+If y is force and x is velocity, then dimensions of d²y/dx² are
+#a M¹ L⁰ T⁻¹
+#b M¹ L⁻¹ T⁰
+#c M¹ L⁻¹ T⁻¹
+#d M² L² T⁻³
+
+## 85 | p=90 | hw=b
+One Joule is equivalent to
+#a 9.81 Newton - metre
+#b 1 Newton - metre
+#c 1 kg wt - metre
+#d 1 dyne - metre
+
+## 86 | p=90 | hw=c
+The dimensions of centrifugal force are
+#a M¹ L² T⁻²
+#b M¹ L¹ T⁻¹
+#c M¹ L¹ T⁻²
+#d M¹ L⁻¹ T⁻²
+
+## 87 | p=90 | hw=a
+A quantity measured in the C.G.S system of units has dimensions M⁻²L³ T^(3/2). What numerical factor would be required to convert the quantity to SI units ?
+#a 1
+#b 100
+#c 1/100
+#d 1/10000
+
+## 88 | p=90 | hw=c
+The unit of rotational inertia of a body in C.G.S system is
+#a cm⁴
+#b kg-cm²
+#c gm-cm²
+#d gm-cm³
+
+## 89 | p=90-91 | hw=b
+The ratio of unit of force in gravitational system to that in absolute system is
+#a 1
+#b g
+#c 1/g
+#d none of the above
+#note where 'g' is acceleration due to gravity
+
+## 90 | p=91 | hw=b
+An equation is given by
+g²t⁴/mr² = Kv²
+where g, t, m, r, v are acceleration, time, mass, length and velocity respectively. The units of K in SI units are
+#a Newton⁻¹
+#b Joule⁻¹
+#c Watt⁻¹
+#d none of the above
+
+## 91 | p=91 | hw=c
+In SI units, the units of force and energy are respectively
+#a Newton and watt
+#b Dyne and erg
+#c Newton and joule
+#d kg-wt and joule
+
+## 92 | p=91 | hw=b
+The dimensions of power are.
+#a M¹ L² T⁻²
+#b M¹ L² T⁻³
+#c M¹ L¹ T⁻²
+#d M¹ L⁻¹ T⁻²
+
+## 93 | p=91 | hw=b
+Impulse can be obtained from a
+#a force-displacement diagram
+#b force-time diagram
+#c velocity-time diagram
+#d velocity-displacement diagram
+
+## 94 | p=91 | hw=d
+One Newton is equivalent to
+#a 1 kg-wt
+#b 9.81 kg-wt
+#c 981 dyne
+#d 1/9.81 kg-wt
+
+## 95 | p=91 | hw=a
+Which of the following is a scalar quantity?
+#a energy
+#b momentum
+#c torque
+#d impulse
+
+## 96 | p=91 | hw=c
+If the coefficient of static friction is μ₁ and that of dynamic friction is μ₂, then from experiments μ₁/μ₂ is
+#a always equal to 1
+#b always less than 1
+#c always greater than 1
+#d some times greater than 1
+
+## 97 | p=91 | hw=d
+A heavy ladder resting on floor and against a vertical wall may not be in equilibrium if
+#a floor is smooth and wall is rough
+#b floor is rough and wall is rough
+#c both floor and wall are rough
+#d both floor and wall are smooth
+
+## 98 | p=91 | hw=a
+Coefficient of friction depends on
+#a nature of surfaces only
+#b area of contact only
+#c both (a) and (b)
+#d none of the above
+
+## 99 | p=91 | hw=c
+A cube rests on a rough horizontal surface and the coefficient of friction between the cube and the surface is μ. If the cube is gradually tilted from horizontal by tilting the plane on which, it rests, then the equilibrium is disturbed by sliding first if
+#a μ < ½
+#b μ > ½
+#c μ < 1
+#d μ > 1
+
+## 100 | star | p=91 | hw=b
+A rope is wrapped twice around a rough pole with a coefficient of friction ½ . It is subjected to a force F₁ at one end and a gradually increasing force F₂ is applied at the other end till the rope just starts slipping. At this instant the ratio of F₂ to F₁ is
+#a 1
+#b e^(2π)
+#c e^(4π)
+#d e^(π/2)
+
+## 101 | tag=CS 98 | p=91-92 | hw=b
+A ladder of weight 'w' rests against a smooth vertical wall, and rests on rough horizontal ground, the coefficient of friction between the ladder and the ground being 1/4. The maximum angle of inclination of the ladder to the vertical, if a man of weight 'w' is to walk to the top of it safely, is tan⁻¹ x, where x is
+#a 1/4
+#b 1/3
+#c 3
+#d 4
+
+## 102 | star | p=92 | hw=c
+If a body is lying on a plane whose inclination with the horizontal is less than the angle of friction, then
+i) a force is required to move the body upwards
+ii) a force is required to move the body downward
+iii) the body will not be in equilibrium
+The correct answer is
+#a only (i)
+#b only (ii)
+#c both (i) and (ii)
+#d both (i) and (iii)
+
+## 103 | p=92 | hw=a
+Intrinisic equation of catenary is given by
+#a S = C tan φ
+#b S = C cos φ
+#c S = C sin φ
+#d S = C cot φ
+#note where C is some constant.
+
+## 104 | star | p=92 | hw=b
+The shape of a suspended cable for a uniformly distributed load over it is
+#a circular
+#b parabolic
+#c catenary
+#d cubic parabola
+
+## 105 | p=92 | hw=a
+Cartesian form of the equation of catenary is
+#a y = c cosh x/c
+#b y = c sinh x/c
+#c y = c tan x/c
+#d y = c sin⁻¹ x/c
+
+## 106 | p=92 | hw=c
+A cable loaded with 10 kN/m of span is stretched between supports in the same horizontal line 100 m apart. If the central dip is 10 m, then the maximum and minimum pull in the cable respectively are
+#a 1346.3 kN and 1500 kN
+#b 1436.2 kN and 1250 kN
+#c 1346.3 kN and 1250 kN
+#d 1436.2 kN and 1500 kN
+
+## 107 | p=92 | hw=a
+Minimum pull in a suspended cable with supports at two ends is equal to
+#a horizontal thrust
+#b support reactions
+#c resultant of horizontal thrust and support reaction
+#d half the weight of the cable
+
+## 108 | p=92 | hw=a
+A light rope is loaded with many equal weights at equal horizontal intervals. The points of suspension on the rope lie on a
+#a parabola
+#b catenary
+#c cycloid
+#d ellipse
+
+## 109 | p=92 | hw=a
+The maximum pull in a cable, carrying a uniformly distributed load and supported at two ends which are at the same level, is at
+#a supports
+#b quarter span
+#c mid span
+#d none of the above
+
+## 110 | p=92 | hw=a
+A heavy uniform chain of density 100 N/m hangs between fixed supports at the same level. The minimum tension in the chain is 200 N. Referred to suitable axes, the equation of curve on which the chain lies is
+y/c = cosh(x / c)
+where c is
+#a 2.0 m
+#b 4.0 m
+#c ½ m
+#d ¼ m
+
+## 111 | p=92 | hw=d
+A ball moving on a smooth horizontal table hits a rough vertical wall, the coefficient of restitution between ball and wall being 1/3. The ball rebounds at the same angle. The fraction of its kinetic energy lost is
+#a 1/3
+#b 2/3
+#c 1/9
+#d 8/9
+
+## 112 | p=92 | hw=b
+A ball of mass m₁ impinges directly on a stationary ball of mass m₂. If the coefficient of restitution between them is e, then the fraction of the total kinetic energy dissipated by the impact is
+#a m₁(1 − e²)/(m₁ + m₂)
+#b m₂(1 − e²)/(m₁ + m₂)
+#c m₁(1 − e)²/(m₁ + m₂)
+#d m₂(1 − e)²/(m₁ + m₂)
+
+## 113 | p=93 | hw=b
+A particle is dropped from a height of 3 m on a horizontal floor, which has a coefficient of restitution with the ball of 1/2. The height to which the ball will rebound after striking the floor is
+#a 0.5 m
+#b 0.75 m
+#c 1.0 m
+#d 1.5 m
+
+## 114 | p=93 | hw=c
+A ball is dropped from a height of 16 m on a horizontal floor. If it rebounds to a height of 9 m after striking the floor, the coefficient of restitution between ball and floor is
+#a 1/4
+#b 2/3
+#c 3/4
+#d 4/3
+
+## 115 | p=93 | hw=b
+Two balls of masses 3 kg and 6 kg are moving with velocities of 4 m/sec and 1 m/sec respectively, towards each other along the line of their centres. After impact the 3 kg ball comes to rest. This can happen only if the coefficient of restitution between the balls is
+#a 2/3
+#b 1/5
+#c 3/5
+#d 1/3
+
+## 116 | p=93 | hw=b
+A body of mass m moving with a constant velocity V, hits another body of the same mass at rest and sticks to it. The velocity of the compound body after collision will be
+#a V
+#b V/2
+#c V/4
+#d 2V
+
+## 117 | p=93 | hw=b
+When a body slides down an inclined surface, the acceleration of the body is given by
+#a g
+#b g sin θ
+#c g cos θ
+#d g tan θ
+#note where 'g' is acceleration due to gravity and θ is the angle of inclination of surface with the horizontal.
+
+## 118 | p=93 | hw=d
+A body is dropped from a height of 100 m and at the same time another body is projected vertically upward with a velocity of 10 m/sec. The two particles will
+#a never meet
+#b meet after 1 sec
+#c meet after 5 sec
+#d meet after 10 sec
+
+## 119 | p=93 | hw=d
+A shell travelling with a horizontal velocity of 100 m/sec explodes and splits into two parts, one of mass 10 kg and the other of 15 kg. The 15 kg mass drops vertically downward with initial velocity of 100 m/sec and the 10 kg mass begins to travel at an angle to the horizontal of tan⁻¹ x, where x is
+#a 3/4
+#b 4/5
+#c 5/3
+#d 3/5
+
+## 120 | star | p=93 | hw=d
+A car goes round a curve of radius 100 m at 25 m/sec. The angle to the horizontal at which the road must be banked to prevent sideways friction on the car wheels is tan⁻¹ x, where x is (Assume g = 10 m/sec²)
+#a 3/8
+#b 1/2
+#c 9/5
+#d 5/8
+
+## 121 | p=93-94 | hw=b
+A shell of mass 100 kg travelling with a velocity of 10 m/sec breaks into two equal pieces during an explosion which provides an extra kinetic energy of 20000 Joules. If the pieces continue to move in the same direction as before, then the speed of the faster one must be
+#a 20 m/sec
+#b 30 m/sec
+#c 40 m/sec
+#d 50 m/sec
+
+## 122 | p=94 | hw=c
+If a flywheel increases its speed from 10 rpm to 20 rpm in 10 seconds, then its angular acceleration is
+#a π/10 rad/sec
+#b π/20 rad/sec
+#c π/30 rad/sec
+#d none of the above
+
+## 123 | p=94 | hw=a
+Two bodies of masses m and M are hung at the ends of a rope passing over a frictional pulley. Tha acceleration with which the heavier mass M comes down is
+#a g(M − m)/(M + m)
+#b g(M + m)/(M − m)
+#c gM/(M + m)
+#d gM/(M − m)
+
+## 124 | p=94 | hw=b
+Two objects moving with uniform speeds are 5 m apart after 1 second when they move towards each other and are 1 m apart when they move in the same direction. The speeds of the objects are
+#a 2 m/sec and 2 m/sec
+#b 3 m/sec and 2 m/sec
+#c 3 m/sec and 3 m/sec
+#d 4 m/sec and 6 m/sec
+
+## 125 | p=94 | hw=a
+The angular speed of a car taking a circular turn of radius 100 m at 36 km/hr will be
+#a 0.1 rad/sec
+#b 1 rad/sec
+#c 10 rad/sec
+#d 100 rad/sec
+
+## 126 | p=94 | hw=b
+A bullet weighing 10 gm moves with a velocity of 1km/sec. Its kinetic energy is
+i) 5000 N.m
+ii) 5000 kg.m
+iii) 5000 J
+The correct answer is
+#a only (ii)
+#b both (i) and (iii)
+#c both (ii) and (iii)
+#d all (i), (ii) and (iii)
+
+## 127 | p=94 | hw=b
+A stone was thrown vertically upwards from the ground with a velocity of 50 m/sec. After 5 seconds another stone was thrown vertically upwards from the same place. If both the stones strike the ground at the same time, then the velocity with which the second stone was thrown should be (Assume g = 10 m/sec²)
+#a 15 m/sec
+#b 25 m/sec
+#c 40 m/sec
+#d 50 m/sec
+
+## 128 | p=94 | hw=b
+The condilion for a lifting machine to be reversible is that its efficiency should be
+#a less than 50%
+#b more than 50%
+#c more than 66.67%
+#d equal to 100%
+
+## 129 | p=94 | hw=a
+In a lifting machine a weight of 5 kN is lifted through 200 mm by an effort of 0.1 kN moving through 15 m. The mechanical advantage and velocity ratio of the machine are respectively
+#a 50 and 75
+#b 75 and 50
+#c 75 and 75
+#d 50 and 50
+
+## 130 | p=94 | hw=b
+In a lifting machine with efficiency 60%, an effort of 200 N is required to raise a load of 6 kN. The velocity ratio of the machine is
+#a 30
+#b 50
+#c 60
+#d 80
+
+## 131 | p=95 | hw=c
+The velocity ratio of a differential pulley block is given by
+#a D/(D − d)
+#b 2D/(D + d)
+#c 2D/(D − d)
+#d D/(D + d)
+#note where D and d are diameters of larger and smaller pulleys respectively
+
+## 132 | p=95 | hw=c
+Free body diagram is an
+#a isolated joint with only body forces acting on it
+#b isolated joint with internal forces acting on it
+#c isolated joint with all the forces, internal as well as external, acting on it
+#d none of the above
+
+## 133 | p=95 | hw=c
+A system of coplanar forces acting on a rigid body can be reduced to
+#a one force only
+#b one couple only
+#c one force and one couple only
+#d none of the above
+
+## 134 | p=95 | hw=c
+A system of coplanar forces is in equilibrium when
+#a force polygon closes
+#b funicular polygon closes
+#c both force polygon and funicular polygon close
+#d all the forces are concurrent
+
+## 135 | p=95 | hw=c
+Force polygon method is applicable for
+#a any coplanar force system
+#b a system of parallel forces only
+#c concurrent coplanar force system
+#d non-concurrent coplanar force system
+
+## 136 | p=95 | hw=c
+The force polygon representing a set of forces in equilibrium is a
+#a triangle
+#b open polygon
+#c closed polygon
+#d parallelogram
+
+## 137 | p=95 | hw=b
+The diagram showing the point of application and line of action of forces in their plane is called
+#a vector diagram
+#b space diagram
+#c force diagram
+#d funicular diagram
+
+## 138 | p=95 | hw=a | fig=95:0.60,0.192,0.84,0.29 | fix=Options are the four arrow figures (a)-(d) of Fig. 11.2.
+Which of the following figures shows the correct Bow's notation for a force AB ?
+#a Fig. 11.2 (a)
+#b Fig. 11.2 (b)
+#c Fig. 11.2 (c)
+#d Fig. 11.2 (d)
+
+## 139 | p=95 | hw=b
+The resultant of coplanar parallel forces can be determined by using force polygon diagram and the point of application can be determined from
+#a force polygon itself
+#b funicular polygon
+#c polar diagram
+#d influence line diagram
+
+## 140 | p=95 | hw=d
+If two forces are in equilibrium, then the forces must
+i) be equal in magnitude
+ii) be opposite in sense
+iii) act along the same line
+The correct answer is
+#a (i) and (ii)
+#b (i) and (iii)
+#c only (i)
+#d (i), (ii) and (iii)
+
+## 141 | p=95 | hw=a
+The graphical method of determining the forces in the members of a truss is based on
+#a method of joint
+#b method of section
+#c either method
+#d none of the two methods
+
+## 142 | p=95-96 | hw=c
+The bending moment in an arch is proportional to
+#a vertical ordinate of funicular polygon
+#b vertical ordinate of the arch
+#c intercept between the arch axis and the funicular polygon
+#d none of these
+
+## 143 | tag=ES 93,94 | p=96 | hw=a
+To determine the support reactions in a simply supported beam AB carrying inclined loads, where A is a hinged support and B is a roller support, the funicular polygon
+#a must start from A only
+#b must start from B only
+#c can be started from anywhere between A and B
+#d can be started from anywhere on vertical line through B
+
+## 144 | p=96 | hw=b
+The member forces in a statically indeterminate truss
+#a can be obtained by graphic statics
+#b cannot be obtained by graphic statics
+#c may be obtained by graphic statics
+#d can be obtained by graphic statics by trial and error
+
+## 145 | p=96 | hw=c
+An ordinate in a funicular polygon represents
+#a shear force
+#b resultant force
+#c bending moment
+#d equilibrium
+
+## 146 | p=96 | hw=b
+The pole distance is measured in
+#a distance scale
+#b force scale
+#c mass scale
+#d time scale
+
+## 147 | p=96 | hw=d
+The number of funicular polygons which can be drawn to pass through two specified points in the space diagram are
+#a zero
+#b 1
+#c 2
+#d infinity
+
+## 148 | p=96 | hw=d
+A funicular polygon cannot be made to pass through
+#a one specified point
+#b two specified points
+#c three specified points
+#d more than three specified points
+
+## 149 | tag=ES 98,99 | p=96 | hw=b
+If the given forces P₁, P₂, P₃ and P₄ are such that the force polygon does not close, then the system will
+#a be in equilibrium
+#b always reduce to a resultant force
+#c always reduce to a couple
+#d both (a) and (c)
+
+## 150 | p=96 | hw=c
+The condition of equilibrium for any system of forces in a plane is
+#a that polygon of forces must close
+#b that resultant couple must be zero
+#c both (a) and (b)
+#d none of the above
+
+## 151 | tag=ES 94 | p=96 | hw=c
+In which of the following trusses, the method of substitution is required for determining the forces in all the members of the truss by graphic statics ?
+#a howe truss
+#b king post truss
+#c fink truss
+#d warren truss
+
+## 152 | tag=ES 94 | p=96 | hw=c
+For a non-concurrent force system to be in equilibrium
+#a only the closure of force polygon is sufficient
+#b only the closure of funicular polygon is sufficient
+#c both force polygon and funicular polygon must close
+#d none of the above
+
+## 153 | p=96 | hw=c
+If a set of given forces are such that their free vectors build a closed polygon, then
+#a the resultant force and resultant couple are always zero
+#b the resultant force is zero but resultant couple is not zero
+#c the resultant force is zero but resultant couple may not be zero
+#d the resultant force and resultant couple both may not be zero
+
+## 154 | p=96 | hw=a
+Williot-Mohr diagram is used to determine deflection in
+#a trusses only
+#b beam only
+#c rigid frames only
+#d any type of structure
+
+## 155 | p=97 | hw=c
+Three forces are in equilibrium when
+#a the force triangle closes
+#b the lines of action of three forces are concurrent
+#c both (a) and (b)
+#d none of the above
+
+## 156 | p=97 | hw=b
+It is not necessary that the coplanar system of forces is in equilibrium even if
+#a the total moment of the system is zero about three non-collinear points
+#b the total moment of the system is zero about two pointy P and Q and the total force perpendicular to PQ is zero
+#c the total moment of the system is zero about a point P and the total forces in two directions perpendicular to each other are zero
+#d the total force is zero in two directions inclined at 30° to each other and the total moment is zero about some points.
+
+## 157 | p=97 | hw=b
+If forces of 1N, 2N, 3N, 4N, 5N and 6N act in order along the sides of a regular hexagon, their resultant is
+#a 0
+#b 6N
+#c 12N
+#d 21 N
+
+## 158 | p=97 | hw=a | fig=97:0.22,0.555,0.42,0.676
+The light framework shown in Fig. 11.3 is supported by vertical forces at hooks P and Q and carries loads as shown in the figure. The force in the bar AB is
+#a 0
+#b W
+#c √W
+#d W/√2
+
+## 159 | tag=ES 93 | p=97 | hw=b | fig=97:0.62,0.135,0.80,0.39
+In the force system shown in Fig.11.4, the force CA should be
+#a 5 t
+#b − 5 t
+#c 4 t
+#d − 4 t
+
+## 160 | tag=ES 93 & 95 | p=97-98 | hw=b | fig=97:0.59,0.505,0.81,0.65;98:0.12,0.058,0.43,0.402 | fix=Options are the four force triangles (a)-(d) of Fig. 11.6.
+Two coplanar concurrent forces P₁ = 2t and P₂ = 2t meeting at 'O' act on a lamina at an angle of 45° as shown in Fig.11.5
+From the diagram, the force R to be applied at 'O' in order to keep the body in equilibrium is given by
+#a Fig. 11.6 (a)
+#b Fig. 11.6 (b)
+#c Fig. 11.6 (c)
+#d Fig. 11.6 (d)
+
+## 161 | tag=ES 94 | p=98 | hw=a
+For a given system of coplaner forces if the pole 'O' of the force polygon moves along a straight line OP, then the sides of the funicular polygon would rotate about fixed points all of which lie on
+#a a straight line parallel to OP
+#b a circle with centre at O
+#c an ellipse with OP as the major axis
+#d a circle with centre at P
+
+## 162 | tag=ES 94 | p=98 | hw=a
+In a cantilever beam, the bending moment at any section of the beam is equal to the
+#a area of the shear force diagram between the free end of the beam and that section
+#b area of the bending moment diagram between the free end of the beam and that section
+#c the area of shear force diagram between the fixed end of the beam and that section
+#d the vertical ordinate at that section in the shear force diagram
+
+## 163 | star | tag=ES 94 | p=98 | hw=d | fig=98:0.47,0.082,0.79,0.195
+(Fig. 11.7)
+On the basis of the data given in Fig.11.7, the bending moment under the load would work out to
+#a 2 kN.m
+#b 4 kN.m
+#c 6 kN.m
+#d 12 kN.m
+
+## 164 | tag=ES 94 | p=98 | hw=b
+Match list I with List II and select the correct answer using the codes given below the lists :
+List I — List II
+A. Segments of force polygon — 1. Parallel to the lines joining the ends of vector and the pole
+B. Segments of funicular polygon — 2. Parallel to the line of action of forces
+C. Direction of resultant — 3. Line joining the first and last points of the force diagram
+D. Direction of equilibrant — 4. Line joining the last point and the first point of force diagram
+Codes :
+#a A-2, B-1, C-4, D-3
+#b A-2, B-1, C-3, D-4
+#c A-1, B-2, C-4, D-3
+#d A-1, B-2, C-3, D-4
+
+## 165 | tag=ES 94 | p=99 | hw=b | fig=99:0.27,0.115,0.49,0.275
+The resultant of the coplanar, concurrent system of forces F₁, F₂, F₃ and F₄ shown in Fig.11.8 is
+#a 20 kN acting vertically upwards
+#b zero
+#c 20 kN acting vertically downwards
+#d 20 kN acting horizontally from left to right
+
+## 166 | tag=ES 95 | p=99 | hw=d | fig=99:0.27,0.38,0.50,0.57
+For the coplanar concurrent system of forces shown in Fig.11.9, the system will be
+#a in equilibrium if |F₃| = 10 kN
+#b in equilibrium if |F₃| = 10√2 kN
+#c in equilibrium if |F₃| = 20 kN
+#d will not be in equilibrium whatever be the magnitude of F₃
+
+## 167 | tag=ES 95 | p=99 | hw=d
+Parallelogram law of forces states that if two forces acting simultaneously at a point be represented in magnitude and direction by two adjacent sides of a parallelogram, their resultant may be represented in magnitude and direction by
+#a longer side of the other two sides
+#b shorter side of the other two sides
+#c diagonal of the parallelogram which does not pass through their point of intersection
+#d diagonal of the parallelogram which passes through their point of intersection
+
+## 168 | tag=ES 96 | p=99 | hw=c
+In order to find the resultant of a system of coplanar parallel system of forces, the correct sequence of the graphical procedure to be followed is
+#a force diagram, space diagram, funicular polygon and polar diagram
+#b funicular polygon, force diagram, space diagram and polar diagram
+#c space diagram, force diagram, polar diagram and funicular polygon
+#d space diagram, funicular polygon, force diagram, and polar diagram
+
+## 169 | tag=ES 96 | p=99-100 | hw=b | fig=99:0.60,0.425,0.82,0.545;99:0.59,0.595,0.80,0.70;100:0.13,0.058,0.43,0.395 | fix=Options are the four force diagrams (a)-(d) of Fig. 11.11.
+Three coplanar forces P₁ = P₂= P₃ = 2t meet at a joint O, as shown in Fig. 11.10
+From the force diagram, the force R to be applied at O in the same plane to keep the joint O in equilibrium is given by
+#a Fig. 11.11 (a)
+#b Fig. 11.11 (b)
+#c Fig. 11.11 (c)
+#d Fig. 11.11 (d)
+
+## 170 | tag=ES 98 | p=100 | hw=c | fig=100:0.18,0.445,0.40,0.578;100:0.13,0.62,0.33,0.70;100:0.49,0.058,0.79,0.405 | fix=Options are the four force diagrams (a)-(d) of Fig. 11.13.
+A cantilever truss with joints labelled as ①, ② and ③ is shown in Fig. 11.12. It carries a vertical load of 10 KN at joint ②.
+The force diagram drawn at joint ② is represented as
+#a Fig. 11.13 (a)
+#b Fig. 11.13 (b)
+#c Fig. 11.13 (c)
+#d Fig. 11.13 (d)
+
+## 171 | tag=ES 97 | p=100 | hw=b | fig=100:0.49,0.465,0.77,0.635
+Figure 11.14 shows funicular diagram and polar diagram for a beam subjected to vertical forces. x is the distance of the pole from the vector line.
+If x is doubled, then the ordinate in the funicular diagram will be
+#a doubled
+#b halved
+#c unaffected
+#d tripled
+
+## 172 | tag=ES 97 | p=101 | hw=c | fig=101:0.28,0.095,0.535,0.17;101:0.235,0.19,0.545,0.505 | fix=Options are the four diagrams (a)-(d) of Fig. 11.16.
+In a beam AB, support A is hinged and support B is on rollers as shown in Fig. 11.15.
+The directions of the reactions at A and B will be as in
+#a Fig. 11.16 (a)
+#b Fig. 11.16 (b)
+#c Fig. 11.16 (c)
+#d Fig. 11.16 (d)
+
+## 173 | tag=ES 97 | p=101 | hw=c | fig=101:0.27,0.51,0.505,0.705
+(Fig. 11.17)
+In the Fig. 11.17, force in member AI will be
+#a zero
+#b 150 kN compression
+#c 300 kN compression
+#d 300 kN tension
+
+## 174 | tag=CS 93 | p=101 | hw=a
+Which one of the following structures can be classified in a system of coplanar forces ?
+#a A grid
+#b A plane pin-jointed truss
+#c A shaft
+#d A slab
+
+## 175 | tag=CS 93 | p=101-102 | hw=b | fig=101:0.675,0.30,0.87,0.475;101:0.61,0.505,0.86,0.71;102:0.13,0.058,0.43,0.285 | fix=Options are the four vector diagrams (a)-(d) of Fig. 11.19.
+Three coplanar forces of magnitudes 1W, 2W and 4W are acting on a particle as shown in the space diagram of Fig. 11.18.
+The vector diagram best representing the resultant force would be as in
+#a Fig. 11.19 (a)
+#b Fig. 11.19 (b)
+#c Fig. 11.19 (c)
+#d Fig. 11.19 (d)
+
+## 176 | star | tag=CS 93 | p=102 | hw=b | fig=102:0.20,0.375,0.38,0.545
+From a circular plate of diameter D, whose centre is C, another circular plate of diameter AC is cut, removed and kept over CB as shown in Fig. 11.20. The thickness of the plate is uniform. The shift of the centroid due to this operation will be
+#a D/4 to the left of C
+#b D/8 to the right of C
+#c D/4 to the right of C
+#d 3D/8 to the right of C
+
+## 177 | tag=CS 93 | p=102 | hw=a
+The proportion of second moment of area about the centroidal axis to second moment of area about the base of a rectangle will be
+#a ¼
+#b ½
+#c 2
+#d 3
+
+## 178 | tag=CS 93 | p=102 | hw=d | fig=102:0.53,0.145,0.79,0.245
+A beam ABC is simply supported at A and B with an overhang BC as shown in Fig. 11.21. It carries loads as shown in the figure. If both the reactions are equal, then W will be equal to
+#a 8P/5
+#b 5P/8
+#c 5P/4
+#d 4P/5
+
+## 179 | tag=CS 93 | p=102 | hw=c
+The magnitude of acceleration is given by the
+#a slope of distance-time curve
+#b length of velocity-time curve
+#c slope of velocity-time curve
+#d length of distance-time curve
+
+## 180 | tag=CS 93 | p=102 | hw=d
+A particle of mass 3 kg moving in a straight line decelerates uniformly from a speed of 40 m/s to 20 m/s in a distance of 300 m. Before it comes to rest, it will travel a further distance of
+#a 10 m
+#b 20 m
+#c 50 m
+#d 100 m
+
+## 181 | tag=CS 93 | p=102 | hw=a
+A body of mass 4 kg moving at 12 m/s collides with another body of mass 8 kg and adheres to it. The resultant velocity of the total mass in m/s will be
+#a 4.0
+#b 5.0
+#c 6.0
+#d 7.0
+
+## 182 | tag=CS 93 | p=102-103 | hw=b
+A heavy elastic ball drops from the ceiling of a room, and after rebounding once from the floor, reaches a height equal to three fourth of that of the ceiling. The coefficient of restitution will be
+#a √(2/3)
+#b √3/2
+#c √2/3
+#d 1/3
+
+## 183 | tag=CS 94 | p=103 | hw=b | fig=103:0.26,0.162,0.48,0.27;103:0.235,0.355,0.445,0.64 | fix=Options are the four free body diagrams (a)-(d) of Fig. 11.23.
+(Fig. 11.22)
+Which one of the following figures correctly represents the free body diagram for the portion of the loaded beam, (shown in Fig. 11.22) between sections AA and BB ?
+#a Fig. 11.23 (a)
+#b Fig. 11.23 (b)
+#c Fig. 11.23 (c)
+#d Fig. 11.23 (d)
+
+## 184 | tag=CS 94 | p=103 | hw=a | fig=103:0.62,0.058,0.82,0.18
+The distance of the centre of gravity of a thin uniform lamina, shown in Fig. 11.24, computed from AD along the horizontal axis is
+#a 3.14 cm
+#b 4.00 cm
+#c 5.3 cm
+#d 6.0 cm
+
+## 185 | tag=CS 94 | p=103 | hw=d | fig=103:0.63,0.295,0.78,0.41
+In the system of coplanar concurrent forces shown in Fig. 11.25, if 'R' is the known force, then to find the unknown force F₁, all the forces are to be resolved in the direction
+#a of the force F₁
+#b of the force F₂
+#c of the force R
+#d normal to the line of action of F₂
+
+## 186 | tag=CS 94 | p=103 | hw=c
+A metal block weighing 20 kgf rests on a horizontal surface, whose coefficient of friction is 0.22. The horizontal force necessary to just move the block is
+#a 0.22 kgf
+#b 2.20 kgf
+#c 4.40 kgf
+#d 8.80 kgf
+
+## 187 | tag=CS 94 | p=103-104 | hw=d | fig=103:0.62,0.615,0.88,0.72
+The ratio of reactions R_A and R_B of the simply supported beam shown in Fig. 11.26 is
+#a 1/2
+#b 2/3
+#c 3/2
+#d 1
+
+## 188 | tag=CS 94 | p=104 | hw=b
+The angular velocity (in radians /sec) of a body rotating at N rpm is
+#a πN/60
+#b 2πN/60
+#c πN/180
+#d 2πN/180
+
+## 189 | tag=CS 94 | p=104 | hw=d
+The velocity in m/s of a particle moving in a straight line is given by
+V = t³ − t²
+Its acceleration after three seconds is
+#a 10.25 m/s²
+#b 15.25 m/s²
+#c 18 m/s²
+#d 21 m/s²
+
+## 190 | star | tag=CS 94 | p=104 | hw=c
+Pendulum A has length 'l' and pendulum B has length 4 'l'. The periodic time of pendulum A and B will be in the ratio of
+#a 1:0.5
+#b 1:1
+#c 1:2
+#d 1:4
+
+## 191 | tag=CS 94 | p=104 | hw=a
+In a system of coplanar forces, when the force polygon closes but funicular polygon does not close, the forces are
+#a equivalent to a couple
+#b equivalent to a resultant whose magnitude, direction and line of action can be determined
+#c in equilibrium
+#d equivalent to a couple and a resultant force
+
+## 192 | tag=CS 94 | p=104 | hw=d
+Two ships A and B leave a port at the same time, the ship A moving north at 30 km/h and the ship B moving eastwards at 40 km/h The speed of B relative to A is
+#a 70 km/h
+#b 35 km/h
+#c 10 km/h
+#d 50 km/h
+
+## 193 | tag=CS 94 | p=104 | hw=b | fig=104:0.49,0.105,0.72,0.26;104:0.48,0.29,0.76,0.67 | fix=Options are the four diagrams (a)-(d) of Fig. 11.28.
+Four coplanar forces are acting at a point 'O' as shown in Fig. 11.27.
+The equilibrant of this force system acting at 'O' is given by
+#a Fig. 11.28 (a)
+#b Fig. 11.28 (b)
+#c Fig. 11.28 (c)
+#d Fig. 11.28 (d)
+
+## 194 | tag=CS 95 | p=104-105 | hw=c | fig=105:0.24,0.098,0.47,0.225
+A particle of weight 10 kg moving along a straight line is acted on by a force varying as shown in Fig. 11.29. If the initial velocity is 2 m/sec, its velocity at the end of the period during which the force acts is (assuming g = 10 m/sec²)
+#a 6 m/sec.
+#b 60 m/sec.
+#c 62 m/sec.
+#d 82 m/sec.
+
+## 195 | tag=CS 95 | p=105 | hw=d | fig=105:0.25,0.325,0.545,0.56
+Which of the following structures and the corresponding free body diagrams are correctly matched ?
+(Fig. 11.30: 1. Ladder; 2. bent member ABCD; 3. bracket ACB — each shown with its structure and free body diagram)
+Select the correct answer using the codes given below.
+Codes :
+#a 1, 2 and 3
+#b 1 and 2
+#c 2 and 3
+#d 1 and 3
+
+## 196 | tag=CS 95 | p=105 | hw=d
+The moment of intertia of a square cross-section of side 'b' about its diagonal is
+#a b⁴/ 3
+#b b⁴/ 6
+#c b⁴/ 8
+#d b⁴/ 12
+
+## 197 | tag=CS 95 | p=105 | hw=c
+When two moving bodies collide with each other, their velocity of separation bears a constant ratio to their velocity of approach. This ratio is termed as coefficient of
+#a collidity
+#b friction
+#c restitution
+#d permeability
+
+## 198 | tag=CS 95 | p=105 | hw=c
+A motor shaft rotating with a speed of 90 rpm decelerates uniformly when the motor is switched off and stops in 40 sec. The number of revolutions made by the shaft in this would be
+#a 10
+#b 20
+#c 30
+#d 40
+
+## 199 | tag=CS 95 | p=105 | hw=a
+Match list I with List II and select the correct answer using the codes given below the lists :
+List I — List II
+A. Catenary — 1. Equilibrium of concurrent forces
+B. Truss analysis — 2. Parabola
+C. Centre of gravity — 3. Hyperbolic functions
+D. Cable under udl — 4. Parallel forces
+Codes :
+#a A-3, B-1, C-4, D-2
+#b A-4, B-3, C-1, D-2
+#c A-3, B-1, C-2, D-4
+#d A-1, B-3, C-4, D-2
+
+## 200 | tag=CS 96 | p=105-106 | hw=c
+The combined motion of rotation and translation may be assumed to be a motion of pure rotation about some centre which goes on changing from time to time. The centre in question is known as
+#a shear centre
+#b meta centre
+#c instantaneous centre
+#d gravitational centre
+
+## 201 | tag=CS 96 | p=106 | hw=d
+Match list I with List II and select the correct answer using the codes given below the lists :
+List I — List II
+A. Coplanar forces — 1. Lines of action of all forces lie in the same plane but do not pass through a common point
+B. Concurrent forces — 2. Lines of action of all forces do not lie in the same plane but do pass through a common point.
+C. Non-concurrent coplanar forces — 3. Lines of action of all forces lie in the same plane.
+D. Collinear forces — 4. Lines of action of all forces pass through a common point.
+5. Vectors lie along the same line.
+Codes :
+#a A-5, B-4, C-1, D-3
+#b A-4, B-3, C-2, D-1
+#c A-4, B-5, C-2, D-1
+#d A-3, B-4, C-1, D-5
+
+## 202 | tag=CS 96 | p=106 | hw=d
+Two particles of masses 21 gm and 28 gm are connected by a light in-extensible string which passes over a fixed smooth pulley. The tension in the string in the ensuing motion will be
+#a 7 gm. wt.
+#b 10 gm. wt.
+#c 12 gm. wt.
+#d 24 gm. wt.
+
+## 203 | tag=CS 96 | p=106 | hw=b | fig=106:0.51,0.165,0.76,0.28
+The angular acceleration time diagram for a flywheel is given in Fig. 11.31. The +ve lobe (area = 10 units) is symmetrical about the ordinate t = 10s and the -ve lobe (area = 20 units) is symmetrical about the ordinate t = 30 s. The flywheel started from rest with initial displacement = 0.
+The angular velocity is maximum at
+#a 10s
+#b 20s
+#c 30s
+#d 40s
+
+## 204 | tag=CS 96 | p=106 | hw=b
+The power of an engine has been specified without the units as 50. If the magnitude is correct in MKS system, the unit to be specified for this power will be
+#a Joule
+#b Watt
+#c Hertz
+#d Newton-metre
+
+## 205 | tag=CS 96 | p=106 | hw=c
+A collision is said to be perfectly inelastic if the coefficient of restitution 'e' is
+#a 1
+#b ∞
+#c zero
+#d −1
+
+## 206 | tag=CS 97 | p=106 | hw=d
+The graphical condition for equilibrium of concurrent forces is that
+#a both the force polygon and the funicular polygon must be closed figures.
+#b funicular polygon should be a closed figure
+#c force polygon need not be a closed figure
+#d force polygon should be closed figure
+
+## 207 | tag=CS 97 | p=107 | hw=b | fig=107:0.24,0.125,0.54,0.225
+Which one of the following is the correct differential equation of the shape of the cable (similar to electrical cables) of unit weight 'q', with small slopes, as shown in Fig. 11.32?
+#a d²y/dx² = (q/H) (ds/dx)
+#b d²y/dx² = q/H
+#c d²y/dx² = (q/H) sin θ
+#d d²y/dx² = (q/H) cos θ
+
+## 208 | tag=CS 97 | p=107 | hw=a
+The effort 'P' to be applied horizontally to pull weight 'W' on a plane inclined at an angle α with the horizontal is given by (tan φ is the coefficient of friction)
+#a P = W tan (α + φ)
+#b P = W tan (α - φ)
+#c P = W sin (α + φ) / cos (α − φ)
+#d P = W sin (α − φ) / cos (α + φ)
+
+## 209 | tag=CS 97 | p=107 | hw=d
+A particle is moving on a plane curve with velocity v̄. 's' is the arc length of the particle from a fixed point on the curve and (r, θ) its position coordinates at time 't'. The transverse component of the acceleration of the particle is given by
+#a d²r/dt² − r² dθ/dt
+#b r d²θ/dt² + 2 (dr/dt)(dθ/dt)
+#c dv̄/dt
+#d v̄² dθ/ds
+
+## 210 | tag=CS 97 | p=107 | hw=a
+A car of mass 1200 kg is moving with a constant velocity of 60 kmph. When the brakes causing 4.5 kN force are applied, the distance travelled before the car cones to rest will be (assume g = 9.8 m/s²)
+#a 37.03 m
+#b 73.03 m
+#c zero
+#d 76.03 m
+
+## 211 | tag=CS 97 | p=107 | hw=a
+Two spheres of mass 15 kg and 20 kg, move along a straight line in the same direction with velocities of 20 m/s and 5 m/s, respectively. If the coefficient of restitution is 0.7, then the velocity of the 15 kg mass after collision will be
+#a 5.43 m/s
+#b 15.93 m/s
+#c 18.72 m/s
+#d 16.16 m/s
+
+## 212 | tag=CS 97 | p=107 | hw=d
+A particle moves with simple harmonic motion. If its acceleration at distance 'D' from the equilibrium position is 'A', then the period of the motion is given by
+#a 2π√(AD)
+#b 2π/√(AD)
+#c 2π√(A/D)
+#d 2π√(D/A)
+
+## 213 | tag=CS 97 | p=107 | hw=c
+A bullet of mass 0.01 kg moving with a velocity of 401 m/s strikes a block of mass 4 kg which is free to move in the direction of the bullet, and gets embedded in it. The overall loss of kinetic energy is
+#a 80.2 Nm
+#b 401 Nm
+#c 802 Nm
+#d 1604 Nm
+
+## 214 | tag=CS 97 | p=107-108 | hw=b
+A uniform circular disc of mass 5 kg and radius 3 cm is revolving uniformly at 60 rpm about an axis passing through a point on the rim perpendicular to the plane of the disc. The kinetic energy of the disc is
+#a 13.5 Nm
+#b 27π²/2000 Nm
+#c 27000 Nm
+#d 15 π Nm
+
+## 215 | tag=CS 98 | p=108 | hw=a | fig=108:0.15,0.205,0.34,0.656
+Among the given figures, the one shown in Fig. 11.33(d) represents
+#a force diagram
+#b loading diagram
+#c funicular polygon
+#d polar diagram
+
+## 216 | tag=CS 98 | p=108 | hw=c | fig=108:0.49,0.12,0.775,0.215
+A beam AB is hinged at 'A' and is supported on rollers at 'B'. It carries two loads P₁ and P₂ as shown in Fig. 11.34.
+The reactions at 'A' and 'B' will be respectively
+#a 1000.0 N and 666.67 N
+#b 1000.0 N and 1000.0 N
+#c 1414.2 N and 666.67 N
+#d 1414.2 N and 1000.0 N
+
+## 217 | tag=CS 98 | p=108 | hw=d | fig=108:0.53,0.34,0.775,0.478
+The section modulus of the structure shown in Fig. 11.35 is given by
+#a bd²/6 + aH²/6
+#b ad²/6 + bH²/6
+#c bd²/6 + aH³/6d
+#d bd³/6H + aH²/6
+
+## 218 | tag=CS 98 | p=108-109 | hw=c
+Given that for a particle the initial velocity is 'u', the angle of projection to the horizontal is α, and x and y are the coordinates of a point on the trajectory, match List I with List II and select the correct answer using the codes given below the lists:
+List I — List II
+A. Maximum height — 1. [2u sin α]/g
+B. Time of flight — 2. [u² sin 2α]/g
+C. Range — 3. y = x tan α − (1/2) g [x²/u²] (1 + tan² α)
+D. Trajectory — 4. [u² sin² α]/2g
+Codes :
+#a A-1, B-4, C-3, D-2
+#b A-1, B-4, C-2, D-3
+#c A-4, B-1, C-2, D-3
+#d A-4, B-1, C-3, D-2
+
+## 219 | tag=CS 98 | p=109 | hw=d
+A particle of mass 5 gm executes a simple harmonic motion making 35 oscillations in 11 seconds. If its maximum velocity is 60 cm/s, then the amplitude of vibration will be
+#a 9.0 cm
+#b 6.0 cm
+#c 4.5 cm
+#d 3.0 cm
+
+## 220 | tag=CS 96 & 98 | p=109 | hw=d
+Two perfectly elastic spheres of equal masses moving in the same direction with their velocities in the ratio 2:1 have an impact. After the impact, they will
+#a move in the same direction with the same velocity ratio
+#b have a velocity ratio of 1:2
+#c move in opposite directions with a velocity ratio of 1:2
+#d move in the same direction with a velocity ratio of 1:2
+
+## 221 | tag=CS 98 | p=109 | hw=d
+Match list I (Quantities) with List II (Expression for a rigid body with mass moment of intertia I; θ, ω and α being the displacement, angular velocity and angular acceleration respectively) and select the correct answer using the codes given below the lists :
+List I — List II
+A. Rotational moment (Mₜ) — 1. I ω
+B. Momentum — 2. Mₜ θ
+C. Kinetic energy — 3. I α
+D. Work done — 4. 0.5 I ω²
+Codes :
+#a A-2, B-4, C-1, D-3
+#b A-2, B-1, C-4, D-3
+#c A-3, B-4, C-1, D-2
+#d A-3, B-1, C-4, D-2
+
+## 222 | tag=CS 99 | p=109 | hw=a
+Two forces each equal to P act on a body. One force acts in north-east direction and the other in north-west direction. Their effect may be neutralized by a third force acting in south direction with its magnitude equal to
+#a P√2
+#b √2P
+#c P/√2
+#d 2P
+
+## 223 | tag=CS 99 | p=109-110 | hw=c | fig=109:0.68,0.493,0.885,0.618
+The centroid of the hatched portion from the base shown in Fig. 11.36 is
+#a d/2
+#b 4d/6π
+#c 10d/3(8 − π)
+#d 3(8 − π)d/10
+
+## 224 | tag=CS 99 | p=110 | hw=c
+One ship A, sailing east with a speed of 20 km/h passes a certain point at noon; a second ship B, sailing north at the same speed of 20 km/h passes the same point O at 2 p.m. The shortest distance in km between them should be
+#a 20/√2
+#b √20
+#c 20 √2
+#d 40/√2
+
+## 225 | tag=CS 99 | p=110 | hw=b
+Two points A and B are 50 m apart on an inclined hill track having a slope of 1 in 5. A car of mass 1000 kg descends from A to B. The car with a velocity of 20 m/s at A is brought to rest at B by a force. If the acceleration due to gravity is 10 m/s², then the total energy destroyed by the force will be
+#a 2 x 10⁵ J
+#b 3 x 10⁵ J
+#c 1.5 x 10⁵ J
+#d 2.5 x 10⁵ J
+
+## 226 | tag=CS 99 | p=110 | hw=d
+A sphere impinges directly on another sphere of same mass at rest. If the coefficient of restitution is half, then their velocities after impact will be in the ratio of
+#a 1 : 2
+#b 2 : 1
+#c 3 : 1
+#d 1 : 3
+
+## 227 | star | tag=CS 99 | p=110 | hw=c | check=Handwritten 'c' is written beside the A-R Directions codes printed below this question, not beside its options; assumed to belong to Q227.
+A circular disk and a circular ring have the same radius and mass. If the moments of inertia of the disk and ring about its diameter are respectively I₁ and I₂, then
+#a I₁ = 2I₂
+#b I₁ = I₂
+#c I₁ < I₂
+#d I₁ > I₂
+
+## 228 | tag=CS 96 | p=110 | check=No handwritten answer mark found for this question. | fix=Assertion-Reason question: options are the common codes printed once under 'Directions' before Q228.
+Assertion A : If a rigid body is in equilibrium, then the vector sum of the forces acting on the body is zero.
+Reason R : Vanishing of the resultant of the forces acting on a rigid body is a sufficient condition for the body to be in equilibrium
+#a Both A and R are true and R is the correct explanation of A
+#b Both A and R are true but R is not a correct explanation of A
+#c A is true but R is false
+#d A is false but R is true
+
+## 229 | tag=ES 94 | p=110 | check=No handwritten answer mark found for this question. | fix=Assertion-Reason question: options are the common codes printed once under 'Directions' before Q228.
+Assertion A : In a graphical solution, ordinates of bending moment diagram are not changed if linear scale is doubled and load scale is halved.
+Reason R : The bending moment at a section in a beam, in a graphical solution, is given by M = ordinate of funicular diagram x linear scale x load scale.
+#a Both A and R are true and R is the correct explanation of A
+#b Both A and R are true but R is not a correct explanation of A
+#c A is true but R is false
+#d A is false but R is true
+
+## 230 | tag=CS 95 | p=110 | check=No handwritten answer mark found for this question. | fix=Assertion-Reason question: options are the common codes printed once under 'Directions' before Q228.
+Assertion A : Body A is resting on surface B. The maximum force of friction available by the contact is P. If the weight of body is doubled, the maximum available force of friction will be 2P.
+Reason R : The coefficient of friction depends on the weight of the body. As the weight is doubled, the coefficient of friction will be doubled and hence the force of friction will be doubled.
+#a Both A and R are true and R is the correct explanation of A
+#b Both A and R are true but R is not a correct explanation of A
+#c A is true but R is false
+#d A is false but R is true
+
+## 231 | tag=CS 95 | p=110 | check=No handwritten answer mark found for this question. | fig=110:0.49,0.545,0.78,0.67 | fix=Assertion-Reason question: options are the common codes printed once under 'Directions' before Q228.
+Assertion A : It is better to pull the drum over the curb by applying force P as shown in Fig. 11.37 (a) instead of as shown in Fig. 11.37 (b).
+Reason R : The angle θ₁ is smaller than angle θ₂.
+#a Both A and R are true and R is the correct explanation of A
+#b Both A and R are true but R is not a correct explanation of A
+#c A is true but R is false
+#d A is false but R is true

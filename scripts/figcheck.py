@@ -1,5 +1,5 @@
 """Render the figure crops declared in a transcript for visual checking.
-usage: figcheck.py TRANSCRIPT OUTDIR [QNO ...]"""
+usage: figcheck.py TRANSCRIPT OUTDIR [QNO | CH:QNO ...]   (output: qQNO.png, or cCHqQNO.png when CH: is given)"""
 import os, re, subprocess, sys, tempfile
 from PIL import Image
 src, out = sys.argv[1], sys.argv[2]
@@ -7,10 +7,14 @@ only = set(sys.argv[3:])
 pdf = os.path.join(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(src)))),
                    os.path.basename(os.path.dirname(src)), os.path.basename(src)[:-4] + ".pdf")
 os.makedirs(out, exist_ok=True)
-for m in re.finditer(r"^## (\d+) \|[^\n]*?fig=([^|\n]+)", open(src).read(), re.M):
+text = open(src).read()
+for m in re.finditer(r"^## (\d+) \|[^\n]*?fig=([^|\n]+)", text, re.M):
     q, specs = m.group(1), m.group(2).strip()
-    if only and q not in only:
+    chs = re.findall(r"^@chapter (\d+)", text[:m.start()], re.M)
+    ch = chs[-1] if chs else "0"
+    if only and q not in only and f"{ch}:{q}" not in only:
         continue
+    name = f"c{ch}q{q}" if f"{ch}:{q}" in only else f"q{q}"
     parts = []
     for spec in specs.split(";"):
         page, box = spec.strip().split(":")
@@ -23,4 +27,4 @@ for m in re.finditer(r"^## (\d+) \|[^\n]*?fig=([^|\n]+)", open(src).read(), re.M
     y = 0
     for p in parts:
         img.paste(p, (0, y)); y += p.height
-    img.save(f"{out}/q{q}.png")
+    img.save(f"{out}/{name}.png")
