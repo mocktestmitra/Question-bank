@@ -6741,3 +6741,439 @@ PERT is preferred for planning because of
 #b 3, 4 and 5
 #c 1, 3 and 4
 #d 1, 2 and 5
+
+## 117 | tag=ES 95 | p=95-96 | hw=d
+Match List I (Description of activity floats) with List II (Names of the floats) and select the correct answer using the codes given below the lists :
+List I
+A. Earliest start time of its successor activity minus earliest finish time of the activity in question minus the duration — 1. Total
+B. Time available for an activity performance minus the duration of the activity — 2. Free
+C. Excess of minimum available time over the required activity duration — 3. Interfering
+D. Difference between total float and free float of an activity — 4. Independent
+#a A-1, B-2, C-3, D-4
+#b A-1, B-2, C-4, D-3
+#c A-2, B-1, C-3, D-4
+#d A-2, B-1, C-4, D-3
+
+## 118 | tag=ES 95 | p=96 | hw=d
+Given that t = the duration of various jobs, t_m = mean time of different durations, n = number of observations, the standard deviation is given by
+#a Σt/n
+#b t − t_m
+#c Σ(t − t_m)²/n
+#d √(Σ(t − t_m)²/n)
+
+## 119 | tag=ES 95 | p=96 | hw=c | fig=96:0.16,0.548,0.36,0.650
+The flow net of activities of a project is given in Fig.7.18. The duration of activities are indicated along the arrows. The critical path of the activities is along
+#a 1–2–4–7–9
+#b 1–3–5–7–9
+#c 1–3–6–8–9
+#d 1–3–5–6–8–9
+
+## 120 | tag=ES 95 | p=96 | hw=c
+Consider the following items of works in a building :
+1. Concreting of roof slabs
+2. Brick-jelly lime concrete terracing
+3. Erection of formwork for slab
+4. Construction of parapet wall in terrace
+The correct sequence of these items of works is
+#a 1, 3, 2, 4
+#b 3, 1, 4, 2
+#c 3, 1, 2, 4
+#d 1, 3, 4, 2
+
+## 121 | tag=ES 95 | p=96 | hw=c
+Match List I (Item) with List II (Characteristic) and select the correct answer using the codes given below the lists :
+List I
+A. Activity — 1. Resourceless element
+B. Event — 2. Resource consuming element
+C. Dummy — 3. Spare time
+D. Float — 4. Instantaneous stage
+#a A-1, B-3, C-4, D-2
+#b A-2, B-1, C-4, D-3
+#c A-2, B-4, C-1, D-3
+#d A-3, B-4, C-1, D-2
+
+## 122 | tag=ES 95 | p=96 | hw=c
+Consider the following operations in tunnel construction :
+1. Drilling
+2. Blasting
+3. Mucking
+4. Placing steel
+5. Placing concrete
+The correct sequence of these operations is
+#a 1, 2, 4, 3, 5
+#b 1, 3, 2, 4, 5
+#c 1, 2, 3, 4, 5
+#d 1, 3, 4, 2, 5
+
+## 123 | tag=ES 95 | p=97 | hw=b
+For a given activity, the optimistic time, pessimistic time and the most probable estimates are 5, 17 and 8 days respectively. The expected time is
+#a 8 days
+#b 9 days
+#c 10 days
+#d 15 days
+
+## 124 | star | tag=ES 95 | p=97 | hw=a
+The following table contains data on four activities, A, B, C and D :
+Activity | Starts at : Week number | Ends with : Week number | Resource needed : per week
+A | 9th | 16th | 6
+B | 11th | 20th | 4
+C | 15th | 22nd | 3
+D | 13th | 24th | 7
+The maximum total resource load in any week will be
+#a 20
+#b 17
+#c 16
+#d 14
+
+## 125 | star | tag=ES 95 | p=97 | hw=c
+Three activities implementable in parallel, have the following time-cost relationships for direct cost component in each :
+Activity A: 10 days – 800 units; 9 days – 900 units; 8 days – 1000 units
+Activity B: 11 days – 1200 units; 10 days – 1350 units; 9 days – 1500 units;
+Activity C : 7 days – 500 units; 6 days – 700 units; 5 days – 900 units
+The feasible range of total direct cost component for the three activities together is
+#a 2500 to 3400 units
+#b 2650 to 3200 units
+#c 2500 to 2900 units
+#d 2600 to 3100 units
+
+## 126 | tag=ES 95 | p=97 | hw=b | fig=97:0.61,0.062,0.87,0.225
+Figure 7.19 shows the details necessary for the CPM network analysis.
+The cirtical path will be
+#a 1 → 2 → 3 → 5 → 6
+#b 1 → 2 → 3 → 4 → 5 → 6
+#c 1 → 2 → 4 → 5 → 6
+#d 1 → 2 → 4 → 3 → 5 → 6
+
+## 127 | star | tag=ES 96 | p=97 | hw=b
+The maximum rimpull in the first gear of a tractor while towing a load is 6300 kg. The tractor weighs 12.5 tonnes and is operating along a 2 percent upgrade and the rolling resistance is 45 kg/tonne. Pull available for towing the load is
+#a 3425 kg
+#b 5515 kg
+#c 4350 kg
+#d 2975 kg
+
+## 128 | tag=ES 96 | p=97-98 | hw=a
+Match List I with List II and select the correct answer using the codes given below the lists :
+List I (Indications of terms) — List II (Terms)
+A. Used for recording instructions given by the Excutive Engineer at site — 1. Co-ordination
+B. Used widely for civil engineering construction — 2. Unity of command
+C. One of the principles of organisation — 3. Line organisation
+D. One of the functions of management — 4. Site order book
+#a A-4, B-3, C-2, D-1
+#b A-4, B-2, C-3, D-1
+#c A-2, B-4, C-1, D-3
+#d A-4, B-1, C-2, D-3
+
+## 129 | tag=ES 96 | p=98 | hw=c
+Weigh-batching proceeds on
+#a the assumption of the declared weight in each bag of cement
+#b weighing the contents of each bag
+#c accurately estimating the weight of each material to be used in each batch
+#d the assumption of correct dry weight of each size range of each material and the weight of water.
+
+## 130 | tag=ES 96 | p=98 | hw=d
+Match List I with List II and select the correct answer using the codes given below the lists :
+List I — List II
+A. Derick — 1. Stone masonry work
+B. Claw-hamnmer — 2. Wood work
+C. Chain-Lewis — 3. Steel work
+D. Drop-hammer — 4. Concrete compaction
+5. Pile foundation
+#a A-1, B-3, C-5, D-4
+#b A-2, B-3, C-4, D-5
+#c A-3, B-1, C-5, D-2
+#d A-3, B-2, C-1, D-5
+
+## 131 | tag=ES 96 | p=98 | hw=d
+Cost-benefit studies are essential to
+#a assess the total cost of the work
+#b ascertain the relevant escalation in prices
+#c monitor the expenditure
+#d evaluate the viability and worthwhileness of taking up the project
+
+## 132 | tag=ES 97 | p=98 | hw=b
+Which of the following types of pumps can be used for concreting ?
+1. Piston operated.
+2. Penumatically operated.
+3. Centrifugally operated, with straight blades.
+4. Screw type.
+Select the correct answer using the codes given below.
+Codes :
+#a 1 and 3
+#b 1 and 2
+#c 1, 3 and 4
+#d 2 and 4
+
+## 133 | tag=ES 97 | p=98 | hw=d
+Grader is used mainly for
+#a trimming and finishing
+#b shaping and trimming
+#c finishing and shaping
+#d finishing, shaping and trimming
+
+## 134 | tag=ES 97 | p=98 | hw=d
+Which one of the following is not an excavating and moving type of equipment ?
+#a Bulldozer
+#b Clam shell
+#c Scraper
+#d Dump truck
+
+## 135 | tag=ES 97 | p=98 | hw=c
+The most suitable type of equipment for compaction of cohesive soils is
+#a Smooth-wheeled rollers
+#b Vibratory rollers
+#c Sheep foot rollers
+#d Tampers
+
+## 136 | tag=ES 97 | p=98 | hw=a
+For excavating utility trenches with precise control of depth, the excavation equipment used is
+#a Hoe
+#b Shovel
+#c Dragline
+#d None of the above
+
+## 137 | tag=ES 97 | p=98 | hw=a
+The basic action involved in sheep foot rolling is
+#a Kneading
+#b Pressing
+#c Tamping
+#d Vibration
+
+## 138 | tag=ES 97 | p=99 | hw=c
+The profits and the associated probability of making the profits are given below in respect of four projects :
+Project | Profit | Probability of making the profit
+1 | 15% | 0.5
+2 | 10% | 0.8
+3 | 12% | 0.7
+4 | 11% | 0.6
+When the motive is maximisation of expected profit, the correct order of preference of these projects would be
+#a 1, 3, 4, 2
+#b 2, 3, 4, 1
+#c 3, 2, 1, 4
+#d 3, 4, 2, 1
+
+## 139 | tag=ES 97 | p=99 | hw=c
+Consider the following statements :
+Resource levelling means
+1. economical utilisation of resources
+2. gradual increase in resources
+3. adjustment of resources to have the least variations.
+4. complete revamping of resources to suit the requirments.
+5. validating network depending on resource constraints.
+Of these statements
+#a 1 and 2 are correct
+#b 2, 3 and 4 are correct
+#c 3 and 5 are correct
+#d 1, 2, 3, 4 and 5 are correct
+
+## 140 | tag=ES 97 | p=99 | hw=c | fig=99:0.27,0.50,0.52,0.605
+For the network shown in Fig.7.20 (the number on each arrow denotes the time duration of activity in days), the earliest start time, in days for activity 5 – 6 is
+#a 8
+#b 7
+#c 9
+#d 11
+
+## 141 | star | tag=ES 97 | p=99 | hw=b
+The time estimates obtained from four contractors P, Q, R and S for excuting a particular job are as under :
+Contractor | Optimistic time t_o | Most likekly time t_L | Pessimistic time t_p
+P | 5 | 10 | 13
+Q | 6 | 9 | 12
+R | 5 | 10 | 14
+S | 4 | 10 | 13
+Which one of these contractors is more certain about completing the job in time ?
+#a P
+#b Q
+#c R
+#d S
+
+## 142 | tag=ES 98 | p=99 | hw=c
+Batching refers to
+#a controlling the total quantity at each batch
+#b weighing accurately, the quantity of each material for a job before mixing
+#c controlling the quantity of each material into each batch
+#d adjusting the water to be added in each batch according to the moisture content of the materials being mixed in the batch
+
+## 143 | tag=ES 98 | p=99 | hw=c
+Consider the following statements:
+Wheeled tractors are replacing crawler tractors because
+1. wheeled tractors travel faster.
+2. crawler tractors are more expensive.
+3. track parts of a crawler wear out quickly.
+4. crawler tractors have stick control.
+Of these statements
+#a 1, 3 and 4 are correct
+#b 2, 3 and 4 are correct
+#c 1, 2 and 3 are correct
+#d 1, 2 and 4 are correct
+
+## 144 | tag=ES 98 | p=99-100 | hw=b
+Match List I (Nature of work) with List II (Machine required) and select the correct answer using the codes given below the lists.
+List I — List II
+A. Excavation and moving — 1. Derrick
+B. Pure excavation — 2. Dump truck
+C. Pure transportation — 3. Power shovel
+D. Pure hoisting — 4. Drag line
+#a A-1, B-3, C-2, D-4
+#b A-3, B-4, C-2, D-1
+#c A-4, B-3, C-2, D-1
+#d A-4, B-3, C-1, D-2
+
+## 145 | tag=ES 98 | p=100 | hw=d
+The rated loads of lifting cranes, as percentage of tipping load at specified radius, for crawler-mounted, and pneumatic tyre-mounted machines would be respectively
+#a 80 and 90
+#b 90 and 80
+#c 85 and 75
+#d 75 and 85
+
+## 146 | tag=ES 98 | p=100 | hw=a | fig=100:0.15,0.38,0.42,0.452
+The earliest date and the latest date of events 3 and 10 are given in Fig.7.21. Activity E is connecting both the events and its duration is 10 weeks. The independent float of the activity is
+#a 5 weeks
+#b 10 weeks
+#c 15 weeks
+#d 20 weeks
+
+## 147 | tag=ES 98 | p=100 | hw=d
+The network rules are common to all activity-on-arrow networking systems. The use of computers for making computations may impose certain rules. Which of the following basic rules of network logic are correct ?
+1. Before an activity may begin, all the activities preceding it may be complete.
+2. Any two events may be directly connected by no more than one activity.
+3. Event numbers must not be duplicated in a network.
+Select the correct answer using the codes given below.
+Codes :
+#a 1 and 2
+#b 2 and 3
+#c 1 and 3
+#d 1, 2 and 3
+
+## 148 | tag=ES 98 | p=100 | hw=c | fig=100:0.51,0.24,0.72,0.315
+The flow net of the activities of a project are shown in the network given in Fig.7.22 indicating the duration of the activities along their arrows. The critical path of the activities is along
+#a 1→ 2 → 4 → 5 → 7→ 8
+#b 1→ 2 → 3 → 6 → 7 → 8
+#c 1→ 2 → 3 → 5 → 7→ 8
+#d 1→ 2 → 4 → 5 → 3 → 6 → 7 → 8
+
+## 149 | tag=ES 98 | p=100 | hw=d
+Cost of owning an equipment would include
+#a cost of depreciation, maintenance and repair and fuel
+#b cost of investment, wages of the crew and fuel
+#c cost of fuel, lubricating oil, investment and depreciation
+#d cost of investment, major repairs and depreciation
+
+## 150 | tag=ES 98 | p=100 | hw=c
+Sensitivity analysis is a study of
+#a comparison of profit and loss
+#b comparison of assets and liabilities
+#c change in output due to change in input
+#d economics of cost and benefits of the project
+
+## 151 | tag=ES 98 | p=100-101 | hw=b
+With the usual notations, sinking fund factor is given by
+#a (1 + i)ⁿ
+#b i/((1 + i)ⁿ − 1)
+#c 1/(1 + i)ⁿ
+#d i(1 + i)ⁿ/((1 + i)ⁿ − 1)
+
+## 152 | tag=ES 98 | p=101 | hw=c
+In the time-cost optimisation, using CPM method for network analysis, the crashing of the activities along the critical path is done starting with the activity having
+#a longest duration
+#b highest cost slope
+#c least cost slope
+#d shortest duration
+
+## 153 | tag=ES 99 | p=101 | hw=c
+Preliminary project report for a road project must contain
+#a the detailed estimated cost based on detailed design
+#b the several alternatives of the project that have been considered
+#c the soil survey, traffic survey, concept design and approximate cost
+#d the contract documents for inviting tenders
+
+## 154 | tag=ES 99 | p=101 | hw=b
+Consider the following statements regarding use of mechanical vibrator :
+1. It can be used for small as well as large volumes of concrete.
+2. The mix can have high value of slump.
+3. Density of concrete can be high.
+The advantages of a mechanical vibrator include
+#a 2 and 3
+#b 1 and 3
+#c 1, 2 and 3
+#d 1 and 2
+
+## 155 | star | tag=ES 99 | p=101 | hw=c
+A centrifugal pump is required to lift 2.8 m³/s of water to a height of 7.5 m. If the total loss of head in the pipe system is 0.25 m and the efficiency of the pump is 80%, then the brake horse power will be
+#a (1000 × 2.8 × 7.5 × 0.8)/75
+#b (1000 × 2.8 × 7.75)/0.8
+#c (1000 × 2.8 × 7.75)/(0.8 × 75)
+#d (1000 × 2.8 × 7.5)/0.8
+
+## 156 | tag=ES 99 | p=101 | hw=c
+In a project, the contractor is paid on the basis of the running bill for a month. The rate contract for concreting is Rs. 1000/m³ of concrete. The consumption of number of cement bags of weight 50 kg is 527. The mix proportion for the concrete is 1 : 1.4 : 2.75 with w/c ratio of 0.52. The approximate billing amount of the month will be
+#a Rs. 5,27,000
+#b Rs. 1,49,404
+#c Rs. 62,252
+#d Rs. 26,350
+
+## 157 | tag=ES 99 | p=101-102 | hw=d
+Match List I with List II and select the correct answer using the codes given below the lists :
+List I — List II
+A. Translates policy into a method of achieving the objective set out — 1. Coordinating
+B. Consists of defining the responsibilities of employees — 2. Planning
+C. Transmits all the information on to the supervising staff — 3. Organising
+D. The organisational set up is aided to operate efficiently with flow of information, decisions & results in all directions — 4. Directing
+#a A-3, B-2, C-1, D-4
+#b A-2, B-3, C-1, D-4
+#c A-3, B-2, C-4, D-1
+#d A-2, B-3, C-4, D-1
+
+## 158 | tag=ES 99 | p=102 | hw=a
+Consider the following pairs :
+1. Difference between total float and free float : Interfering float
+2. Sum of independent float and tail slack : Free float
+3. Sum of independent float tail slack and interfering float: Total float
+Which of these pairs are correctly matched ?
+#a 1, 2 and 3
+#b 1 and 2
+#c 2 and 3
+#d 1 and 3
+
+## 159 | tag=ES 99 | p=102 | hw=b | fig=102:0.15,0.358,0.43,0.435
+Consider the AoA network of a project shown in Fig.7.23.(activities are designated by alphabets and durations are shown around the stem of the arrow)
+The critical path will be
+#a 1-2-3-6-7-8
+#b 1-2-3-5-7-8
+#c 1-2-4-5-7-8
+#d 1-2-4-6-7-8
+
+## 160 | star | tag=ES 99 | p=102 | hw=d
+Activity P is followed by Activity Q which in turn, is followed by Activity R. The direct cost of these activities in relation to the choice of feasible durations table is given below :
+Activity | 'P' | 'P' | 'P' | 'Q' | 'Q' | 'Q' | 'R' | 'R' | 'R'
+Duration in days | 7 | 6 | 5 | 8 | 7 | 6 | 9 | 8 | 7
+Direct cost Rs. '000 | 12 | 14 | 15 | 20 | 23 | 27 | 40 | 42 | 45
+For all the three activities taken together, the minimum possible direct cost for a total duration of 21 days will be
+#a Rs. 81,000
+#b Rs. 79,000
+#c Rs. 78,000
+#d Rs. 77,000
+
+## 161 | tag=ES 99 | p=102 | hw=a
+Capital recovery factor at 15% p.a. discrete compunding for 4 years is 0.35. Rs. 10,000 deposited now at 15% p.a. discrete compounding will yield an amount 'X'' at the end of each 4 year period in perpetuity. The value of 'X'' is
+#a Rs. 7,500
+#b Rs. 6,666 ⅔
+#c Rs. 6,000
+#d Rs. 5,000
+
+## 162 | star | tag=ES 99 | p=102 | hw=d
+A machine costs Rs. 16,000. By constant rate of declining balance method of depreciation, its salvage value after an expected life of 3 years is Rs. 2,000. The rate of depriation is
+#a 0.25
+#b 0.40
+#c 0.30
+#d 0.50
+
+## 163 | tag=ES 99 | p=102 | hw=a
+The outgo of investment in a project is estimated at 2000 units of money at year zero. The following four alternatives of revenue earning schemes are considered as possibilities, each at 6% ROR
+1. 600 units of money at the end of each of the years 1st to 5th
+2. 800 units at the end of year 1, reducing at the rate of 100 units each year, ending with 400 units at the end of year 5.
+3. 400 units at the end of year 1, increasing at the rate of 100 units each year, ending with 800 units at the end of year 5.
+4. 400 units at the end of each of year 1 and year 2; with 600 units at the end of year 3; and with 800 units at the end of each of year 4 and year 5.
+From the investor's point of view, the correct sequence in decreasing order of preference will be
+#a 2, 1, 3, 4
+#b 2, 4, 3, 1
+#c 3, 4, 2, 1
+#d 3, 1, 2, 4
