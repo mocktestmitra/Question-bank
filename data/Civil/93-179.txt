@@ -1922,3 +1922,1515 @@ Codes:
 #b A-4, B-2, C-3, D-5
 #c A-2, B-5, C-1, D-4
 #d A-4, B-2, C-3, D-1
+
+@chapter 4 Highway Engineering
+
+## 1 | p=23 | hw=d
+Nagpur road plan formulae were prepared by assuming
+#a rectangular or block road pattern
+#b radial or star and block road pattern
+#c radial or star and circular road pattern
+#d radial or star and grid road pattern
+
+## 2 | p=23 | hw=c
+Select the correct statement.
+#a Nagpur road plan formulae take into account the towns with very large population.
+#b Nagpur road plan has a target road length of 32 km per 100 square km.
+#c Second 20-year plan has provided 1600 km of expressways out of the proposed National highway.
+#d Second 20-year plan allowed deduction of length of railway track in the area while calculating the length of roads.
+
+## 3 | p=23 | hw=c
+The sequence of four stages of survey in a highway alignment is
+#a reconnaissance, map study, preliminary survey and detailed survey
+#b map study, preliminary survey, reconnaissance and detailed survey
+#c map study, reconnaissance, preliminary survey and detailed survey
+#d preliminary survey, map study, reconnaissance and detailed survey
+
+## 4 | p=23 | hw=a
+The shape of the camber, best suited for cement concrete pavements, is
+#a straight line
+#b parabolic
+#c elliptical
+#d combination of straight and parabolic
+
+## 5 | p=23 | hw=b
+For water bound macadam roads in localities of heavy rainfall, the recommended value of camber is
+#a 1 in 30
+#b 1 in 36
+#c 1 in 48
+#d 1 in 60
+
+## 6 | p=23 | hw=d
+The stopping sight distance depends upon
+#a total reaction time of driver
+#b speed of vehicle
+#c efficiency of brakes
+#d all of the above
+
+## 7 | p=23 | hw=b
+When the path travelled along the road surface is more than the circumferential movement of the wheels due to rotation, then it results in
+#a slipping
+#b skidding
+#c turning
+#d revolving
+
+## 8 | p=23 | hw=d
+Coefficient of friction is less when the pavement surface is
+#a rough
+#b dry
+#c smooth and dry
+#d smooth and wet
+
+## 9 | p=23-24 | hw=a
+The shoulder provided along the road edge should be
+#a rougher than the traffic lanes
+#b smoother than the traffic lanes
+#c of same colour as that of the pavement
+#d of very low load bearing capacity
+
+## 10 | p=24 | hw=a
+Camber in the road is provided for
+#a effective drainage
+#b counteracting the centrifugal force
+#c having proper sight distance
+#d none of the above
+
+## 11 | p=24 | hw=b
+Compared to a level surface, on a descending gradient the stopping sight distance is
+#a less
+#b more
+#c same
+#d dependent on the speed
+
+## 12 | p=24 | hw=b
+On a single lane road with two way traffic, the minimum stopping sight distance is equal to
+#a stopping distance
+#b two times the stopping distance
+#c half the stopping distance
+#d three times the stopping distance
+
+## 13 | p=24 | hw=d
+The desirable length of overtaking zone as per IRC recommendation is equal to
+#a overtaking sight distance
+#b two times the overtaking sight distance
+#c three times the overtaking sight distance
+#d five times the overtaking sight distance
+
+## 14 | p=24 | hw=a
+Stopping sight distance is always
+#a less than overtaking sight distance
+#b equal to overtaking sight distance
+#c more than overtaking sight distance
+#d none of the above
+
+## 15 | p=24 | hw=b
+Reaction time of a driver
+#a increases with increase in speed
+#b decreases with increase in speed
+#c is same for all speeds
+#d none of the above
+
+## 16 | p=24 | hw=b
+If the stopping distance is 60 metres, then the minimum stopping sight distance for two lane, two way traffic is
+#a 30m
+#b 60m
+#c 120m
+#d 180m
+
+## 17 | p=24 | hw=c
+The effect of grade on safe overtaking sight distance is
+#a to increase it on descending grades and to decrease it on ascending grades
+#b to decrease it on descending grades and to increase it on ascending grades
+#c to increase it on both descending and ascending grades
+#d to decrease it on both descending and ascending grades
+
+## 18 | p=24 | hw=c
+The ruling design speed on a National Highway in plain terrain as per IRC recommendations is
+#a 60 kmph
+#b 80 kmph
+#c 100 kmph
+#d 120 kmph
+
+## 19 | p=24 | hw=b
+The terrain may be classified as rolling terrain if the cross slope of land is
+#a upto 10%
+#b between 10% and 25%
+#c between 25% and 60%
+#d more than 60%
+
+## 20 | p=24 | hw=b
+If b is the wheel track of a vehicle and h is the height of centre of gravity above road surface, then to avoid overturning and lateral skidding on a horizontal curve, the centrifugal ratio should always be
+#a less than b/2h and greater than coefficient of lateral friction
+#b less than b/2h and also less than coefficient of lateral friction
+#c greater than b/2h and less than coefficient of lateral friction
+#d greater than b/2h and also greater than coefficient of lateral friction
+
+## 21 | p=24 | hw=a
+As per IRC recommendations, the maximum limit of superelevation for mixed traffic in plain terrain is
+#a 1 in 15
+#b 1 in 12.5
+#c 1 in 10
+#d equal to camber
+
+## 22 | p=25 | hw=c
+For the design of superelevation for mixed traffic conditions, the speed is reduced by
+#a 15%
+#b 20%
+#c 25%
+#d 75%
+
+## 23 | star | p=25 | hw=a
+On a horizontal curve if the pavement is kept horizontal across the alignment, then the pressure on the outer wheels will be
+#a more than the pressure on inner wheels
+#b less than the pressure on inner wheels
+#c equal to the pressure on inner wheels
+#d zero
+
+## 24 | p=25 | hw=d
+The equilibrium superelevation required to counteract the centrifugal force fully is given by
+#a V²/(27.5R)
+#b V²/(75R)
+#c (0.75V)²/(127R)
+#d V²/(127R)
+#note where V is the speed of vehicle in kmph and R is the radius of curve in metres.
+
+## 25 | p=25 | hw=c
+For a constant value of coefficient of lateral friction, the value of required super-elevation increases with
+#a increase in both speed and radius of curve
+#b decrease in both speed and radius of curve
+#c increase in speed and with decrease in radius of curve
+#d decrease in speed and with increase in radius of curve
+
+## 26 | p=25 | hw=c
+To calculate the minimum value of ruling radius of horizontal curves in plains, the design speed is given by
+#a 8 kmph
+#b 12kmph
+#c 16kmph
+#d 20 kmph
+
+## 27 | p=25 | hw=c
+The absolute minimum radius of curve for safe operation for a speed of 110 kmph is
+#a 110 m
+#b 220 m
+#c 440 m
+#d 577 m
+
+## 28 | p=25 | hw=c
+The attainment of superelevation by rotation of pavement about the inner edge of the pavement
+#a is preferable in steep terrain
+#b results in balancing the earthwork
+#c avoids the drainage problem in flat terrain
+#d does not change the vertical alignment of road
+
+## 29 | p=25 | hw=d
+Select the correct statement.
+#a Psychological extra widening depends on the number of traffic lanes.
+#b Mechanical extra widening depends on the speed of vehicle.
+#c Psychological extra widening depends on the length of wheel base.
+#d Psychological extra widening depends on the speed of vehicle.
+
+## 30 | p=25 | hw=b
+In case of hill roads, the extra widening is generally provided
+#a equally on inner and outer sides of the curve
+#b fully on the inner side of the curve
+#c fully on the outer side of the curve
+#d one-fourth on inner side and three-fourth on outer side of the curve
+
+## 31 | p=25-26 | hw=d
+The mechanical extra widening required for 10.5 m wide pavement on a horizontal curve of radius R metre is given by
+#a l²/(2R)
+#b 2l²/(3R)
+#c l²/R
+#d 3l²/(2R)
+#note where l is the length of wheel base of vehicle in metres.
+
+## 32 | p=26 | hw=a
+The transition curve used in the horizontal alignment of highways as per IRC recommendations is
+#a spiral
+#b lemniscate
+#c cubic parabola
+#d any of the above
+
+## 33 | p=26 | hw=c
+For design, that length of transition curve should be taken which is
+#a based on allowable rate of change of centrifugal acceleration
+#b based on rate of change of superelevation
+#c higher of (a) and (b)
+#d smaller of (a) and ib)
+
+## 34 | p=26 | hw=a
+The maximum design gradient for vertical profile of a road is
+#a ruling gradient
+#b limiting gradient
+#c exceptional gradient
+#d minimum gradient
+
+## 35 | star | p=26 | hw=d
+The percentage compensation in gradient for ruling gradient of 4% and horizontal curve of radius 760 m is
+#a 0.1 %
+#b 1 %
+#c 10 %
+#d no compensation
+
+## 36 | p=26 | hw=b
+If ruling gradient is I in 20 and there is also a horizontal curve of radius 76 m, then the compensated grade should be
+#a 3 %
+#b 4 %
+#c 5 %
+#d 6 %
+
+## 37 | p=26 | hw=d
+The camber of road should be approximately equal to
+#a longitudinal gradient
+#b two times the longitudinal gradient
+#c three times the longitudinal gradient
+#d half the longitudinal gradient
+
+## 38 | p=26 | hw=b
+Which of the following shapes is preferred in a valley curve ?
+#a simple parabola
+#b cubic parabola
+#c spiral
+#d lemniscate
+
+## 39 | p=26 | hw=d
+The value of ruling gradient in plains as per IRC recommendation is
+#a 1 in 12
+#b 1 m 15
+#c 1 in 20
+#d 1 in 30
+
+## 40 | p=26 | hw=b
+In case of summit curves, the deviation angle will be maximum when
+#a an ascending gradient meets with another ascending gradient
+#b an ascending gradient meets with a descending gradient
+#c a descending gradient meets with another descending gradient
+#d an ascending gradient meets with a level surface
+
+## 41 | p=26 | hw=b
+If the design speed is V kmph and deviation angle is N radians, then the total length of a valley curve in metres is given by the expression
+#a 0.38 N V^(3/2)
+#b 0.38 (NV³)^(1/2)
+#c 3.8 N V^(1/2)
+#d 3.8 (NV³)^(1/2)
+
+## 42 | p=26 | hw=d
+If an ascending gradient of 1 in 50 meets a descending gradient of 1 in 50, the length of summit curve for a stopping sight distance of 80 m will be
+#a zero
+#b 64m
+#c 80m
+#d 60m
+
+## 43 | p=26 | hw=c
+Highway facilities are designed for
+#a annual average hourly volume
+#b annual average daily traffic
+#c thirtieth highest hourly volume
+#d peak hourly volume of the year
+
+## 44 | p=27 | hw=b
+Enoscope is used to find
+#a average speed
+#b spot speed
+#c space-mean speed
+#d time-mean speed
+
+## 45 | p=27 | hw=d
+For highway geometric design purposes the speed used is
+#a 15ᵗʰ percentile
+#b 50ᵗʰ percentile
+#c 85ᵗʰ percentile
+#d 98ᵗʰ percentile
+
+## 46 | p=27 | hw=b
+Select the correct statement.
+#a Traffic volume should always be more than traffic capacity.
+#b Traffic capacity should always be more than traffic volume.
+#c Spot speed is the average speed of a vehicle at a specified section.
+#d 85ᵗʰ percentile speed is more than 98ᵗʰ percentile speed.
+
+## 47 | p=27 | hw=b
+Length of a vehicle affects
+#a width of traffic lanes
+#b extra width of pavement and minimum turning radius
+#c width of shoulders and parking facilities
+#d clearance to be provided under structures such as overbridges, underbridges etc.
+
+## 48 | p=27 | hw=b
+The maximum width of a vehicle as recommended by IRC is
+#a 1.85m
+#b 2.44 m
+#c 3.81 m
+#d 4.72 m
+
+## 49 | p=27 | hw=d
+Desire lines are plotted in
+#a traffic volume studies
+#b speed studies
+#c accident studies
+#d origin and destination studies
+
+## 50 | p=27 | hw=b
+Which of the following methods is preferred for collecting origin and destination data for a small area like a mass business centre or a large intersection ?
+#a road side interview method
+#b license plate method
+#c return postcard method
+#d home interview method
+
+## 51 | p=27 | hw=d | fig=27:0.56,0.13,0.75,0.2
+The traffic manoeuvre shown in Fig. 4.1 represents
+#a diverging
+#b merging
+#c crossing
+#d weaving
+
+## 52 | p=27 | hw=d
+The diagram which shows the approximate path of vehicles and pedestrians involved in accidents is known as
+#a spot maps
+#b pie charts
+#c condition diagram
+#d collision diagram
+
+## 53 | p=27 | hw=a
+With increase in speed of the traffic stream, the minimum spacing of vehicles
+#a increases
+#b decreases
+#c first decreases and then increases after reaching a minimum value at optimum speed
+#d first increases and then decreases after reaching a maximum value at optimum speed
+
+## 54 | p=27 | hw=a
+Traffic volume is equal to
+#a traffic density × traffic speed
+#b traffic density / traffic speed
+#c traffic speed / traffic density
+#d none of the above
+
+## 55 | p=27 | hw=d
+Which of the following is known as design capacity ?
+#a basic capacity
+#b theoretical capacity
+#c possible capacity
+#d practical capacity
+
+## 56 | p=27-28 | hw=c
+If the average centre to centre spacing of vehicles is 20 metres, then the basic capacity of a traffic lane at a speed of 50 kmph is
+#a 2500 vehicles per day
+#b 2000 vehicles per hour
+#c 2500 vehicles per hour
+#d 1000 vehicles per hour
+
+## 57 | p=28 | hw=c
+With increase in speed of the traffic stream, the maximum capacity of the lane
+#a increases
+#b decreases
+#c first increases and then decreases after reaching a maximum value at optimum speed
+#d first decreases and then increases after reaching a minimum value at optimum speed
+
+## 58 | p=28 | hw=a
+Equivalent factor of passenger car unit (PCU) for a passenger car as per IRC is
+#a 1.0
+#b 2.0
+#c 0.5
+#d 10
+
+## 59 | star | p=28 | hw=a
+If the stopping distance and average length of a vehicle are 18 m and 6 m respectively, then the theoretical maximum capacity of a traffic lane at a speed of 10 m/sec is
+#a 1500 vehicles per hour
+#b 2000 vehicles per hour
+#c 2500 vehicles per hour
+#d 3000 vehicles per hour
+
+## 60 | p=28 | hw=b
+Scientific planning of transportation system and mass transit facilities in cities should be based on
+#a spot speed data
+#b origin and destination data
+#c traffic volume data
+#d accident data
+
+## 61 | p=28 | hw=c
+The diagram which shows all important physical conditions of an accident location like roadway limits, bridges, trees and all details of roadway conditions is known as
+#a pie chart
+#b spot maps
+#c condition diagram
+#d collision diagram
+
+## 62 | p=28 | hw=a
+When the speed of traffic flow becomes zero, then
+#a traffic density attains maximum value whereas traffic volume becomes zero
+#b traffic density and traffic volume both attain maximum value
+#c traffic density and traffic volume both become zero
+#d traffic density becomes zero whereas traffic volume attains maximum value
+
+## 63 | p=28 | hw=d
+On a right angled road intersection with two way traffic, the total number of conflict points is
+#a 6
+#b 11
+#c 18
+#d 24
+
+## 64 | p=28 | hw=b
+The background colour of the informatory sign board is
+#a red
+#b yellow
+#c green
+#d white
+
+## 65 | p=28 | hw=a
+Which of the following is indicated by a warning sign ?
+#a level crossing
+#b no parking
+#c end of speed limit
+#d overtaking prohibited
+
+## 66 | p=28 | hw=a
+"Dead Slow" is a
+#a regulatory sign
+#b warning sign
+#c informatory sign
+#d none of the above
+
+## 67 | p=28 | hw=c
+The most efficient traffic signal system is
+#a simultaneous system
+#b alternate system
+#c flexible progressive system
+#d simple progressive system
+
+## 68 | p=28-29 | hw=c
+The provision of traffic signals at intersections
+#a reduces right angled and rear end collisions
+#b increases right angled and rear end collisions
+#c reduces right angled collisions but may increase rear end collisions
+#d reduces rear end collisions but may increase right angled collisions
+
+## 69 | p=29 | hw=b
+Select the incorrect statement.
+#a Stop or red time of a signal is the sum of go and clearance intervals for the cross flow.
+#b Go or green time of a signal is the sum of stop and clearance intervals for the cross flow.
+#c Clearance time is generally 3 to 5 seconds.
+#d The cycle length is normally 40 to 60 seconds for two phase signals.
+
+## 70 | p=29 | hw=b
+Centre line markings are used
+#a to designate traffic lanes
+#b in roadways meant for two way traffic
+#c to indicate that overtaking is not permitted
+#d to designate proper lateral placement of vehicles before turning to different directions
+
+## 71 | p=29 | hw=c
+The particular places where pedestrians are to cross the pavement are properly marked by the pavement marking known as
+#a stop lines
+#b turn markings
+#c crosswalk lines
+#d lane lines
+
+## 72 | p=29 | hw=c | fig=29:0.2,0.56,0.42,0.71 | fix=Options are the four intersection sketches (a)-(d) in Fig. 4.2; see figure.
+Which of the following shows skewed and staggered form of intersection ?
+#a Fig. 4.2 (a)
+#b Fig. 4.2 (b)
+#c Fig. 4.2 (c)
+#d Fig. 4.2 (d)
+
+## 73 | star | p=29 | hw=d
+The entrance and exit curves of a rotary have
+#a equal radii and equal widths of pavement
+#b equal radii but pavement width is more at entrance than at exit curve
+#c equal pavement widths but radius is more at entrance curve than at exit curve
+#d different radii and different widths of pavement
+
+## 74 | p=29 | hw=a
+When two equally important roads cross roughly at right angles, the suitable shape of central island is
+#a circular
+#b elliptical
+#c tangent
+#d turbine
+
+## 75 | p=29 | hw=c
+The maximum number of vehicles beyond which the rotary may not function efficiently is
+#a 500 vehicles per hour
+#b 500 vehicles per day
+#c 5000 vehicles per hour
+#d 5000 vehicles per day
+
+## 76 | p=29 | hw=a
+A traffic rotary is justified where
+#a number of intersecting roads is between 4 and 7
+#b space is limited and costly
+#c when traffic volume is less than 500 vehicles per hour
+#d when traffic volume is more than 5000 vehicles per hour
+
+## 77 | p=29 | hw=b
+When a number of roads are meeting at a point and only one of the roads is important, then the suitable shape of rotary is
+#a circular
+#b tangent
+#c elliptical
+#d turbine
+
+## 78 | p=29-30 | hw=d
+Maximum number of vehicles can be parked with
+#a parallel parking
+#b 30° angle parking
+#c 45° angle parking
+#d 90° angle parking
+
+## 79 | p=30 | hw=a
+When the width of kerb parking space and width of street are limited, generally preferred parking system is
+#a parallel parking
+#b 45° angle parking
+#c 65° angle parking
+#d 90° angle parking
+
+## 80 | p=30 | hw=d
+As per IRC recommendations, the average level of illumination on important roads carrying fast traffic is
+#a 10 lux
+#b 15 lux
+#c 20 lux
+#d 30 lux
+
+## 81 | p=30 | hw=a
+The most economical lighting layout which is suitable for narrow roads is
+#a single side lighting
+#b staggered system
+#c central lighting system
+#d none of the above
+
+## 82 | p=30 | hw=c
+The direct interchange ramp involves
+#a diverging to the right side and merging from left
+#b diverging to the left side and merging from right
+#c diverging to the right side and merging from right
+#d diverging to the left side and merging from left
+
+## 83 | p=30 | hw=d
+In soils having same values of plasticity index, if liquid limit is increased, then
+#a compressibility and permeability decrease and dry strength increases
+#b compressibility, permeability and dry strength decrease
+#c compressibility, permeability and dry strength increase
+#d compressibility and permeability increase and dry strength decreases
+
+## 84 | p=30 | hw=c
+Which of the following tests measures the toughness of road aggregates ?
+#a crushing strength test
+#b abrasion test
+#c impact test
+#d shape test
+
+## 85 | p=30 | hw=a
+Los Angeles testing machine is used to conduct
+#a abrasion test
+#b impact test
+#c attrition test
+#d crushing strength test
+
+## 86 | star | p=30 | hw=b
+If in a Dorry abrasion test the loss in weight is 21 gms, then the coefficient of hardness is
+#a 9.5
+#b 13
+#c 17
+#d 21
+
+## 87 | p=30 | hw=d
+In CBR test the value of CBR is calculated at
+#a 2.5 mm penetration only
+#b 5.0 mm penetration only
+#c 7.5 mm penetration only
+#d both 2.5 mm and 5.0 mm penetrations
+
+## 88 | p=30 | hw=c
+If aggregate impact value is 20 to 30 percent, then it is classified as
+#a exceptionally strong
+#b strong
+#c satisfactory for road surfacing
+#d unsuitable for road surfacing
+
+## 89 | p=30 | hw=c
+The maximum allowable Los Angeles abrasion value for high quality surface course is
+#a 10 %
+#b 20 %
+#c 30 %
+#d 45 %
+
+## 90 | p=30 | hw=b
+Percentage of free carbon in bitumen is
+#a more than that in tar
+#b less than that in tar
+#c equal to that in tar
+#d none of the above
+
+## 91 | p=30 | hw=c
+The ductility value of bitumen for suitability in road construction should not be less than
+#a 30 cm
+#b 40 cm
+#c 50 cm
+#d 60 cm
+
+## 92 | p=31 | hw=b
+The maximum limit of water absorption for aggregate suitable for road construction is
+#a 0.4 %
+#b 0.6 %
+#c 0.8 %
+#d 1.0 %
+
+## 93 | p=31 | hw=a
+Which of the following represents hardest grade of bitumen ?
+#a 30/40
+#b 60/70
+#c 80/100
+#d 100/120
+
+## 94 | p=31 | hw=a
+Penetration test on bitumen is used for determining its
+#a grade
+#b viscosity
+#c ductility
+#d temperature susceptibility
+
+## 95 | tag=ES 2k | p=31 | hw=c
+Bitumen of grade 80/100 means
+#a its penetration value is 8 mm
+#b its penetration value is 10 mm
+#c its penetration value is 8 to 10 mm
+#d its penetration value is 8 to 10 cm
+
+## 96 | p=31 | hw=a
+RC-2, MC-2 and SC-2 correspond to
+#a same viscosity
+#b viscosity in increasing order from RC-2 to SC-2
+#c viscosity in decreasing order from RC-2 to SC-2
+#d none of the above
+
+## 97 | p=31 | hw=d
+The recommended grade of tar for grouting purpose is
+#a RT-1
+#b RT-2
+#c RT.3
+#d RT-5
+
+## 98 | p=31 | hw=b
+Softening point of bitumen to be used for road construction at a place where maximum temperature is 40⁰ C should be
+#a less-than 40°C
+#b greater than 40°C
+#c equal to 40°C
+#d none of the above
+
+## 99 | p=31 | hw=a
+For rapid curing cutbacks, the oil used is
+#a gasoline
+#b kerosene oil
+#c light diesel
+#d heavy diesel
+
+## 100 | p=31 | hw=b
+The method of design of flexible pavement as recommended by IRC is
+#a group index method
+#b CBR method
+#c Westergaard method
+#d Benkelman beam method
+
+## 101 | p=31 | hw=a
+The group index for a soil, whose liquid limit is 40 percent, plasticity index is 10 percent and percentage passing 75 micron IS sieve is 35, is
+#a 0
+#b 3
+#c 5
+#d 7
+
+## 102 | p=31 | hw=d
+Bottom most layer of pavement is known as
+#a wearing course
+#b base course
+#c sub–base course
+#d subgrade
+
+## 103 | p=31 | hw=c
+Flexible pavement distribute the wheel load
+#a directly to subgrade
+#b through structural action
+#c through a set of layers to the subgrade
+#d none of the above
+
+## 104 | p=31 | hw=d
+The number of repetitions, which the pavement thickness designed for a given wheel load should be able to support during the life of pavement is
+#a 1000
+#b 10000
+#c 100000
+#d 1000000
+
+## 105 | p=31-32 | hw=b
+Group index method of design of flexible pavement is
+#a a theoretical method
+#b an empirical method based on physical properties of subgrade soil
+#c an empirical method based on strength characteristics of subgrade soil
+#d a semi empirical method
+
+## 106 | p=32 | hw=c
+Select the correct statement.
+#a More the value of group index, less thickness of pavement will be required.
+#b More the value of CBR, greater thickness of pavement will be required.
+#c Minimum and maximum values of group index can be 0 and 20 respectively.
+#d all of the above
+
+## 107 | p=32 | hw=c
+If the group index value of subgrade is between 5 and 9, then the subgrade is treated as
+#a good
+#b fair
+#c poor
+#d very poor
+
+## 108 | p=32 | hw=b
+Tyre pressure influences the
+#a total depth of pavement
+#b quality of surface course
+#c both the above
+#d none of the above
+
+## 109 | p=32 | hw=b
+Rigidity factor for a tyre pressure greater than 7 kg/cm² is
+#a equal to 1
+#b less than 1
+#c greater than 1
+#d zero
+
+## 110 | p=32 | hw=b
+In a dual wheel assembly if P is equal to each wheel load, S is centre to centre distance of dual wheels and d is the distance between walls of wheels, then
+#a each wheel load acts independently upto a depth d
+#b total stress due to the dual wheels at any depth greater than 2 S is equivalent to a single wheel load of magnitude 2 P
+#c total stress due to the dual wheels at any depth greater than S is equivalent to a single wheel load of magnitude 2P
+#d total stress due to the dual wheels at any depth greater than 2d is equivalent to a single wheel load of magnitude 2P
+
+## 111 | p=32 | hw=c
+Main drawback of CBR method is that it
+#a does not consider the strength characteristics of subgrade soil
+#b is a complex method
+#c gives the total thickness which remains the same irrespective of the quality of materials used in the component layers
+#d does not give the thickness of individual layers
+
+## 112 | p=32 | hw=d
+Radius of relative stiffness in cm is given by
+#a [Eh³/(12(1 – μ)K)]^(1/4)
+#b [Eh³/(12(1 – μ²))]^(1/4)
+#c [Eh³/(12(1 – μ²)K)]^(1/3)
+#d [Eh³/(12(1 – μ²)K)]^(1/4)
+#note where, E = modulus of elasticity of cement concrete, kg/cm²
+μ = Poisson's ratio for concrete
+h = slab thickness, cm
+k = subgrade modulus, kg/cm³
+
+## 113 | p=32 | hw=d
+Critical load position in a rigid pavement design is taken as
+#a interior loading
+#b edge loading
+#c corner loading
+#d interior, edge and corner loading
+
+## 114 | star | p=32-33 | hw=c
+If the radius of wheel load distribution is 30 cm and slab thickness is 15 cm, then the equivalent radius of resisting section is
+#a (√(1.6×(30)² + 15²) – 0.675×15) cm
+#b (√(1.6×(30)² + 15²) + 0.675×15) cm
+#c 30 cm
+#d none of the above
+
+## 115 | p=33 | hw=c
+The critical combination of stresses for corner region in cement concrete roads is
+#a load stress + warping stress – frictional stress
+#b load stress + warping stress + frictional stress
+#c load stress + warping stress
+#d load stress + frictional stress
+
+## 116 | tag=ES 99 | p=33 | hw=d
+Tie bars in cement concrete pavements are at
+#a expansion joints
+#b contraction joints
+#c warping joints
+#d longitudinal joints
+
+## 117 | p=33 | hw=c
+The maximum spacing of contraction joints in rigid pavements is
+#a 2.5 m
+#b 3.5 m
+#c 4.5 m
+#d 5.5m
+
+## 118 | p=33 | hw=b
+The maximum thickness of expansion joint in rigid pavements is
+#a 0
+#b 25 mm
+#c 50 mm
+#d 100 mm
+
+## 119 | p=33 | hw=d
+The function of an expansion joint in rigid pavements is to
+#a relieve warping stresses
+#b relieve shrinkage stresses
+#c resist stresses due to expansion
+#d allow free expansion
+
+## 120 | p=33 | hw=b
+A traffic survey revealed the present average daily traffic of commercial vehicles as 1000. The annual rate of growth of traffic is found to be 8 percent. The pavement construction is to be completed in three years after the last traffic count. Then the number of vehicles for design of rigid pavements will be taken as
+#a 1000 (1.08)¹³
+#b 1000 (1.08)²³
+#c 1000 (0.92)¹³
+#d 1000 (1.08)³
+
+## 121 | p=33 | hw=b
+The fundamental factor in the selection of pavement type is
+#a climatic condition
+#b type and intensity of traffic
+#c subgrade soil and drainage conditions
+#d availability of funds for the construction project
+
+## 122 | p=33 | hw=a
+Most suitable material for highway embankments is
+#a granular soil
+#b organic soil
+#c silts
+#d clays
+
+## 123 | p=33 | hw=c
+Maximum daily traffic capacity of bituminous pavements is
+#a 500 tonnes per day
+#b 1000 tonnes per day
+#c 1500 tonnes per day
+#d 2000 tonnes per day
+
+## 124 | p=33 | hw=c
+The most suitable equipment for compacting clayey soils is a
+#a smooth wheeled roller
+#b pneumatic tyred roller
+#c sheep foot roller
+#d vibrator
+
+## 125 | star | p=33 | hw=c
+The aggregates required for one kilometre length of water bound macadam road per metre width and for 10 mm thickness is
+#a 8 cubic metre
+#b 10 cubic metre
+#c 12 cubic metre
+#d 15 cubic metre
+
+## 126 | p=33 | hw=a
+The camber of shoulders in water bound macadam roads is
+#a equal to the cross slope of pavement
+#b less than the cross slope of pavement
+#c greater than the cross slope of pavement
+#d zero
+
+## 127 | p=33-34 | hw=c
+The binder normally used in flexible pavement construction is
+#a cement
+#b lime
+#c bitumen
+#d none of the above
+
+## 128 | p=34 | hw=a
+In highway construction, rolling starts from
+#a sides and proceed to centre
+#b centre and proceed to sides
+#c one side and proceed to other side
+#d any of the above
+
+## 129 | p=34 | hw=c
+For the construction of water bound macadam roads, the correct sequence of operations after spreading coarse aggregates is
+#a dry rolling, wet rolling, application of screening and application of filler
+#b dry rolling, application of filler, wet rolling and application of screening
+#c dry rolling, application of screening, wet rolling and application of filler
+#d dry rolling, application of screening, application of filler and wet rolling
+
+## 130 | p=34 | hw=a
+In the penetration macadam construction, the bitumen is
+#a sprayed after the aggregates are spread and compacted
+#b premixed with aggregates and then spread
+#c sprayed before the aggregates are spread and compacted
+#d none of the above
+
+## 131 | p=34 | hw=b
+When the bituminous surfacing is done on already existing black top road or over existing cement concrete road, the type of treatment to be given is
+#a seal coat
+#b tack coat
+#c prime coat
+#d spray of emulsion
+
+## 132 | p=34 | hw=d
+Which of the following premix methods is used for base course ?
+#a bituminous carpet
+#b mastic asphalt
+#c sheet asphalt
+#d bituminous bound macadam
+
+## 133 | p=34 | hw=d
+Select the correct statement.
+#a Quantity of binder required for tack coat is less than that required for prime coat.
+#b Prime coat treatment is given for plugging the voids in water bound macadam during bituminous road construction.
+#c Seal coat is the final coat over certain pervious bituminous pavements.
+#d A bitumen primer is a high viscosity cutback.
+
+## 134 | p=34 | hw=c
+The suitable surfacing material for a bridge deck slab is
+#a sheet asphalt
+#b bituminous carpet
+#c mastic asphalt
+#d rolled asphalt
+
+## 135 | p=34 | hw=d
+Which of the following is considered to be the highest quality construction in the group of black top pavements ?
+#a mastic asphalt
+#b sheet asphalt
+#c bituminous carpet
+#d bituminous concrete
+
+## 136 | p=34 | hw=a
+The thickness of bituminous carpet varies from
+#a 20 to 25 mm
+#b 50 to 75 mm
+#c 75 to 100 mm
+#d 100 to 120 mm
+
+## 137 | p=34 | hw=b
+Which of the following represents a carpet of sand-bitumen mix without coarse aggregates ?
+#a mastic asphalt
+#b sheet asphalt
+#c bituminous carpet
+#d bituminous concrete
+
+## 138 | p=34 | hw=c
+In highway construction on superelevated curves, the rolling shall proceed from
+#a sides towards the centre
+#b centre towards the sides
+#c lower edge towards the upper edge
+#d upper edge towards the lower edge
+
+## 139 | p=35 | hw=c
+Expansion joints in cement concrete pavements are provided at an interval of
+#a 10m
+#b 15m
+#c 18m to 21 m
+#d 25 m to 30 m
+
+## 140 | p=35 | hw=c
+Select the incorrect statement.
+#a Contraction Joints are spaced closer than expansion joints.
+#b Longitudinal joints are provided in cement concrete roads to prevent longitudinal cracking.
+#c Dowel bars are provided in longitudinal joints.
+#d Warping joints are provided to relieve stresses induced due to warping.
+
+## 141 | p=35 | hw=c
+A hill road is one which passes through a terrain with a cross slope of
+#a 0 to 10%
+#b 10 to 25%
+#c 25 to 60%
+#d none of the above
+
+## 142 | p=35 | hw=b | fig=35:0.15,0.42,0.42,0.53 | check=Figure label 'L₁ = L₀ + l₁' in Fig. 4.3 is handwritten (pen) on the print; printed label may differ.
+Fig. 4.3 shows a longitudinal section AB of a hill road. The resisting length L_r is given by
+#a L_r = L₀ + h/f
+#b L_r = L₁ + h/f
+#c L_r = L₀ – h/f
+#d L_r = L₀ + L₁ – h/f
+#note where f is the coefficient of frictional resistance
+
+## 143 | p=35 | hw=b
+In hill roads if several alternate alignments are surveyed which fulfill the geometric standards, then the preferred alignment is the one which has resisting length as
+#a maximum
+#b minimum
+#c very near to average resisting length of all the alignments
+#d zero
+
+## 144 | p=35 | hw=b
+The camber for hill roads in case of bituminous surfacing is adopted as
+#a 2%
+#b 2.5%
+#c 3%
+#d 4%
+
+## 145 | p=35 | hw=c
+The superelevation to be provided in horizontal curves of radius R in hill roads is given by
+#a V²/(127R)
+#b V²/(17.5R)
+#c V²/(225R)
+#d (V + 8)²/(127R)
+#note where V is the speed in kmph
+
+## 146 | p=35 | hw=a
+The minimum design speed for hairpin bends in hill roads is taken as
+#a 20 kmph
+#b 30 kmph
+#c 40 kmph
+#d 50 kmph
+
+## 147 | p=35 | hw=b
+The drain which is provided parallel to roadway to intercept and divert the water from hill slopes is known as
+#a sloping drain
+#b catchwater drain
+#c side drain
+#d cross drain
+
+## 148 | p=35 | hw=b
+The walls which are necessary on the hill side of roadway where earth has to be retained from slipping is known as
+#a retaining wall
+#b breast wall
+#c parapet wall
+#d none of the above
+
+## 149 | p=35 | hw=a
+In hill roads the side drains arc provided
+#a only on the hill side of road
+#b only on the opposite side of hill
+#c on both sides of road
+#d none of the above
+
+## 150 | p=36 | hw=d
+Select the incorrect statement.
+#a Emulsion is used for stabilizing desert sand.
+#b Soil lime stabilization is very effective for stabilizing black cotton soils.
+#c Soil lime stabilization is quite effective in warm regions.
+#d Soil cement stabilization is quite durable for surface course.
+
+## 151 | p=36 | hw=d
+For sandy soils the most common method of stabilization is
+#a soil cement stabilization
+#b mechanical stabilization
+#c soil lime stabilization
+#d soil bitumen stabilization
+
+## 152 | tag=ES 93 | p=36 | hw=c
+In which one of the following types of bituminous constructions is proportioning of materials determined from laboratory tests?
+#a Grouted macadam
+#b Premix carpet
+#c Bituminous or asphalt concrete
+#d Bituminous macadam
+
+## 153 | tag=ES 93 | p=36 | hw=d | fig=36:0.24,0.43,0.48,0.55
+A road camber is given in Fig.4.4.
+For designing this camber, the equation to be used is
+#a y = x²/60
+#b y = x²/120
+#c y = x²/210
+#d y = x²/225
+
+## 154 | tag=ES 93 | p=36 | hw=a
+Which one of the following is associated with "Limiting Gradient" on highways?
+#a Requirement of maximum tractive effort for a short distance
+#b Requirement of minimum tractive effort on the whole gradient
+#c Efficient drainage conditions
+#d Alignment design in general
+
+## 155 | star | tag=ES 93 | p=36 | hw=c
+While aligning a hill road with a ruling gradient of 1 in 20, a horizontal curve of radius 80 m is encountered. The compensated gradient on the curve will be
+#a 1 in 15
+#b 1 in 17
+#c 1 in 25
+#d 1 in 27
+
+## 156 | tag=ES 93 | p=36 | hw=a
+While designing the superelevation of a highway, its maximum value is fixed considering the need to
+#a avoid toppling of slow moving vehicles in mixed traffic flow
+#b avoid transverse skidding
+#c provide drainage
+#d counteract centrifugal force due to 75% of design speed.
+
+## 157 | tag=ES 93 | p=36 | hw=c
+In the Group Index method of flexible pavement design, which one of the following factors decides the thickness of base and surface course?
+#a percentage of sub-grade soil passing 75 micron sieve
+#b type of surface and base course materials
+#c daily volume of commercial vehicles
+#d percentage of liquid limit of subgrade soil
+
+## 158 | tag=ES 93 | p=36 | hw=d
+In a bituminous pavement, alligator cracking is mainly due to
+#a inadequate wearing course
+#b inadequate thickness of sub-base course of pavement
+#c use of excessive bituminous material
+#d fatigue arising from repeated stress applications
+
+## 159 | tag=ES 93 | p=36-37 | hw=c
+The main function of prime coat is to
+#a provide bond between old and new surfacing
+#b improve riding quality of pavement
+#c provide bond between the existing base and surfacing of new construction
+#d control dust nuisance
+
+## 160 | tag=ES 93 | p=37 | hw=a
+The design of horizontal transition curve length for highways should take into account
+#a three factors namely, allowable values of rate of change of centrifugal acceleration and superelevation and the minimum length formula given by the IRC
+#b two factors, namely, comfort and rate of change of superelevation
+#c two factors, namely, rate of change of superelevtion and minimum length formula given by the IRC
+#d only one factor, namely, the rate of change of centrifugal acceleration
+
+## 161 | tag=ES 94 | p=37 | hw=a
+The radius of a horizontal curve is 100 metres. The design speed is 50 kmph and the design coefficient of lateral friction is 0.15. What would be the rate of superelevation if full lateral friction is considered?
+#a 1 in 21.2
+#b 1 in 15.8
+#c 1 in 25.0
+#d 1 in 32.6
+
+## 162 | tag=ES 94 | p=37 | hw=b
+Match List I with List II and select the correct answer using the codes given below the Lists:
+List I — List II
+A. Penetration test — 1. Design of bituminous concrete mix
+B. Marshal test — 2. Overlay design
+C. Ring and ball test — 3. Gradation of asphalt cement
+D. Benkelman beam test — 4. Determination of softening point
+Codes :
+#a A-3, B-2, C-4, D-1
+#b A-3, B-1, C-4, D-2
+#c A-2, B-3, C-1, D-4
+#d A-4, B-2, C-3, D-1
+
+## 163 | tag=ES 94 | p=37 | hw=b
+In the design of highways, expansion and contraction joints should respectively be provided at
+#a 50 m and 32 m
+#b 50 m and 10 m
+#c 25 m and 10 m
+#d 25 m and 32 m
+
+## 164 | tag=ES 94 | p=37 | hw=c
+Reflection cracking is observed in
+#a flexible pavement
+#b rigid pavement
+#c bituminous overlay over cement concrete surface
+#d rigid overlay over flexible pavement
+
+## 165 | tag=ES 94 | p=37 | hw=b
+Psychological widening on road curves is given by (symbols have the usual meaning)
+#a nL²/(2R)
+#b 0.1V/√R
+#c 0.1nV/√R
+#d 0.1V/√R + nL²/(2R)
+
+## 166 | tag=ES 95 | p=37 | hw=d
+Which one of the following items of hill road construction does not help in the prevention of landslides in the monsoon season?
+#a retaining walls
+#b catch water drains
+#c breast walls
+#d hair-pin bends
+
+## 167 | tag=ES 95 | p=38 | hw=a
+In the Los Angeles Abrasion Test on aggregate, if the speed of the drum is increased to 50 rpm, then the abrasion value will
+#a increase
+#b decrease
+#c remain unchanged
+#d be unpredictable
+
+## 168 | tag=ES 95 | p=38 | hw=c
+The maximum super elevation to be provided on a road curve is 1 in 15. If the rate of change of super elevation is specified as 1 in 120 and the road width is 10 m, then the minimum length of the transition curve on either end will be
+#a 180 m
+#b 125 m
+#c 80 m
+#d 30 m
+
+## 169 | star | tag=ES 95 | p=38 | hw=b
+A summit curve is formed at the intersection of a 3% up gradient and 5% down gradient. To provide a stopping distance of 128 m, the length of summit curve needed will be
+#a 271 m
+#b 298 m
+#c 322 m
+#d 340 m
+
+## 170 | tag=ES 95 | p=38 | hw=c
+Which one of the following causes ravelling in bituminous pavement?
+#a use of soft bitumen
+#b excessive bitumen content
+#c low bitumen content
+#d use of open graded aggregates
+
+## 171 | tag=ES 95 | p=38 | hw=c
+In desire-line diagram
+#a width of desire-line is proportional to the number of trips in one direction
+#b length of the desire-line is proportional to the number of trips in both directions
+#c width of desire-line is proportional to the number of trips in both directions
+#d both length and width of desire-line are proportional to the number of trips in both directions.
+
+## 172 | tag=ES 95 | p=38 | hw=b | fig=38:0.65,0.06,0.85,0.22 | check=Handwritten mark has an extra stroke before it; read as 'b' with low confidence.
+A typical Marshall test graph is shown in Fig.4.5. The variable on the y-axis is
+#a stability value
+#b flow value
+#c percentage of voids
+#d unit weight
+
+## 173 | tag=ES 95 | p=38 | hw=c
+Given that
+r = radius of load distribution
+E = modulus of elasticity of concrete
+K = modulus of subgrade reaction
+μ = Poisson's ratio of concrete
+h = thickness of slab
+P = wheel load
+The combination of parameters required for obtaining the radius of relative stiffness of cement concrete slab is
+#a E, K, μ, r
+#b h, K, μ , r
+#c E, h, K, μ
+#d P, h, K, μ
+
+## 174 | tag=ES 95 | p=38 | hw=a
+Consider the following situations:
+1. Traffic volume entering from all roads is less than 3000 vehicles per hour.
+2. Pedestrian volume is high.
+3. Total right turning traffic is high.
+4. A road in a hilly region.
+A rotary will be more suitable than control by signals, in situations listed against
+#a 1 and 3
+#b 1 and 4
+#c 2 and 4
+#d 2 and 3
+
+## 175 | tag=ES 96 | p=38-39 | hw=c
+Match List I with List II and select the correct answer using the codes given below the lists:
+List I — List II
+A. Disintegration of aggregates due to weathering — 1. Attrition
+B. The removal of material from the surface of the road by grinding action — 2. Crazing
+C. Mutual rubbing or grinding within the mass under the action of traffic — 3. Soundness
+D. Breaking up of road surface layer through cracking into irregular shaped areas. — 4. Abrasion
+5. Disintegration
+Codes:
+#a A-3, B-1, C-5, D-2
+#b A-2, B-5, C-1, D-4
+#c A-3, B-4, C-1, D-2
+#d A-1, B-4, C-3, D-5
+
+## 176 | tag=ES 96 | p=39 | hw=a
+Ratio of the width of the car parking area required at kerb for 30⁰ parking relative to 60⁰ parking is approximately
+#a 0.5
+#b 0.7
+#c 0.8
+#d 2.0
+
+## 177 | tag=ES 96 | p=39 | hw=c
+Consider the following statements with reference to pavements:
+1. Flexible pavements are more suitable than rigid pavements in regions where subgrade strength is uneven.
+2. Load carrying capacity of rigid pavements depends more on the properties of concrete than the strength of subgrade.
+3. Compared to flexible pavements, rigid pavements are more affected by temperature variations
+Of these statements
+#a 1 and 2 are correct
+#b 1 and 3 are correct
+#c 2 and 3 are correct
+#d 3 alone is correct
+
+## 178 | tag=ES 96 | p=39 | hw=a
+For the relationship u=55-0.44 k, where u is the speed in kmph and k is the density in vpkm, what will be the maximum flow in vph?
+#a 1718
+#b 1250
+#c 625
+#d 125
+
+## 179 | tag=ES 96 | p=39 | hw=b
+Consider the following statements :
+Collision diagram is used to
+1. study accident pattern.
+2. eliminate accidents.
+3. determine remedial measures.
+4. make statistical analysis of accidents.
+Of these statements
+#a 1 and 2 are correct
+#b 1 and 3 are correct
+#c 3 and 4 are correct
+#d 2 and 4 are correct
+
+## 180 | tag=ES 96 | p=39 | hw=c
+In which one of the following grades of a highway is an emergency escape ramp provided?
+#a in 200
+#b zero grade
+#c down grade
+#d up grade
+
+## 181 | tag=ES 96 | p=39 | hw=a
+The Plasticity Index of the fraction passing 425 micron I.S. sieve in case of sub base/ base course would be
+#a less than 6
+#b greater than 6
+#c greater than 9
+#d between 15 and 30
+
+## 182 | star | tag=ES 96 | p=39-40 | hw=c
+Assuming the safe stopping sight distance to be 80 m on a flat highway section and with a setback distance of 10 m, what would be the radius of the negotiable horizontal curve?
+#a 800 m
+#b 160 m
+#c 80 m
+#d 70 m
+
+## 183 | tag=ES 97 | p=40 | hw=d
+If the CBR value obtained at 5 mm penetration is higher than that at 2.5 mm, then the test is repeated for checking; and if the check test reveals a similar trend, then the CBR value is to be reported as the
+#a mean of the values for 5 mm and 2.5 mm penetrations
+#b higher value minus the lower value
+#c lower value corresponding to 2.5 mm penetration
+#d higher value obtained at 5 mm penetration
+
+## 184 | tag=ES 97 | p=40 | hw=b
+A vehicle was stopped in two seconds by fully jamming the brakes. The skid marks measured 9.8 metres. The average skid resistance coefficient will be
+#a 0.7
+#b 0.5
+#c 0.4
+#d 0.25
+
+## 185 | tag=ES 98 | p=40 | hw=b
+Which one of the following is the chronological sequence in regard to road construction/ design development ?
+#a Telford, Tresaguet, C.B.R., Macadam
+#b Tresaguet, Telford, Macadam, C.B.R.
+#c Macadam, C.B.R., Tresaguet, Telford
+#d Tresaguet, Macadam, Telford, C.B.R.
+
+## 186 | tag=ES 98 | p=40 | hw=b
+The general requirement in constructing a reinforced concrete road is to place a single layer of reinforcement
+#a near the bottom of the slab
+#b near the top of the slab
+#c at the middle
+#d equally distributed at the top and bottom
+
+## 187 | tag=ES 98 | p=40 | hw=a
+It is a common practice to design a highway to accommodate the traffic volume corresponding to
+#a 30ᵗʰ hour
+#b peak hour
+#c A D T
+#d 15-min peak period
+
+## 188 | star | tag=ES 98 | p=40 | hw=c
+The amount of mechanical energy imposed on the aggregate during the aggregate impact test is of the order of
+#a 5320 kg-cm
+#b 6750 kg-cm
+#c 7980 kg-cm
+#d 11400 kg-cm
+
+## 189 | tag=ES 98 | p=40 | hw=d
+Which one of the following binders is recommended for a wet and cold climate ?
+#a 80/100 penetration asphalt
+#b tar
+#c cutback
+#d emulsion
+
+## 190 | tag=ES 98 | p=40 | hw=c
+With reference to the Marshall mix design criteria for highways, which one of the following pairs is not correctly matched ?
+#a Stability value … 340 min.
+#b Flow value … 8 - 16
+#c V F B … 50 - 75
+#d % Air voids … 3 – 5
+
+## 191 | star | tag=ES 98 | p=40 | hw=d
+It was noted that on a section of road, the free speed was 80 kmph and the jam density was 70 vpkm. The maximum flow in vph that could be expected on this road is
+#a 800
+#b 1400
+#c 2800
+#d 5600
+
+## 192 | tag=ES 98 | p=40-41 | hw=a
+Which of the criteria given below are used for the design of valley vertical curves on road ?
+1. rider comfort.
+2. headlight sight distance.
+3. drainage.
+Select the correct answer using the codes given below :
+#a 1,2 and 3
+#b 1 and 3
+#c 2 and 3
+#d 1 and 2
+
+## 193 | tag=ES 98 | p=41 | hw=d
+Match List I (Pavement deficiency) with List II (Explanation) and select the correct answer using the codes given below the lists:
+List I — List II
+A. Bird baths — 1. A steep-sided, bowlshaped cavity caused by loss of surfacing as well as base course erosion.
+B. Pot holes — 2. Deformations which may be caused by localized or variable subgrade failure
+C. Ravelling — 3. Irregular deformations which may be the result of differential settlement.
+D. Subsidence — 4. Removal of larger surface aggregates leaving craters.
+5. Abrupt lowering of the road surface due to poor drainage.
+Codes:
+#a A-1, B-4, C-5, D-3
+#b A-2, B-1, C-3, D-5
+#c A-5, B-2, C-4, D-3
+#d A-2, B-1, C-4, D-5
+
+## 194 | tag=ES 98 | p=41 | hw=d
+For carrying out bituminous patch work during the rainy season, the most suitable binder is
+#a road tar
+#b hot bitumen
+#c cutback bitumen
+#d bituminous emulsion
+
+## 195 | tag=ES 99 | p=41 | hw=d
+The corrected characteristic rebound deflection on a pavement, using Benkelman beam study is 2 mm. The equivalent granular overlay thickness required for an allowable deflection of 1 mm as per original IRC guidelines is
+#a 33 mm
+#b 66 mm
+#c 133 mm
+#d 166 mm
+
+## 196 | star | tag=ES 99 | p=41 | hw=c
+For a circular curve of radius 200 m, the coefficient of lateral friction is 0.15 and the design speed is 40 kmph. The equilibrium superelevation (for equal pressure on inner and outer wheels) would be
+#a 21.3
+#b 7
+#c 6.3
+#d 4.6
+
+## 197 | star | tag=ES 99 | p=41 | hw=b
+If a descending gradient of 1 in 25 meets an ascending gradient of 1 in 40, then the length of valley curve required for a head light sight distance of 100 m will be
+#a 30 m
+#b 130 m
+#c 310 m
+#d 630 m
+
+## 198 | star | tag=ES 99 | p=41 | hw=b
+An ascending gradient of 1 in 100 meets a descending gradient of 1 in 50. The length of summit curve required to provide overtaking sight distance of 500 m will be
+#a 938 m
+#b 781 m
+#c 470 m
+#d 170 m
+
+## 199 | tag=ES 99 | p=41-42 | hw=d
+Which one of the following pairs is not correctly matched?
+#a Horizontal curves …. Superelevation
+#b Origin and destination studies …. Desire lines
+#c Los Angeles test …. Hardness of aggregates
+#d Soundness test …. Purity of bitumen
+
+## 200 | tag=ES 99 | p=42 | hw=a
+Which one of the following expressions gives intermediate sight distance as per I.R.C. standards? (SSD: stopping sight distance; OSD : overtaking sight distance)
+#a 2 SSD
+#b (SSD + OSD )/2
+#c (OSD – SSD)/2
+#d 2 OSD
+
+## 201 | tag=ES 99 | p=42 | hw=d
+Consider the following :
+1. L.L. of soil
+2. P.L. of soil
+3. S.L. of soil
+4. Annual average rainfall
+5. Temperature of the soil
+As per the latest IRC guidelines, the set of essential data required to determine moisture correction factor of clayey subgrade soil in Benkelman beam study would include
+#a 1, 2 and 4
+#b 1, 2, 3 and 4
+#c 2, 3 and 5
+#d 4 and 5
+
+## 202 | tag=ES 99 | p=42 | hw=b
+As per latest IRC guidelines for designing flexible pavement by CBR method, the load parameter required is
+#a number of commercial vehicles per day
+#b cumulative standard axles in msa
+#c equivalent single axle load
+#d number of vehicles (all types) during design life.
+
+## 203 | tag=ES 99 | p=42 | hw=c
+If the load, warping and frictional stresses in a cement concrete slab are 210 N/mm², 290 N/mm² and 10 N/mm² respectively, the critical combination of stresses during summer midday is
+#a 290 N/mm²
+#b 390 N/mm²
+#c 490 N/mm²
+#d 590 N/mm²
+
+## 204 | tag=ES 99 | p=42 | hw=c
+Brake is applied on a vehicle which then skids a distance of 16 m before coming to stop. If the developed average coefficient of friction between the tyres and the pavement is 0.4, then the speed of the vehicle before skidding would have been nearly
+#a 20 kmph
+#b 30 kmph
+#c 40 kmph
+#d 50 kmph
+
+## 205 | star | tag=ES 99 | p=42 | hw=a
+When two roads with two-lane, two-way traffic, cross at an uncontrolled intersection, the total number of potential major conflict points would be
+#a 32
+#b 24
+#c 16
+#d 4
+
+## 206 | star | tag=GATE 99 | p=42 | hw=d
+Rapid curing cutback bitumen is produced by blending bitumen with
+#a kerosene
+#b benzene
+#c diesel
+#d petrol
+
+## 207 | star | tag=GATE 99 | p=42 | hw=a
+A two lane single carriage-way is to be designed for a design life period of 15 years. Total two way traffic intensity in the year of completion of construction is expected to be 2000 commercial vehicles per day. Vehicle damage factor = 3.0. Lane distribution factor = 0.75. Assuming an annual rate of traffic growth as 7.5%, the design traffic, expressed as cumulative number of standard axles, is
+#a 42.9x10⁶
+#b 22.6x10⁶
+#c 10.1x10⁶
+#d 5.3x10⁶
