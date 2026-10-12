@@ -3543,3 +3543,853 @@ Reason R : Quicksand condition does not occur in clayey soils as their cohesion 
 #b Both A and R are true but R is not a correct explanation of A
 #c A is true but R is false
 #d A is false but R is true
+
+@chapter 9 Building Materials and Construction
+
+## 1 | p=55 | hw=c
+Gypsum is a
+#a mechanically formed sedimentary rock
+#b igneous rock
+#c chemically precipitated sedimentary rock
+#d metamorphic rock
+
+## 2 | p=55 | hw=a
+Which of the following sedimentary rocks changes into quartzite by metamorphic action ?
+#a sand stone
+#b lime stone
+#c shale
+#d gypsum
+
+## 3 | p=55 | hw=b
+Which of the following represents a metamorphic rock?
+i) slate
+ii) shale
+iii) quartzite
+The correct answer is
+#a only (iii)
+#b both (i) and (iii)
+#c both (ii) and (iii)
+#d all (i), (ii) and (iii)
+
+## 4 | p=55 | hw=a
+Quartitze is a
+#a silicious rock
+#b argillaceous rock
+#c calcareous rock
+#d aqueous rock
+
+## 5 | p=55 | hw=c
+Which of the following is a mineral ?
+#a basalt
+#b granite
+#c quartz
+#d syenite
+
+## 6 | p=55 | hw=a
+Slate is formed by metamorphic action on
+#a shale
+#b lime stone
+#c sand stone
+#d granite
+
+## 7 | p=55 | hw=d
+Sandstone is a
+i) sedimentary rock
+ii) aqueous rock
+iii) silicious rock
+The correct answer is
+#a only (i)
+#b both (i) and (ii)
+#c both (i) and (iii)
+#d all (i), (ii) and (iii)
+
+## 8 | p=55 | hw=c
+Which of the following is a rock ?
+#a quartz
+#b mica
+#c gypsum
+#d none of the above
+
+## 9 | star | p=55-56 | hw=d
+Based on the following rocks and minerals, select the correct statement.
+quartz, shale, basalt, granite, marble, gypsum, mica
+#a basalt and marble are the only metamorphic rocks
+#b there is no sedimentary rock
+#c granite is the only igneous rock
+#d quartz and mica are minerals
+
+## 10 | p=56 | hw=d
+A heavy stone is suitable for
+#a arches
+#b rubble masonry
+#c roads
+#d retaining walls
+
+## 11 | p=56 | hw=a
+The stone suitable for rubble masonry should be
+#a hard
+#b tough
+#c heavy
+#d light
+
+## 12 | p=56 | hw=b
+Which of the following metamorphic rocks has the most weather resisting characteristics?
+#a marble
+#b quartzite
+#c slate
+#d lime stone
+
+## 13 | p=56 | hw=a
+A good building stone should not absorb water more than
+#a 5%
+#b 10%
+#c 15%
+#d 20%
+
+## 14 | p=56 | hw=c
+Which of the following has more fire resisting characteristics ?
+#a marble
+#b lime stone
+#c compact sand stone
+#d granite
+
+## 15 | p=56 | hw=b
+Jumper is a tool used for
+#a testing of stones
+#b quarrying of stones
+#c dressing of stones
+#d none of the above
+
+## 16 | p=56 | hw=c
+The important test to be conducted on a stone used in docks and harbours is
+#a hardness test
+#b workability test
+#c weight test
+#d toughness test
+
+## 17 | p=56 | hw=a
+The predominant constituent which is responsible for strength in granite is
+#a quartz
+#b felspar
+#c mica
+#d none of the above
+
+## 18 | p=56 | hw=c
+Granite is not suitable for ordinary building purpose because
+#a it can not be polished
+#b it is not a fire proof material
+#c it is costly
+#d it has less crushing strength
+
+## 19 | p=56 | hw=a
+Which of the following stone is best suited for construction of piers and abutments of a railway bridge ?
+#a granite
+#b sand stone
+#c lime stone
+#d quartzite
+
+## 20 | p=56 | hw=d
+The preparation of surface of stone to obtain plain edges or to obtain stones of required size and shape is known as
+#a quarrying of stones
+#b blasting of stones
+#c seasoning of stones
+#d dressing of stones
+
+## 21 | tag=ES 98 | p=56 | hw=b
+Crushing strength of a good building stone should be more than
+#a 50 MPa
+#b 100 MPa
+#c 150 MPa
+#d 200 MPa
+
+## 22 | p=56 | hw=c
+Specific gravity for most of the building stones lies between
+#a 1.5 to 2.0
+#b 2.0 to 2.5
+#c 2.5 to 3.0
+#d 3.0 to 3.5
+
+## 23 | p=56 | hw=b
+Spalling hammer is used for
+#a driving wooden headed chisels
+#b rough dressing of stones
+#c carving of stones
+#d breaking small projection of stones
+
+## 24 | p=56 | hw=b
+Cross cut saw is used for
+#a cutting soft stones
+#b cutting hard stones
+#c cutting large blocks of stones
+#d dressing stones
+
+## 25 | p=57 | hw=b
+Sapwood consists of
+#a innermost annular rings around the pith
+#b portion of timber between heartwood and cambium layer
+#c thin layers below the bark
+#d thin fibre which extends from the pith outwards and holds the annular rings together
+
+## 26 | p=57 | hw=c
+Which of the following trees yields hard wood ?
+#a deodar
+#b chir
+#c shishum
+#d pine
+
+## 27 | tag=ES 99 | p=57 | hw=c
+The radial splits which are wider on the outside of the log and narrower towards the pith are known as
+#a heart shakes
+#b cupshakes
+#c starshakes
+#d rindgalls
+
+## 28 | p=57 | hw=d
+In which of the following pairs both trees yield soft wood?
+#a deodar and shishum
+#b chir and sal
+#c sal and teak
+#d chir and deodar
+
+## 29 | star | p=57 | hw=a
+Which of the following timbers is suitable for making sports goods ?
+#a mulberry
+#b mahogany
+#c sal
+#d deodar
+
+## 30 | p=57 | hw=a
+Assertion A : Shishum is used for decorative woodwork.
+Reason R : Shishum can be polished to an excellent finish.
+Select your answer according to the coding system given below :
+#a Both A and R are true and R is the correct explanation of A
+#b Both A and R are true but R is not the correct explanation of A
+#c A is true but R is false
+#d A is false but R is true
+
+## 31 | p=57 | hw=a
+The disease of dry rot in timber is caused by
+#a lack of ventilation
+#b alternate wet and dry conditions
+#c complete submergence in water
+#d none of the above
+
+## 32 | p=57 | hw=c
+Plywood has the advantage of
+#a greater tensile strength in longer direction
+#b greater tensile strength in shorter direction
+#c same tensile strength in all directions
+#d none of the above
+
+## 33 | tag=ES 95,ES 2k | p=57 | hw=a
+In which of the following directions, the strength of timber is maximum ?
+#a parallel to grains
+#b 45° to grains
+#c perpendicular to grains
+#d same in all directions
+
+## 34 | tag=ES 2k | p=57 | hw=b
+The moisture content in a well seasoned timber is
+#a 4% to 6%
+#b 10% to 12%
+#c 15% to 20%
+#d 100%
+
+## 35 | p=57 | hw=a
+The trunk of tree left after cutting all the branches is known as
+#a log
+#b batten
+#c plank
+#d baulk
+
+## 36 | p=57 | hw=b
+The age of a tree can be known by examining
+#a cambium layer
+#b annular rings
+#c medullary rays
+#d heart wood
+
+## 37 | p=57 | hw=d
+Plywood is made by bonding together thin layers of wood in such a way that the angle between grains of any layer to grains of adjacent layers is
+#a 0°
+#b 30°
+#c 45°
+#d 90°
+
+## 38 | p=58 | hw=c
+The plywood
+#a has good strength along the panel only
+#b can be spilt in the plane of the panel
+#c has greater impact resistance to blows than ordinary wood
+#d cannot be bent more easily than ordinary wood of same thickness
+
+## 39 | p=58 | hw=b
+The practical limit of moisture content achieved in air drying of timber is
+#a 5%
+#b 15%
+#c 25%
+#d 35%
+
+## 40 | p=58 | hw=d
+First class timber has an average life of
+#a less than one year
+#b 1 to 5 years
+#c 5 to 10 years
+#d more than 10 years
+
+## 41 | p=58 | hw=b
+A first class brick when immersed in cold water for 24 hours should not absorb water more than
+#a 15%
+#b 20%
+#c 22%
+#d 25%
+
+## 42 | p=58 | hw=c
+Crushing strength of a first class brick should not be less than
+#a 3.5 N/mm²
+#b 7.0 N/mm²
+#c 10.5 N/mm²
+#d 14.0 N/mm²
+
+## 43 | p=58 | hw=a
+The main function of alumina in brick earth is
+#a to impart plasticity
+#b to make the brick durable
+#c to prevent shrinkage
+#d to make the brick impermeable
+
+## 44 | p=58 | hw=b
+The percentage of alumina in a good brick earth lies between
+#a 5 to 10%
+#b 20 to 30%
+#c 50 to 60%
+#d 70 to 80%
+
+## 45 | p=58 | hw=d
+Excess of alumina in brick earth makes the brick
+#a impermeable
+#b brittle and weak
+#c to lose cohesion
+#d to crack and warp on drying
+
+## 46 | p=58 | hw=c
+The nominal size of the modular brick is
+#a 190 mm × 90 mm × 80 mm
+#b 190 mm × 190 mm × 90 mm
+#c 200 mm × 100 mm × 100 mm
+#d 200 mm × 200 mm × 100 mm
+
+## 47 | p=58 | hw=c
+Percentage of silica in a good brick earth lies between
+#a 5 to 10%
+#b 20 to 30%
+#c 50 to 60%
+#d 70 to 80%
+
+## 48 | p=58 | hw=b
+Excess of silica in brick earth results in
+#a cracking and warping of bricks
+#b loss of cohesion
+#c enhancing the impermeability of bricks
+#d none of the above
+
+## 49 | p=58 | hw=b
+Which of the following ingredients of the brick earth enables the brick to retain its shape ?
+#a alumina
+#b silica
+#c iron
+#d magnesia
+
+## 50 | p=58 | hw=b
+Which of the following pairs gives a correct combination of the useful and harmful constituents respectively of a good brick earth ?
+#a lime stone and alumina
+#b silica and alkalies
+#c alumina and iron
+#d alkalies and magnesium
+
+## 51 | p=58 | hw=a
+The process of mixing clay, water and other ingredients to make brick is known as
+#a kneading
+#b moulding
+#c pugging
+#d drying
+
+## 52 | p=58-59 | hw=c
+Advantage of a clamp compared to a kiln for burning bricks is that
+#a it takes less time for burning
+#b it gives more output of first class bricks
+#c it has less initial cost
+#d it is suitable when bricks are required in large numbers
+
+## 53 | star | p=59 | hw=c
+The internal size of mould used in brick preparation is
+#a equal to the size of a fully burnt brick
+#b smaller than the size of a fully burnt brick
+#c greater than the size of a fully burnt brick
+#d none of the above
+
+## 54 | p=59 | hw=a
+Pug mill is used for
+#a preparation of clay
+#b moulding of clay
+#c drying of bricks
+#d burning of bricks
+
+## 55 | p=59 | hw=c
+Which of the following bricks are used for lining of furnaces ?
+#a overburnt bricks
+#b underburnt bricks
+#c refractory bricks
+#d first class bricks
+
+## 56 | p=59 | hw=b
+The frog of the brick in a brick masonry is generally kept on
+#a bottom face
+#b top face
+#c shorter side
+#d longer side
+
+## 57 | tag=ES 97 | p=59 | hw=c
+Number of bricks required for one cubic metre of brick masonry is
+#a 400
+#b 450
+#c 500
+#d 550
+
+## 58 | p=59 | hw=d
+Glazing is used to make earthenware
+#a hard
+#b soft
+#c porous
+#d impervious
+
+## 59 | p=59 | hw=b
+Quick lime is
+#a calcium carbonate
+#b calcium oxide
+#c calcium hydroxide
+#d none of the above
+
+## 60 | p=59 | hw=a
+Quick lime is
+i) slow in setting
+ii) rapid in slacking
+iii) good in strength
+The correct answer is
+#a only (i)
+#b only (ii)
+#c both (i) and (ii)
+#d both (ii) and (iii)
+
+## 61 | p=59 | hw=a
+Assertion A : Pure lime takes a long time to develop adequate strength.
+Reason R : Pure lime has slow hardening characteristics.
+Select your answer according to the coding system given below :
+#a Both A and R are true and R is correct explanation of A.
+#b Both A and R are true and R is not a correct explanation of A.
+#c A is true but R is false.
+#d A is false but R is true.
+
+## 62 | p=59 | hw=b
+Hydraulic lime is obtained by
+#a burning of lime stone
+#b burning of kankar
+#c adding water to quick lime
+#d calcination of pure clay
+
+## 63 | p=59 | hw=c
+The main constituent which imparts hydraulicity to hydraulic lime is
+#a calcium oxide
+#b silica
+#c clay
+#d water
+
+## 64 | p=59 | hw=b
+Study the following statements.
+i) Hydraulic lime is suitable for white washing.
+ii) Fat lime is suitable for whitewashing.
+iii) Hydraulic lime is suitable for making mortar.
+iv) Fat lime is suitable for making mortar.
+The correct answer is
+#a (i) and (iv)
+#b (ii) and (iii)
+#c (i) and (ii)
+#d (iii) and (iv)
+
+## 65 | p=60 | hw=a
+The main ingredients of Portland cement are
+#a lime and silica
+#b lime and alumina
+#c silica and alumina
+#d lime and iron
+
+## 66 | p=60 | hw=c
+The constituent of cement which is responsible for all the undesirable properties of cement is
+#a dicalcium silicate
+#b tricalcium silicate
+#c tricalcium aluminate
+#d tetra calcium alumino ferrite
+
+## 67 | p=60 | hw=b
+Le Chatelier's device is used for determining the
+#a setting time of cement
+#b soundness of cement
+#c tensile strength of cement
+#d compressive strength of cement
+
+## 68 | p=60 | hw=c
+The main constituent of cement which is responsible for initial setting of cement is
+#a dicalcium silicate
+#b tricalcium silicate
+#c tricalcium aluminate
+#d all of the above
+
+## 69 | p=60 | hw=b
+The initial setting time for ordinary Portland cement as per IS specifications should not be less than
+#a 10 minutes
+#b 30 minutes
+#c 60 minutes
+#d 600 minutes
+
+## 70 | p=60 | hw=d
+As per IS specifications, the maximum final setting time for ordinary Portland cement should be
+#a 30 minutes
+#b 1 hour
+#c 6 hours
+#d 10 hours
+
+## 71 | star | p=60 | hw=a
+For testing compressive strength of cement, the size of cube used is
+#a 50 mm
+#b 70.6 mm
+#c 100 mm
+#d 150 mm
+
+## 72 | p=60 | hw=c
+The normal consistency of ordinary Portland cement is about
+#a 10%
+#b 20%
+#c 30%
+#d 40%
+
+## 73 | p=60 | hw=b
+Early attainment of strength in rapid hardening cement is mainly due to
+#a gypsum
+#b finer grinding
+#c tricalcium silicate
+#d tricalcium aluminate
+
+## 74 | p=60 | hw=a
+After storage, the strength of cement
+#a decreases
+#b increases
+#c remains same
+#d may increase or decrease
+
+## 75 | p=60 | hw=c
+According to IS specifications, the compressive strength of ordinary portland cement after three days should not be less than
+#a 7 MPa
+#b 11.5 MPa
+#c 16 MPa
+#d 21 MPa
+
+## 76 | p=60 | hw=b
+Addition of pozzolana to ordinary Portland cement increases
+#a bleeding
+#b shrinkage
+#c permeability
+#d heat of hydration
+
+## 77 | p=60 | hw=b
+Gypsum consists of
+#a H₂S and CO₂
+#b CaSO₄ and H₂O
+#c Lime and H₂O
+#d CO₂ and calcium
+
+## 78 | p=60 | hw=b
+For testing compressive and tensile strength of cement, the cement mortar is made by mixing cement and standard sand in the proportions of
+#a 1:2
+#b 1:3
+#c 1:4
+#d 1:6
+
+## 79 | p=61 | hw=a
+The slump recommended for mass concrete is about
+#a 25 mm to 50 mm
+#b 50 mm to 100 mm
+#c 100 mm to 125 mm
+#d 125 mm to 150 mm
+
+## 80 | p=61 | hw=c
+With increase in moisture content, the bulking of sand
+#a increases
+#b decreases
+#c first increases to a certain maximum value and then decreases
+#d first decreases to a certain minimum value and then increases
+
+## 81 | p=61 | hw=b
+Which of the following cements is suitable for use in massive concrete structures such as large dams ?
+#a ordinary Portland cement
+#b low heat cement
+#c rapid hardening cement
+#d sulphate resisting cement
+
+## 82 | p=61 | hw=a
+Proper amount of entrained air in concrete results in
+i) better workability
+ii) better resistance to freezing and thawing
+iii) lesser workability
+iv) less resistance to freezing and thawing
+The correct answer is
+#a (i) and (ii)
+#b (i) and (iv)
+#c (ii) and (iii)
+#d (iii) and (iv)
+
+## 83 | p=61 | hw=b
+The most common admixture which is used to accelerate the initial set of concrete is
+#a gypsum
+#b calcium chloride
+#c calcium carbonate
+#d none of the above
+
+## 84 | p=61 | hw=b
+The maximum quantity of calcium chloride used as an accelerator in cement in percentage by weight of cement is
+#a 1
+#b 2
+#c 3
+#d 4
+
+## 85 | p=61 | hw=a
+The basic purpose of a retarder in concrete is
+#a to increase the initial setting time of cement paste in concrete
+#b to decrease the initial setting time of cement paste in concrete
+#c to render the concrete more water tight
+#d to improve the workability of concrete mix
+
+## 86 | p=61 | hw=b
+Which of the following cements contains maximum percentage of dicalcium silicate?
+#a ordinary Portland cement
+#b low heat cement
+#c rapid hardening cement
+#d sulphate resisting cement
+
+## 87 | p=61 | hw=a
+The most commonly used retarder in cement is
+#a gypsum
+#b calcium chloride
+#c calcium carbonate
+#d none of the above
+
+## 88 | p=61 | hw=c
+Three basic raw materials which are needed in large quantities for production of steel are
+#a iron ore, coal and sulphur
+#b iron ore, carbon and sulphur
+#c iron ore, coal and lime stone
+#d iron ore, carbon and lime stone
+
+## 89 | p=61 | hw=d
+Compared to mild steel, cast iron has
+i) high compressive strength
+ii) high tensile strength
+iii) low compressive strength
+iv) low tensile strength
+The correct answer is
+#a (i) and (ii)
+#b (ii) and (iii)
+#c (iii) and (iv)
+#d (i) and (iv)
+
+## 90 | p=61 | hw=b
+Which of the following gradients exerts maximum influence on properties of steel?
+#a iron
+#b carbon
+#c manganese
+#d sulphur
+
+## 91 | p=62 | hw=b
+Which of the following is the purest form of iron ?
+#a cast iron
+#b wrought iron
+#c mild steel
+#d high carbon steel
+
+## 92 | p=62 | hw=c
+The ultimate tensile strength of structural mild steel is about
+#a 160N/mm²
+#b 260 N/mm²
+#c 420 N/mm²
+#d 520 N/mm²
+
+## 93 | p=62 | hw=a
+Percentage of carbon content in mild steel is
+#a less than 0.25
+#b between 0.25 and 0.7
+#c between 0.7 and 1.5
+#d greater than 1.5
+
+## 94 | p=62 | hw=b
+Which of the following stresses is used for identifying the quality of structural steel ?
+#a ultimate stress
+#b yield stress
+#c proof stress
+#d none of the above
+
+## 95 | p=62 | hw=a
+The ratio of the thickness of web to that of flange of steel rolled structural beams and channels is
+#a less than 1
+#b equal to 1
+#c greater than 1
+#d less than 1 in beams but greater than 1 in channels
+
+## 96 | p=62 | hw=a
+Paints with white lead base are suitable for painting of
+#a wood work
+#b iron work
+#c both wood work and iron work
+#d none of the above
+
+## 97 | p=62 | hw=a
+Assertion A : Paints with white lead base are not recommended for painting of iron works.
+Reason R : Paints with white lead base do not check rusting of iron.
+Select your answer according to the coding system given below :
+#a Both A and R are true and, R is the correct explanation of A.
+#b Both A and R are true but R is not the correct explanation of A
+#c A is true but R is false
+#d A is false but R is true
+
+## 98 | p=62 | hw=c
+The amount of water used for one kg of distemper is
+#a 0.2 litre
+#b 0.4 litre
+#c 0.6 litre
+#d 0.8 litre
+
+## 99 | star | p=62 | hw=c
+The vehicle used in case of enamel paints is usually
+#a linseed oil
+#b water
+#c varnish
+#d none of the above
+
+## 100 | star | p=62 | hw=b
+Assertion A : Normally turpentine oil is recommended as thinner for indoor painting.
+Reason R : Turpentine oil is costlier than other thinners.
+Select your answer according to the coding system given below :
+#a Both A and R are true and R is the correct explanation of A.
+#b Both A and R are true but R is not the correct explanation of A.
+#c A is true but R is false.
+#d A is false but R is true.
+
+## 101 | p=62 | hw=b
+In brick masonry the bond produced by laying alternate headers and stretchers in each course is known as
+#a English bond
+#b double flemish bond
+#c zigzag bond
+#d single flemish bond
+
+## 102 | p=62 | hw=a
+The stretcher bond in brick masonry can be used only when the thickness of wall is
+#a 90 mm
+#b 180 mm
+#c 190 mm
+#d 280 mm
+
+## 103 | p=62-63 | hw=d
+The pressure acting on the stones in stone masonry construction should be
+#a along the direction of bedding planes
+#b at 45° to the direction of bedding planes
+#c at 60° to the direction of bedding planes
+#d perpendicular to the direction of bedding planes
+
+## 104 | p=63 | hw=a
+Which of the following should be used for hearting of thicker walls ?
+#a headers
+#b stretchers
+#c brick bats
+#d queen closer
+
+## 105 | p=63 | hw=c
+A queen closer is a
+#a brick laid with its length parallel to the face or direction of wall
+#b brick laid with its breadth parallel to the face or direction of wall
+#c brick having the same length and depth as the other bricks but half the breadth
+#d brick with half the width at one end and full width at the other
+
+## 106 | p=63 | hw=c
+Minimum thickness of wall where single flemish bond can be used is
+#a half brick thick
+#b one brick thick
+#c one and a half bricks thick
+#d two bricks thick
+
+## 107 | p=63 | hw=a
+The most important tool in brick laying for lifting and spreading mortar and for forming joints is
+#a trowel
+#b square
+#c bolster
+#d scutch
+
+## 108 | p=63 | hw=d
+Expansion Joints in masonry walls are provided in wall lengths greater than
+#a 10m
+#b 20 m
+#c 30 m
+#d 40m
+
+## 109 | p=63 | hw=c
+The type of bond provided in brick masonry for carrying heavy loads is
+#a single flemish bond
+#b double flemish bond
+#c English bond
+#d zigzag bond
+
+## 110 | p=63 | hw=c
+A mortar joint in masonry which is normal to the face of wall is known as
+#a bed joint
+#b wall joint
+#c cross joint
+#d bonded joint
+
+## 111 | tag=ES 98 | p=63 | hw=b
+The slenderness ratio for masonry walls should not be more than
+#a 10
+#b 20
+#c 30
+#d 40
+
+## 112 | p=63 | hw=a
+The proportions of lime and sand in the mortar normally used in brick construction are
+#a 1:2
+#b 1:4
+#c 1:6
+#d 1:8
+
+## 113 | p=63 | hw=a
+Number of vertical joints in a stretcher course is x times the number of joints in the header course, where x is equal to
+#a 1/2
+#b 1
+#c 2
+#d 1/4
+
+## 114 | p=63 | hw=a
+As compared to stretcher course, the thickness of joints in header course should be
+#a less
+#b more
+#c equal
+#d equal or more
+
+## 115 | p=63 | hw=d
+As compared to English bond, double flemish bond is
+#a stronger
+#b more compact
+#c costly
+#d none of the above
+
+## 116 | p=63 | hw=d
+Single flemish bond consists of
+#a double flemish bond facing and English bond backing in each course
+#b English bond facing and double flemish bond backing in each course
+#c stretcher bond facing and double flemish bond backing in each course
+#d double flemish bond facing and header bond backing in each course
