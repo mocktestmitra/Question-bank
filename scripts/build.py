@@ -151,17 +151,28 @@ def validate(chapters, qs, keys, expl):
 
 
 def crop_figure(q, outdir):
-    page, box = q["fig"].split(":")
-    x0, y0, x1, y1 = map(float, box.split(","))
+    """fig=PAGE:x0,y0,x1,y1 ; several boxes may be joined with ';' (stacked vertically)."""
     os.makedirs(outdir, exist_ok=True)
     out = os.path.join(outdir, f"ch{q['ch']:02d}_q{int(q['qno']):03d}.png")
     if not os.path.exists(out):
-        with tempfile.TemporaryDirectory() as d:
-            subprocess.run(["pdftoppm", "-f", page, "-l", page, "-r", "200", "-png",
-                            os.path.join(ROOT, q["src"]), f"{d}/p"], check=True)
-            im = Image.open(os.path.join(d, os.listdir(d)[0]))
-            w, h = im.size
-            im.crop((int(x0 * w), int(y0 * h), int(x1 * w), int(y1 * h))).save(out)
+        parts = []
+        for spec in q["fig"].split(";"):
+            page, box = spec.strip().split(":")
+            x0, y0, x1, y1 = map(float, box.split(","))
+            with tempfile.TemporaryDirectory() as d:
+                subprocess.run(["pdftoppm", "-f", page, "-l", page, "-r", "200", "-png",
+                                os.path.join(ROOT, q["src"]), f"{d}/p"], check=True)
+                im = Image.open(os.path.join(d, os.listdir(d)[0]))
+                w, h = im.size
+                parts.append(im.crop((int(x0 * w), int(y0 * h), int(x1 * w), int(y1 * h))))
+        W = max(p.width for p in parts)
+        H = sum(p.height for p in parts)
+        img = Image.new("RGB", (W, H), "white")
+        y = 0
+        for p in parts:
+            img.paste(p, (0, y))
+            y += p.height
+        img.save(out)
     return out
 
 

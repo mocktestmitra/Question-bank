@@ -2678,3 +2678,868 @@ Which one of the following Fig.8.19 gives the failure envelope for a normally co
 #b Fig.8.19 (b): horizontal line at height c, ϕ = 0
 #c Fig.8.19 (c): straight line with intercept c, ϕ = ϕ
 #d Fig.8.19 (d): curved line with intercept c, ϕ not constant
+
+## 338 | tag=ES 96 | p=42 | hw=b | fig=42:0.27,0.17,0.45,0.55 | fix=List II items 1-4 are Mohr-circle/envelope sketches in Fig. 8.20; see figure.
+Match List I with List II and select the correct answer using the codes given below the lists:
+List I (Type of shear tests) — List II (Mohr circle and its envelope)
+A. Undrained test on normally consolidated saturated clays — 1. Fig. 8.20-1: circles, envelope ϕ = 0 with intercept c₁
+B. Consolidated undrained test on normally consolidated saturated clays — 2. Fig. 8.20-2: circles, envelope ϕ = 0, (c > c₁)
+C. Drained tests on saturated cohesive soil — 3. Fig. 8.20-3: circles with inclined envelope ϕ, intercept c
+D. Unconfined test on clays — 4. Fig. 8.20-4: single circle from origin to σ₁, c = σ₁/2
+Codes:
+#a A-1, B-4, C-3, D-2
+#b A-1, B-2, C-3, D-4
+#c A-4, B-3, C-2, D-1
+#d A-3, B-2, C-1, D-4
+
+## 339 | tag=ES 96 | p=42 | hw=d
+A soil fails under an axial vertical stress of 100 kN/m² in unconfined compression test. The failure plane makes an angle of 50⁰ with the horizontal. The shear parameters c and ϕ respectively will be
+#a 41.9 kN/m², 0⁰
+#b 50.0 kN/m², 0⁰
+#c 41.9 kN/m²,10⁰
+#d 50.0 kN/m², 10⁰
+
+## 340 | tag=ES 96 | p=42 | hw=b | fig=42:0.53,0.16,0.8,0.3
+Active earth pressure per metre length on the retaining wall with a smooth vertical back as shown in Fig.8.21 will be
+(Sand: γ = 2t/m³, ϕ = 30°; Height of wall = 9 m)
+#a 81 t
+#b 27 t
+#c 2 t
+#d 1 t
+
+## 341 | tag=ES 96 | p=42 | hw=d
+A clay layer 5 m thick in field takes 300 days to attain 50% consolidation with condition of double drainage. If the same clay layer is underlain by hard rock then the time taken to attain 50% consolidation will be
+#a 300 days
+#b 600 days
+#c 900 days
+#d 1200 days
+
+## 342 | star | tag=ES 96 | p=42 | hw=c
+A rectangular footing 1 m x 2 m is placed at a depth of 2 m in a saturated clay behaving an unconfined compressive strength of 100 kN/m². According to Skempton, the net ultimate bearing capacity is
+#a 420kN/m²
+#b 412.5 kN/m²
+#c 385 kN/m²
+#d 350 kN/m²
+
+## 343 | star | tag=ES 96 | p=42-43 | hw=c
+A 30 cm diameter friction pile is embedded 10 m into a homogeneous consolidated deposit. Unit adhesion developed between clay and pile shaft is 4 t/m² and adhesion factor is 0.7. The safe load for factor of safety 2.5 will be
+#a 21.50 t
+#b 11.57 t
+#c 10.55 t
+#d 6.35 t
+
+## 344 | tag=ES 96 | p=43 | hw=d
+In case of well foundation, grip length is defined as the
+#a length below the top of the well cap to the cutting edge
+#b length between the bottom of the well cap to the cutting edge
+#c depth of the bottom of the well below the minimum scour level
+#d depth of the bottom of the well below the maximum scour level
+
+## 345 | tag=ES 96 | p=43 | hw=c | fig=43:0.25,0.05,0.85,0.71 | fix=Options are the four pressure-distribution diagrams (a)-(d) in Fig. 8.22 (a and b on the left column, c and d on the right column); see figure.
+In the following figures (Fig.8.22), if H= height of wall above dredge line,
+q̄ = effective vertical stress at any depth,
+c = unit cohesion,
+and passive pressure is shown hatched in the figures, then the earth pressure distribution diagram used for analysis of a cantilever sheet pile embedded to a depth D in a purely cohesive soil will be as in
+#a Fig. 8.22 (a)
+#b Fig. 8.22 (b)
+#c Fig. 8.22 (c)
+#d Fig. 8.22 (d)
+
+## 346 | tag=ES 96 | p=43 | hw=d
+A raft foundation is to be constructed on a sandy soil. The maximum differential settlement and limiting maximum settlement as recommended by Indian Standard code are
+Max. differential settlement — Limiting max. settlement
+#a 40 mm — 65 mm to 100 mm
+#b 40 mm — 40 mm to 65 mm
+#c 25 mm — 65 mm to 100 mm
+#d 25 mm — 40 mm to 65 mm
+
+## 347 | tag=ES 96 | p=43-44 | hw=d
+Consider the following statements:
+In subsoil exploration programme the term "significant depth of exploration" is up to
+1. the width of foundation.
+2. twice the width of foundation.
+3. the depth where the additional stress intensity is less than 20% of overburden pressure.
+4. the depth where the additional stress intensity is less than 10% of the overburden pressure.
+5. hard rock level.
+Of these statements
+#a 1, 3 and 5 are correct
+#b 2, 3 and 5 are correct
+#c 1 and 4 are correct
+#d 2 and 4 are correct
+
+## 348 | tag=ES 96 | p=44 | hw=d
+Lacustrine soils are soils
+#a transported by rivers and streams
+#b transported by glaciers
+#c deposited in sea beds
+#d deposited in lake beds
+
+## 349 | tag=ES 96 | p=44 | hw=d | fig=44:0.1,0.22,0.4,0.37
+The standard plasticity chart to classify fine grained soils is shown in Fig. 8.23.
+The area marked 'X' represents
+#a silt of low plasticity
+#b clay of high plasticity
+#c organic soil of medium plasticity
+#d clay of intermediate plasticity
+
+## 350 | tag=ES 97 | p=44 | hw=b
+Consider the following statements in the context of aeolian soils:
+1. The soil has low density and low compressibility.
+2. The soil is deposited by wind.
+3. The soil has large permeability.
+Of these statements
+#a 1,2 and 3 are correct
+#b 2 and 3 are correct
+#c 1 and 3 are correct
+#d 1 and 2 are correct
+
+## 351 | tag=ES 97 | p=44 | hw=b
+A soil has a liquid limit of 45% and lies above the A-line when plotted on a plasticity chart. The group symbol of the soil as per IS Soil Classification is
+#a CH
+#b CI
+#c CL
+#d MI
+
+## 352 | star | tag=ES 97 | p=44 | hw=c
+The dry density of a soil is 1.5 g/cc. If the saturation water content were 50%, then its saturated density and submerged density would, respectively, be
+#a 1.5 g/cc and 1.0 g/cc
+#b 2.0 g/cc and 1.0 g/cc
+#c 2.25 g/cc and 1.25 g/cc
+#d 2.50 g/cc and 1.50 g/cc
+
+## 353 | star | tag=ES 97 | p=44 | hw=b
+A fill having a volume of 1,50,000 cum is to be constructed at a void ratio of 0.8. The borrow pit soil has a void ratio of 1.4. The volume of soil required (in cubic metres) to be excavated from the borrow pit will be
+#a 1,87,500
+#b 2,00,000
+#c 2,10,000
+#d 2,50,000
+
+## 354 | tag=ES 97 | p=44 | hw=c
+The moisture content of a clayey soil is gradually decreased from a large value. What will be the correct sequence of the occurrence of the following limits?
+1. Shrinkage limit.
+2. Plastic limit.
+3. Liquid limit.
+Select the correct answer using the codes given below:
+#a 1, 2, 3
+#b 1, 3, 2
+#c 3, 2, 1
+#d 3, 1, 2
+
+## 355 | tag=ES 97 | p=44 | hw=c
+Which one of the following equations correctly gives the relationship between the specific gravity of soil grains (G) and the hydraulic gradient (i) to initiate 'quick' condition in a sand having a void ratio of 0.5?
+#a G = 0.5 i + 1
+#b G = i + 0.5
+#c G = 1.5 i + 1
+#d G = 1.5 i – 1
+
+## 356 | tag=ES 97 | p=44-45 | hw=d
+Match List I with List II and select the correct answer using the codes given below the Lists:
+List I (Effect) — List II (Reason)
+A. Excessive Settlement — 1. Rise of water table
+B. High Expansivity — 2. High compressibility
+C. Reduction of Bearing Capacity — 3. Montmorillonite
+D. Acceleration of Consolidation — 4. Sand drains
+Codes:
+#a A-4, B-1, C-2, D-3
+#b A-2, B-3, C-4, D-1
+#c A-4, B-1, C-3, D-2
+#d A-2, B-3, C-1, D-4
+
+## 357 | star | tag=ES 97 | p=45 | hw=b
+A flow-net constructed to determine the seepage through an earth dam which is homogeneous but anisotropic, gave four flow channels and sixteen equipotential drops. The coefficients of permeability in the horizontal and vertical directions are 4.0 × 10⁻⁷ m/s and 1.0 × 10⁻⁷ m/s, respectively. If the storage head was 20 m, then the seepage per unit length of the dam (in m³/s) would be
+#a 5 x 10⁻⁷
+#b 10 x 10⁻⁷
+#c 20 x 10⁻⁷
+#d 40 x 10⁻⁷
+
+## 358 | tag=ES 97 | p=45 | hw=b
+A clay soil specimen when tested in unconfined condition gave an unconfined compressive strength of 100 kN/m². A specimen of the same clay with the same initial condition is subjected to a UU triaxial test under a cell pressure of 100 kN/m². The axial stress (in kN/m²) at failure would be
+#a 150
+#b 200
+#c 250
+#d 300
+
+## 359 | tag=ES 97 | p=45 | hw=b
+If s is the shear strength, c and ϕ are shear strength parameters, and σₙ is the normal stress at failure, then Coulomb's equation for shear strength of the soil can be represented by
+#a c = s + σₙ tan ϕ
+#b c = s - σₙ tan ϕ
+#c s = σₙ + c tan ϕ
+#d s = c – σₙ tan ϕ
+
+## 360 | tag=ES 97 | p=45 | hw=d | fig=45:0.64,0.24,0.88,0.43
+Earth pressure and resultant possibilities of wall movement are shown in Fig.8.24. The point marked 'X' in the diagram denotes
+#a earth pressure at rest
+#b active earth pressure
+#c arching active pressure
+#d passive earth pressure
+
+## 361 | tag=ES 97 | p=45 | hw=b
+In a cohesionless soil deposit having a unit weight of 1.5 t/m³ and an angle of internal friction of 30⁰, the active and passive lateral earth pressure intensities (in t/m²) at a depth of 10 m will, respectively, be
+#a 15 and 5
+#b 5 and 45
+#c 10 and 20
+#d 20 and 10
+
+## 362 | tag=ES 97 | p=45-46 | hw=d
+Given that for a soil deposit,
+K_o = earth pressure coefficient at rest,
+K_a = active earth pressure coefficient,
+K_p = passive earth pressure coefficient
+and μ = Poisson's ratio,
+the value of (1 - μ)/μ is given by
+#a K_a/K_p
+#b K_o/K_a
+#c K_p/K_a
+#d 1/K_o
+
+## 363 | tag=ES 97 | p=46 | hw=d
+A and B are Skempton's pore pressure coefficients. For saturated normally consolidated soils,
+#a A > 1 and B > 1
+#b A > 1 and B < 1
+#c A < 1 and B > 1
+#d A < 1 and B = 1
+
+## 364 | tag=ES 97 | p=46 | hw=d
+The changes that take place during the process of consolidation of a saturated clay would include
+#a an increase in pore water pressure and an increase in effective pressure
+#b an increase in pore water pressure and a decrease in effective pressure
+#c a decrease in pore water pressure and decrease in effective pressure
+#d a decrease in pore water pressure and an increase in effective pressure
+
+## 365 | tag=ES 97 | p=46 | hw=c
+If the actual observed value of standard penetration resistance, N, is greater than 15 in a fine sand layer below water table, then the equivalent penetration resistance will be
+#a 15 + [(N + 15)/2]
+#b 15 [(N + 15)/2]
+#c 15 + [(N – 15)/2]
+#d 15 + [(15 - N)/2]
+
+## 366 | tag=ES 97 | p=46 | hw=c
+Match List I (Property) with List II (Slope of the curve) and select the correct answer using the codes given below the Lists:
+List I — List II
+A. Coefficient of compressibility — 1. Stress - deformation
+B. Compression index — 2. Stress - void ratio
+C. Coefficient of sub-grade modulus — 3. Volume – pressure
+4. Log stress - void ratio
+Codes:
+#a A-4, B-2, C-1
+#b A-4, B-3, C-2
+#c A-2, B-4, C-1
+#d A-3, B-4, C-1
+
+## 367 | star | tag=ES 97 | p=46 | hw=b
+A dry sand specimen is put through a triaxial test. The cell pressure is 50 kPa and the deviator stress at failure is 100 kPa. The angle of internal friction for the sand specimen is
+#a 15⁰
+#b 30⁰
+#c 37⁰
+#d 45⁰
+
+## 368 | star | tag=ES 97 | p=46 | hw=b
+The initial and final void ratios of a clay sample in consolidation test are 1 and 0.5, respectively. If the initial thickness of the sample is 2:4 cm. then its final thickness will be
+#a 1.3 cm
+#b 1.8 cm
+#c 1.9 cm
+#d 2.2 cm
+
+## 369 | tag=ES 97 | p=46-47 | hw=c | fig=46:0.5,0.51,0.78,0.69
+A part of the Newmark's influence chart with four concentric circles is shown in Fig.8.25. If the hatched areas 1 and 2 are loaded separately with the same intensity of loading, then the intensity of pressure yielded
+#a by 1 will be more than that yielded by 2
+#b by 2 will be more than that yielded by 1
+#c by 1 and 2 will be equal
+#d at the center will be in inverse proportion to the radii of the two circles
+
+## 370 | tag=ES 97 | p=47 | hw=b
+Consider the following statements regarding under-reamed piles:
+1. They are used in expansive soils.
+2. They are of pre-cast reinforced concrete.
+3. The ratio of bulb to shaft diameters is usually 2 to 3.
+4. Minimum spacing between the piles should not be less than 1.5 times the bulb diameter.
+Of these statements
+#a 1, 2 and 3 are correct
+#b 1, 3 and 4 are correct
+#c 2, 3 and 4 are correct
+#d 1, 2 and 4 are correct
+
+## 371 | tag=ES 97 | p=47 | hw=c
+Match List I with List II and select the correct answer using the codes given below the Lists:
+List I (Field test) — List II (Parameters Measured)
+A. Plate load test — 1. Total and frictional resistances
+B. Standard Penetration test — 2. Load intensity and settlement values
+C. Static Dutch Cone Penetration test — 3. Ncd Values
+D. Dynamic Penetration test — 4. SPT values
+Codes:
+#a A-2, B-4, C-3, D-1
+#b A-4, B-2, C-3, D-1
+#c A-2, B-4, C-1, D-3
+#d A-4, B-2, C-1, D-3
+
+## 372 | tag=ES 97 | p=47 | hw=c
+In standard penetration test, the split-spoon sampler is penetrated into the soil stratum by giving blows from a drop weight whose weight (in kg) and free fall (in cm) are, respectively,
+#a 30 and 60
+#b 60 and 30
+#c 65 and 75
+#d 75 and 65
+
+## 373 | tag=ES 97 | p=47 | hw=d
+To make certain that the backfill material is more pervious than the soil to be drained, the relationship used is
+#a (D₁₅)filter ≤ 5(D₈₅)protected soil
+#b (D₁₅)filter ≥ 5(D₈₅)protected soil
+#c (D₁₅)filter ≤ 5(D₁₅)protected soil
+#d (D₁₅)filter ≥ 5(D₁₅)protected soil
+
+## 374 | star | tag=ES 97 | p=47 | hw=b
+Given that Plasticity Index (PI) of local soil = 15 and PI of sand = zero, for a desired PI of 6, the percentage of sand in the mix should be
+#a 70
+#b 60
+#c 40
+#d 30
+
+## 375 | tag=ES 98 | p=47-48 | hw=c
+Consider the following statements:
+1. Dynamic cone penetration test for site investigation is based on the principle that elastic shock waves travel in different materials at different velocities.
+2. Electrical resistivity method of subsurface investigation is capable of detecting only the strata having different electrical resistivity.
+3. In-situ vane shear test is useful for determining the strength of very soft soil and sensitive clays and is unsuitable for sandy soil.
+Of these statements
+#a 1 and 2 are correct
+#b 1 and 3 are correct
+#c 2 and 3 are correct
+#d 2 alone is correct
+
+## 376 | tag=ES 98 | p=48 | hw=b
+Consider the following statements:
+A well-graded sand should have
+1. uniformity coefficient greater than 6.
+2. coefficient of curvature between 1 and 3
+3. effective size greater than 1 mm.
+Of these statements
+#a 1, 2 and 3 are correct
+#b 1 and 2 are correct
+#c 2 and 3 are correct
+#d 1 and 3 are correct
+
+## 377 | tag=ES 98 | p=48 | hw=b
+Consider the following statements:
+1. Increase in volume of a soil sample without external constraints on submergence in water is termed as the 'free swell of soil'.
+2. Clay soil rich in montmorillonite exhibits very low swelling characteristic.
+3. Generally, free swell of soil sample ceases when its water content reaches the plastic limit.
+Of these statements
+#a 1 and 2 are correct
+#b 1 and 3 are correct
+#c 2 and 3 are correct
+#d 1, 2 and 3 are correct
+
+## 378 | tag=ES 98 | p=48 | hw=c
+Consider the following statements:
+1. Constant head permeameter is best suited for determination of coefficient of permeability of highly impermeable soils.
+2. Coefficient of permeability of a soil mass decreases with increase in viscosity of the pore fluid.
+3. Coefficient of permeability of a soil mass increases with increase in temperature of the pore fluid.
+Of these statements
+#a 1 and 2 are correct
+#b 1 and 3 are correct
+#c 2 and 3 are correct
+#d 1, 2 and 3 are correct
+
+## 379 | tag=ES 98 | p=48 | hw=a
+Consider the following statements:
+1. 'Relative compaction' is not the same as 'relative density'.
+2. Vibrofloatation is not effective in the case of highly cohesive soils.
+3. 'Zero air void line' and '100% saturation line' are not identical.
+Of these statements
+#a 1 and 2 are correct
+#b 1 and 3 are correct
+#c 2 and 3 are correct
+#d 3 alone is correct
+
+## 380 | tag=ES 98 | p=48 | hw=c
+The configuration of flow nets depends upon
+#a the permeability of the soil
+#b the difference in the head between upstream and downstream sides
+#c the boundary conditions of flow
+#d the amount of seepage that takes place
+
+## 381 | tag=ES 98 | p=48 | hw=c
+Consider the following statements:
+Phreatic line in an earth dam is
+1. elliptic in shape.
+2. an equipotential line.
+3. the topmost flow line with zero water pressure.
+4. approximately a parabola.
+Of these statements
+#a 1,2 and 3 are correct
+#b 2, 3 and 4 are correct
+#c 3 and 4 are correct
+#d 1 alone is correct
+
+## 382 | tag=ES 98 | p=48-49 | hw=b
+A soil has mass unit weight r, water content w (as ratio). The specific gravity of soil solids = G, unit weight of water = r_w, 'S', the degree of saturation of the soil is given by
+#a S = (1 + w)/((r_w/r)(1 + w) – 1/G)
+#b S = w/((r_w/r)(1 + w) – 1/G)
+#c S = (1 + w)/((r_w/r)(1 + w) – 1/(wG))
+#d S = w/((r_w/r)(1 + w) – 1/(wG))
+
+## 383 | tag=ES 98 | p=49 | hw=a
+Shear failure of soils takes place when
+#a the angle of obliquity is maximum
+#b maximum cohesion is reached in cohesive soils
+#c ϕ reaches its maximum value in cohesionless soils
+#d residual strength of the soil is exhausted
+
+## 384 | tag=ES 98 | p=49 | hw=c
+A triaxial test was conducted on a granular soil. At failure σ₁′/σ₃′ = 4. The effective minor principal stress at failure was 100 kPa. The values of approximate ϕ and the principal stress difference at failure are, respectively
+#a 45⁰ and 570 kPa
+#b 40⁰ and 400 kPa
+#c 37⁰ and 300 kPa
+#d 30⁰ and 200 kPa
+
+## 385 | tag=ES 98 | p=49 | hw=a
+In a Mohr's diagram, a point above Mohr's envelope indicates
+#a imaginary condition
+#b safe condition
+#c imminent failure condition
+#d condition of maximum obliquity
+
+## 386 | tag=ES 98 | p=49 | hw=b
+Consider the following statements:
+Ranking's theory and Coulomb's theory give same values of coefficients of active and passive earth pressures when
+1. the retaining wall has a vertical back.
+2. the backfill is cohesionless.
+3. angle of slope of backfill is equal to the angle of internal friction.
+4. angle of slope of backfill is 0⁰.
+5. angle of wall friction δ is0⁰.
+6. angle of wall friction δ is equal to ϕ.
+Of these statements
+#a 1, 2, 3 and 5 are correct
+#b 1, 2, 4 and 5 are correct
+#c 2, 3 and 6 are correct
+#d 1, 4 and 6 are correct
+
+## 387 | tag=ES 98 | p=49 | hw=d
+Consider the following statements:
+1. Coulomb's earth pressure theory does not take the roughness of wall into consideration.
+2. In case of non-cohesive soils, the coefficients of active earth pressure and earth pressure at rest are equal.
+3. Any movement of retaining wall away from the fill corresponds to active earth pressure condition.
+Of these statements
+#a 1 alone is correct
+#b 1 and 2 are correct
+#c 2 alone is correct
+#d 3 alone is correct
+
+## 388 | tag=ES 98 | p=49 | hw=d
+A rectangular footing LxB is to be placed at a depth D below ground level such that D/B < 2.5. The factor N_C to be used in deciding on the allowable bearing capacity for the footing as given by Skempton is calculated using the equation (where N_CR =N_C for rectangular footing, N_Cs = N_C at surface)
+#a N_CR = 1.5 N_Cs
+#b N_CR = [1 + 0.2 D/B] N_Cs
+#c N_CR = [1 + 0.2 B/L] N_Cs
+#d N_CR = [1 + 0.2 B/L][1 + 0.2 D/B] N_Cs
+
+## 389 | tag=ES 98 | p=49 | hw=d
+Consider the following statements associated with local shear failure of soils:
+1. Failure is sudden with well-defined ultimate load.
+2. This failure occurs in highly compressible soils.
+3. Failure is preceded by large settlement.
+Of these statements
+#a 1, 2 and 3 are correct
+#b 1 and 2 are correct
+#c 2 and 3 are correct
+#d 1 and 3 are correct
+
+## 390 | tag=ES 98 | p=50 | hw=d
+Minimum centre to centre spacing of friction piles of diameter (D) as per BIS code is
+#a 1.5 D
+#b 2 D.
+#c 2.5 D
+#d 3 D
+
+## 391 | tag=ES 98 | p=50 | hw=a
+A good quality undisturbed soil sample is one which is obtained using a sampling tube having an area ratio of
+#a 8%
+#b 16%
+#c 24%
+#d 32%
+
+## 392 | tag=ES 98 | p=50 | hw=b
+Which one of the following tests cannot be done without undisturbed sampling?
+#a shear strength of sand
+#b shear strength of clay
+#c determination of compaction parameters
+#d Atterberg limits
+
+## 393 | tag=ES 98 | p=50 | hw=d
+Consider the following statements:
+The Standard Penetration Test (SPT) in soils is the most commonly used field test. SPT is used to determine
+1. consistency of clay.
+2. un-drained shear strength of soft sensitive clay.
+3. relative density of sands.
+4. drained shear strength of fine loose sand.
+Of these statements
+#a 1 and 2 are correct
+#b 2 and 4 are correct
+#c 1 and 3 are correct
+#d 3 and 4 are correct
+
+## 394 | tag=ES 98 | p=50 | hw=d
+Match List I with List II and select the correct answer using the codes given below the Lists:
+List I (Terms) — List II (Formulae)
+A. Void Ratio — 1. V_v/V
+B. Porosity — 2. W_w/W_s
+C. Degree of saturation — 3. W_w/V_v
+D. Water content — 4. W/V
+5. V_v/V_s
+Codes:
+#a A-4, B-3, C-5, D-1
+#b A-5, B-4, C-3, D-1
+#c A-4, B-1, C-5, D-2
+#d A-5, B-1, C-3, D-2
+
+## 395 | tag=ES 99 & CS 97 | p=50 | hw=c | fix=List II item 1 is partly hidden in the scan (reads 'n-rained riaxial est'); completed as 'Undrained triaxial test'.
+Match List I (Field problems) with List II (Type of laboratory shear test) and select the correct answer using the codes given below the Lists:
+List I — List II
+A. Stability of a clay foundation of an embankment, whose rate of construction is such that some consolidation occurs — 1. Undrained triaxial test
+B. Initial stability of a footing on saturated clay — 2. Drained triaxial test
+C. Long-term stability of a slope in stiff, fissured clay — 3. Consolidated undrained test
+D. Foundation on soft marine clay deposits — 4. Quick vane shear test
+Codes:
+#a A-1, B-3, C-4, D-2
+#b A-1, B-3, C-2, D-4
+#c A-3, B-1, C-2, D-4
+#d A-3, B-1, C-4, D-2
+
+## 396 | tag=ES 99 | p=50 | hw=c
+If an unconfined compressive strength of 4 kg/cm² in the natural state of clay reduces by four times in the remoulded state, then its sensitivity will be
+#a 1
+#b 2
+#c 4
+#d 8
+
+## 397 | tag=ES 99 | p=51 | hw=b
+In a direct shear test, the shear stress and normal stress on a dry sand sample at failure are 0.6 kg/cm² and 1 kg/cm² respectively. The angle of internal friction of the sand will be nearly
+#a 25⁰
+#b 31⁰
+#c 37⁰
+#d 43⁰
+
+## 398 | tag=ES 99 | p=51 | hw=a
+If an infinite slope of clay at a depth 5 m has cohesion of 1 t/m² and unit wt. of 2 t/m³, then the stability number will be
+#a 0.1
+#b 0.2
+#c 0.3
+#d 0.4
+
+## 399 | tag=ES 99 | p=51 | hw=d | fig=51:0.26,0.4,0.45,0.8;51:0.6,0.05,0.8,0.39 | fix=Options are the four pressure-distribution diagrams (a)-(d) in Fig. 8.26; see figure.
+Which one of the following typical pressure distribution diagrams (Fig. 8.26) represents the lateral pressure distribution on braced sheeting in stiff clay with temporary support, as given by Tschebotarioff?
+#a Fig. 8.26 (a): trapezoid 0.3H / 0.55H / 0.15H, width γH - 4C
+#b Fig. 8.26 (b): trapezoid 0.25H / 0.5H / 0.25H, width 0.2γH to 0.4γH
+#c Fig. 8.26 (c): triangle 0.6H then 0.4H, widths 0.3γH and 0.2γH
+#d Fig. 8.26 (d): triangle 0.75H then 0.25H, widths 0.375γH and 0.5γH
+
+## 400 | tag=ES 99 | p=51 | hw=b
+Given that c = 2 t/m², ϕ = 0⁰ and γ = 2t/m³, the depth of tension crack developing in a cohesive soil backfill would be
+#a 1 m
+#b 2 m
+#c 3 m
+#d 4 m
+
+## 401 | tag=ES 99 | p=51-52 | hw=b
+Match List I (Investigator) with List II (Equation) and select the correct answer using the codes given below the Lists:
+List I — List II
+A. Skempton — 1. v = kᵢ
+B. Coulomb — 2. σ′ = σᵤ
+C. Stokes — 3. v = D²(γ_s–γ_w)/(18η)
+D. Terzaghi — 4. s = c + σ tan ϕ
+5. u = B[σ₃ + A(σ₁ – σ₃)]
+Codes:
+#a A-4, B-5, C-3, D-2
+#b A-5, B-4, C-3, D-2
+#c A-4, B-5, C-1, D-3
+#d A-5, B-4, C-2, D-3
+
+## 402 | tag=ES 99 | p=52 | hw=c
+Which one of the following pairs of parameters and expressions is not correctly matched?
+#a Coefficient of consolidation …. T_vH²/t
+#b Coeff. of volume compressibility …. (e₀ – e)/((1 + e₀)(p – p₀))
+#c Over consolidation ratio …. √(Maximum previous effective pressure / Existing effective pressure)
+#d Modulus of volume change …. a_v/(1 + e₀)
+
+## 403 | tag=ES 99 | p=52 | hw=a
+Consider the following:
+1. Initial consolidation
+2. Primary consolidation
+3. Secondary consolidation
+4. Final consolidation
+The three stages which would be relevant to consolidation of a soil deposit includes
+#a 1,2 and 3
+#b 2, 3 and 4
+#c 1, 3 and 4
+#d 1, 2 and 4
+
+## 404 | tag=ES 99 | p=52 | hw=b
+As per Terzaghi's equation, the bearing capacity of strip footing resting on cohesive soil (c = 10 kN/m²) for unit depth and unit width (assume N_c as 5.7) is
+#a 47 kN/m²
+#b 57 kN/m²
+#c 67 kN/m²
+#d 77 kN/m²
+
+## 405 | tag=ES 99 | p=52 | hw=d
+With a vertical point load on the surface when considering the vertical plane passing through the load, the stress gets reduced by 52.3% at a depth of
+#a 0.25 of unit length
+#b 0.5 of unit length
+#c 0.75 of unit length
+#d 1 of unit length
+
+## 406 | tag=ES 99 | p=52 | hw=b
+Ratio of bearing capacity of double Under Reamed (U.R.) pile to that of single U.R. pile is nearly
+#a 2
+#b 1.5
+#c 1.2
+#d 1.7
+
+## 407 | tag=ES 99 | p=52 | hw=a
+A raft of 6 m x 9 m is founded at a depth of 3 m in a cohesive soil having c = 120 kN/m². The ultimate net bearing capacity of the soil using Terzaghi's theory will be nearly
+#a 820 kN/m²
+#b 920 kN/m²
+#c 1036 kN/m²
+#d 1067 kN/m²
+
+## 408 | tag=ES 99 | p=52 | hw=b
+The standard penetration resistance N of a granular deposit is found to be 20. The soil can be classified approximately in terms of ϕ and density index respectively as
+#a 20⁰ and 10 % for very loose condition
+#b 32⁰ and 50 % for medium condition
+#c 32⁰ and 30 % for loose condition
+#d 38⁰ and 65 % for dense condition
+
+## 409 | tag=ES 99 | p=52 | hw=b
+If the proportion of soil passing 75 micron sieve is 50% and the liquid limit and plastic limit are 40% and 20% respectively, then the group index of the soil is
+#a 3.8
+#b 6.5
+#c 38
+#d 65
+
+## 410 | tag=ES 94 | p=52 | check=No handwritten answer mark found for this question. | fix=Assertion-Reason question: options are the common codes printed once under 'Directions' before Q410.
+Assertion A : Black cotton soils are expansive soils.
+Reason R : Black cotton soils are residual soils.
+#a Both A and R are true and R is the correct explanation of A
+#b Both A and R are true but R is not a correct explanation of A
+#c A is true but R is false
+#d A is false but R is true
+
+## 411 | tag=ES 94 | p=53 | check=No handwritten answer mark found for this question. | fix=Assertion-Reason question: options are the common codes printed once under 'Directions' before Q410.
+Assertion A : Lowering of ground water table causes settlement.
+Reason R : Removal of neutral pressure increases the effective pressure.
+#a Both A and R are true and R is the correct explanation of A
+#b Both A and R are true but R is not a correct explanation of A
+#c A is true but R is false
+#d A is false but R is true
+
+## 412 | tag=ES 94 | p=53 | check=No handwritten answer mark found for this question. | fix=Assertion-Reason question: options are the common codes printed once under 'Directions' before Q410.
+Assertion A : A rigid footing resting on sand layer and carrying uniformly distributed load develops contact pressure, the magnitude of which is less at the edges than at the center of footing.
+Reason R : In the case of a rigid footing, the settlement has to be uniform for which the contact pressure distribution is non-uniform.
+#a Both A and R are true and R is the correct explanation of A
+#b Both A and R are true but R is not a correct explanation of A
+#c A is true but R is false
+#d A is false but R is true
+
+## 413 | tag=ES 93 | p=53 | check=No handwritten answer mark found for this question. | fix=Assertion-Reason question: options are the common codes printed once under 'Directions' before Q410.
+Assertion A : Transition stage from semisolid state to solid state of soil is termed as shrinkage limit.
+Reason R : After the semisolid state, any reduction in water content will cause shrinkage in the volume of the soil.
+#a Both A and R are true and R is the correct explanation of A
+#b Both A and R are true but R is not a correct explanation of A
+#c A is true but R is false
+#d A is false but R is true
+
+## 414 | tag=ES 93 | p=53 | check=No handwritten answer mark found for this question. | fix=Assertion-Reason question: options are the common codes printed once under 'Directions' before Q410.
+Assertion A : The rate of settlement of buildings constructed on sandy clays are faster than those constructed on clayey soils.
+Reason R : The rate of consolidation is dependent on permeability of soils.
+#a Both A and R are true and R is the correct explanation of A
+#b Both A and R are true but R is not a correct explanation of A
+#c A is true but R is false
+#d A is false but R is true
+
+## 415 | tag=ES 93 | p=53 | check=No handwritten answer mark found for this question. | fix=Assertion-Reason question: options are the common codes printed once under 'Directions' before Q410.
+Assertion A : Boussinesq equation is not suitable for sedimentary deposits.
+Reason R : Sedimentary deposits do not represent an isotropic and homogeneous system.
+#a Both A and R are true and R is the correct explanation of A
+#b Both A and R are true but R is not a correct explanation of A
+#c A is true but R is false
+#d A is false but R is true
+
+## 416 | tag=ES 93 | p=53 | check=No handwritten answer mark found for this question. | fix=Assertion-Reason question: options are the common codes printed once under 'Directions' before Q410.
+Assertion A : All theoretical approaches indicate that at greater depths, bearing capacity of pile base in sand is practically independent of its size and is proportional to overburden.
+Reason R : When the depth of overburden is very great, the value of the term "½γBN_γ" of the bearing capacity equation is neglected for all practical purposes.
+#a Both A and R are true and R is the correct explanation of A
+#b Both A and R are true but R is not a correct explanation of A
+#c A is true but R is false
+#d A is false but R is true
+
+## 417 | tag=ES 94 | p=53 | check=No handwritten answer mark found for this question. | fix=Assertion-Reason question: options are the common codes printed once under 'Directions' before Q410.
+Assertion A : Plate load test is a field test to determine the ultimate bearing capacity of soil and also the probable settlement under a given loading.
+Reason R : The plate load test does not give the ultimate settlement, particularly in the case of cohesive soils.
+#a Both A and R are true and R is the correct explanation of A
+#b Both A and R are true but R is not a correct explanation of A
+#c A is true but R is false
+#d A is false but R is true
+
+## 418 | tag=ES 94 | p=53 | check=No handwritten answer mark found for this question. | fix=Assertion-Reason question: options are the common codes printed once under 'Directions' before Q410.
+Assertion A : The quick sand leading to liquefaction is not a type of sand but a flow condition occurring within a cohesionless soil when its effective pressure is reduced to zero.
+Reason R : Equal amounts of the upward water pressure and the downward pressure of the submerged soil mass are acting.
+#a Both A and R are true and R is the correct explanation of A
+#b Both A and R are true but R is not a correct explanation of A
+#c A is true but R is false
+#d A is false but R is true
+
+## 419 | tag=ES 95 | p=53 | check=No handwritten answer mark found for this question. | fix=Assertion-Reason question: options are the common codes printed once under 'Directions' before Q410.
+Assertion A :Terzaghi's bearing capacity theory is not applied to deep foundations.
+Reason R : Shear strength is mobilized on the sides of deep foundations.
+#a Both A and R are true and R is the correct explanation of A
+#b Both A and R are true but R is not a correct explanation of A
+#c A is true but R is false
+#d A is false but R is true
+
+## 420 | tag=ES 95 | p=53 | check=No handwritten answer mark found for this question. | fix=Assertion-Reason question: options are the common codes printed once under 'Directions' before Q410.
+Assertion A : Bearing capacity of an under-reamed pile is less than that of a straight bored pile of the same diameter.
+Reason R : Under-reamed piles have enlarged bulbs.
+#a Both A and R are true and R is the correct explanation of A
+#b Both A and R are true but R is not a correct explanation of A
+#c A is true but R is false
+#d A is false but R is true
+
+## 421 | tag=ES 95 | p=53 | check=No handwritten answer mark found for this question. | fix=Assertion-Reason question: options are the common codes printed once under 'Directions' before Q410.
+Assertion A : At depth Z below the surface of a submerged soil, water pressure is γ_w Z and it is the stress caused by the water which is called the "neutral stress".
+Reason R : The water pressure acts equally in all directions and transmits the same fully on grain to grain contact causing compression in the soil.
+#a Both A and R are true and R is the correct explanation of A
+#b Both A and R are true but R is not a correct explanation of A
+#c A is true but R is false
+#d A is false but R is true
+
+## 422 | tag=ES 96 | p=53 | check=No handwritten answer mark found for this question. | fix=Assertion-Reason question: options are the common codes printed once under 'Directions' before Q410.
+Assertion A : The safe height (2Z₀) to which an unsupported vertical cut in clay can be made is 4C/γ.
+Reason R : Active earth pressure of cohesive backfill shows that the negative pressure (tension) is developed at top level. This tension decreases to zero at depth Z₀ and total net pressure up to a depth 2Z₀ is zero.
+#a Both A and R are true and R is the correct explanation of A
+#b Both A and R are true but R is not a correct explanation of A
+#c A is true but R is false
+#d A is false but R is true
+
+## 423 | tag=ES 96 & CS 96 | p=53 | check=No handwritten answer mark found for this question. | fix=Assertion-Reason question: options are the common codes printed once under 'Directions' before Q410.
+Assertion A : Negative skin friction will act on piles in filled up soils, which should be considered in design of pile foundations.
+Reason R : The filled up soils start consolidating and develop a drag force on the pile.
+#a Both A and R are true and R is the correct explanation of A
+#b Both A and R are true but R is not a correct explanation of A
+#c A is true but R is false
+#d A is false but R is true
+
+## 424 | tag=ES 97 | p=54 | check=No handwritten answer mark found for this question. | fix=Assertion-Reason question: options are the common codes printed once under 'Directions' before Q410.
+Assertion A : Constant-head permeability test is not used for fine-grained soils.
+Reason R :The lesser the permeability of the soil, lesser is the discharge.
+#a Both A and R are true and R is the correct explanation of A
+#b Both A and R are true but R is not a correct explanation of A
+#c A is true but R is false
+#d A is false but R is true
+
+## 425 | tag=ES 97 | p=54 | check=No handwritten answer mark found for this question. | fix=Assertion-Reason question: options are the common codes printed once under 'Directions' before Q410.
+Assertion A : In box shear test, the failure plane is predetermined and is horizontal.
+Reason R : The shear stress is applied in the vertical direction.
+#a Both A and R are true and R is the correct explanation of A
+#b Both A and R are true but R is not a correct explanation of A
+#c A is true but R is false
+#d A is false but R is true
+
+## 426 | tag=ES 97 | p=54 | check=No handwritten answer mark found for this question. | fix=Assertion-Reason question: options are the common codes printed once under 'Directions' before Q410.
+Assertion A : In the case of sand deposits with uniform density, N values are found to increase with depth.
+Reason R : Overburden pressure increases with depth below ground level.
+#a Both A and R are true and R is the correct explanation of A
+#b Both A and R are true but R is not a correct explanation of A
+#c A is true but R is false
+#d A is false but R is true
+
+## 427 | tag=ES 97 | p=54 | check=No handwritten answer mark found for this question. | fix=Assertion-Reason question: options are the common codes printed once under 'Directions' before Q410.
+Assertion A : In the case of unconfined compression test, Mohr's circle passes through the origin.
+Reason R : The major principal stress is zero.
+#a Both A and R are true and R is the correct explanation of A
+#b Both A and R are true but R is not a correct explanation of A
+#c A is true but R is false
+#d A is false but R is true
+
+## 428 | tag=ES 98 | p=54 | check=No handwritten answer mark found for this question. | fix=Assertion-Reason question: options are the common codes printed once under 'Directions' before Q410.
+Assertion A : Permeability continues to decrease with the increase in dry density of a compacted soil.
+Reason R : Soil particles in water surroundings may be mutually attracted or repulsed.
+#a Both A and R are true and R is the correct explanation of A
+#b Both A and R are true but R is not a correct explanation of A
+#c A is true but R is false
+#d A is false but R is true
+
+## 429 | tag=ES 98 | p=54 | check=No handwritten answer mark found for this question. | fix=Assertion-Reason question: options are the common codes printed once under 'Directions' before Q410.
+Assertion A : For a fully saturated soil, the pore pressure parameter is equal to zero.
+Reason R : The compressibility of water is much smaller than the coefficient of volume compressibility.
+#a Both A and R are true and R is the correct explanation of A
+#b Both A and R are true but R is not a correct explanation of A
+#c A is true but R is false
+#d A is false but R is true
+
+## 430 | tag=ES 99 | p=54 | check=No handwritten answer mark found for this question. | fix=Assertion-Reason question: options are the common codes printed once under 'Directions' before Q410.
+Assertion A : Wash boring is recommended to obtain undisturbed soil sample above ground water table.
+Reason R : In wash boring, water pumped through the hollow drill rods emerges through the ports of the chopping bit carrying disintegrated soil fragment.
+#a Both A and R are true and R is the correct explanation of A
+#b Both A and R are true but R is not a correct explanation of A
+#c A is true but R is false
+#d A is false but R is true
+
+## 431 | tag=ES 99 | p=54 | check=No handwritten answer mark found for this question. | fix=Assertion-Reason question: options are the common codes printed once under 'Directions' before Q410.
+Assertion A : Terzaghi's theory of consolidation considers only primary consolidation.
+Reason R : Secondary consolidation takes place only at the end of the primary consolidation.
+#a Both A and R are true and R is the correct explanation of A
+#b Both A and R are true but R is not a correct explanation of A
+#c A is true but R is false
+#d A is false but R is true
+
+## 432 | p=54 | check=No handwritten answer mark found for this question. | fix=Assertion-Reason question: options are the common codes printed once under 'Directions' before Q410.
+Assertion A : Mohr's circle for unconfined compression test passes through the origin.
+Reason R : In an unconfined compression test, the axial stress is equal to confining stress.
+#a Both A and R are true and R is the correct explanation of A
+#b Both A and R are true but R is not a correct explanation of A
+#c A is true but R is false
+#d A is false but R is true
+
+## 433 | tag=ES 96 | p=54 | check=No handwritten answer mark found for this question. | fix=Assertion-Reason question: options are the common codes printed once under 'Directions' before Q410.
+Assertion A : Secondary consolidation takes place at a rate much slower than that of primary consolidation.
+Reason R : There is dissipation of excess pore water pressure during secondary consolidation.
+#a Both A and R are true and R is the correct explanation of A
+#b Both A and R are true but R is not a correct explanation of A
+#c A is true but R is false
+#d A is false but R is true
+
+## 434 | tag=CS 98 | p=54 | check=No handwritten answer mark found for this question. | fix=Assertion-Reason question: options are the common codes printed once under 'Directions' before Q410.
+Assertion A : The ratio of operating frequency of machine 'f and natural frequency of foundation soil system 'fₙ should be either less than 0.5 or more than 1.5.
+Reason R : The high amplitude caused during resonance (f = fₙ) would damage the delicate parts of the machine.
+#a Both A and R are true and R is the correct explanation of A
+#b Both A and R are true but R is not a correct explanation of A
+#c A is true but R is false
+#d A is false but R is true
+
+## 435 | tag=CS 97 | p=54 | check=No handwritten answer mark found for this question. | fix=Assertion-Reason question: options are the common codes printed once under 'Directions' before Q410.
+Assertion A : When a saturated soil mass is subjected to consolidation, its volume at any instant is related to the total stress.
+Reason R : Total stress is equal to the sum of the effective stress and pore water pressure.
+#a Both A and R are true and R is the correct explanation of A
+#b Both A and R are true but R is not a correct explanation of A
+#c A is true but R is false
+#d A is false but R is true
+
+## 436 | tag=CS 97 | p=54 | check=No handwritten answer mark found for this question. | fix=Assertion-Reason question: options are the common codes printed once under 'Directions' before Q410.
+Assertion A : Highly plastic swelling type of clay can be best stabilized by using lime as admixture.
+Reason R : Absorption of water by lime in the soil improves its shear resistance.
+#a Both A and R are true and R is the correct explanation of A
+#b Both A and R are true but R is not a correct explanation of A
+#c A is true but R is false
+#d A is false but R is true
+
+## 437 | tag=CS 99 | p=54 | check=No handwritten answer mark found for this question. | fix=Assertion-Reason question: options are the common codes printed once under 'Directions' before Q410.
+Assertion A : The load carrying capacity of bored cast in-situ pile in a sandy soil is much less than that of a driven pile of similar dimensions.
+Reason R : A drive pile generates much more point bearing resistance than a bored pile.
+#a Both A and R are true and R is the correct explanation of A
+#b Both A and R are true but R is not a correct explanation of A
+#c A is true but R is false
+#d A is false but R is true
+
+## 438 | tag=CS 99 | p=54 | check=No handwritten answer mark found for this question. | fix=Assertion-Reason question: options are the common codes printed once under 'Directions' before Q410.
+Assertion A : The phenomenon of quicksand occurs mostly in coarse sands and gravels.
+Reason R : Quicksand condition does not occur in clayey soils as their cohesion holds the grains together even under upward flow at critical hydraulic gradient.
+#a Both A and R are true and R is the correct explanation of A
+#b Both A and R are true but R is not a correct explanation of A
+#c A is true but R is false
+#d A is false but R is true
