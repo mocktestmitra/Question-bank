@@ -1,0 +1,2680 @@
+# Transcript of Civil/180-281.pdf (format: see header of data/Civil/1-92.txt)
+# NOTE: this file starts at book page 201 (chapter 8). Book pages 179-200 (end of ch.6 and all of ch.7
+# Construction Planning and Management) are not present in any uploaded PDF.
+
+@chapter 8 Soil Mechanics and Foundation Engineering
+
+## 1 | p=1 | hw=d
+Residual soils are formed by
+#a glaciers
+#b wind
+#c water
+#d none of the above
+
+## 2 | p=1 | hw=d
+Water content of soil can
+#a never be greater than 100 %
+#b take values only from 0 % to 100 %
+#c be less than 0 %
+#d be greater than 100 %
+
+## 3 | p=1 | hw=b
+Which of the following types of soil is transported by gravitational forces ?
+#a loess
+#b talus
+#c drift
+#d dune sand
+
+## 4 | p=1 | hw=c
+A fully saturated soil is said to be
+#a one phase system
+#b two phase system with soil and air
+#c two phase system with soil and water
+#d three phase system
+
+## 5 | p=1 | hw=d
+Valid range for S, the degree of saturation of soil in percentage is
+#a S > 0
+#b S ≤ 0
+#c 0 < S < 100
+#d 0 ≤ S ≤ 100
+
+## 6 | p=1 | hw=d
+The submerged density of soil in terms of unit weight of water γ_w, specific gravity G and voids ratio e is given by the expression
+#a γ_w (G + 1)/(1 + e)
+#b γ_w (G – 1)/(1 – e)
+#c γ_w (G + 1)/(1 – e)
+#d γ_w (G – 1)/(1 + e)
+
+## 7 | p=1 | hw=b
+A soil has a bulk density of 22 kN/m³ and water content 10 %. The dry density of soil is
+#a 18.6 kN/m³
+#b 20.0 kN/m³
+#c 22.0 kN/m³
+#d 23.2 kN/m³
+
+## 8 | p=1 | hw=c
+If the voids of a soil mass are full of air only, the soil is termed as
+#a air entrained soil
+#b partially saturated soil
+#c dry soil
+#d dehydrated soil
+
+## 9 | p=1 | hw=a
+Valid range for n, the percentage voids, is
+#a 0 < n < 100
+#b 0 ≤ n ≤ 100
+#c n > 0
+#d n ≤ 0
+
+## 10 | p=1-2 | hw=d
+Select the correct statement.
+#a Unit weight of dry soil is greater than unit weight of wet soil.
+#b For dry soils, dry unit weight is less than total unit weight.
+#c Unit weight of soil increases due to submergence in water.
+#d Unit weight of soil decreases due to submergence in water.
+
+## 11 | p=2 | hw=c
+Voids ratio of a soil mass can
+#a never be greater than unity
+#b be zero
+#c take any value greater than zero
+#d take values between 0 and 1 only
+
+## 12 | p=2 | hw=c
+If the volume of voids is equal to the volume of solids in a soil mass, then the values of porosity and voids ratio respectively are
+#a 1.0 and 0.0
+#b 0.0 and 1.0
+#c 0.5 and 1.0
+#d 1.0 and 0.5
+
+## 13 | p=2 | hw=b
+When the degree of saturation is zero, the soil mass under consideration represents
+#a one phase system
+#b two phase system with soil and air
+#c two phase system with soil and water
+#d three phase system
+
+## 14 | p=2 | hw=d
+Select the correct range of density index, I_D
+#a I_D > 0
+#b I_D ≥ 0
+#c 0 < I_D < 1
+#d 0 ≤ I_D ≤ 1
+
+## 15 | p=2 | hw=a
+If the degree of saturation of a partially saturated soil is 60%, then air content of the soil is
+#a 40%
+#b 60%
+#c 80%
+#d 100%
+
+## 16 | p=2 | hw=b
+If the water content of a fully saturated soil mass is 100%, then the voids ratio of the sample is
+#a less than specific gravity of soil
+#b equal to specific gravity of soil
+#c greater than specific gravity of soil
+#d independent of specific gravity of soil
+
+## 17 | p=2 | hw=b
+The ratio of volume of voids to the total volume of soil mass is called
+#a air content
+#b porosity
+#c percentage air voids
+#d voids ratio
+
+## 18 | p=2 | hw=c
+Relative density of a compacted dense sand is approximately equal to
+#a 0.4
+#b 0.6
+#c 0.95
+#d 1.20
+
+## 19 | p=2 | hw=b
+If the sand in-situ is in its densest state, then the relative density of sand is
+#a zero
+#b 1
+#c between 0 and 1
+#d greater than 1
+
+## 20 | p=2 | hw=a
+Which of the following methods is most accurate for the determination of the water content of soil ?
+#a oven drying method
+#b sand bath method
+#c calcium carbide method
+#d pycnometer method
+
+## 21 | p=2 | hw=d
+For proper field control, which of the following methods is best suited for quick determination of water content of a soil mass ?
+#a oven drying method
+#b sand bath method
+#c alcohol method
+#d calcium carbide method
+
+## 22 | p=2 | hw=c
+A pycnometer is used to determine
+#a water content and voids ratio
+#b specific gravity and dry density
+#c water content and specific gravity
+#d voids ratio and dry density
+
+## 23 | p=2 | hw=c
+Stoke's law is valid only if the size of particle is
+#a less than 0.0002 mm
+#b greater than 0.2 mm
+#c between 0.2 mm and 0.0002 mm
+#d all of the above
+
+## 24 | p=2-3 | hw=c
+In hydrometer analysis for a soil mass
+#a both meniscus correction and dispersing agent correction are additive
+#b both meniscus correction and dispersing agent correction are subtractive
+#c meniscus correction is additive and dispersing agent correction is subtractive
+#d meniscus correction is subtractive and dispersing agent correction is additive
+
+## 25 | p=3 | hw=b
+The hydrometer method of sedimentation analysis differs from the pipette analysis mainly in
+#a the principle of test
+#b the method of taking observations
+#c the method of preparation of soil suspension
+#d all of the above
+
+## 26 | p=3 | hw=b
+Which of the following is a measure of particle size range ?
+#a effective size
+#b uniformity coefficient
+#c coefficient of curvature
+#d none of the above
+
+## 27 | p=3 | hw=d
+Which of the following statements is correct?
+#a Uniformity coefficient represents the shape of the particle size distribution curve.
+#b For a well graded soil, both uniformity coefficient and coefficient of curvature are nearly unity.
+#c A soil is said to be well graded if it has most of the particles of about the same size
+#d none of the above
+
+## 28 | p=3 | hw=d
+Uniformity coefficient of a soil is
+#a always less than 1
+#b always equal to 1
+#c equal to or less than 1
+#d equal to or greater than 1
+
+## 29 | p=3 | hw=b
+According to Atterberg, the soil is said to be of medium plasticity if the plasticity index PI is
+#a 0 < PI < 7
+#b 7 ≤ PI ≤ 17
+#c 17< PI < 27
+#d PI ≥ 27
+
+## 30 | p=3 | hw=b
+If the natural water content of soil mass lies between its liquid limit and plastic limit, the soil mass is said to be in
+#a liquid state
+#b plastic state
+#c semi-solid state
+#d solid state
+
+## 31 | p=3 | hw=c
+The ratio (Liquid Limit - Water Content)/(Plasticity Index) for a soil mass is called
+#a liquidity index
+#b shrinkage ratio
+#c consistency index
+#d toughness index
+
+## 32 | p=3 | hw=b
+When the plastic limit of a soil is greater than the liquid limit, then the plasticity index is reported as
+#a negative
+#b zero
+#c non-plastic (NP)
+#d 1
+
+## 33 | p=3 | hw=b
+Toughness index is defined as the ratio of
+#a plasticity index to consistency index
+#b plasticity index to flow index
+#c liquidity index to flow index
+#d consistency index to liquidity index
+
+## 34 | p=3 | hw=a
+If the plasticity index of a soil mass is zero, the soil is
+#a sand
+#b silt
+#c clay
+#d clayey silt
+
+## 35 | p=3 | hw=c
+The admixture of coarser particles like sand or silt to clay causes
+#a decrease in liquid limit and increase in plasticity index
+#b decrease in liquid limit and no change in plasticity index
+#c decrease in both liquid limit and plasticity index
+#d increase in both liquid limit and plasticity index
+
+## 36 | p=3-4 | hw=b
+Select the correct statement.
+#a A uniform soil has more strength and stability than a non-uniform soil.
+#b A uniform soil has less strength and stability than a non-uniform soil.
+#c Uniformity coefficient does not affect strength and stability.
+#d Uniformity coefficient of a poorly graded soil is more than that of a well graded soil.
+
+## 37 | p=4 | hw=b
+The following index properties were determined for four soils A, B, C and D.
+Soil / Property — A — B — C — D
+Liquid limit — 0.50 — 0.49 — 0.43 — 0.47
+Plastic limit — 0.23 — 0.17 — 0.21 — 0.26
+Which of these soils contains more clay particles ?
+#a Soil A
+#b Soil B
+#c Soil C
+#d Soil D
+
+## 38 | p=4 | hw=a
+The water content of soil, which represents the boundary between plastic state and liquid state, is known as
+#a liquid limit
+#b plastic limit
+#c shrinkage limit
+#d plasticity index
+
+## 39 | p=4 | hw=c
+Which of the following soils has more plasticity index ?
+#a sand
+#b silt
+#c clay
+#d gravel
+
+## 40 | p=4 | hw=a
+At liquid limit, all soils possess
+#a same shear strength of small magnitude
+#b same shear strength of large magnitude
+#c different shear strengths of small magnitude
+#d different shear strengths of large magnitude
+
+## 41 | p=4 | hw=a
+If the material of the base of the Casagrande liquid limit device on which the cup containing soil paste drops is softer than the standard hard rubber, then
+#a the liquid limit of soil always increases
+#b the liquid limit of soil always decreases
+#c the liquid limit of soil may increase
+#d the liquid limit of soil may decrease
+
+## 42 | p=4 | hw=d
+According to IS classification, the range of silt size particles is
+#a 4.75 mm to 2.00 mm
+#b 2.00 mm to 0.425 mm
+#c 0.425 mm to 0.075 mm
+#d 0.075 mm to 0.002 mm
+
+## 43 | p=4 | hw=c
+Highway Research Board (HRB) classification of soils is based on
+#a particle size composition
+#b plasticity characteristics
+#c both particle size composition and plasticity characteristics
+#d none of the above
+
+## 44 | p=4 | hw=c
+Inorganic soils with low compressibility are represented by
+#a MH
+#b SL
+#c ML
+#d CH
+
+## 45 | p=4 | hw=a
+Sand particles are made of
+#a rock minerals
+#b kaolinite
+#c illite
+#d montmorillonite
+
+## 46 | p=4 | hw=c
+The clay mineral with the largest swelling and shrinkage characteristics is
+#a kaolinite
+#b illite
+#c montmorillonite
+#d none of the above
+
+## 47 | p=4 | hw=a
+Dispersed type of soil structure is an arrangement comprising particles having
+#a face to face or parallel orientation
+#b edge to edge orientation
+#c edge to face orientation
+#d all of the above
+
+## 48 | p=4 | hw=c
+Effective stress is
+#a the stress at particles contact
+#b a physical parameter that can be measured
+#c important because it is a function of engineering properties of soil
+#d all of the above
+
+## 49 | p=5 | hw=a
+Rise of water table above the ground surface causes
+#a equal increase in pore water pressure and total stress
+#b equal decrease in pore water pressure and total stress
+#c increase in pore water pressure but decrease in total stress
+#d decrease in pore water pressure but increase in total stress
+
+## 50 | p=5 | hw=b
+The total and effective stresses at a depth of 5 m below the top level of water in a swimming pool are respectively
+#a zero and zero
+#b 0.5 kg/cm² and zero
+#c 0.5 kg/cm² and 0.5 kg/cm²
+#d 1.0 kg/cm² and 0.5 kg/cm²
+
+## 51 | p=5 | hw=b
+If the water table rises upto ground surface, then the
+#a effective stress is reduced due to decrease in total stress only but pore water pressure does not change
+#b effective stress is reduced due to increase in pore water pressure only but total stress does not change
+#c total stress is reduced due to increase in pore water pressure only but effective stress does not change
+#d total stress is increased due to decrease in pore water pressure but effective stress does not change
+
+## 52 | tag=CS 96 | p=5 | hw=b
+The critical hydraulic gradient i_c of a soil mass of specific gravity G and voids ratio e is given by
+#a i_c = (G + 1)/(1 – e)
+#b i_c = (G – 1)/(1 + e)
+#c i_c = (G + 1)/(1 + e)
+#d i_c = (G – 1)/(1 – e)
+
+## 53 | p=5 | hw=c
+Quick sand is a
+#a type of sand
+#b flow condition occurring in cohesive soils
+#c flow condition occurring in cohesionless soils
+#d flow condition occurring in both cohesive and cohesionless soils
+
+## 54 | p=5 | hw=b
+The hydraulic head that would produce a quick condition in a sand stratum of thickness 1.5 m, specific gravity 2.67 and voids ratio 0.67 is equal to
+#a 1.0m
+#b 1.5 m
+#c 2.0 m
+#d 3m
+
+## 55 | p=5 | hw=c
+Physical properties of a permeant which influence permeability are
+#a viscosity only
+#b unit weight only
+#c both viscosity and unit weight
+#d none of the above
+
+## 56 | p=5 | hw=b
+Select the correct statement.
+#a The greater the viscosity, the greater is permeability.
+#b The greater the unit weight, the greater is permeability.
+#c The greater the unit weight, the smaller is permeability.
+#d Unit weight does not affect permeability.
+
+## 57 | p=5 | hw=c
+Effective stress on soil
+#a increases voids ratio and decreases permeability
+#b increases both voids ratio and permeability
+#c decreases both voids ratio and permeability
+#d decreases voids ratio and increases permeability
+
+## 58 | p=5 | hw=b
+If the permeability of a soil is 0.8 mm/ sec, the type of soil is
+#a gravel
+#b sand
+#c silt
+#d clay
+
+## 59 | p=5-6 | hw=b
+Which of the following methods is more suitable for the determination of permeability of clayey soil ?
+#a constant head method
+#b falling head method
+#c horizontal permeability test
+#d none of the above
+
+## 60 | p=6 | hw=a
+Which of the following methods is best suited for determination of permeability of coarse-grained soils ?
+#a constant head method
+#b falling head method
+#c both the above
+#d none of the above
+
+## 61 | p=6 | hw=b
+Due to a rise in temperature, the viscosity and the unit weight of the percolating fluid are reduced to 60% and 90% respectively. If other things remain constant, the coefficient of permeability
+#a increases by 25%
+#b increases by 50%
+#c increases by 33.3%
+#d decreases by 33.3%
+
+## 62 | p=6 | hw=b
+Coefficient of permeability of soil
+#a does not depend upon temperature
+#b increases with the increase in temperature
+#c increases with the decrease in temperature
+#d none of the above
+
+## 63 | p=6 | hw=a
+The average coefficient of permeability of natural deposits
+#a parallel to stratification is always greater than that perpendicular to stratification
+#b parallel to stratification is always less than that perpendicular to stratification
+#c is always same in both directions
+#d parallel to stratification may or may not be greater than that perpendicular to stratification
+
+## 64 | p=6 | hw=b
+The total discharge from two wells situated near to each other is
+#a sum of the discharges from individual wells
+#b less than the sum of the discharges from individual wells
+#c greater than the sum of the discharges from individual wells
+#d equal to larger of the two discharges from individual wells
+
+## 65 | p=6 | hw=a
+The flownet for an earthen dam with 30 m water depth consists of 25 potential drops and 5 flow channels. The coefficient of permeability of dam material is 0.03 mm/sec. The discharge per metre length of dam is
+#a 0.00018 m³/sec
+#b 0.0045 m³/sec
+#c 0.18 m³/sec
+#d 0.1125 m³/sec
+
+## 66 | p=6 | hw=d
+The most suitable method for drainage of fine grained cohesive soils is
+#a well point system
+#b vacuum method
+#c deep well system
+#d electro-osmosis method
+
+## 67 | p=6 | hw=c
+Total number of stress components at a point within a soil mass loaded at its boundary is
+#a 3
+#b 6
+#c 9
+#d 16
+
+## 68 | p=6-7 | hw=d
+Boussinesq's influence factor for vertical pressure at depth z and at the centre of a circular area of diameter 'a' carrying uniformly distributed load is
+#a [1 – 1/(1 + (a/z)²)]^(3/2)
+#b (3/2π)[1/(1 + (a/z)²)]^(5/2)
+#c 1 – [1/(1 + (a/z)²)]^(3/2)
+#d 1 – [1/(1 + (a/2z)²)]^(3/2)
+
+## 69 | p=7 | hw=a
+The intensity of vertical pressure directly below a concentrated load of 3/2π tonnes at a depth of 3/2π metres is given by
+#a 1 t/m²
+#b 1/2 t/m²
+#c 3/2 t/m²
+#d (3/2π)^(3/2) t/m²
+
+## 70 | p=7 | hw=c
+Vertical stress on a vertical line at a constant radial distance from the axis of a vertical load
+#a is same at all depths
+#b increases with depth
+#c first increases, attains a maximum value and then decreases
+#d first decreases, attains a minimum value and then increases
+
+## 71 | p=7 | hw=b
+Phreatic line in an earthen dam is
+#a straight line
+#b parabolic
+#c circular
+#d elliptical
+
+## 72 | p=7 | hw=b
+The hydrostatic pressure on the pnreatic line within a dam section is
+#a less than atmospheric pressure
+#b equal to atmospheric pressure
+#c greater than atmospheric pressure
+#d none of the above
+
+## 73 | p=7 | hw=b
+Rate of consolidation
+#a increases with decrease in temperature
+#b increases with increase in temperature
+#c is independent of temperature
+#d is unaffected by permeability of soil
+
+## 74 | p=7 | hw=b
+The unit of the coefficient of consolidation is
+#a cm²/gm
+#b cm²/sec
+#c gm/cm²/sec
+#d gm-cm/sec
+
+## 75 | p=7 | hw=d
+Terzaghi's basic differential equation for one dimensional consolidation of clayey soils is
+#a ∂ū/∂t = C_v ∂ū/∂z
+#b ∂ū/∂z = C_v ∂²ū/∂t²
+#c ∂²ū/∂t² = C_v ∂ū/∂z
+#d ∂ū/∂t = C_v ∂²ū/∂z²
+
+## 76 | p=7 | hw=c
+The slope of isochrone at any point at a given time indicates the rate of change of
+#a effective stress with time
+#b effective stress with depth
+#c pore water pressure with depth
+#d pore water pressure with time
+
+## 77 | p=7 | hw=b
+Within the consolidation process of a saturated clay
+#a a gradual increase in neutral pressure and a gradual decrease in effective pressure takes place and sum of the two is constant
+#b a gradual decrease in neutral pressure and a gradual increase in effective pressure takes place and sum of the two is constant
+#c both neutral pressure and effective pressure decrease
+#d both neutral pressure and effective pressure increase
+
+## 78 | p=7 | hw=b
+The value of compression index for a remoulded sample whose liquid limit is 50% is
+#a 0.028
+#b 0.28
+#c 0.36
+#d 0.036
+
+## 79 | tag=ES 98 | p=7-8 | hw=a
+Which one of the following clays behaves like a dense sand ?
+#a over-consolidated clay with a high over-consolidation ratio
+#b over-consolidated clay with a low over-consolidation ratio
+#c normally consolidated clay
+#d under-consolidated clay
+
+## 80 | p=8 | hw=c
+Coefficient of consolidation of a soil is affected by
+#a compressibility
+#b permeability
+#c both compressibility and permeability
+#d none of the above
+
+## 81 | p=8 | hw=b
+Degree of consolidation is
+#a directly proportional to time and inversely proportional to drainage path
+#b directly proportional to time and inversely proportional to square of drainage path
+#c directly proportional to drainage path and inversely proportional to time
+#d directly proportional to square of drainage path and inversely proportional to time
+
+## 82 | p=8 | hw=b
+Time factor for a clay layer is
+#a a dimensional parameter
+#b directly proportional to permeability of soil
+#c inversely proportional to drainage path
+#d independent of thickness of clay layer
+
+## 83 | p=8 | hw=a
+If the time required for 50% consolidation of a remoulded sample of clay with single drainage is t, then the time required to consolidate the same sample of clay with same degree of consolidation but with double drainage is
+#a t/4
+#b t/2
+#c 2t
+#d 4t
+
+## 84 | p=8 | hw=a
+Clay layer A with single drainage and coefficient of consolidation C_v takes 6 months to achieve 50% consolidation. The time taken by clay layer B of the same thickness with double drainage and coefficient of consolidation C_v/2 to achieve the same degree of consolidation is
+#a 3 months
+#b 6 months
+#c 12 months
+#d 24 months
+
+## 85 | p=8 | hw=a
+Coefficient of consolidation for clays normally
+#a decreases with increase in liquid limit
+#b increases with increase in liquid limit
+#c first increases and then decreases with increase in liquid limit
+#d remains constant at all liquid limits
+
+## 86 | p=8 | hw=a
+Direct measurement of permeability of the specimen at any stage of loading can be made
+#a only in fixed ring type consolidometer
+#b only in floating ring type consolidometer
+#c both (a) and (b)
+#d none of the above
+
+## 87 | p=8 | hw=c
+Compressibility of sandy soils is
+#a almost equal to that of clayey soils
+#b much greater than that of clayey soils
+#c much less than that of clayey soils
+#d none of the above
+
+## 88 | p=8 | hw=a
+Select the correct statement.
+#a coefficient of compressibility of an over-consolidated clay is less than that of a normally consolidated clay
+#b coefficient of compressibility of an over-consolidated clay is greater than that of a normally consolidated clay
+#c coefficient of compressibility is constant for any clay
+#d none of the above
+
+## 89 | p=8 | hw=b
+Coefficient of compressibility is
+#a constant for any type of soil
+#b different for different types of soils and also different for a soil under different states of consolidation
+#c different for different types of soils but same for a soil under different states of consolidation
+#d independent of type of soil but depends on the stress history of soil
+
+## 90 | p=9 | hw=a
+The ultimate consolidation settlement of a structure resting on a soil
+#a decreases with the increase in the initial voids ratio
+#b decreases with the decrease in the plastic limit
+#c increases with the increase in the initial voids ratio
+#d increases with the decrease in the porosity of the soil
+
+## 91 | p=9 | hw=b
+The ultimate consolidation settlement of a soil is
+#a directly proportional to the voids ratio
+#b directly proportional to the compression index
+#c inversely proportional to the compression index
+#d none of the above
+
+## 92 | p=9 | hw=a
+A normally consolidated clay settled 10 mm when effective stress was increased from 100 kN/m² to 200 kN/ m². If the effective stress is further increased from 200 kN/ m² to 400 kN/ m², then the settlement of the same clay is
+#a 10 mm
+#b 20 mm
+#c 40 mm
+#d none of the above
+
+## 93 | p=9 | hw=d
+Coarse grained soils are best compacted by a
+#a drum roller
+#b rubber tyred roller
+#c sheep's foot roller
+#d vibratory roller
+
+## 94 | tag=ES 93 | p=9 | hw=b
+With the increase in the amount of compaction energy
+#a optimum water content increases but maximum dry density decreases
+#b optimum water content decreases but maximum dry density increases
+#c both optimum water content and maximum dry density increase
+#d both optimum water content and maximum dry density decrease
+
+## 95 | p=9 | hw=c
+The maximum dry density upto which any soil can be compacted depends upon
+#a moisture content only
+#b amount of compaction energy only
+#c both moisture content and amount of compaction energy
+#d none of the above
+
+## 96 | p=9 | hw=c
+Relationship between dry density γ_d, percentage air voids n_a, water content w and specific gravity G of any soil is
+#a γ_d = (1 + n_a)Gγ_w/(1 + wG)
+#b γ_d = (1 + n_a)Gγ_w/(1 – wG)
+#c γ_d = (1 – n_a)Gγ_w/(1 + wG)
+#d γ_d = (1 – n_a)Gγ_w/(1 – wG)
+
+## 97 | p=9 | hw=b
+For better strength and stability, the fine grained soils and coarse grained soils are compacted respectively as
+#a dry of OMC and wet of OMC
+#b wet of OMC and dry of OMC
+#c wet of OMC and wet of OMC
+#d dry of OMC and dry of OMC
+#note where OMC is optimum moisture content
+
+## 98 | p=9 | hw=a
+Select the incorrect statement.
+#a Effective cohesion of a soil can never have a negative value.
+#b Effective angle of internal friction for coarse grained soils is rarely below 30°
+#c Effective angle of internal friction for a soil increases as state of compactness increases.
+#d Effective angle of internal friction is a complicated function of mineralogy and clay size content.
+
+## 99 | p=9-10 | hw=c
+For a loose sand sample and a dense sand sample consolidated to the same effective stress
+#a ultimate strength is same and also peak strength is same
+#b ultimate strength is different but peak strength is same
+#c ultimate strength is same but peak strength of dense sand is greater than that of loose sand
+#d ultimate strength is same but peak strength of loose sand is greater than that of dense sand
+
+## 100 | p=10 | hw=d
+The shear strength of a soil
+#a is directly proportional to the angle of internal friction of the soil
+#b is inversely proportional to the angle of internal friction of the soil
+#c decreases with increase in normal stress
+#d decreases with decrease in normal stress
+
+## 101 | p=10 | hw=a
+In a consolidated drained test on a normally consolidated clay, the volume of the soil sample during shear
+#a decreases
+#b increases
+#c remains unchanged
+#d first increases and then decreases
+
+## 102 | tag=CS 95 | p=10 | hw=a
+Skempton's pore pressure coefficient B for saturated soil is
+#a 1
+#b zero
+#c between 0 and 1
+#d greater than 1
+
+## 103 | p=10 | hw=a
+Shear strength of a soil is a unique function of
+#a effective stress only
+#b total stress only
+#c both effective stress and total stress
+#d none of the above
+
+## 104 | p=10 | hw=c
+In a deposit of normally consolidated clay
+#a effective stress increases with depth but water content of soil and undrained strength decrease with depth
+#b effective stress and water content increase with depth but undrained strength decreases with depth
+#c effective stress and undrained strength increase with depth but water content decreases with depth
+#d effective stress, water content and undrained strength decrease with depth
+
+## 105 | p=10 | hw=c
+Select the incorrect statement.
+Effective angle of shearing resistance
+#a increases as the size of particles increases
+#b increases as the soil gradation improves
+#c is limited to a maximum value of 45°
+#d is rarely more than 30° for fine grained soil
+
+## 106 | p=10 | hw=a
+Unconfined compressive strength test is
+#a undrained test
+#b drained test
+#c consolidated undrained test
+#d consolidated drained test
+
+## 107 | p=10 | hw=b
+A cylindrical specimen of saturated soil failed under an axial vertical stress of 100kN/m² when it was laterally unconfined. The failure plane was inclined to the horizontal plane at an angle of 45°. The values of cohesion and angle of internal friction for the soil are respectively
+#a 0.5 N/mm² and 30°
+#b 0.05 N/mm² and 0°
+#c 0.2 N/mm² and 0°
+#d 0.05 N/mm² and 45°
+
+## 108 | p=10 | hw=a
+In an unconfined compression test on a clay specimen of initial volume V and length L, the area of cross-section at failure is taken as
+#a V/(L – ΔL)
+#b (V + ΔV)/(L – ΔL)
+#c (V – ΔV)/(L – ΔL)
+#d V/(L + ΔL)
+#note where ΔL is the change in length and ΔV is change in volume
+
+## 109 | p=10 | hw=b
+The angle that Coulomb's failure envelope makes with the horizontal is called
+#a cohesion
+#b angle of internal friction
+#c angle of repose
+#d none of the above
+
+## 110 | p=10-11 | hw=b
+In a triaxial compression test on a soil specimen, the intermediate principal stress is equal to
+#a major principal stress
+#b minor principal stress
+#c difference between major and minor principal stresses
+#d none of the above
+
+## 111 | p=11 | hw=b
+If a cohesive soil specimen is subjected to a vertical compressive load, the inclination of the cracks to the horizontal is
+#a 90°
+#b 45°
+#c 22.5°
+#d 0°
+
+## 112 | p=11 | hw=d
+Select the incorrect statement.
+#a In a direct shear box test, the plane of shear failure is predetermined.
+#b Better control is achieved on the drainage of the soil in a triaxial compression test.
+#c Stress distribution on the failure plane in the case of triaxial compression test is uniform.
+#d Unconfined compression test can be carried out on all types of soils.
+
+## 113 | p=11 | hw=b
+If the shearing stress is zero on two planes, then the angle between the two planes is
+#a 45°
+#b 90°
+#c 135°
+#d 225°
+
+## 114 | p=11 | hw=d
+In the triaxial compression test, the application of additional axial stress (i.e. deviator stress) on the soil specimen produces shear stress on
+#a horizontal plane only
+#b vertical plane only
+#c both horizontal and vertical planes
+#d all planes except horizontal and vertical planes
+
+## 115 | p=11 | hw=a
+The state of stress on a plane inclined at an angle of 45° to the horizontal plane is represented on the Mohr's circle by a point at which
+#a normal stress is (σ₁ + σ₃)/2 and shear stress is (σ₁ – σ₃)/2
+#b normal stress is (σ₁ – σ₃)/2 and shear stress is (σ₁ + σ₃)/2
+#c normal stress is (σ₁ + σ₃)/2 and shear stress is zero
+#d both normal stress and shear stress are equal
+#note where σ₁ and σ₃ are major and minor principal stresses respectively
+
+## 116 | p=11 | hw=b
+In a triaxial compression test when drainage is allowed during the first stage (i.e. application of cell pressure) only and not during the second stage (i.e. application of deviator stress at constant cell pressure), the test is known as
+#a consolidated drained test
+#b consolidated undrained test
+#c unconsolidated drained test
+#d unconsolidated undrained test
+
+## 117 | p=11 | hw=a | fig=11:0.6,0.4,0.92,0.65 | fix=Options are the four Mohr-circle sketches (a)-(d) in Fig. 8.1; see figure.
+When a soil sample is subjected to a uniformly distributed fluid pressure only, in a triaxial compression test, the Mohr's representation of the state of stress on sample is
+#a Fig. 8.1 (a): point at σ₁ = σ₃
+#b Fig. 8.1 (b): full circle from σ₃ to σ₁ with centre σ_c
+#c Fig. 8.1 (c): semicircle from σ₃ = 0 to σ₁ with centre σ_c
+#d Fig. 8.1 (d): semicircle from σ₃ (negative) to σ₁, centred at origin
+
+## 118 | p=11-12 | hw=d
+When a sample of sand is sheared under undrained condition, then
+#a volume of dense sand increases and that of loose sand decreases
+#b volume of dense sand decreases and that of loose sand increases
+#c volume of both dense sand and loose sand decreases
+#d volume does not change
+
+## 119 | p=12 | hw=c
+The ratio of the undisturbed shear strength to the remoulded shear strength in cohesive soils under undrained conditions is
+#a zero
+#b 1
+#c greater than 1
+#d between 0 and 1
+
+## 120 | p=12 | hw=a
+During the first stage of triaxial test when the cell pressure is increased from 0.10 N/mm² to 0.26 N/mm², the pore water pressure increases from 0.07 N/mm² to 0.15 N/mm². Skempton's pore pressure parameter B is
+#a 0.5
+#b – 0.5
+#c 2.0
+#d – 2.0
+
+## 121 | p=12 | hw=b
+Sensitivity of a soil can be defined as
+#a percentage of volume change of soil under saturated condition
+#b ratio of compressive strength of unconfined undisturbed soil to that of soil in a remoulded state
+#c ratio of volume of voids to volume of solids
+#d none of the above
+
+## 122 | p=12 | hw=c
+Rankine's theory of earth pressure assumes that the back of the wall is
+#a plane and smooth
+#b plane and rough
+#c vertical and smooth
+#d vertical and rough
+
+## 123 | p=12 | hw=a
+The coefficient of active earth pressure for a loose sand having an angle of internal friction of 30° is
+#a 1/3
+#b 3
+#c 1
+#d 1/2
+
+## 124 | p=12 | hw=a
+The major principal stress in an element of cohesionless soil within the backfill of a retaining wall is
+#a vertical if the soil is in an active state of plastic equilibrium
+#b vertical if the soil is in a passive state of plastic equilibrium
+#c inclined at 45° to the vertical plane
+#d none of the above
+
+## 125 | p=12 | hw=a
+Passive earth pressure in a soil mass is proportional to
+#a tan²(45° + ϕ/2)
+#b μ/(1 – μ)
+#c tan²(45° – ϕ/2)
+#d cot²(45° + ϕ/2)
+#note where μ is Poisson's ratio and ϕ is the effective angle of internal friction of soil.
+
+## 126 | tag=GATE 99 | p=12 | hw=c
+The effect of cohesion on a soil is to
+#a reduce both the active earth pressure intensity and passive earth pressure intensity
+#b increase both the active earth pressure intensity and passive earth pressure intensity
+#c reduce the active earth pressure intensity but to increase the passive earth pressure intensity
+#d increase the active earth pressure intensity but to reduce the passive earth pressure intensity
+
+## 127 | p=12 | hw=c
+A retaining wall 6m high supports a backfill with a surcharge angle of 10°. The back of the wall is inclined to the vertical at a positive batter angle of 5°. If the angle of wall friction is 7°, then the resultant active earth pressure will act at a distance of 2 m above the base and inclined to the horizontal at an angle of
+#a 7°
+#b 10°
+#c 12°
+#d 17°
+
+## 128 | p=12 | hw=b
+Coefficient of earth pressure at rest is
+#a less than active earth pressure but greater than passive earth pressure
+#b greater than active earth pressure but less than passive earth pressure
+#c greater than both the active earth pressure and passive earth pressure
+#d less than both the active and passive earth pressures
+
+## 129 | p=12 | hw=b
+If the top surface of the backfill of a retaining wall is inclined to the horizontal at an angle β, then the coefficient of passive earth pressure is equal to
+#a cos β (cos β – √(cos² β – cos² ϕ))/(cos β + √(cos² β – cos² ϕ))
+#b cos β (cos β + √(cos² β – cos² ϕ))/(cos β – √(cos² β – cos² ϕ))
+#c (cos β + √(cos² β – cos² ϕ))/(cos β (cos β – √(cos² β – cos² ϕ)))
+#d (cos β – √(cos² β – cos² ϕ))/(cos β (cos β + √(cos² β – cos² ϕ)))
+#note where ϕ is the angle of internal friction of soil
+
+## 130 | p=12 | hw=a
+The critical height of an unsupported vertical cut in a cohesive soil is given by
+#a (4C/γ) tan(45⁰ + ϕ/2)
+#b (2C/γ) tan(45⁰ + ϕ/2)
+#c (4C/γ) cot(45⁰ + ϕ/2)
+#d (2C/γ) cot(45⁰ + ϕ/2)
+#note where C = unit cohesion
+ϕ = angle of internal friction
+γ = unit weight of soil
+
+## 131 | p=12-13 | hw=b
+Total lateral earth pressure is proportional to
+#a depth of soil
+#b square of depth of soil
+#c angle of internal friction of soil
+#d none of above
+
+## 132 | p=13 | hw=c
+Cohesive soils are
+#a good for backfill because of low lateral pressure
+#b good for backfill because of high shear strength
+#c poor for backfill because of large lateral pressure
+#d none of the above
+
+## 133 | p=13 | hw=d
+Which of the following earth pressure theories is directly applicable to bulkheads?
+#a Rankine's theory
+#b Coulomb's theory
+#c both
+#d none of the above
+
+## 134 | p=13 | hw=d
+Taylor's stability number is equal to
+#a C/(F_c H)
+#b C/(F_c γ H_c)
+#c C/(γH)
+#d C/(γH_c)
+#note where C = unit cohesion
+F_c = factor of safety with respect to cohesion
+γ = unit weight of soil
+H_c = critical height
+H = actual height
+
+## 135 | p=13 | hw=d
+For a base failure, the depth factor D_f is
+#a zero
+#b 1
+#c 0 < D_f < 1
+#d D_f > 1
+
+## 136 | p=13-14 | hw=c
+Base failure of a finite slope
+#a occurs when soil below the level of toe is strong
+#b occurs when there is a relatively weak zone in upper part of the slope
+#c occurs when the soil below the toe is relatively soft and weak
+#d is a most common failure and occurs in relatively steep slopes
+
+## 137 | p=14 | hw=c
+Bishop's method of stability analysis
+#a is more conservative
+#b neglects the effect of forces acting on the sides of the slices
+#c assumes the slip surface as an arc of a circle
+#d all of the above
+
+## 138 | p=14 | hw=c
+Allowable bearing pressure for a foundation depends upon
+#a allowable settlement only
+#b ultimate bearing capacity of soil only
+#c both allowable settlement and ultimate bearing capacity
+#d none of above
+
+## 139 | p=14 | hw=b
+According to Rankine's analysis, minimum depth of foundation is equal to
+#a (q/γ)((1 + sin ϕ)/(1 – sin ϕ))²
+#b (q/γ)((1 – sin ϕ)/(1 + sin ϕ))²
+#c (q/γ)((1 + sin ϕ)/(1 – sin ϕ))
+#d (q/γ)((1 – sin ϕ)/(1 + sin ϕ))
+#note where q = intensity of loading
+γ = unit weight of soil
+ϕ = angle of internal friction
+
+## 140 | p=14 | hw=b
+According to Terzaghi's theory, the ultimate bearing capacity at ground surface for a purely cohesive soil and for a smooth base of a strip footing is
+#a 2.57 C
+#b 5.14 C
+#c 5.7C
+#d 6.2 C
+#note where C = unit cohesion of soil
+
+## 141 | p=14 | hw=d
+The net ultimate bearing capacity of a purely cohesive soil
+#a depends on width of footing and is independent of depth of footing
+#b depends on depth of footing and is independent of width of footing
+#c depends on both depth and width of footing
+#d is independent of both depth and width of footing
+
+## 142 | p=14 | hw=b
+The rise of water table below the foundation influences the bearing capacity of soil mainly by reducing
+#a cohesion and effective angle of shearing resistance
+#b cohesion and effective unit weight of soil
+#c effective unit weight of soil and effective angle of shearing resistance
+#d effective angle of shearing resistance
+
+## 143 | p=14 | hw=c
+Terzaghi's general bearing capacity formula for a strip footing
+(C N_c + γ D N_q + 0.5 γ N_γ B) gives
+#a safe bearing capacity
+#b net safe bearing capacity
+#c ultimate bearing capacity
+#d net ultimate bearing capacity
+#note where C = unit cohesion
+γ = unit weight of soil
+D = depth of foundation
+B = width of foundation
+N_c, N_q, N_γ = bearing capacity factors
+
+## 144 | p=14 | hw=b
+Terzaghi's bearing capacity factors N_c, N_q and N_γ are functions of
+#a cohesion only
+#b angle of internal friction only
+#c both cohesion and angle of internal friction
+#d none of the above
+
+## 145 | p=14 | hw=b
+In the plate loading test for determining the bearing capacity of soil, the size of square bearing plate should be
+#a less than 300 mm
+#b between 300 mm and 750 mm
+#c between 750 mm and 1 m
+#d greater than 1 m
+
+## 146 | p=14-15 | hw=a
+Select the incorrect statement.
+#a Bearing capacity of a soil depends upon the amount and direction of load.
+#b Bearing capacity of a soil depends on the type of soil.
+#c Bearing capacity of a soil depends upon shape and size of footing.
+#d Bearing capacity of a soil is independent of rate of loading.
+
+## 147 | p=15 | hw=b
+A 600 mm square bearing plate settles by 15 mm in plate load test on a cohesionless soil under an intensity of loading of 0.2 N/mm². The settlement of a prototype shallow footing 1 m square under the same intensity of loading is
+#a 15 mm
+#b between 15 mm and 25 mm
+#c 25 mm
+#d greater than 25 mm
+
+## 148 | p=15 | hw=c
+A 300 mm square bearing plate settles by 15 mm in a plate load test on a cohesive soil when the intensity of loading is 0.2 N/mm². The settlement of a prototype shallow footing 1 m square under the same intensity of loading is
+#a 15 mm
+#b 30 mm
+#c 50 mm
+#d 167 mm
+
+## 149 | p=15 | hw=b
+Rise of water table in cohesionless soils upto ground surface reduces the net ultimate bearing capacity approximately by
+#a 25%
+#b 50%
+#c 75%
+#d 90%
+
+## 150 | p=15 | hw=b
+Contact pressure beneath a rigid footing resting on cohesive soil is
+#a less at edges compared to middle
+#b more at edges compared to middle
+#c uniform throughout
+#d none of the above
+
+## 151 | p=15 | hw=b
+According to IS specifications, the minimum depths of foundation in sand and clay should be respectively
+#a 600 mm and 700 mm
+#b 800 mm and 900 mm
+#c 1 m and 800 mm
+#d 1 m and 1.2 m
+
+## 152 | p=15 | hw=b
+The maximum differential settlement in isolated footings on clayey soils should be limited to
+#a 25 mm
+#b 40 mm
+#c 65 mm
+#d 100mm
+
+## 153 | p=15 | hw=b
+A combined footing is generally used when
+#a number of columns is more than two and they are spaced far apart
+#b number of columns is two and they are spaced close to each other
+#c number of columns is two and they are spaced far apart
+#d there is only one column
+
+## 154 | p=15 | hw=c
+Negative skin friction on a pile
+#a acts downward and increases the load carrying capacity of the pile
+#b acts upward and increases the load carrying capacity of the pile
+#c acts downward and reduces the load carrying capacity of the pile
+#d acts upward and reduces the load carrying capacity of the pile
+
+## 155 | p=15 | hw=a
+A single acting steam hammer weighing 22.5 kN and falling through a height of 1.2 m drives a pile. If the final set is 12.5 mm, then according to Engineering News formula
+#a allowable load for the pile is 300 kN
+#b ultimate bearing capacity of the pile is 300 kN
+#c allowable load for the pile is 120 kN
+#d ultimate bearing capacity of the pile is 120 kN
+
+## 156 | p=15 | hw=b
+Generally the bearing capacity of a pile group is
+#a equal to the sum of bearing capacities of individual piles in case of friction piles
+#b equal to the sum of bearing capacities of individual piles in case of end bearing piles
+#c less than the sum of bearing capacities of individual piles in case of end bearing piles
+#d greater than the sum of bearing capacities of individual piles in case of friction or end bearing piles.
+
+## 157 | p=16 | hw=c
+The settlement of a group of friction piles as compared to that of a single pile is
+#a same
+#b less
+#c more
+#d none of the above
+
+## 158 | p=16 | hw=c
+Select the correct statement.
+#a Both negative skin friction and skin frictional resistance are caused by relative settlement of soil.
+#b Both negative skin friction and skin frictional resistance are caused by relative settlement of pile.
+#c Negative skin friction is caused by relative settlement of soil and skin frictional resistance is caused by relative settlement of pile.
+#d Negative skin friction is caused by relative settlement of pile and skin frictional resistance is caused by relative settlement of soil.
+
+## 159 | p=16 | hw=b
+Select the incorrect statement.
+#a Static formulae are suitable for friction piles driven through cohesive soils.
+#b Dynamic formulae are most suitable for friction piles driven through cohesive soils.
+#c Dynamic formulae are suitable for friction piles driven through cohesionless soils.
+#d Dynamic formulae do not take into account the reduced bearing capacity of a pile in a group.
+
+## 160 | p=16 | hw=d
+Mechanical stabilization of soil is done with the help of
+#a cement
+#b lime
+#c bitumen
+#d proper grading
+
+## 161 | p=16 | hw=d
+Lime stabilisation is very effective in treating
+#a sandy soils
+#b silty soils
+#c non-plastic soils
+#d plastic clayey soils
+
+## 162 | p=16 | hw=b
+Undisturbed samples are obtained by
+#a direct excavations
+#b thin-walled samplers
+#c thick-walled samplers
+#d augers
+
+## 163 | p=16 | hw=b
+Select the correct statement.
+#a Stationary piston sampler and rotary sampler are both thick-walled samplers.
+#b Stationary piston sampler and rotary sampler are both thin-walled samplers.
+#c Stationary piston sampler is a thick-walled sampler and rotary sampler is a thin-walled sampler.
+#d Stationary piston sampler is a thin-walled sampler and rotary sampler is a thick-walled sampler.
+
+## 164 | p=16 | hw=b | fig=16:0.6,0.28,0.85,0.53
+The curves A, B and C shown in Fig. 8.2 are respectively the stress-strain curves for
+#a dense sand, clay and loose sand
+#b dense sand, loose sand and clay
+#c loose sand, dense sand and clay
+#d clay, loose sand and dense sand
+
+## 165 | p=16 | hw=a
+Greater skin friction
+#a retards the sinking of well
+#b accelerates the sinking of well
+#c does not affect the sinking of well
+#d none of the above
+
+## 166 | p=16 | hw=a
+The bearing capacity of a strip footing on a saturated clay is 120 kN/m². The bearing capacity of a circular footing (diameter = width) will be
+#a more than 120 kN/ m²
+#b equal to 120 kN/m²
+#c less than 120 kN/ m²
+#d any of the above
+
+## 167 | p=17 | hw=c
+A plate load test is useful to estimate
+#a bearing capacity of foundation
+#b settlement of foundation
+#c both bearing capacity and settlement of foundation
+#d none of the above
+
+## 168 | tag=ES 94 | p=17 | hw=b
+The radius of friction circle or ϕ-circle in friction circle method is
+#a r
+#b r sin ϕ
+#c r cos ϕ
+#d r tan ϕ
+#note where r is the radius of failure arc
+
+## 169 | p=17 | hw=a
+The largest value of stability number is
+#a 0.261
+#b 0.5
+#c 1.0
+#d 2.0
+
+## 170 | p=17 | hw=b
+A shallow foundation is defined as a foundation which
+#a has low bearing capacity
+#b has a depth of embedment less than its width
+#c is resting on the ground surface
+#d causes less settlement
+
+## 171 | tag=GATE 99 | p=17 | hw=d
+For an anisotropic soil, permeabilities in x and y directions are K_x and K_y respectively in a two dimensional flow. The effective permeability K_eq for the soil is given by:
+#a K_x + K_y
+#b K_x/K_y
+#c (K_x² + K_y²)^(1/2)
+#d (K_xK_y)^(1/2)
+
+## 172 | star | tag=GATE 91 | p=17 | hw=a
+For sand of uniform spherical particles, the ratio of void ratios in the loosest and the densest states is:
+#a 2.6
+#b 3.5
+#c 4.6
+#d 3.0
+
+## 173 | tag=GATE 92 | p=17 | hw=d
+The description of 'sandy silty clay' signifies that
+#a the soil contains unequal proportions of the three constituents, in the order sand > silt > clay
+#b the soil contains equal proportions of sand, silt and clay
+#c the soil contains unequal proportions of sand, silt and clay.
+#d the soil contains unequal proportions of the three constituents such that clay > silt > sand.
+
+## 174 | tag=GATE 92 | p=17 | hw=c
+Increasing the depth of foundation in saturated clays results in an increased ultimate bearing capacity for strip footings
+#a because the bearing capacity factor N_γ decreases.
+#b because the bearing capacity factor N_c, increases as the depth increases.
+#c the term in the bearing capacity equation qN_q, increases with depth.
+#d because the angle of internal friction decreases as the depth of foundation increases.
+
+## 175 | tag=GATE 95 | p=17 | hw=b
+A soil having particles of nearly the same size is known as:
+#a well graded
+#b uniformly graded
+#c poorly graded
+#d gap graded
+
+## 176 | tag=GATE 95 | p=17 | hw=d
+The unit weight of a soil at zero air voids depends on:
+#a specific gravity
+#b water content
+#c unit weight of water
+#d all the above
+
+## 177 | tag=GATE 96 | p=17 | hw=b
+The soils most susceptible to liquefaction are
+#a saturated dense sands
+#b saturated fine and medium sands of uniform particle size
+#c saturated clays of uniform size
+#d saturated gravels and cobbles
+
+## 178 | tag=GATE 96 | p=17 | hw=b
+The value of bearing capacity factor for cohesion N_c, for piles as per Meyerhof is taken as
+#a 6.2
+#b 9.0
+#c 5.14
+#d 5.17
+
+## 179 | tag=GATE 97 | p=18 | hw=c
+The slope of the e-log p curve for a soil mass gives
+#a coefficient of permeability, k
+#b coefficient of consolidation, C_v
+#c compression index, C_c
+#d coefficient of volume compressibility, m_v
+
+## 180 | p=18 | hw=a
+If r = frequency ratio, D = damping ratio, then magnification factor in a damped forced vibration is equal to :
+#a 1/√((1–r²)² + 4r²D²)
+#b 1/√((1–r²)² + 4Dr)
+#c 1/√((1 – r²)² – 4r²D²)
+#d 1/√((1 + r²)² – 4r²D²)
+
+## 181 | p=18 | hw=d
+Degree of freedom of a block type machine foundation is
+#a 2
+#b 3
+#c 4
+#d 6
+
+## 182 | star | p=18 | hw=c
+Given that damping ratio = 0.10 and damping coefficient = 225 kN sec/m. Then the critical damping coefficient in kN sec/m will be
+#a 22.5
+#b 225
+#c 2250
+#d 22500
+
+## 183 | p=18 | hw=b
+The natural frequency of a vibrating foundation system
+i) increases as the square root of the spring stiffness
+ii) decreases with the square root of the spring stiffness
+iii) increases as the square root of the mass of the body
+iv) decreases with the square root of the mass of the body
+Of these statements :
+#a (i) and (iii) are correct
+#b (i) and (iv) are correct
+#c (ii) and (iii) are correct
+#d (ii) and (iv) are correct
+
+## 184 | p=18 | hw=c
+In case of free over damped vibration,
+#a C = √(k.m)
+#b C = 2√(k.m)
+#c C > 2√(k.m)
+#d C < 2√(k.m)
+
+## 185 | p=18 | hw=a
+As per converse Labarre formula, group efficiency of friction piles is given by:
+#a 1 – (α/90)[((n – 1)m + (m – 1)n)/mn]
+#b 1 – (α/90)[((n + 1)m + (m + 1)n)/mn]
+#c 1 – (α/90)[((n – 1)m – (m – 1)n)/mn]
+#d 1 – (α/90)[((n + 1)m – (m + 1)n)/mn]
+#note where
+m = number of columns
+n = number of rows
+α = tan⁻¹ (d/s) (in degree)
+d = diameter of pile
+s = c/c spacing of pile
+
+## 186 | tag=CS 93 | p=18 | hw=c
+The correct increasing order of the surface areas of the given soils is
+#a silt, sand, colloids, clay
+#b sand, silt, colloids, clay
+#c sand, silt, clay, colloids
+#d clay, silt, sand, colloids
+
+## 187 | star | tag=CS 93 | p=18 | hw=a
+For a given soil sample,
+C_c = coefficient of gradation
+C_u = coefficient of uniformity
+D₁₀ = effective size
+D₃₀ = diameter through which 30 per cent of the total soil mass is passing
+If C_c = 1.0 and C_u = 4.0, then the value of D₃₀/D₁₀ would be
+#a 2.00
+#b 1.75
+#c 1.50
+#d 1.25
+
+## 188 | tag=CS 93 | p=18-19 | hw=a
+Match List I with List II and select the correct answer using the codes given below the lists:
+List I (Name of person) — List II (Field of contribution)
+A. Stoke — 1. Flow through capillary
+B. Darcy — 2. Classification of soils
+C. Poiseuille — 3. Consistency limits
+D. Atterberg — 4. Flow of water through a soil mass
+5. Velocity of settling particle
+Code :
+#a A-5, B-4, C-1, D-3
+#b A-4, B-1, C-5, D-2
+#c A-1, B-5, C-4, D-2
+#d A-3, B-2, C-1, D-5
+
+## 189 | tag=CS 93 | p=19 | hw=c
+In a standard Proctor compaction, the water content (w) and maximum dry density (γ_dmax) are related as:
+#a γ_dmax is linearly proportional to w
+#b w is inversely proportional to γ_dmax
+#c γ_dmax corresponds to a unique value of w
+#d γ_dmax corresponds to w = (w_p + w_L) /2 where w_p and w_L are respectively plastic and liquid limits.
+
+## 190 | tag=CS 93 | p=19 | hw=d
+Using Mohr's diagram, the relation between major principal stress σ₁, and minor principal stress σ₃, and shear parameters c and ϕ is given by
+σ₁ = σ₃N_ϕ + 2c√N_ϕ where N_ϕ is equal to
+#a sin ϕ / (1 + sin ϕ)
+#b sin ϕ / (1 - sin ϕ)
+#c (1 - sin ϕ) / (1 + sin ϕ)
+#d (1 + sin ϕ) / (1 - sin ϕ)
+
+## 191 | tag=CS93 | p=19 | hw=b
+A and B are Skempton's pore pressure parameters and Δσ₁ and Δσ₃ are incremental principal stresses. Skempton's pore pressure equation is given by
+#a Δu = A[Δσ₃ + B(Δσ₁ – Δσ₃)]
+#b Δu = B[Δσ₃ + A(Δσ₁ – Δσ₃)]
+#c Δu = A[Δσ₃ + B(Δσ₁ + Δσ₃)]
+#d Δu = B[Δσ₃ + A(Δσ₁ + Δσ₃)]
+
+## 192 | tag=CS 93 | p=19 | hw=c
+The total settlement of a compressible soil stratum 2 m deep and having a coefficient of volume compressibility of 0.02 cm²/ kg under a pressure increment of 2 kg/cm² will be
+#a 2 cm
+#b 4 cm
+#c 8 cm
+#d 10 cm
+
+## 193 | tag=CS 93 | p=19 | hw=a
+Given that for a single degree of freedom system,
+k = stiffness coefficient
+m = mass of machine and foundation,
+critical damping is best defined by the expression
+#a 2√(km)
+#b 2k√m
+#c 2πk√(1/m)
+#d (1/2π)√(k/m)
+
+## 194 | star | tag=CS 94 | p=19 | hw=d
+The relationship between water content (w%) and number of blows (N) in soils, as obtained from Casagrande's liquid limit device, is given by
+w = 20 - log₁₀ N
+The liquid limit of the soil is
+#a 15.6%
+#b 16.6%
+#c 17.6%
+#d 18.6%
+
+## 195 | tag=CS 94 | p=19-20 | hw=b | fig=19:0.66,0.52,0.92,0.72
+The results (curves A,B,C and D) of four compaction tests on different soils are shown in Fig. 8.3.
+Tests
+1. Silty sand, modified test
+2. Silty sand, standard test
+3. Fat clay, modified test
+4. Fat clay, standard test
+Curves A, B, C and D correspond respectively to tests
+#a 1, 3, 2 and 4
+#b 1, 2, 3 and 4
+#c 2, 1, 3 and 4
+#d 2, 1, 4 and 3
+
+## 196 | tag=CS 94 | p=20 | hw=a | fig=20:0.14,0.24,0.42,0.44
+The results of a consolidated drained triaxial shear test on a normally consolidated clay are shown in Fig.8.4.
+The angle of internal friction is
+#a sin⁻¹(1/3)
+#b sin⁻¹(1/2)
+#c sin⁻¹(2/3)
+#d sin⁻¹(1/√2)
+
+## 197 | tag=CS 94 | p=20 | hw=b
+Which one of the following statements provides the best argument that direct shear tests are not suited for determining shear parameters of a clay soil ?
+#a Failure plane is not the weakest plane.
+#b Pore pressures developed cannot be measured.
+#c Satisfactory strain levels cannot be maintained.
+#d Adequate consolidation cannot be ensured.
+
+## 198 | tag=CS 94 &ES 93 | p=20 | hw=a | fig=20:0.52,0.05,0.85,0.68 | fix=List I items A-D are pressure-distribution diagrams (Fig. 8.5); see figure.
+Match List I with List II and select the correct answer using the codes given below the lists:
+List I (Pressure distribution for strutted excavation of foundation trench) — List II (Soil type)
+A. Fig. 8.5 A: trapezoid 0.2H/0.6H/0.2H, max 0.8γH Kₐ (Terzaghi, Peck, 1948) — 1. Dense sand
+B. Fig. 8.5 B: 0.2H/0.8H, max 0.8γH Kₐ (Terzaghi, Peck, 1948) — 2. Moderately stiff clay
+C. Fig. 8.5 C: 0.3H/0.55H/0.15H, max γH-2qᵤ (Terzaghi, Peck, 1948) — 3. Loose sand
+D. Fig. 8.5 D: 0.75H/0.25H, 0.375γH / 0.5γH (Tschebotarioff, 1973) — 4. Plastic clay
+Codes :
+#a A-1, B-3, C-4, D-2
+#b A-4, B-2, C-1, D-3
+#c A-2, B-4, C-3, D-1
+#d A-1, B-2, C-3, D-4
+
+## 199 | star | tag=CS 94 | p=20 | hw=d
+Two specimens of clay A and B are tested in a consolidation apparatus.
+If (m_v)_A = 3.6 x 10⁻⁴ m²/kN and
+(m_v)_B = 1.8 x 10⁻⁴ m²/kN,
+(C_v)_A = 3.8 x 10⁻⁴ cm²/s,
+(C_v)_B = 1.9 x 10⁻⁴ cm²/s,
+then the ratio k_A/k_B is equal to
+#a 0.0625
+#b 0.25
+#c 1.0
+#d 4.0
+
+## 200 | tag=CS 94 | p=20 | hw=d
+Terzaghi's equation of ultimate bearing capacity for a strip footing may be used for square footing resting on pure clay soil with the correction factor
+#a 0.4
+#b 0.6
+#c 1.2
+#d 1.3
+
+## 201 | tag=CS 94 | p=20-21 | hw=a
+Match List I with List II and select the correct answer using the codes given below the lists:
+List I (Bearing capacity terms) — List II (Definition)
+A. Ultimate bearing capacity — 1. Net loading intensity at which neither soil fails in shear nor is there any excessive settlement
+B. Net safe bearing capacity — 2. The maximum pressure which soil can carry safely without risk of shear failure
+C. Safe bearing capacity — 3. Net ultimate bearing capacity divided by factor of safety
+D. Allowable bearing pressure — 4. Minimum gross pressure intensity at the base of foundation at which soil fails in shear
+Codes :
+#a A-4, B-3, C-2, D-1
+#b A-2, B-1, C-4, D-3
+#c A-4, B-2, C-3, D-1
+#d A-2, B-1, C-3, D-4
+
+## 202 | tag=CS 94 | p=21 | hw=a
+A building is supported on shallow foundation in sand at 1 m below ground level. The water table is at 5 m below the ground surface. For which one of the following foundations will the net bearing capacity of the soil be a maximum?
+#a 2 m wide strip footing
+#b 2 m x 2 m square footing
+#c 2 m diameter circular footing
+#d 4 m x 1m rectangular footing
+
+## 203 | tag=CS 94 | p=21 | hw=b
+The determination of ultimate bearing capacity on an eccentrically loaded square footing depends upon the concept of useful
+#a square
+#b width
+#c triangle
+#d circle
+
+## 204 | tag=CS 94 | p=21-22 | hw=d | fig=21:0.6,0.46,0.86,0.63
+Figure 8.6 shows the contact pressure distribution in pure clayey soil subjected to a uniformly distributed load (udl) through rigid footing (placed on the surface).
+Which of the following would cause the contact pressure distribution maximum at the centre and decrease towards the outer edges leading to parabolic shape?
+1. When udl is transmitted through rigid footing placed on the surface of a cohesionless soil.
+2. When udl is transmitted through flexible footing placed on the surface of a cohesive soil.
+3. When udl is transmitted through flexible footing placed on the surface of a pure clay.
+Select the correct answer using the codes given below.
+Codes:
+#a 1, 2 and 3
+#b 1 and 2
+#c 2 and 3
+#d 1 alone
+
+## 205 | star | tag=CS 94 | p=22 | hw=d
+A cast-in-situ bored pile 0.50 m diameter and 10 m deep is placed in a purely cohesive soil. If the cohesion of the soil is 4t/m² and adhesion between the pile and the soil is half the value of cohesion, then the ultimate bearing capacity of the pile is given by
+#a 19π/4 tonnes
+#b 29π/4 tonnes
+#c 39π/4 tonnes
+#d 49π/4 tonnes
+
+## 206 | star | tag=CS 94 | p=22 | hw=d
+A test concrete block is subjected to vertical vibration and resonance occurred at a frequency of 20 cycles per second. If mass of vibration is 6 kg and mass of foundation is 244 kg, then the coefficient of elastic uniform compression of soil is given by
+#a 4 π² × 10² kg/m³
+#b 4 π² × 10³ kg/m³
+#c 4 π² × 10⁴ kg/m³
+#d 4 π² × 10⁵ kg/m³
+
+## 207 | tag=CS 95 | p=22 | hw=a
+Match List I and List II and select the correct answer using the codes given below the lists:
+List I (Property of Soil) — List II (Laboratory equipment)
+A. Grain size — 1. Pycnometer
+B. Specific gravity — 2. Permeameter
+C. Coefficient of permeability — 3. Vane shear apparatus
+D. Cohesion — 4. Pipette
+5. Sand pouring cylinder
+Codes :
+#a A-4, B-1, C-2, D-3
+#b A-4, B-5, C-2, D-3
+#c A-5, B-1, C-2, D-4
+#d A-1, B-5, C-3, D-2
+
+## 208 | tag=CS 95 | p=22 | hw=a
+The upstream slope of an earth dam under steady seepage condition is
+#a equipotential line
+#b phreatic line
+#c flow-line
+#d seepage line
+
+## 209 | tag=CS 95 | p=22 | hw=d
+Consider the following statements related to triaxial test:
+1. Failure occurs along pre-determined plane.
+2. Intermediate and minor principal stresses are equal.
+3. Volume changes can be measured.
+4. Field conditions can be simulated.
+Of these statements
+#a 1,2 and 3 are correct
+#b 1, 2 and 4 are correct
+#c 1, 3 and 4 are correct
+#d 2, 3 and 4 are correct
+
+## 210 | star | tag=CS 95 | p=22-23 | hw=a
+A vane 20cm long and 10 cm in diameter was pressed into a soft marine clay at the bottom of a bore hole. Torque was applied gradually and failure occurred at 1000 kg cm. The cohesion of the clay in kg/cm² is:
+#a (1/π) x (6/7)
+#b (1/π) x (5/7)
+#c (1/π) x (4/7)
+#d (1/π) x (3/7)
+
+## 211 | tag=CS 95 | p=23 | hw=d
+Match List I with List II and select the correct answer using the codes given below the lists:
+List I — List II
+A. Active Pressure — 1. Wall moves towards backfill
+B. Passive Pressure — 2. No movement of wall
+C. Earth Pressure at Rest — 3. Wall moves away from backfill
+Codes :
+#a A-1, B-2, C-3
+#b A-2, B-3, C-1
+#c A-3, B-2, C-1
+#d A-3, B-1, C-2
+
+## 212 | tag=CS 95 | p=23 | hw=c
+A cohesionless soil having an angle of shearing resistance of ϕ, is standing at a slope angle of i. The factor of safety of the slope is
+#a tan i / tan ϕ
+#b tan i – tan ϕ
+#c tan ϕ / tan i
+#d tan ϕ – tan i
+
+## 213 | tag=CS 95 | p=23 | hw=a
+Match List I with List II and select the correct answer using the codes given below the lists:
+List I (Cause) — List II (Effect)
+A. Water present in the soil above water table — 1. Increase in effective stress
+B. Upward seepage flow — 2. No change in effective stress
+C. Downward seepage flow — 3. Water is in a state of tension
+D. Fluctuation of water level above ground level — 4. Decrease in effective stress
+Codes :
+#a A-3, B-4, C-1, D-2
+#b A-3, B-2, C-1, D-4
+#c A-2, B-3, C-1, D-4
+#d A-1, B-4, C-3, D-2
+
+## 214 | tag=CS 95 | p=23 | hw=c
+In consolidation testing, curve fitting method is used to determine
+#a compression index
+#b swelling index
+#c coefficient of consolidation
+#d time factor
+
+## 215 | tag=CS 95 | p=23 | hw=c
+Westergaard's analysis for stress distribution beneath loaded areas is applicable to
+#a sandy soils
+#b clayey soils
+#c stratified soils
+#d silty soils
+
+## 216 | tag=CS 95 | p=23 | hw=d
+Consider the following characteristics of soil layer:
+1. Poisson's ratio
+2. Young's modulus
+3. Finite nature of soil layer
+4. Effect of water table
+5. Rigidity of footing
+Westergaard's analysis for pressure distribution in soils utilises
+#a 1, 3, 4 and 5
+#b 2, 3, 4 and 5
+#c 3, 4 and 5
+#d 1 and 2
+
+## 217 | tag=CS 95 | p=23-24 | check=No handwritten answer mark found for this question.
+A square footing is to be proportioned on a cohesionless soil with an average N value of 40. The allowable bearing pressure of this footing will be governed by
+#a general shear failure
+#b local shear failure
+#c progressive failure
+#d settlement criteria
+
+## 218 | tag=CS 95 | p=24 | hw=b
+According to Skempton's formula for a surface footing of square shape, the net ultimate bearing capacity on a purely cohesive soil of cohesion c is
+#a 1.4 c
+#b 6.0 c
+#c 7.4 c
+#d 9.0 c
+
+## 219 | tag=CS 95 | p=24 | hw=c
+Undisturbed soil samples are required for conducting
+#a hydrometer test
+#b shrinkage limit test
+#c consolidation test
+#d specific gravity test
+
+## 220 | tag=CS 95 | p=24 | hw=b
+Soil pressure distribution below a rigid footing on the surface of a cohesive soil is
+#a maximum at the centre and minimum at edges
+#b minimum at the centre and maximum at edges
+#c uniform throughout
+#d maximum at one end and minimum at the other end
+
+## 221 | tag=CS 96 | p=24 | hw=c
+Compression index on a soil helps to determine
+#a total time required for consolidation
+#b time required for 50 percent consolidation
+#c total settlement of clay layer
+#d pre-consolidation pressure of clay
+
+## 222 | star | tag=CS.96 | p=24 | hw=a
+When the degree of consolidation is 50%, the time factor is about
+#a 0.2
+#b 0.5
+#c 1.0
+#d 2.0
+
+## 223 | tag=CS 96 | p=24 | hw=c
+According to Bousinesq's theory, the vertical stress at a point in a semi-infinite soil mass depends upon
+#a point load, coordinates of the point and modulus of elasticity of soil
+#b point load, coordinates of the point, modulus of elasticity of soil and its Poisson's ratio
+#c point load and coordinates of the point
+#d point load, coordinates of the point, modulus of elasticity of soil and its density
+
+## 224 | tag=CS 96 | p=24 | hw=d
+The process by which a mass of saturated soil is caused by external forces to suddenly lose its shear strength and to behave as a fluid is called
+#a piping
+#b slide
+#c quick condition
+#d liquefaction
+
+## 225 | tag=CS 96 | p=24 | hw=d
+By using sieve analysis, the particle size distribution curve has been plotted for a particular soil. The coefficient of curvature C_c is given by
+#a D₃₀/(D₃₀ x D₁₀)
+#b √D₃₀/(D₆₀ x D₁₀)
+#c D₃₀/√(D₆₀ x D₁₀)
+#d D₃₀²/(D₆₀ x D₁₀)
+
+## 226 | tag=CS 96 | p=24 | hw=c
+Given below are methods of compaction:
+1. Vibration technique
+2. Flooding the soil
+3. Sheep-foot roller
+4. Tandem roller
+5. Heavy weights dropped from a height
+The methods suitable for cohesionless soils include
+#a 1, 2 and 3
+#b 2, 3 and 4
+#c 1, 2 and 5
+#d 3, 4 and 5
+
+## 227 | tag=CS 96 | p=24-25 | hw=b
+Consider the following factors pertaining to flow through soil:
+1. Hydraulic gradient
+2. Grain size
+3. Void ratio
+4. Cross-sectional area of the sample
+Of these, the factors affecting permeability include
+#a 1 and 4
+#b 2 and 3
+#c 1, 2 and 3
+#d 2, 3 and 4
+
+## 228 | tag=CS 96 | p=25 | hw=c
+Which one of the following, gives the correct decreasing order of the densities of a soil sample?
+#a Saturated, submerged, wet, dry
+#b Saturated, wet, submerged, dry
+#c Saturated, wet, dry, submerged
+#d Wet, saturated, submerged, dry
+
+## 229 | tag=CS 96 | p=25 | hw=b
+For sampling saturated sands and other soft and wet soils satisfactorily, the most suitable soil sampler is
+#a Open drive thin-walled tube sampler
+#b standard split-spoon sampler
+#c stationary piston sampler
+#d rotary sampler
+
+## 230 | tag=CS 96 | p=25 | hw=d
+Match List I and List II and select the correct answer using the codes given below the lists:
+List I (Condition under which it is suited) — List II (Type of foundation)
+A. When structural load is uniform and soil is soft clay, made up of marshy land — 1. Footings
+B. When structural load is heavy and/or soil having low bearing capacity for a considerable depth — 2. Piles
+C. When soil is having good bearing capacity at shallow depth and structural load is within permissible limit. — 3. Raft
+D. When structural load of bridge is to be transferred through sandy soil to bed rock — 4. Wells or pier
+Codes:
+#a A-1, B-2, C-3, D-4
+#b A-3, B-2, C-4, D-1
+#c A-1, B-4, C-2, D-3
+#d A-3, B-2, C-1, D-4
+
+## 231 | tag=CS 96 | p=25 | hw=b | fig=25:0.6,0.29,0.8,0.5
+Figure 8.7 shows the relation between void ratio and shear strain for a sand under two density conditions. The void ratio corresponding to the dashed line is called.
+#a optimum void ratio
+#b critical void ratio
+#c residual void ratio
+#d undisturbed void ratio
+
+## 232 | tag=CS 96 | p=25-26 | hw=c
+A vane shear test on a soil sample gives moment of total resistance M. The shear stress failure, 'S' being more or less uniform at top, bottom and surface of cylinder of soil, is given by (where H = height of vane, D= Diameter of vane)
+#a S = 2M/(πD²H)
+#b S = 2M/(πD²(H+D))
+#c S = 2M/(πD²(H + D/3))
+#d S = 2M/(πDH)
+
+## 233 | tag=CS 96 | p=26 | hw=d
+The following refer to the stability analysis of an earth dam under different conditions :
+1. Stability of D/S slope during steady seepage
+2. Stability of U/S slope during sudden drawdown
+3. Stability of U/S and D/S slopes during construction
+Of these statements
+#a 1 and 2 are correct
+#b 1 and 3 are correct
+#c 2 and 3 are correct
+#d 1, 2 and 3 are correct
+
+## 234 | tag=CS 96 | p=26 | hw=d
+If the settlement of a single pile in sand is denoted by S and that of a group of N identical piles (each pile carrying the same load) by Sg, then the ratio Sg/S will
+#a be equal to 1 irrespective of width of the group
+#b be equal to N irrespective of width of the group
+#c decrease as the width of the group increases
+#d increase as the width of the group increases
+
+## 235 | tag=CS 96 | p=26 | hw=c
+Match List I and List II containing terms related to vibration of damped single degree-of-freedom foundation system and select the correct answer using the codes given below the lists:
+List I — List II
+A. Critical damping coefficient — 1. 2πD/√(1–D²)
+B. Damped circular frequency — 2. πD²/√(1–D²)
+C. Logarithmic decrement — 3. √(k/m)
+4. 2√(km)
+5. ωₙ√(1–D²)
+6. ωₙ/D
+Codes:
+#a A-3, B-5, C-1
+#b A-3, B-6, C-2
+#c A-4, B-5, C-1
+#d A-4, B-6, C-2
+
+## 236 | tag=CS 96 | p=26 | hw=b
+Match List I with List II and select the correct answer using the codes given below the lists:
+List I (Field test) — List II (Useful for)
+A. Vane shear test — 1. End bearing and skin friction resistance
+B. Standard penetration test — 2. In-situ stress-strain characteristics
+C. Static cone penetration test — 3. Soft clay
+D. Pressure meter test — 4. Sandy deposits
+Codes:
+#a A-4, B-2, C-1, D-3
+#b A-3, B-4, C-1, D-2
+#c A-4, B-3, C-2, D-1
+#d A-3, B-4, C-2, D-1
+
+## 237 | tag=CS 96 | p=26-27 | hw=b
+Consider the following statements regarding settlement of foundations:
+1. Differential settlement of foundation leads to structural damage to the superstructure.
+2. In non-cohesive soils, the major components of settlement is due to consolidation.
+3. Lowering of ground water table contributes to settlement of foundations.
+Of these statements
+#a 1 and 2 are correct
+#b 1 and 3 are correct
+#c 2 and 3 are correct
+#d 1, 2 and 3 are correct
+
+## 238 | tag=CS 96 | p=27 | hw=d
+Consider the following types of soil tests:
+1. California bearing ratio
+2. Consolidation
+3. Unconfined compression
+The soil tests required to be done in the case of undisturbed samples include
+#a 1, 2 and 3
+#b 1 and 2
+#c 1 and 3
+#d 2 and 3
+
+## 239 | tag=CS 96 | p=27 | hw=b
+Boring method is to be chosen depending upon the type of exploratory strata. In this context, match List I with List II and select the correct answer using the codes given below the lists:
+List I — List II
+A. Auger boring — 1. Partly saturated sands, silts and medium to stiff cohesive soils
+B. Wash boring — 2. All types of soils and rocks except in stony or porous soils and fissured rocks
+C. Percussion drilling — 3. Practically all types of soils except hard and cemented soil or rock
+D. Rotary drilling — 4. All types of soils and rocks. Difficult in loose sands and soft sticky clays.
+Code :
+#a A-1, B-4, C-3, D-2
+#b A-1, B-3, C-4, D-2
+#c A-2, B-4, C-3, D-1
+#d A-2, B-3, C-4, D-1
+
+## 240 | tag=CS 97 | p=27 | hw=d
+Consider the following statements:
+Clays which exhibit high activity
+1. contain montmorillonite.
+2. contain kaolinite.
+3. have a high silt content.
+4. have a high plasticity index.
+5. have a low plasticity index.
+Of these statements
+#a 1, 3 and 5 are correct
+#b 2, 3 and 5 are correct
+#c 2 and 4 are correct
+#d 1 and 4 are correct
+
+## 241 | tag=CS 97 | p=27 | hw=d
+A sample of clay and a sample of sand have the same specific gravity and void ratio. Their permeabilities would differ because
+#a their porosities would be different
+#b their degrees of saturation would be different
+#c their densities would be different
+#d the size ranges of their voids would be different
+
+## 242 | tag=CS 97 | p=27 | hw=c
+During seepage through an earth mass, the direction of seepage is
+#a parallel to the equipotential lines
+#b perpendicular to the stream lines
+#c perpendicular to the equipotential lines
+#d along the direction of gravity
+
+## 243 | tag=CS 97 | p=27-28 | hw=b
+Consider the following limitations :
+1. Can be performed only on purely cohesionless soils
+2. Plane of failure is predetermined
+3. There is virtually no control on drainage
+4. Non-uniform distribution of stresses
+5. Principle stresses in the sample cannot be determined.
+The limitation inherent in direct shear test include :
+#a 1, 2 and 3
+#b 2, 3 and 4
+#c 3, 4 and 5
+#d 1, 2 and 5
+
+## 244 | tag=CS 97 | p=28 | hw=c
+Consider the following assumptions:
+1. Failure occurs on a plane surface.
+2. Wall is smooth but not necessarily vertical.
+3. Failure wedge is a rigid body.
+Coulomb's theory of earth pressure is based on assumptions
+#a 1, 2 and 3
+#b 1 and 2
+#c 1 and 3
+#d 2 and 3
+
+## 245 | tag=CS 97 | p=28 | hw=c
+In a saturated clay layer undergoing consolidation with single drainage at its top, the pore water pressure would be the maximum at its
+#a top
+#b middle
+#c bottom
+#d top as well as the bottom
+
+## 246 | star | tag=CS 97 | p=28 | hw=c
+A saturated clay stratum of thickness 10 m, bounded on top and bottom by medium coarse sand layers, has a coefficient of consolidation of 0.002 cm²/s. If this stratum is subjected to loading, it is likely that it would undergo 50% of its primary consolidation in
+#a 1136 days
+#b 227 days
+#c 284 days
+#d 568 days
+
+## 247 | star | tag=CS 97 | p=28 | hw=a
+The stress distribution at a depth beneath a loaded area is determined using Newmark's influence chart which indicate an influence value of 0.005. The number of the segments covered by the loaded area in the chart is 20 and the intensity of loading on the area is 10 T/m². The intensity of stress distribution at that depth is
+#a 1 T/m²
+#b 2 T/m²
+#c 5 T/m²
+#d 10 T/m²
+
+## 248 | tag=CS 97 | p=28 | hw=d
+Consider the following field tests :
+1. Vertical pile load test
+2. Cyclic pile load test
+3. Lateral pile load test
+4. Instrumented test pile
+While estimating the load carrying capacity of a pile, the tests that can be used for separating the skin resistance from point resistance, would include
+#a 1 and 3
+#b 1 and 4
+#c 2 and 3
+#d 2 and 4
+
+## 249 | star | tag=CS 98 | p=28 | hw=b
+The difference between maximum void ratio and minimum void ratio of a sand sample is 0.30. If the relative density of this sample is 66.6% at a void ratio of 0.40, then the void ratio of this sample at its loosest state will be
+#a 0.40
+#b 0.60
+#c 0.70
+#d 0.75
+
+## 250 | tag=CS 98 | p=28 | hw=d
+A particular soil sample is subjected to test for the determination of permeability coefficient in two separate constant head permeameters, whose specifications are as under:
+— Permeameter A — Permeameter B
+Diameter of sample — D — 2D
+Length of sample — 2L — L
+If the tests on both the permeameters are conducted with equal head of water applied on the samples, then the ratio of amount of water discharged through the permeameters A & B during a period of one hour will be :
+#a 4.000
+#b 1.000
+#c 0.250
+#d 0.125
+
+## 251 | tag=CS 98 | p=28-29 | hw=d
+The foundation soil under the toe of a dam has a void ratio 'e'. The specific gravity of the soil solid is G. Factor of safety against piping is to be taken as 2.5. The maximum permissible upward exit gradient is given by
+#a i = 2.5[(G-1)/(1+e)]
+#b i = 2.5[(1+e)/(G-1)]
+#c i = 0.4[(1+e)/(G-1)]
+#d i = 0.4[(G-1)/(1+e)]
+
+## 252 | tag=CS 98 | p=29 | hw=b | fig=29:0.3,0.35,0.58,0.47
+A homogeneous earth dam with no horizontal drainage filter at downstream is shown in Fig.8.8. The slope of the downstream side, β is less than 30⁰. In order to determine the value of 'a', the discharge 'q' per unit length through the section of height a sin β is assumed to be (k= coefficient of permeability of soil)
+#a ka sin β cos β
+#b ka sin β tan β
+#c ka sin² β
+#d ka sin² β cos² β
+
+## 253 | tag=CS 98 | p=29 | hw=b | fig=29:0.27,0.53,0.54,0.67
+Consider the flow net shown in Fig.8.9 :
+The ratio of the number of flow channels to the number of potential drops is
+#a 3/8
+#b 3/7
+#c 4/7
+#d 4/8
+
+## 254 | tag=CS 98 | p=29 | hw=d
+Which one of the following parameters can be used to estimate the angle of internal friction of a sandy soil?
+#a particle size
+#b roughness of particle
+#c particle size distribution
+#d density index
+
+## 255 | tag=CS 98 | p=29 | hw=d | fig=29:0.6,0.19,0.92,0.7 | fix=Options are the four Mohr diagrams (a)-(d) in Fig. 8.10; see figure.
+Which one of the following diagrams (Fig. 8.10) correctly illustrates the Mohr's stress conditions of unconfined shear test on cohesive soil ? ( x-axis Normal stress; y-axis Shear stress)
+#a Fig. 8.10 (a): inclined straight line only, no circle
+#b Fig. 8.10 (b): two circles with an inclined envelope
+#c Fig. 8.10 (c): one circle starting at origin with an inclined envelope
+#d Fig. 8.10 (d): one circle starting at origin with a horizontal envelope
+
+## 256 | tag=CS 98 | p=29-30 | hw=a | fig=30:0.13,0.1,0.4,0.42
+A CD triaxial test is performed on a clay soil. Figures 8.11(a) and (b) show two curves each for deviator stress v/s axial strain % and volume change v/s axial strain %. If the clay is overconsolidated, then the results would be as in curves
+#a 1 and 3
+#b 1 and 4
+#c 2 and 3
+#d 2 and 4
+
+## 257 | tag=CS 98 | p=30 | hw=a
+A cantilever sheet pile derives its stability from
+#a lateral resistance of soil
+#b self-weight
+#c the deadman
+#d the anchor rod
+
+## 258 | tag=CS 98 | p=30 | hw=a
+Deflection of a sheet pile in a braced cut
+#a increases from top to bottom
+#b decreases from top to bottom
+#c increases from top and then decreases
+#d decreases from top and then increases
+
+## 259 | tag=CS 98 | p=30 | hw=d
+A completely saturated normally consolidated clay is tested in a triaxial test under consolidated undrained condition. The value of pore pressure coefficient at failure, A_f is given by (Δσ₃=change in cell pressure; Δσ₁= change in axial stress; Δu= corresponding change in pore pressure)
+#a A_f = [(Δu – Δσ₁)/(Δu - Δσ₃)]
+#b A_f = [(Δu – Δσ₁)/(Δσ₁ - Δσ₃)]
+#c A_f = [(Δu – Δσ₃)/(Δu - Δσ₁)]
+#d A_f = [(Δu – Δσ₃)/(Δσ₁ - Δσ₃)]
+
+## 260 | tag=CS 98 | p=30 | hw=b
+The time 't' required for attaining a certain degree of consolidation of a clay layer is proportional to
+#a H² and C_V
+#b H² and 1/C_V
+#c 1/H² and C_V
+#d 1/H² and 1/C_V
+
+## 261 | tag=CS 98 | p=30 | hw=c
+Match List I with List II and select the correct answer using the codes given below the lists :
+List I — List II
+A. Elastic settlement — 1. Constant effective stress with change in volume of soil
+B. Primary consolidation — 2. Dissipation of excess pore water pressure
+C. Secondary consolidation — 3. Occurs within a short period
+D. Creep — 4. Compression and rearrangement of particles
+Codes :
+#a A-3, B-2, C-1, D-4
+#b A-4, B-3, C-1, D-2
+#c A-3, B-2, C-4, D-1
+#d A-4, B-3, C-2, D-1
+
+## 262 | tag=CS 98 | p=30 | hw=c
+Given that for an overconsolidated clay soil deposit, the pressure under which the deposit has been fully consolidated in the past is 125 kN/m² and the present overburden pressure is 75 kN/m², the overconsolidation ratio of the soil deposit is
+#a 75/125
+#b 50/75
+#c 125/75
+#d 200/75
+
+## 263 | tag=CS 98 | p=30 | hw=c
+Match List I with List II and select the correct answer using the codes given below the lists :
+List I — List II
+A. Stress distribution due to point load in homogeneous isotropic medium — 1. Stein Brenner
+B. Stress distribution due to point load in an anisotopic medium — 2. Newmark
+C. Influence chart for stress distribution in a rectangular area — 3. Boussinesq
+D. Influence chart for stress distribution in irregularly shaped areas — 4. Westergaard
+Codes :
+#a A-4, B-3, C-2, D-1
+#b A-3, B-4, C-2, D-1
+#c A-3, B-4, C-1, D-2
+#d A-4, B-3, C-1, D-2
+
+## 264 | tag=CS 98 | p=30-31 | hw=d
+Given that
+ωₙ = natural frequency of foundation soil system,
+C_u= coefficient of elastic uniform compression of soil,
+A = contact area of foundation with soil, and
+m = mass of machine plus foundation
+Natural frequency of foundation soil system for analysis of machine foundation shall be determined by Barken's method by using the equation
+#a ωₙ = C_u (A/m)
+#b ωₙ = C_u √(A/m)
+#c ωₙ = (A/m) √C_u
+#d ωₙ = √(C_u A/m)
+
+## 265 | tag=CS 98 | p=31 | hw=b | fig=31:0.66,0.34,0.92,0.51
+Figure 8.12 relates to design features of samplers affecting soil disturbance. The area ratio of the soil sample is given by
+#a (D₂² – D₃²)/D₂²
+#b (D₂² – D₁²)/D₁²
+#c (D₂² – D₄²)/D₄²
+#d (D₃² – D₁²)/D₁²
+
+## 266 | tag=CS 98 | p=31-32 | hw=a
+The static cone penetration test and a standard penetration test are performed on a soil at a certain depth. The value of static cone penetration test is 8 MPa and the N value is 20. The soil met with at that depth is
+#a sandy silt
+#b clay-silt mixture
+#c sand and gravel mixture
+#d medium dense sand
+
+## 267 | tag=CS 99 | p=32 | hw=a
+Which of the following have an influence on the value of permeability?
+1. void ratio
+2. degree of saturation
+3. pressure head
+4. grain size
+Select the correct answer using the codes given below.
+Codes :
+#a 1, 2 and 4
+#b 1, 2 and 3
+#c 2, 3 and 4
+#d 1, 3 and 4
+
+## 268 | tag=CS 99 | p=32 | hw=b
+Match List I with List II and select the correct answer using the codes given below the Lists :
+List I — List II
+A. Optimum moisture content — 1. Compaction of cohesive soil
+B. Vibratory rollers — 2. Compaction of granular soil
+C. Zero air void line — 3. Maximum dry density
+4. Relative density
+5. 100% saturation
+Codes :
+#a A-4, B-1, C-3
+#b A-3, B-2, C-5
+#c A-4, B-1, C-5
+#d A-3, B-2, C-4
+
+## 269 | star | tag=CS 99 | p=32 | hw=b
+In a flownet diagram, the length of the flow line in the last square is 2 m, the total head loss is 18 m and the number of potential drops is 12.
+The value of exit gradient is
+#a 0.33
+#b 0.75
+#c 1.33
+#d 3.00
+
+## 270 | tag=CS 99 | p=32 | hw=d
+A soil sample has 28 g of soil solids, 10 cu cm of voids, 9 g of water and specific gravity of soil grains of 2.7; consider the following statements in this regard:
+1. The water content is 9/28 × 100%
+2. The void ratio is 10 × 2.7/28
+3. Degree of saturation is 9×100/(10×2.7)
+4. The porosity is 10 × 2.7/(28+10 ×2.7)
+Of these statements
+#a 1, 2 and 3 are correct
+#b 2, 3 and 4 are correct
+#c 1, 3 and 4 are correct
+#d 1, 2 and 4 are correct
+
+## 271 | tag=CS 99 | p=32 | hw=c
+A clear dry sand sample is tested in a direct shear test. The normal stress and the shear stress at failure are both equal to 120 kN/m². The angle of shearing resistance of the sand will be
+#a 25°
+#b 35°
+#c 45°
+#d 55°
+
+## 272 | tag=CS 99 | p=32 | hw=b
+An initial cross-sectional area of a clay sample was 15 sq. cm. The failure strain was 25% in an unconfined compression test. The corrected area of the sample at failure would be
+#a 15 sq cm
+#b 20 sq cm
+#c 25 sq cm
+#d 30 sq cm
+
+## 273 | tag=CS 99 | p=32-33 | hw=b | fig=32:0.52,0.56,0.74,0.71
+Figure 8.13 shows Culmann's graphical construction for earth pressure. δ is the angle of wall friction. The earth pressure line is represented by
+#a AB
+#b BC
+#c BD
+#d AD
+
+## 274 | tag=CS 99 | p=33 | hw=d
+A slope is to be constructed at an angle of 30° to the horizontal from a soil having the properties, C=15 kN/m²; ϕ = 22.5°; γ = 19 kN/m³. Taylor's stability number is 0.046. If a factor of safety (with respect to cohesion) of 1.5 is required, then the safe height of the slope will be
+#a 25.8 m
+#b 19.1 m
+#c 17.2 m
+#d 11.5 m
+
+## 275 | tag=CS 99 | p=33 | hw=c
+A fully compensated raft foundation for a building is
+#a designed as a very rigid raft.
+#b designed as a completely flexible raft.
+#c such that the weight of the excavated soil is equal to the load due to the building.
+#d supported by piles of short length.
+
+## 276 | tag=CS 99 | p=33 | hw=a
+For a damped vibrating system with single degree of freedom, resonance occurs at a frequency ratio of
+#a 1
+#b 0
+#c less than 1
+#d greater than 1
+
+## 277 | star | tag=CS 99 | p=33 | hw=d
+At a site having a deposit of dry sandy soil, an average soil of standard penetration resistance N equal to 6 was recorded. The compactness of the soil deposit can be described as
+#a very loose
+#b dense
+#c medium
+#d loose
+
+## 278 | tag=CS 99 | p=33 | hw=c
+Under a given load, a clay layer attains 30% degree of consolidation in 100 days. The time taken by the same clay layer to attain 60% degree of consolidation will be
+#a 1600 days
+#b 800 days
+#c 400 days
+#d 200 days
+
+## 279 | tag=CS 99 | p=33 | hw=b | fig=33:0.62,0.22,0.87,0.38
+Match List I with List II for Fig.8.14 and select the correct answer using the codes given below the Lists:
+List I (Type of settlement) — List II (Notation on diagram)
+A. Immediate settlement — 1. K
+B. Primary consolidation — 2. L
+C. Secondary compression — 3. M
+D. Time-dependent settlement — 4. N
+Codes:
+#a A-1, B-2, C-4, D-3
+#b A-2, B-1, C-4, D-3
+#c A-2, B-1, C-3, D-4
+#d A-1, B-2, C-3, D-4
+
+## 280 | tag=ES 93 | p=33-34 | hw=d
+Lists I and II contain respectively terms and expressions. Match the two lists and select the correct answer using the codes given below the lists :
+List I — List II
+A. Activity number — 1. (Liquid limit-water content)/Plasticity index
+B. Liquidity index — 2. Plasticity index / Percent finer than 2 microns
+C. Sensitivity — 3. (Natural moisture content – plastic limit)/Plasticity index
+4. Unconfined compressive strength of undisturbed soil sample/Unconfined compressive strength of remoulded soil sample
+Codes :
+#a A-1, B-3, C-4
+#b A-1, B-2, C-3
+#c A-3, B-2, C-1
+#d A-2, B-3, C-4
+
+## 281 | tag=ES 93 | p=34 | hw=b
+A soil has a bulk density of 1.80 g/cm³ at a water content of 5%. If the void ratio remains constant, then its bulk density for a water content of 10% will be
+#a 1.98 g/cm³
+#b 1.88 g/cm³
+#c 1.80 g/cm³
+#d 1.70 g/cm³
+
+## 282 | tag=ES 93 | p=34 | hw=d
+Consider the following statements.
+1. Hydraulic gradient required to initiate "quick" condition is independent of the ratio of volume of voids to volume of solids in a soil mass.
+2. Initiation of piping under hydraulic structures can be prevented by increasing the length of flow path of water.
+3. Seepage pressure is independent of the coefficient of permeability.
+Of these statements
+#a 1, 2 and 3 are correct
+#b 1 and 2 are correct
+#c 1 and 3 are correct
+#d 2 and 3 are correct
+
+## 283 | tag=ES 93 | p=34 | hw=c
+The appropriate triaxial test to assess the long-term stability of an unloading problem, such as excavation of a clay slope, would be the
+#a unconsolidated-undrained test
+#b consolidated-undrained test
+#c consolidated-drained test
+#d unconsolidated-drained test
+
+## 284 | star | tag=ES 93 | p=34 | hw=b
+For a sandy soil, the angle of internal friction is 30°. If the major principal stress is 50 kN/m² at failure, then the corresponding minor principal stress (in kN/m²) will be
+#a 12.2
+#b 16.66
+#c 20.8
+#d 27.2
+
+## 285 | tag=ES 93 | p=34 | hw=c
+If a sample of dry sand tested in direct shear test gives failure shear stress τ_f as 1 kg/cm² at a normal stress σ_f of 2 kg/cm², then the angle of internal friction of soil is given by
+#a tan⁻¹ (2)
+#b tan⁻¹ (1)
+#c tan⁻¹ (1/2)
+#d tan⁻¹ (1/4)
+
+## 286 | star | tag=ES 93 | p=34 | hw=b
+Given:
+μ₁ = Poisson's ratio of soil sample 1
+μ₂ = Poisson's ratio of soil sample 2
+k₁ = coefficient of earth pressure at rest for soil sample 1
+k₂ = coefficient of earth pressure at rest for soil sample 2
+If μ₁/μ₂ = 1.5 and (1-μ₁)/(1-μ₂) = 0.875, then the value of k₁/k₂ will be
+#a 1.3125
+#b 1.7143
+#c 1.9687
+#d 1.8213
+
+## 287 | star | tag=ES 93 | p=35 | hw=c
+The Factor of Safety of an infinite slope in a sand deposit is found to be 1.732. The angle of shearing resistance of the sand is 30°. The average slope of the sand deposit is given by
+#a sin⁻¹(0.333)
+#b cos⁻¹(0.252)
+#c tan⁻¹(0.333)
+#d cot⁻¹(0.621)
+
+## 288 | star | tag=ES 93 | p=35 | hw=b
+A normally consolidated clay layer settles 1 cm when the pressure increases from I kg/cm² to 2 kg/cm². Additional settlement for the same soil for further increase of pressure from 2 kg/cm² to 4 kg/cm² will be
+#a 1 cm
+#b 2 cm
+#c 3 cm
+#d 4 cm
+
+## 289 | tag=ES 93 | p=35 | hw=d
+In the soil sample of a consolidometer test, pore water pressure is
+#a minimum at the centre
+#b maximum at the top
+#c maximum at the bottom
+#d maximum at the centre
+
+## 290 | star | tag=ES 93 | p=35 | hw=c
+Under load, the void ratio of a submerged saturated clay decreases from 1.00 to 0.92. What will be the ultimate settlement of the 2 m thick clay due to consolidation?
+#a 20 mm
+#b 40 mm
+#c 80 mm
+#d 160 mm
+
+## 291 | tag=ES 93 | p=35 | hw=b
+The gross bearing capacity of a footing is 450 kN/m². If the footing is 1.5 m wide at a depth of 1 m in clayey soil with unit weight of 20 kN/m³, then the net bearing capacity (in kN/m²) will be
+#a 400
+#b 430
+#c 435
+#d 440
+
+## 292 | tag=ES 93 | p=35 | hw=c
+Permissible settlement is relatively higher for
+#a isolated footings on clays
+#b isolated footings on sands
+#c rafts on clays
+#d rafts on sands
+
+## 293 | star | tag=ES 93 | p=35 | hw=c
+Given :
+For a damped vibrating foundation system with single degree of freedom
+C = damping constant,
+C_C = critical damping coefficient,
+δ = logarithmic decrement,
+the relationship between C, C_C and δ is given by
+#a δ² = 6.2832[C/C_C]²
+#b δ² = 6.2832 (C/C_C)/(C_C – C)²
+#c δ² = 39.4784 C²/(C_C² – C²)
+#d δ² = 39.4784 (C_C² – C²)/C²
+
+## 294 | tag=ES 93 | p=35 | hw=d
+For undisturbed sampling, the area ratio for a thin-wall sampler should not normally exceed
+#a 15%
+#b 25%
+#c 30%
+#d 35%
+
+## 295 | tag=ES 93 | p=35 | hw=c
+Which of the following pairs are correctly matched?
+1. Standard penetration test ….Relative density
+2. Vane shear …. Cohesion
+3. Consolidation test ….. Bearing capacity
+Select the correct answer using the codes given below.
+Codes:
+#a 1,2 and 3
+#b 1 alone
+#c 1 and 2
+#d 2 and 3
+
+## 296 | tag=ES 94 | p=35-36 | hw=b
+Match List I (different types of soils) with List II (group symbols of I.S. classification) and select the correct answer using the codes given below the Lists :
+List I — List II
+A. Well-graded gravel sand mixtures with little or no fines — 1. ML
+B. Poorly graded sands or gravelly sands with little or no fines — 2. CH
+C. Inorganic silts and very fine sands or clayey silts with low plasticity — 3. GW
+D. Inorganic clays of high plasticity — 4. SP
+Codes:
+#a A-3, B-1, C-4, D-2
+#b A-3, B-4, C-1, D-2
+#c A-2, B-4, C-1, D-3
+#d A-2, B-1, C-4, D-3
+
+## 297 | star | tag=ES 94 | p=36 | hw=a
+A sample of soil has the following properties :
+Liquid limit = 45%
+Plastic limit = 25%
+Shrinkage limit = 17%
+Natural moisture content = 30%
+The consistency index of the soil is
+#a 15/20
+#b 13/20
+#c 8/20
+#d 5/20
+
+## 298 | star | tag=ES 94 | p=36 | hw=b
+A stratum of soil consists of three layers of equal thickness. The permeabilities of top and bottom layers are K = 10⁻⁴ cm/s and that of the middle layer is K = 10⁻³ cm/s. Then the value of the horizontal coefficient of permeability K_H for the entire soil layers is
+#a 2 x 10⁻³ cm/s
+#b 4 x 10⁻⁴ cm/s
+#c 3 x 10⁻⁴ cm/s
+#d 1.5 x 10⁻⁴ cm/s
+
+## 299 | tag=ES 94 | p=36 | hw=b
+The ratio of the energies imparted to soil sample in modified Proctor's compaction test and the standard Proctor's compaction test is about
+#a 10.0
+#b 4.5
+#c 2.2
+#d 1.8
+
+## 300 | tag=ES 94 | p=36 | hw=a
+Consider the following statements about the properties of flownets:
+1) Flow lines are perpendicular to equipotential lines.
+2) No two flow lines or equipotential lines start from the same point.
+3) No two flow lines cross each other.
+Of these statements
+#a 1, 2 and 3 are correct
+#b 2 and 3 are correct
+#c 1 and 2 are correct
+#d 1 and 3 are correct
+
+## 301 | tag=ES 94 | p=36 | hw=b
+An undrained triaxial compression test is carried out on a saturated clay sample under a cell pressure of 100 kN/m². The sample failed at a deviator stress of 200 kN/m². The cohesion of the given sample of clay is
+#a 50 kN/m²
+#b 100 kN/m²
+#c 200 kN/m²
+#d 300 kN/m²
+
+## 302 | tag=ES 94 | p=36 | hw=c
+Which one of the following planes is most likely to be the failure plane in sandy soils?
+#a Plane carrying maximum shear stress
+#b Plane carrying maximum normal stress
+#c Plane with the maximum angle of obliquity
+#d Principal plane
+
+## 303 | tag=ES 94 | p=36-37 | hw=d
+A retaining wall retains a c–ϕ soil backfill. Tension cracks have occurred in the backfill. The total active earth pressure is given by (γ = unit weight of soil, H = height of retaining wall, k_A = coefficient of active earth pressure, c′ = cohesion of soil)
+#a P_A = (1/2)γH²k_A – 2c′H√k_A
+#b P_A = (1/2)γH²k_A + 2c′H√k_A
+#c P_A = (1/2)γH²k_A – 2c′H√k_A – 2(c′)²/γ
+#d P_A = (1/2)γH²k_A – 2c′H√k_A + 2(c′)²/γ
+
+## 304 | tag=ES 94 | p=37 | hw=d
+In which one of the following pairs of soil types would one anticipate negative pore pressure, when subjected to shearing ?
+#a normally consolidated clay and dense sand
+#b overconsolidated clay and loose sand
+#c loess and overconsolidated clay
+#d dense sand and overconsolidated clay
+
+## 305 | tag=ES 94 | p=37 | hw=c
+In a saturated soil deposit having a density of 22 kN/m³ , the effective normal stress on a horizontal plane at 5 m depth will be
+#a 22 kN/m²
+#b 50 kN/m²
+#c 60 kN/m²
+#d 110 kN/m²
+
+## 306 | star | tag=ES 94 | p=37 | hw=b
+A fully saturated clay specimen is placed in a consolidometer and subjected to a loading of 200 kN/m². After a period of time it was found that the average pore pressure in the specimen was 70 kN/m². The percentage of consolidation reached by then was
+#a 70
+#b 65
+#c 35
+#d 29
+
+## 307 | star | tag=ES 94 | p=37 | hw=b | fig=37:0.28,0.58,0.53,0.73
+The virgin compression curve for a particular soil is shown in Fig.8.15. The compression index of the soil is
+#a 0.35
+#b 0.50
+#c 1.0
+#d 1.5
+
+## 308 | tag=ES 94 | p=37 | hw=a
+A 2 m wide strip footing rests at a depth of 2 m below ground surface in a clay deposit where water table is at ground surface, c = 3 t/m² and γ_sat =2 t/m³. The best estimate of the net ultimate load which the footing can carry is
+#a 18 t/m
+#b 22 t/m.
+#c 34.2 t/m
+#d 48 t/m
+
+## 309 | star | tag=ES 94 | p=37 | hw=b
+In Newmark's influence chart for stress distribution, there are ten concentric circles and ten radial lines. The influence factor of the chart is
+#a 0.1
+#b 0.01
+#c 0.001
+#d 0.0001
+
+## 310 | tag=ES 94 | p=37 | hw=b
+Match List I with List II and select the correct answer using the codes given below the Lists :
+List I — List II
+A. Friction pile — 1. Stiff clay
+B. Batter pile — 2. Loose granular soil
+C. Tension pile — 3. Lateral load
+D. Compaction pile — 4. Uplift load
+Codes :
+#a A-3, B-1, C-2, D-4
+#b A-1, B-3, C-4, D-2
+#c A-3, B-1, C-4, D-2
+#d A-1, B-3, C-2, D-4
+
+## 311 | tag=ES 94 | p=37-38 | hw=a
+As per Indian code of practice, the frequency ratio (ratio of operating frequency of a machine to the natural frequency of soil) should not be within the range of
+#a 0.5 to 1.5
+#b 1.0 to 2.5
+#c 1.5 to 3.0
+#d 3.0 to 6.0
+
+## 312 | tag=ES 95 | p=38 | hw=d | fig=38:0.16,0.18,0.46,0.33
+Figures 8.16 indicate the weights of different pycnometers.
+W₁ = Empty Pycnometer, W₂ = Pycnometer + dry soil, W₃ = Pycnometer + soil + water, W₄ = Pycnometer + water
+The specific gravity of solids is given by
+#a W₂/(W₄ – W₂)
+#b (W₂ – W₁)/((W₃ – W₄)–(W₂ – W₁))
+#c W₂/(W₃ – W₄)
+#d (W₂ – W₁)/((W₂ – W₁)–(W₃ – W₄))
+
+## 313 | star | tag=ES 95 | p=38 | hw=a
+A soil sample has a shrinkage limit of 10% and specific gravity of soil solids as 2.7. The porosity of the soil at shrinkage limit is
+#a 21.2%
+#b 27 %
+#c 73 %
+#d 78.8 %
+
+## 314 | star | tag=ES 95 | p=38 | hw=a
+A soil has a discharge velocity of 6 x 10⁻⁷ m/s and a void ratio of 0.5. Its seepage velocity is
+#a 18 x 10⁻⁷ m/s
+#b 12 x 10⁻⁷ m/s
+#c 6 x 10⁻⁷ m/s
+#d 3 x 10⁻⁷ m/s
+
+## 315 | tag=ES 95 | p=38 | hw=b
+If during a permeability test on a soil sample with a falling head permeameter, equal time intervals are noted for drop of head from h₁ to h₂ and again from h₂ to h₃ then which one of the following relations would hold good?
+#a h₃² = h₁h₂
+#b h₂² = h₁h₃
+#c h₁² = h₂h₃
+#d (h₁ – h₂) = (h₂ – h₃)
+
+## 316 | tag=ES 95 | p=38 | hw=d
+For conducting a Standard Proctor compaction test, the weight of hammer (P in kg), the fall of hammer (Q in mm), the number of blows per layer (R) and the number of layers (S) required are respectively
+P — Q — R — S
+#a 5.89 — 550 — 50 — 3
+#b 4.89 — 450 — 25 — 3
+#c 3.60 — 310 — 35 — 4
+#d 2.60 — 310 — 25 — 3
+
+## 317 | tag=ES 95 | p=38 | hw=c
+A flownet is drawn to obtain
+#a seepage, coefficient of permeability and uplift pressure
+#b coefficient of permeability, uplift pressure and exit gradient
+#c exit gradient, uplift pressure and seepage quantity
+#d exit gradient, seepage and coefficient of permeability
+
+## 318 | star | tag=ES 95 | p=38-39 | hw=d
+A laboratory vane shear test apparatus is used to determine the shear strength of a clay sample and only one end of the vane takes part in shearing the soil. If T = applied torque, H = height of vane and D = diameter of the vane, then the shear strength of the clay is given by
+#a T/(πD²(H + D/6))
+#b T/(πD²(H/2 + D/6))
+#c T/(πD²(H + D/12))
+#d T/(πD²(H/2 + D/12))
+
+## 319 | tag=ES 95 | p=39 | hw=c
+A retaining wall retains a sand strata with ϕ = 30⁰ upto its top. If a uniform surcharge of 12 t/m² is subsequently put on the sand strata, then the increase in the lateral earth pressure intensity on the retaining wall will be
+#a 1 t/m²
+#b 2 t/m²
+#c 4 t/m²
+#d 8 t/m²
+
+## 320 | tag=ES 95 | p=39 | hw=b
+Consider the following assumptions for slope stability analysis:
+1. Friction is fully mobilized.
+2. Effective stress analysis is adopted.
+3. Total stress analysis is used.
+4. Resultant 'R' passes through the centre of the circle.
+5. Resultant 'R' is tangential to the friction circle.
+The assumptions necessary for friction circle method of analysis would include
+#a 1, 3 and 4
+#b 1, 3 and 5
+#c 2 and 4
+#d 2 and 5
+
+## 321 | tag=ES 95 | p=39 | hw=d
+If the saturated density of a given soil is 2.1 t/m², then the total stress (T in t/m²) and the effective stress (E in t/m²) of a saturated soil stratum at a depth of 4 m will be
+T — E
+#a 4.4 — 2.4
+#b 5.4 — 3.4
+#c 7.4 — 4.0
+#d 8.4 — 4.4
+
+## 322 | tag=ES 95 | p=39 | hw=c | fig=39:0.62,0.07,0.9,0.25
+The void ratio–pressure diagram is shown in Fig.8.17.
+The coefficient of compressibility is
+#a 0.050 m² /t
+#b 0.073 m² /t
+#c 0.20 m² /t
+#d 0.25 m² /t
+
+## 323 | tag=ES 95 | p=39 | hw=d
+Bearing capacity of a soil strata supporting a footing of size 3 m x 3 m will not be affected by the presence of ground water table located at a depth which is
+#a 1.0 m below the base of the footing
+#b 1.5 m below the base of the footing
+#c 2.5 m below the base of the footing
+#d 3 m below the base of the footing
+
+## 324 | tag=ES 95 | p=39 | hw=d
+Consider the following statements regarding negative skin friction in piles:
+1. It is developed when the pile is driven through a recently deposited clay layer.
+2. It is developed when the pile is driven through a layer of dense sand.
+3. It is developed due to a sudden drawdown of the water table.
+Of these statements
+#a 1 alone is correct
+#b 2 alone is correct
+#c 2 and 3 are correct
+#d 1 and 3 are correct
+
+## 325 | tag=ES 95 | p=39-40 | hw=d
+A concentrated load of 50 acts vertically at a point on the soil surface. If Boussinesq's equation is applied for computation of stress, then the ratio of vertical stresses at depths of 3 m and 5 m respectively vertically below the point of application of load will be
+#a 0.36
+#b 0.60
+#c 1.66
+#d 2.77
+
+## 326 | tag=ES 95 | p=40 | hw=d
+Efficiency of a pile group is defined as
+#a (Load carried by the largest pile in the group)/(Load carried by the smallest pile in the group)
+#b (Maximum load carried by a pile in the group)/(Minimum load carried by a pile in the group)
+#c (Minimum load carried by a pile in the group)/(Maximum load carried by a pile in the group)
+#d (Average load carried by a pile in the group)/(Load carried by a single pile)
+
+## 327 | tag=ES 95 | p=40 | hw=b | check=Book misprint: options printed with labels e), f), g), h) and option h) reads 'of the base' (fraction missing); placed in order as a-d here.
+No tension should develop at the base of the rectangular well foundation or at any horizontal section within the well. For no tension at the base, the resultant of 'Pa' (Total active thrust) and 'W' (Weight of soil and well above the base) must pass through middle
+#a half of the base
+#b third of the base
+#c quarter of the base
+#d of the base
+
+## 328 | tag=ES 95 | p=40 | hw=d
+Match List I with List II and select the correct answer using the codes given below the lists :
+List I (Soil property measured) — List II (In-situ test)
+A. Modulus of sub-grade reaction — 1. Cyclic pile load test
+B. Relative density and strength — 2. Pressure-meter test
+C. Skin friction and point bearing — 3. Plate load test
+D. Elastic constants — 4. Standard penetration test
+Codes:
+#a A-1, B-3, C-2, D-4
+#b A-1, B-2, C-4, D-3
+#c A-2, B-4, C-1, D-3
+#d A-3, B-4, C-1, D-2
+
+## 329 | tag=ES 96 | p=40 | hw=b
+A soil sample is having a specific gravity of 2.60 and a void ratio of 0.78. The water content in percentage required to fully saturate the soil at that void ratio would be
+#a 10
+#b 30
+#c 50
+#d 70
+
+## 330 | star | tag=ES 96 | p=40 | hw=b
+A bed of sand consists of three horizontal layers of equal thickness. The value of Darcy's k for the upper and lower layers is 1 x 10⁻² cm/sec and that for the middle layer is 1 x 10⁻¹cm/sec. The ratio of the permeability of the bed in the horizontal direction to that in the vertical direction is
+#a 10.0 to 1
+#b 2.8 to 1
+#c 2.0 to 1
+#d 1 to 10
+
+## 331 | tag=ES 96 | p=40 | hw=c
+A soil has liquid limit of 60%, plastic limit of 35% and shrinkage limit of 20% and it has a natural moisture content of 50%. The liquidity index of soil is
+#a 1.5
+#b 1.25
+#c 0.6
+#d 0.4
+
+## 332 | tag=ES 96 | p=41 | hw=b
+Sheep-foot rollers are recommended for compacting
+#a granular soils
+#b cohesive soils
+#c hard rock
+#d any type of soil
+
+## 333 | star | tag=ES 96 | p=41 | hw=a
+A deposit of fine sand has a porosity n and specific gravity of soil solids is G. The hydraulic gradient of the deposit to develop boiling condition of sand is given by
+#a i_e=(G-1)(1-n)
+#b i_e=(G-1)(1+n)
+#c i_e= (G – 1)/(1 – n)
+#d i_e= (G – 1)/(1 + n)
+
+## 334 | tag=ES 96 | p=41 | hw=b | fig=41:0.27,0.34,0.52,0.42
+In the schematic flow-net shown in Fig.8.18, the hydraulic potential at point A is
+#a 5m of water
+#b 12 m of water
+#c 15 m of water
+#d 25 m of water
+
+## 335 | tag=ES 96 | p=41 | hw=b
+Consider the following statements in relation to the given sketch:
+Volume, cm³ — Phase — Weight, g
+0.2 — Air — 0
+0.3 — Water — 0.3
+0.5 — Solids — 1.0
+1. Soil is partially saturated at degree of saturation = 60%
+2. Void ratio = 40%
+3. Water content = 30%
+4. Saturated unit weight = 1.5 g/cc.
+Of these statements
+#a 1, 2 and 3 are correct
+#b 1, 3 and 4 are correct
+#c 2, 3 and 4 are correct
+#d 1, 2 and 4 are correct
+
+## 336 | tag=ES 96 | p=41 | hw=b
+Which of the following laboratory triaxial test parameters should one specify to be carried out in connection with the initial stability of footing on saturated clay?
+1. C_cu, ϕ_cu—Consolidated undrained
+2. C_u, ϕ_u—Undrained
+3. C′_d, ϕ′_d—Drained
+Select the correct answer using the codes given below.
+Codes:
+#a 1 alone
+#b 2 alone
+#c 1 and 3
+#d 1, 2 and 3
+
+## 337 | tag=ES 96 | p=41 | hw=a | fig=41:0.6,0.33,0.86,0.78 | fix=Options are the four failure-envelope plots (a)-(d) in Fig. 8.19; see figure.
+Which one of the following Fig.8.19 gives the failure envelope for a normally consolidated saturated clay sample tested in triaxial test under drained conditions?
+#a Fig.8.19 (a): straight line through origin, c = 0, ϕ = ϕ
+#b Fig.8.19 (b): horizontal line at height c, ϕ = 0
+#c Fig.8.19 (c): straight line with intercept c, ϕ = ϕ
+#d Fig.8.19 (d): curved line with intercept c, ϕ not constant
