@@ -3434,3 +3434,944 @@ A two lane single carriage-way is to be designed for a design life period of 15 
 #b 22.6x10⁶
 #c 10.1x10⁶
 #d 5.3x10⁶
+
+@chapter 5 Railway Engineering
+
+## 1 | p=43 | hw=d
+The rail is designated by its
+#a length
+#b weight
+#c cross-section
+#d weight per unit length
+
+## 2 | p=43 | hw=c
+Two important constituents in the composition of steel used for rail are
+#a carbon and silicon
+#b manganese and phosphorous
+#c carbon and manganese
+#d carbon and sulphur
+
+## 3 | p=43 | hw=c
+The standard length of rail for Broad Gauge and Metre Gauge are respectively
+#a 12 m and 12 m
+#b 12 m and 13 m
+#c 13 m and 12 m
+#d 13 m and 13 m
+
+## 4 | p=43 | hw=b
+The following tests are conducted for rails
+i) falling weight test
+ii) tensile test
+iii) hammer test
+The compulsory tests are
+#a only (i)
+#b (i) and (ii)
+#c (ii) and (iii)
+#d (i) and (iii)
+
+## 5 | p=43 | hw=a
+Largest dimension of a rail is its
+#a height
+#b foot width
+#c head width
+#d any of the above
+
+## 6 | p=43 | hw=a
+Largest percentage of material in the rail is in its
+#a head
+#b web
+#c foot
+#d head and foot both
+
+## 7 | p=43 | hw=c
+The purpose of providing fillet in a rail section is to
+#a increase the lateral strength
+#b increase the vertical stiffness
+#c avoid the stress concentration
+#d reduce the wear
+
+## 8 | p=43 | hw=b
+The cross-sectional area of 52 kg flat-footed rail is
+#a 6155 mm²
+#b 6615 mm²
+#c 7235 mm²
+#d 7825 mm²
+
+## 9 | p=43 | hw=a
+52 kg rails are mostly used in
+#a Broad Gauge
+#b Metre Gauge
+#c Narrow Gauge
+#d both (a) and (b)
+
+## 10 | p=43 | hw=c
+Tensile strength of steel used in rails should not be less than
+#a 450 MPa
+#b 500 MPa
+#c 700 MPa
+#d 850 MPa
+
+## 11 | p=43 | hw=c
+Head width of 52 kg rail section is
+#a 61.9 mm
+#b 66.7mm
+#c 67mm
+#d 72.33 mm
+
+## 12 | p=44 | hw=b
+60 R rails are mostly used in
+#a Broad Gauge
+#b Metre Gauge
+#c Narrow Gauge
+#d none of the above
+
+## 13 | p=44 | hw=d
+Ordinary rails are made of
+#a mild steel
+#b cast iron
+#c wrought iron
+#d high carbon steel
+
+## 14 | p=44 | hw=a
+The main function of a fish plate is
+#a to join the two rails together
+#b to join rails with the sleeper
+#c to allow rail to expand and contract freely
+#d none of the above
+
+## 15 | p=44 | hw=b
+Number of fish bolts per fish plate is
+#a 2
+#b 4
+#c 5
+#d 6
+
+## 16 | p=44 | hw=b
+Fish plate is in contact with rail at
+#a web of rail
+#b fishing plane
+#c head of rail
+#d foot of rail
+
+## 17 | p=44 | hw=b
+Gauge is the distance between
+#a centre to centre of rails
+#b running faces of rails
+#c outer faces of rails
+#d none of the above
+
+## 18 | p=44 | hw=d
+Which of the following factors govern the choice of the gauge ?
+i) volume and nature of traffic
+ii) speed of train
+iii) physical features of the country
+The correct answer is
+#a only (i)
+#b both (i) and (ii)
+#c both (ii) and (iii)
+#d (i), (ii) and (iii)
+
+## 19 | p=44 | hw=c
+For developing thinly populated areas, the correct choice of gauge is
+#a Broad Gauge
+#b Metre Gauge
+#c Narrow Gauge
+#d any of the above
+
+## 20 | p=44 | hw=b
+Due to battering action of wheels over the end of the rails, the rails get bent down and are deflected at ends. These rails are called
+#a roaring rails
+#b hogged rails
+#c corrugated rails
+#d buckled rails
+
+## 21 | p=44 | hw=a
+The slipping of driving wheels of locomotives on the rail surface causes
+#a wheel burns
+#b hogging of rails
+#c scabbing of rails
+#d corrugation of rails
+
+## 22 | p=44 | hw=c
+The width of foot for 90 R rail section is
+#a 100 mm
+#b 122.2 mm
+#c 136.5 mm
+#d 146.0 mm
+
+## 23 | p=44 | hw=b
+The height of the rail for 52 kg rail section is
+#a 143 mm
+#b 156 mm
+#c 172 mm
+#d 129mm
+
+## 24 | p=44 | hw=b
+The formation width for a railway track depends on the
+i) type of gauge
+ii) number of tracks to be laid side by side
+iii) slope of sides of embankment or cutting
+The correct answer is
+#a only (i)
+#b both (i) and (ii)
+#c both (i) and (iii)
+#d (i), (ii) and (iii)
+
+## 25 | p=44 | hw=b
+The formation width for a single line metre gauge track in embankment as adopted on Indian Railways is
+#a 4.27 m
+#b 4.88 m
+#c 5.49m
+#d 6.10 m
+
+## 26 | p=44-45 | hw=c
+The side slope of embankments for a railway track is generally taken as
+#a 1 : 1
+#b 1.5 : 1
+#c 2:1
+#d 1:2
+
+## 27 | p=45 | hw=c
+The formation width for a double line Broad Gauge track in cutting (excluding drains) as adopted on Indian Railways is
+#a 6.10 m
+#b 8.84 m
+#c 10.21 m
+#d 10.82 m
+
+## 28 | p=45 | hw=d
+The total gap on both sides between the inside edges of wheel flanges and gauge faces of the rail is kept as
+#a 10mm
+#b 13mm
+#c 16mm
+#d 19 mm
+
+## 29 | p=45 | hw=a
+Creep is the
+#a longitudinal movement of rail
+#b lateral movement of rail
+#c vertical movement of rail
+#d difference in level of two rails
+
+## 30 | p=45 | hw=d
+Anticreep bearing plates are provided on
+#a bridges and approaches
+#b joints
+#c both (a) and (b)
+#d none of the above
+
+## 31 | p=45 | hw=b
+Study the following statements regarding creep.
+i) Creep is greater on curves than on tangent railway track.
+ii) Creep in new rails is more than that in old rails.
+iii) Creep is more on steep gradients than on level track.
+The correct answer is
+#a only (i)
+#b (i) and (ii)
+#c (ii) and (iii)
+#d (i), (ii) and (iii)
+
+## 32 | p=45 | hw=b
+The maximum degree of curvature for Metre Gauge is limited to
+#a 10°
+#b 16°
+#c 30°
+#d 40°
+
+## 33 | p=45 | hw=a
+Staggered joints are generally provided
+#a on curves
+#b on straight track
+#c when two different rail sections are required to be joined
+#d none of the above
+
+## 34 | p=45 | hw=a
+When the rail ends rest on a joint sleeper, the joint is termed as
+#a supported rail joint
+#b suspended rail joint
+#c bridge joint
+#d base joint
+
+## 35 | p=45 | hw=c
+Which of the following types of sleepers is preferred on joints ?
+#a CST-9 sleeper
+#b steel trough sleeper
+#c wooden sleeper
+#d concrete sleeper
+
+## 36 | star | p=45 | hw=c
+Minimum depth of ballast cushion for a Broad Gauge wooden sleeper of size 275×25×13 cm with 75cm sleeper spacing is
+#a 15 cm
+#b 20 cm
+#c 25 cm
+#d 30cm
+
+## 37 | p=45 | hw=a
+Sleeper density in India is normally kept as
+#a M + 2 to M + 7
+#b M to M+2
+#c M + 5 to M + 10
+#d M
+#note where M is the rail length in metres.
+
+## 38 | p=45 | hw=c
+For a Broad Gauge route with M+7 sleeper density, number of sleepers per rail length is
+#a 18
+#b 19
+#c 20
+#d 21
+
+## 39 | star | p=45 | hw=a
+Standard size of wooden sleeper for Broad Gauge track is
+#a 275×25×13cm
+#b 180×20×11.5 cm
+#c 225×23×13 cm
+#d 250×26×12 cm
+
+## 40 | p=46 | hw=a
+Composite sleeper index is the index of
+#a hardness and strength
+#b strength and toughness
+#c toughness and wear resistance
+#d wear resistance and hardness
+
+## 41 | star | p=46 | hw=b
+Minimum composite sleeper index prescribed on Indian Railways for a track sleeper is
+#a 552
+#b 783
+#c 1352
+#d 1455
+
+## 42 | p=46 | hw=a
+Dog spikes are used for fixing rail to the
+#a wooden sleepers
+#b CST-9 sleepers
+#c steel trough sleepers
+#d concrete sleepers
+
+## 43 | p=46 | hw=b
+Number of dog spikes normally used per rail seat on curved track is
+#a one on either side
+#b two outside and one inside
+#c one outside and two inside
+#d two outside and two inside
+
+## 44 | p=46 | hw=b
+The type of bearing plate used in all joints and on curves to give better bearing area to the rails is
+#a flat mild steel bearing plate
+#b mild steel canted bearing plate
+#c cast iron anticreep bearing plate
+#d none of the above
+
+## 45 | p=46 | hw=a
+Flat mild steel bearing plates are used
+#a for points and crossings in the lead portion
+#b with wooden sleepers at locations where creep is likely to be developed
+#c on all joints and curves
+#d on all the above
+
+## 46 | p=46 | hw=a
+The nominal size of ballast used for points and crossings is
+#a 25 mm
+#b 40 mm
+#c 50 mm
+#d 10mm
+
+## 47 | p=46 | hw=c
+At points and crossings, the total number of sleepers for 1 in 12 turnouts in Broad Gauge is
+#a 51
+#b 62
+#c 70
+#d 78
+
+## 48 | p=46 | hw=c
+Width of ballast section for Broad Gauge is
+#a 1.83 m
+#b 2.25 m
+#c 3.35 m
+#d 4.30 m
+
+## 49 | p=46 | hw=d
+The type of spike used for fixing chairs of bull headed rails to wooden sleepers is
+#a dog spike
+#b rail screw
+#c elastic spike
+#d round spike
+
+## 50 | p=46 | hw=a
+The sleepers resting directly on girder are fastened to the top flange of girder by
+#a hook bolts
+#b dog spikes
+#c fang bolts
+#d rail screws
+
+## 51 | p=46 | hw=a
+Number of keys used in CST-9 sleeper is
+#a 2
+#b 3
+#c 4
+#d none of the above
+
+## 52 | p=46 | hw=d
+Loose jaws of steel trough sleepers are made of
+#a cast steel
+#b mild steel
+#c cast iron
+#d spring steel
+
+## 53 | p=46 | hw=c
+Number of cotters used in CST-9 sleepers is
+#a 2
+#b 3
+#c 4
+#d 5
+
+## 54 | p=46 | hw=c
+Pandrol clips cannot be used with
+#a wooden sleepers
+#b concrete sleepers
+#c CST-9 sleepers
+#d steel trough sleepers
+
+## 55 | p=46-47 | hw=b
+The desirable rate of change of cant deficiency in case of Metre Gauge is
+#a 20 mm/sec
+#b 35 mm/sec
+#c 55 mm/sec
+#d 65 mm/sec
+
+## 56 | p=47 | hw=c
+The limiting value of cant excess for Broad Gauge is
+#a 55 mm
+#b 65 mm
+#c 75 mm
+#d 100mm
+
+## 57 | p=47 | hw=b
+The limiting value of cant gradient for all gauges is
+#a 1 in 360
+#b 1 in 720
+#c 1 in 1000
+#d 1 in 1200
+
+## 58 | p=47 | hw=b
+Normally the limiting value of cant is
+#a G/8
+#b G/10
+#c G/12
+#d G/15
+#note where G is the gauge.
+
+## 59 | p=47 | hw=d
+Vertical curves are provided where algebraic difference between grades is equal to or
+#a less than 2 mm/m
+#b more than 2 mm/m
+#c less than 4 mm/m
+#d more than 4mm/m
+
+## 60 | p=47 | hw=b
+The limiting value of cant deficiency for Metre Gauge routes is
+#a 40 mm
+#b 50mm
+#c 75mm
+#d 100mm
+
+## 61 | p=47 | hw=a
+The steepest gradient permissible on a 2.5° curve for Broad Gauge line having ruling gradient of 1 in 200 is
+#a 1 in 250
+#b 1 in 222
+#c 1 in 235
+#d 1 in 275
+
+## 62 | p=47 | hw=b
+Normally maximum cant permissible in Metre Gauge is
+#a 75 mm
+#b 90 mm
+#c 140 mm
+#d 165 mm
+
+## 63 | star | p=47 | hw=b
+Cant deficiency occurs when a vehicle travels around a curve at
+#a equilibrium speed
+#b speeds higher than equilibrium speed
+#c speeds lower than equilibrium speed
+#d booked speed
+
+## 64 | p=47 | hw=b
+The compensation for curvature on gradient for Metre Gauge is given by
+#a 70/R
+#b 52.5/R
+#c 35/R
+#d 105/R
+#note where R is radius of curve.
+
+## 65 | tag=ES 98 | p=47 | hw=a
+The shape of transition curve used by Indian Railways is
+#a cubic parabola
+#b spiral
+#c sine curve
+#d lemniscate of Bernoulli
+
+## 66 | p=47 | hw=c
+If R is the radius of a circular curve, then the versine on a chord of length C is given by
+#a C²/(4R)
+#b C/(8R)
+#c C²/(8R)
+#d C/(4R)
+
+## 67 | p=47 | hw=d
+A Broad Gauge branch line takes off as a contrary flexure from a main line If the superelevation required for branch line is 10 mm and cant deficiency is 75 mm, the superelevation to be actually provided on the branch line will be
+#a – 10 mm
+#b 64 mm
+#c 85 mm
+#d – 65 mm
+
+## 68 | p=47 | hw=c
+One degree of curve is equivalent to
+#a 1600/R
+#b 1700/R
+#c 1750/R
+#d 1850/R
+#note where R is the radius of curve in metres.
+
+## 69 | p=48 | hw=a
+The equilibrium superelevation to be provided on a curve of radius R metres and speed of vehicle V kmph is given by
+#a GV²/(127R)
+#b GV²/(160R)
+#c GV²/(147R)
+#d GV²/(217R)
+#note where G is gauge.
+
+## 70 | p=48 | hw=a
+Switch angle is the angle between
+#a the gauge face of the stock rail and tongue rail
+#b the outer face of the stock rail and tongue rail
+#c the gauge face of the stock rail and outer face of the tongue rail
+#d the outer face of the stock rail and the gauge face of the tongue rail
+
+## 71 | p=48 | hw=a
+Switch angle depends on
+i) heel divergence
+ii) length of tongue rail
+iii) flangeway clearance
+iv) throw of switch
+The correct answer is
+#a (i) and (ii)
+#b (ii) and (iii)
+#c (iii) and (iv)
+#d (i) and (iv)
+
+## 72 | star | p=48 | hw=d
+Maximum value of 'throw of switch' for Broad Gauge track is
+#a 89 mm
+#b 95 mm
+#c 100 mm
+#d 115mm
+
+## 73 | star | p=48 | hw=b
+Stretcher bar is provided
+#a to permit lateral movement of the tongue rail
+#b to maintain the two tongue rails at the exact distance
+#c to ensure exact gauge at the toe of the switch as well as the nose of crossing
+#d to prevent any vertical movement between the wing rail and nose of crossing
+
+## 74 | p=48 | hw=b
+Which of the following methods of designation of crossing is mostly used in India ?
+#a centre line method
+#b right angle method
+#c isosceles angle method
+#d none of the above
+
+## 75 | star | p=48 | hw=c
+If α is the angle of crossing, then the number of crossings 'N' according to right angle method is given by
+#a ½ cot(α/2)
+#b cot(α/2)
+#c cot(α)
+#d ½ cosec(α/2)
+
+## 76 | p=48 | hw=a
+Which of the following turnouts is most commonly used for goods train on Indian Railways ?
+#a 1 in 8½
+#b 1 in 12
+#c 1 in 16
+#d 1 in 20
+
+## 77 | p=48 | hw=b
+Lead of crossing is the distance from the
+#a heel of the switch to the toe of the switch
+#b heel of the switch to the theoretical nose of the crossing
+#c toe of the switch to the theoretical nose of crossing
+#d toe of the switch to the actual nose of crossing
+
+## 78 | star | p=48 | hw=d
+Number of switches provided on a Gauntletted track is
+#a 1
+#b 2
+#c 3
+#d none of the above
+
+## 79 | p=48 | hw=b
+The correct relation between curve lead (CL), switch lead (SL) and lead of crossing (L) is given by
+#a CL = L – SL
+#b L = CL – SL
+#c SL = L + CL
+#d L = (CL+SL)/2
+
+## 80 | p=49 | hw=b
+In a scissors cross-over, the crossings provided are
+i) 2 obtuse angle crossings
+ii) 4 obtuse angle crossings
+iii) 4 acute angle crossings
+iv) 6 acute angle crossings
+The correct answer is
+#a (i) and (iii)
+#b (i) and (iv)
+#c (ii) and (iii)
+#d (ii) and (iv)
+
+## 81 | p=49 | hw=c
+The distance through which the tongue rail moves laterally at the toe of the switch for movement of trains is called
+#a flangeway clearance
+#b heel divergence
+#c throw of the switch
+#d none of the above
+
+## 82 | p=49 | hw=a
+Flangeway clearance is the distance
+#a between the adjoining faces of the running rail and the check rail near the crossing
+#b between the gauge faces of the stock rail and the tongue rail
+#c through which the tongue rail moves laterally at the toe of the switch
+#d none of the above
+
+## 83 | star | p=49 | hw=c
+Heel divergence is
+#a always less than flangeway clearance
+#b equal to flangeway clearance
+#c always greater than flangeway clearance
+#d sometimes greater than flangeway clearance
+
+## 84 | p=49 | hw=c
+Which of the following mechanical devices is used to ensure that route cannot be changed while the train is on the point even after putting back the signal ?
+#a detectors
+#b point lock
+#c lock bar
+#d stretcher bar
+
+## 85 | p=49 | hw=b
+The treadle bar is provided
+#a in the middle of the track a little in front of the toes of the tongue rail
+#b near and parallel to inner side of one of the rails
+#c at right angle to the rail
+#d near and parallel to inner side of both the rails
+
+## 86 | p=49 | hw=a
+The object of providing a point lock is
+#a to ensure that each switch is correctly set
+#b to ensure that the point may not be operated while the train is on it
+#c to detect any obstruction between and tongue rail
+#d none of the above
+
+## 87 | p=49 | hw=c
+Which of the following devices is used to transfer the wagons or locomotives to and from parallel tracks without any necessity of shunting ?
+#a triangle
+#b turntable
+#c traverser
+#d scotch block
+
+## 88 | p=49 | hw=a
+A triangle is used for
+#a changing the direction of engine
+#b transferring wagons to and from parallel tracks without shunting
+#c separating all the sidings and shunting lines from main lines
+#d preventing the vehicles from running off the track
+
+## 89 | p=49 | hw=c
+The height of the centre of arm of a semaphore signal above the ground is
+#a 5.5m
+#b 6.5 m
+#c 7.5 m
+#d 8.5m
+
+## 90 | p=49 | hw=a
+The reception signal is
+i) outer signal
+ii) home signal
+iii) starter
+iv) advanced starter
+The correct answer is
+#a (i) and (ii)
+#b (ii) and (iii)
+#c (iii) and (iv)
+#d (i) and (iv)
+
+## 91 | p=49 | hw=c
+Yellow light hand signal indicates
+#a stop
+#b proceed
+#c proceed cautiously
+#d none of the above
+
+## 92 | p=50 | hw=a
+When semaphore and warner are installed on the same post, then the stop indication is given when
+#a both arms are horizontal
+#b semaphore arm lowered but warner arm horizontal
+#c both semaphore and warner arms lowered
+#d none of the above
+
+## 93 | p=50 | hw=b
+In a shunting signal if the red band is inclined at 45° it indicates
+#a stop
+#b proceed
+#c proceed cautiously
+#d none of the above
+
+## 94 | p=50 | hw=a
+Match List I with List II and select the correct answer using the codes given below the lists.
+List I — List II
+A. Wire claw — 1. to clean the ballast
+B. Jim crow — 2. to pack the ballast under sleeper
+C. Beater — 3. to bend the rails
+D. Mallet — 4. to sound the sleeper for packing
+Codes:
+#a A-1, B-3, C-2, D-4
+#b A-1, B-4, C-3, D-2
+#c A-2, B-1, C-3, D-4
+#d A-2, B-3, C-1, D-4
+
+## 95 | p=50 | hw=d
+For the purpose of track maintenance, the number of turn out equivalent to one track km are
+#a 1
+#b 2
+#c 5
+#d 10
+
+## 96 | p=50 | hw=b
+A train is hauled by 4-8-2 locomotive. The number of driving wheels in this locomotive is
+#a 4
+#b 8
+#c 12
+#d 14
+
+## 97 | p=50 | hw=c
+To ensure exact gauge, the gauge tie plates are provided at
+#a toe of the switch
+#b nose of crossing
+#c both (a) and (b)
+#d none of the above
+
+## 98 | p=50 | hw=d
+Consider the following statements.
+i) Slide chairs are provided under tongue rails to allow lateral movement.
+ii) Stretcher bars are provided to maintain the two tongue rails at correct distance.
+iii) Grade off chairs are provided behind the heel of the switches to give a ramp to tongue rail.
+Of the above statements,
+#a (i) and (ii) are correct
+#b (ii) and (iii) are correct
+#c (i) and (iii) are correct
+#d (i), (ii) and (iii) are correct
+
+## 99 | tag=ES 93 | p=50 | hw=b
+On a single rail track, goods trains loaded with heavy iron material run starting from A to B and then empty wagons run from B to A. The amount of creep in the rails.
+#a will be more in the direction of B to A
+#b will be more in the direction of A to B
+#c will be maximum at the middle of A and B
+#d cannot be determined from the given data.
+
+## 100 | tag=ES 93 | p=50-51 | hw=b
+For laying the railway track, materials required are
+A) Rails
+B) Fish Plates
+C) Fish Bolts
+D) Bearing Plates
+The quantities required for one kilometre of Broad Gauge track will be
+#a A-154, B-308, C-308, D-154
+#b A-154, B-308, C-616, D-154
+#c A-77, B-154, C-308, D-77
+#d A-168, B-336, C-672, D-168
+
+## 101 | tag=ES 93 | p=51 | hw=c | fig=51:0.16,0.22,0.43,0.29
+Figure 5.1 represents a
+#a goods yard
+#b gravitational yard
+#c hump yard
+#d loco yard
+
+## 102 | tag=ES 94 | p=51 | hw=d
+Which of the following statements regarding ballast materials are correct?
+1. Brick ballast has poor drainage characteristics.
+2. Coal ash is not used as ballast with steel or cast iron sleepers.
+3. Gravel ballast gives better performance on soft formation.
+4. Sand ballast causes excessive wear on top of rail.
+Select the correct answer using the codes given below.
+Codes :
+#a 1 and 2
+#b 1 and 4
+#c 1 and 3
+#d 2, 3 and 4
+
+## 103 | tag=ES 94 | p=51 | hw=b
+Which one of the following relates to the percussion theory for explaining the causes of creep?
+#a Pushing the rails forward and backward during starting and slowing
+#b Impact of wheels at the rail end ahead at joints
+#c Pushing the rail off the track due to the thrust on driving wheels
+#d Formation of vertical reverse curves behind and ahead of wheels
+
+## 104 | tag=ES 94 | p=51 | hw=b
+Metal sleepers are superior to wooden sleepers with respect to
+#a cost
+#b life
+#c track circuiting
+#d fastening
+
+## 105 | tag=ES 94 | p=51 | hw=a
+Which one of the following rail failures is caused by loose fish bolts at expansion joints?
+#a crushed head
+#b angular break
+#c split head
+#d transverse fissures
+
+## 106 | star | tag=ES 94 | p=51 | hw=b
+For a 8⁰ curve track diverging from a main curve of 5⁰ in an opposite direction in the layout of a broad gauge yard, the cant to be provided for the branch track for maximum speed of 45 km/h on the main line and 'G' = 1.676 m is(Permitted cant deficiency for the main line = 7.6 cm)
+#a 0.168 cm
+#b – 0.168 cm
+#c 7.432 cm
+#d 7.768 cm
+
+## 107 | tag=ES 94 | p=51 | hw=d
+Consider the following statements :
+Automatic signalling system results in
+1. greater risk
+2. higher efficiency
+3. avoidance of block instruments
+4. higher operating cost
+Of these statements
+#a 1 and 2 are correct
+#b 3 and 4 are correct
+#c 1 and 4 are correct
+#d 2 and 3 are correct
+
+## 108 | tag=ES 94 | p=51 | hw=b
+Wear of rails is maximum in
+#a tangent track
+#b sharp curve
+#c tunnels
+#d coastal area
+
+## 109 | tag=ES 94 | p=51-52 | hw=c
+The 'axle load' including weight of wheels and axle (provided the rail has not lost more than 5% of its original section) for a 44.5 kg/m rail section for broad gauge should be
+#a 17.5 tonnes
+#b 19 tonnes
+#c 23 tonnes
+#d 28.5 tonnes
+
+## 110 | tag=ES 95 | p=52 | hw=b | fig=52:0.25,0.13,0.42,0.4 | fix=Options are the four signal-arm drawings (a)-(d) in Fig.5.2; see figure.
+Which one of the following figures (Fig. 5.2) represents a 'Warner signal' in railways ?
+#a Fig.5.2 (a): arm with square end and one vertical bar
+#b Fig.5.2 (b): arm with fish-tail end and one V-mark
+#c Fig.5.2 (c): arm with pointed end and one V-mark
+#d Fig.5.2 (d): arm with fish-tail end and two vertical bars
+
+## 111 | tag=ES 95 | p=52 | hw=b
+The grade compensation on a 4⁰ curve on a Broad Gauge railway track is
+#a 0.20%
+#b 0.16%
+#c 0.12%
+#d 0.08%
+
+## 112 | tag=ES 95 | p=52 | hw=a
+Which of the following pairs are correctly matched?
+1. Distance between adjoining face of running rail and check rail — Flangeway clearance
+2. Distance through which the tongue rail moves laterally at the toe of switch for the movement of trains — Heal divergence
+3. Distance between the gauge faces of the stock rail and tongue rail at the heel — Throw of switch
+4. Angle between the gauge face of stock rail and tongue rail — Switch angle
+Select the correct answer using the codes given below.
+Codes :
+#a 1 and 4
+#b 2 and 4
+#c 3 and 4
+#d 1, 2, 3 and 4
+
+## 113 | tag=ES 95 | p=52 | hw=c
+Match List I and List II and select the correct answer using the codes given below the lists :
+List I — List II
+A. Shovel — 1. To lift rail
+B. Crow bars — 2. To remove dog spikes out of sleepers
+C. Rail tongs — 3. To correct track alignment
+D. Claw bar — 4. To handle ballast
+Codes :
+#a A-3, B-4, C-2, D-1
+#b A-4, B-3, C-2, D-1
+#c A-4, B-3, C-1, D-2
+#d A-3, B-4, C-1, D-2
+
+## 114 | star | tag=ES 96 | p=52 | hw=b
+A train is hauled by 2-8-2 locomotive with 22.5 tonnes and on each driving axle. Assuming the coefficient of rail-wheel friction to be 0.25, what would be the hauling capacity of the locomotive?
+#a 15.0 tonnes
+#b 22.5 tonnes
+#c 45.0 tonnes
+#d 90.0 tonnes
+
+## 115 | tag=ES 97 | p=52 | hw=a
+A treadle bar is used for
+#a interlocking points and signal
+#b setting points and crossings
+#c setting marshalling yard signals
+#d track maintenance
+
+## 116 | tag=ES 97 | p=52-53 | hw=d
+Consider the following statements about concrete sleepers.
+1. They improve the track modulus.
+2. They have good scrap value.
+3. They render transportation easy.
+4. They maintain the gauge quite satisfactorily.
+Of these statements
+#a 1 and 2 are correct
+#b 2 and 3 are correct
+#c 3 and 4 are correct
+#d 1 and 4 are correct
+
+## 117 | star | tag=ES 97 | p=53 | hw=a
+What will be the curve lead for a 1 in 8.5 turnout taking off from a straight broad gauge track?
+#a 28.49 m
+#b 21.04 m
+#c 14.24 m
+#d 7.45 m
+
+## 118 | tag=ES 98 | p=53 | hw=d
+Consider the following surveys.
+1. Reconnaissance survey
+2. Preliminary survey
+3. Traffic survey
+4. Location survey
+The correct sequence in which these surveys are conducted before the alignment of a track is finalised is
+#a 1, 3, 2, 4
+#b 1, 3, 4, 2
+#c 3, 1, 4, 2
+#d 3, 1, 2, 4
+
+## 119 | tag=ES 99 | p=53 | hw=c
+The load on each axle of a locomotive is 22 tonnes. If the coefficient of friction is 0.2, then the hauling capacity due to 3 pairs of driving wheels will be
+#a 26.4 t
+#b 19.8 t
+#c 13.2 t
+#d 6.6 t
+
+## 120 | tag=ES 99 | p=53 | hw=b
+In a B.G. railway track, the specified ruling gradient is 1 in 250. The horizontal curve of 3⁰ on a gradient of 1 in 250 will have the permissible gradient of
+#a 1 in 257
+#b 1 in 357
+#c 1 in 457
+#d 1 in 512
+
+## 121 | star | tag=ES 99 | p=53 | hw=c
+For a sleeper density of (n+5), the number of sleepers required for constructing a broad gauge railway track of length 650 m is
+#a 975
+#b 918
+#c 900
+#d 880
+
+## 122 | tag=ES 99 | p=53 | hw=b
+If 'A' is the angle formed by two gauge faces, the crossing number will be
+#a tan A
+#b cot A
+#c sec A
+#d A rad
