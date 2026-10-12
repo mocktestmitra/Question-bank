@@ -4375,3 +4375,2653 @@ If 'A' is the angle formed by two gauge faces, the crossing number will be
 #b cot A
 #c sec A
 #d A rad
+
+@chapter 6 Environmental Engineering
+
+## 1 | p=54 | hw=a
+Assertion A : The consumption of water increases with increase in the distribution pressure.
+Reason R : Higher distribution pressure causes more loss and waste of water.
+Select your answer according to the coding system given below
+#a Both A and R are true and R is the correct explanation of A.
+#b Both A and R are true but R is not the correct explanation of A.
+#c A is true but R is false.
+#d A is false but R is true.
+
+## 2 | p=54 | hw=d
+The per capita consumption of a locality is affected by
+i) climatic conditions
+ii) quality of water
+iii) distribution pressure
+The correct answer is
+#a only (i)
+#b both (i) and (ii)
+#c both (i) and (iii)
+#d all (i), (ii) and (iii)
+
+## 3 | p=54 | hw=a
+Which of the following causes a decrease in per capita consumption ?
+#a use of metering system
+#b good quality of water
+#c better standard of living of the people
+#d hotter climate
+
+## 4 | p=54 | hw=a
+The hourly variation factor is usually taken as
+#a 1.5
+#b 1.8
+#c 2.0
+#d 2.7
+
+## 5 | star | p=54 | hw=d
+If the average daily consumption of a city is 100,000 m³, the maximum daily consumption on peak hourly demand will be
+#a 100000m³
+#b 150000m³
+#c 180000m³
+#d 270000 m³
+
+## 6 | p=54 | hw=d
+The distribution mains are designed for
+#a maximum daily demand
+#b maximum hourly demand
+#c average daily demand
+#d maximum hourly demand on maximum day
+
+## 7 | p=54 | hw=a
+As compared to geometrical increase method of forecasting population, arithmetical increase method gives
+#a lesser value
+#b higher value
+#c same value
+#d accurate value
+
+## 8 | star | p=54 | hw=d
+The population of a town in three consecutive years are 5000, 7000 and 8400 respectively. The population of the town in the fourth consecutive year according to geometrical increase method is
+#a 9500
+#b 9800
+#c 10100
+#d 10920
+
+## 9 | star | p=54-55 | hw=b
+The suitable method of forecasting population for a young and rapidly increasing city is
+#a arithmetical increase method
+#b geometrical increase method
+#c incremental increase method
+#d graphical method
+
+## 10 | p=55 | hw=b
+The depression of water table in a well due to pumping will be maximum
+#a at a distance R from the well
+#b close to the well
+#c at a distance R/2 from the well
+#d none of the above
+#note where R is the radius of influence
+
+## 11 | p=55 | hw=d
+The devices which are installed for drawing water from the sources are called
+#a aquifers
+#b aquiclude
+#c filters
+#d intakes
+
+## 12 | p=55 | hw=a
+Select the correct relationship between porosity (N), specific yield (γ) and specific retention (R)
+#a N = γ + R
+#b γ = N + R
+#c R = N + γ
+#d R > (N + γ)
+
+## 13 | star | p=55 | hw=b
+The type of valve, which is provided on the suction pipe in a tube-well, is
+#a air relief valve
+#b reflux valve
+#c pressure relief valve
+#d sluice valve
+
+## 14 | p=55 | hw=b
+The maximum discharge of a tube-well is about
+#a 5 litres/sec
+#b 50 litres/sec
+#c 500 litres/sec
+#d 1000 litres/see
+
+## 15 | p=55 | hw=c
+As compared to shallow-wells, deep wells have
+#a more depth
+#b less depth
+#c more discharge
+#d less discharge
+
+## 16 | p=55 | hw=a
+Ground water is usually free from
+#a suspended impurities
+#b dissolved impurities
+#c both suspended and dissolved impurities
+#d none of the above
+
+## 17 | star | p=55 | hw=b
+The polluted water is one which
+#a contains pathogenic bacteria
+#b consists of undesirable substances rendering it unfit for drinking and domestic use
+#c is safe and suitable for drinking and domestic use
+#d is contaminated
+
+## 18 | p=55 | hw=d
+Which of the following is not a water borne disease ?
+#a dysentery
+#b cholera
+#c typhoid
+#d maleria
+
+## 19 | star | p=55 | hw=a
+The most common cause of acidity in water is
+#a carbon dioxide
+#b oxygen
+#c hydrogen
+#d nitrogen
+
+## 20 | p=55 | hw=c
+The phenolic compounds in public water supply should not be more than
+#a 0.1 ppm
+#b 0.01 ppm
+#c 0.001 ppm
+#d 0.0001 ppm
+
+## 21 | p=55 | hw=b
+The maximum permissible limit for flouride in drinking water is
+#a 0.1 mg/litre
+#b 1.5 mg/litre
+#c 5 mg/litre
+#d 10 mg/litre
+
+## 22 | p=55 | hw=a
+Standard EDTA (ethylene diamine tetra acetic acid) solution is used to determine the
+#a hardness in water
+#b turbidity in water
+#c dissolved oxygen in water
+#d residual chlorine in water
+
+## 23 | p=55-56 | hw=d
+If the coliform bacteria is present in a sample of water, then the coliform test to be conducted is
+i) presumptive coliform test
+ii) confirmed coliform test
+iii) completed coliform test
+The correct answer is
+#a only (i)
+#b both (i) and (ii)
+#c both (i) and (iii)
+#d all (i), (ii) and (iii)
+
+## 24 | p=56 | hw=a
+Alkalinity in water is expressed as milligrams per litre in terms of equivalent
+#a calcium carbonate
+#b magnesium carbonate
+#c sodium carbonate
+#d calcium hydroxide
+
+## 25 | star | p=56 | hw=d
+The product of H⁺ ions and OH⁻ ions in a stronger alkali is
+#a 0
+#b 1
+#c 10⁻¹
+#d 10⁻¹⁴
+
+## 26 | p=56 | hw=a
+Which of the following values of pH represents a stronger acid?
+#a 2
+#b 5
+#c 7
+#d 10
+
+## 27 | p=56 | hw=a
+Turbidity is measured on
+#a standard silica scale
+#b standard cobalt scale
+#c standard platinum scale
+#d platinum cobalt scale
+
+## 28 | p=56 | hw=a
+On standard silica scale, the turbidity in drinking water should be limited to
+#a 10 ppm
+#b 20 ppm
+#c 30 ppm
+#d 50 ppm
+
+## 29 | p=56 | hw=c
+Residual chlorine in water is determined by
+#a starch iodide method
+#b orthotolidine method
+#c both (a) and (b)
+#d none of the above
+
+## 30 | p=56 | hw=b
+Orthotolidine test is used for determination of
+#a dissolved oxygen
+#b residual chlorine
+#c biochemical oxygen demand
+#d dose of coagulant
+
+## 31 | star | p=56 | hw=a
+If the total hardness of water is greater than its total alkalinity, the carbonate hardness will be equal to
+#a total alkalinity
+#b total hardness
+#c total hardness – total alkalinity
+#d non carbonate hardness
+
+## 32 | p=56 | hw=b
+The amount of residual chlorine left in public water supply for safety against pathogenic bacteria is about
+#a 0.01 to 0.05 ppm
+#b 0.05 to 0.5 ppm
+#c 0.5 to 1.0 ppm
+#d 1.0 to 5.0 ppm
+
+## 33 | p=56 | hw=b
+The dissolved oxygen level in natural unpolluted waters at normal temperature is found to be of the order of
+#a 1 mg/litre
+#b 10 mg/litre
+#c 100 mg/litre
+#d 1000 mg/litre
+
+## 34 | p=56 | hw=c
+The velocity of flow of water in a sedimentation tank is about
+#a 5 to 10 cm/sec.
+#b 15 to 30 cm/sec.
+#c 15 to 30 cm/minute
+#d 15 to 30 cm/hour
+
+## 35 | p=56 | hw=c
+The length of rectangular sedimentation tank should not be more than
+#a B
+#b 2B
+#c 4B
+#d 8B
+#note where B is the width of the tank
+
+## 36 | star | p=56 | hw=a
+The overflow rate for plain sedimentation tanks is about
+#a 500 to 750 litres/hour/ m²
+#b 1000 to 1250 litres/hour/ m²
+#c 1250 to 1500 litres/hour/m²
+#d 1500 to 2000 litres/hour/m²
+
+## 37 | p=56-57 | hw=c
+Percentage of bacterial load that can be removed from water by the process of plain sedimentation is about
+#a 10 to 25
+#b 50
+#c 75
+#d 100
+
+## 38 | p=57 | hw=b
+The settling velocity of a particle in a sedimentation tank depends on
+#a depth of tank
+#b surface area of tank
+#c both depth and surface area of tank
+#d none of the above
+
+## 39 | p=57 | hw=d
+The settling velocity of a particle in a sedimentation tank increases if
+#a particle size is decreased
+#b the surface area of tank is increased
+#c the depth of tank is decreased
+#d none of the above
+
+## 40 | star | p=57 | hw=c
+For a given discharge, the efficiency of sedimentation tank can be increased by
+#a increasing the depth of tank
+#b decreasing the depth of tank
+#c increasing the surface area of tank
+#d decreasing the surface area of tank
+
+## 41 | p=57 | hw=c
+The detention period and overflow rate respectively for plain sedimentation as compared to sedimentation with coagulation are generally
+#a less and more
+#b less and less
+#c more and less
+#d more and more
+
+## 42 | p=57 | hw=b
+The amount of coagulant needed for coagulation of water increases with
+i) increase in turbidity of water
+ii) decrease in turbidity of water
+iii) increase in temperature of water
+iv) decrease in temperature of water
+The correct answer is
+#a (i) and (ii)
+#b (i) and (iv)
+#c (ii) and (iii)
+#d (ii) and (iv)
+
+## 43 | p=57 | hw=c
+Alum as a coagulant is found to be most effective when pH range of water is
+#a 2 to 4
+#b 4 to 6
+#c 6 to 8
+#d 8 to 10
+
+## 44 | p=57 | hw=c
+The detention period in coagulation tanks is usually kept as
+#a 1 to 2 minutes
+#b 30 to 45 minutes
+#c 2 to 6 hours
+#d 2 to 6 days
+
+## 45 | p=57 | hw=d
+The alum, when added as a coagulant in water
+#a does not require alkalinity in water for flocculation
+#b does not affect pH value of water
+#c increases pH value of water
+#d decreases pH value of water
+
+## 46 | p=57 | hw=c
+The chemical most commonly used to increase speed of sedimentation of sewage is
+#a sulphuric acid
+#b copper sulphate
+#c lime
+#d sodium permanganate
+
+## 47 | p=57 | hw=d
+In water treatment, rapid gravity filters are adopted to remove
+#a dissolved organic substances
+#b dissolved solids and dissolved gases
+#c floating solids and dissolved inorganic solids
+#d bacteria and colloidal solids
+
+## 48 | p=57 | hw=a
+The rate of filtration in slow sand filters in million litres per day per hectare is about
+#a 50 to 60
+#b 100 to 150
+#c 500 to 600
+#d 1400 to 1500
+
+## 49 | star | p=57 | hw=a
+The effective size of sand particles used in slow sand filters is
+#a 0.25 to 0.35 mm
+#b 0.35 to 0.60 mm
+#c 0.60 to 1.00 mm
+#d 1.00 to 1.80 mm
+
+## 50 | p=57-58 | hw=c
+As compared to rapid sand filters, slow sand filters give
+i) slower filtration rate
+ii) higher filtration rate
+iii) lesser efficiency in removal of bacteria
+iv) higher efficiency in removal of bacteria
+The correct answer is
+#a (i) and (ii)
+#b (ii) and (iii)
+#c (i) and (iv)
+#d (ii) and (iv)
+
+## 51 | p=58 | hw=a
+Assertion A: Slow sand filters are more efficient in removal of bacteria than rapid sand filters.
+Reason R : The sand used in slow sand filters is finer than that in rapid sand filters.
+Select your answer based on the coding system given below:
+#a Both A and R are true and R is the correct explanation of A.
+#b Both A and R are true but R is not the correct explanation of A.
+#c A is true but R is false.
+#d A is false but R is true.
+
+## 52 | tag=ES 98 | p=58 | hw=a
+Air binding phenomena in rapid sand filters occur due to
+#a excessive negative head
+#b mud ball formation
+#c higher turbidity in the effluent
+#d low temperature
+
+## 53 | p=58 | hw=c
+The percentage of filtered water, which is used for backwashing in rapid sand filters, is about
+#a 0.2 to 0.4
+#b 0.4 to 1.0
+#c 2 to 4
+#d 5 to 7
+
+## 54 | p=58 | hw=c
+Period of cleaning of slow sand filters is about
+#a 24 – 48 hours
+#b 10 – 12 days
+#c 2 – 3 months
+#d 1 – 2 year
+
+## 55 | p=58 | hw=c
+The rate of filteration of pressure filters is
+#a less than that of slow sand filters
+#b in between the filtration rate of slow sand filters and rapid sand filters
+#c greater than that of rapid sand filters
+#d equal to that of slow sand filters
+
+## 56 | p=58 | hw=a
+Double filtration is used
+#a to increase the filtration capacity of slow sand filters
+#b to increase the filtration capacity of rapid sand filters
+#c for isolated buildings like swimming pools, hotels etc.
+#d all of the above
+
+## 57 | p=58 | hw=c
+Cleaning is done by
+i) scraping and removal in slow sand filters
+ii) back washing in slow sand filters
+iii) scraping and removal in rapid sand filters
+iv) back washing in rapid sand filters
+The correct answer is
+#a (i) and (ii)
+#b (ii) and (iii)
+#c (i) and (iv)
+#d (ii) and (iv)
+
+## 58 | p=58 | hw=c
+Disinfection of water results in
+#a removal of turbidity
+#b removal of hardness
+#c killing of disease bacteria
+#d complete sterilisation
+
+## 59 | p=58 | hw=d
+The disinfection efficiency of chlorine increases by
+i) decreasing the time of contact
+ii) decreasing the temperature of water
+iii) increasing the temperature of water
+The correct answer is
+#a only (i)
+#b both (i) and (ii)
+#c both (i) and (iii)
+#d only (iii)
+
+## 60 | p=58 | hw=d
+Chlorine demand of water is equal to
+#a applied chlorine
+#b residual chlorine
+#c sum of applied and residual chlorine
+#d difference of applied and residual chlorine
+
+## 61 | star | p=58 | hw=c
+The process in which the chlorination is done beyond the break point is known as
+#a prechlorinatlon
+#b post chlorination
+#c super chlorination
+#d break point chlorination
+
+## 62 | p=59 | hw=c
+The percentage of chlorine in fresh bleaching powder is about
+#a 10 to 15
+#b 20 to 25
+#c 30 to 35
+#d 40 to 50
+
+## 63 | p=59 | hw=d
+The treatment of water with bleaching powder is known as
+#a prechlorination
+#b super chlorination
+#c dechlorination
+#d hypochlorination
+
+## 64 | p=59 | hw=a
+The suitable method for disinfection of swimming pool water is
+#a ultra violet rays treatment
+#b lime treatment
+#c by using potassium permanganate
+#d chlorination
+
+## 65 | p=59 | hw=c
+Which of the following chemical compounds can be used for dechlorination of water ?
+#a carbon dioxide
+#b bleaching powder
+#c sulphur dioxide
+#d chloramines
+
+## 66 | p=59 | hw=a
+In chlorination, with the rise in temperature of water, death rate of bacteria
+#a increases
+#b decreases
+#c remains unaffected
+#d none of the above
+
+## 67 | p=59 | hw=a
+As compared to higher pH values, the contact period required for efficient chlorination at lower pH values is
+#a smaller
+#b larger
+#c same
+#d none of the above
+
+## 68 | p=59 | hw=a
+Disinfection efficiency is
+#a reduced at higher pH value of water
+#b unaffected by pH value of water
+#c increased at higher pH value of water
+#d highest at pH value equal to 7
+
+## 69 | p=59 | hw=c
+In lime-soda process
+#a only carbonate hardness is removed
+#b only non-carbonate hardness is removed
+#c lime reduces the carbonate hardness and soda-ash removes the non-carbonate hardness
+#d lime reduces the non-carbonate hardness and soda-ash removes the carbonate hardness
+
+## 70 | p=59 | hw=b
+The major disadvantage of lime soda process of water softening is that
+#a it is unsuitable for turbid and acidic water
+#b huge amount of precipitate is formed which creates a disposal problem
+#c the effluent cannot be reduced to zero hardness
+#d it is unsuitable for softening the water of excessive hardness
+
+## 71 | p=59 | hw=b
+Which of the following compounds is widely used for algae control ?
+#a sodium sulphate
+#b copper sulphate
+#c sodium chloride
+#d calcium chloride
+
+## 72 | p=59 | hw=c
+Activated carbon is used for
+#a disinfection
+#b removing hardness
+#c removing odours
+#d removing corrosiveness
+
+## 73 | p=59 | hw=b
+As compared to cast iron pipes, steel pipes are
+#a heavier
+#b stronger
+#c costlier
+#d less susceptible to corrosion
+
+## 74 | p=59 | hw=a
+The suitable layout of a distribution system for irregularly growing town is
+#a dead end system
+#b grid iron system
+#c radial system
+#d ring system
+
+## 75 | p=59 | hw=c
+The layout of distribution system in which water flows towards the outer periphery is
+#a ring system
+#b dead end system
+#c radial system
+#d grid iron system
+
+## 76 | p=60 | hw=a
+The suitable layout of distribution system for a city with roads of rectangular pattern is
+#a grid iron system
+#b dead end system
+#c ring system
+#d radial system
+
+## 77 | p=60 | hw=b
+The commonly used material for water supply pipes, which has the properties of being strong, not easily corroded and long life but is heavy and brittle is
+#a steel
+#b cast iron
+#c copper
+#d reinforced cement concrete
+
+## 78 | p=60 | hw=c
+Hardy cross method of analysis of distribution system
+i) involves successive trials
+ii) takes economic aspects into account
+iii) is time consuming
+The correct answer is
+#a only (i)
+#b (i) and (ii)
+#c (i) and (iii)
+#d all are correct
+
+## 79 | p=60 | hw=a
+The method of analysis of distribution system in which the domestic supply is neglected and fire demand is considered is
+#a circle method
+#b equivalent pipe method
+#c electrical analysis method
+#d Hardy cross method
+
+## 80 | p=60 | hw=b
+Which of the following methods of analysis of water distribution system is most suitable for long and narrow pipe system ?
+#a circle method
+#b equivalent pipe method
+#c Hardy cross method
+#d electrical analysis method
+
+## 81 | p=60 | hw=b
+The type of valve which is provided to control the flow of water in the distribution system at street corners and where the pipe lines intersect is
+#a check valve
+#b sluice valve
+#c safety valve
+#d scour valve
+
+## 82 | p=60 | hw=a
+The type of valve which allows water to flow in one direction but prevents its flow in the reverse direction is
+#a reflux valve
+#b sluice valve
+#c air relief valve
+#d pressure relief valve
+
+## 83 | p=60 | hw=b
+Scour valves are provided
+#a at street corners to control the flow of water
+#b at every depression and dead ends to drain out the waste water that may collect there
+#c at the foot of rising main along the slope to prevent back running of water
+#d at every summit of rising mains
+
+## 84 | p=60 | hw=b
+A sewer that receives the discharge of a number of house sewers is called
+#a house sewer
+#b lateral sewer
+#c intercepting sewer
+#d submain sewer
+
+## 85 | p=60 | hw=a
+A pipe conveying sewage from plumbing system of a single building to common sewer or point of immediate disposal is called
+#a house sewer
+#b lateral sewer
+#c main sewer
+#d submain sewer
+
+## 86 | p=60 | hw=a
+For a country like India, where rainfall is mainly confined to one season, the suitable sewerage system will be
+#a separate system
+#b combined system
+#c partially combined system
+#d partially separate system
+
+## 87 | p=60 | hw=b
+Average rate of water consumption per head per day as per Indian Standard is
+#a 100 litres
+#b 135 litres
+#c 165 litres
+#d 200 litres
+
+## 88 | p=60-61 | hw=b
+Sewerage system is usually designed for
+#a 10 years
+#b 25 years
+#c 50 years
+#d 75 years
+
+## 89 | p=61 | hw=b
+Which of the following sewers is preferred for combined system of sewage ?
+#a circular sewer
+#b egg shaped sewer
+#c rectangular sewer
+#d none of the above
+
+## 90 | p=61 | hw=b
+The suitable system of sanitation for area of distributed rainfall throughout the year with less intensity is
+#a separate system
+#b combined system
+#c partially separate system
+#d partially combined system
+
+## 91 | star | p=61 | hw=b
+The water carriage system of collection of waste product
+#a is cheaper in initial cost than dry conservancy system
+#b requires treatment before disposal
+#c creates hygenic problem
+#d all of the above
+
+## 92 | star | p=61 | hw=d
+If the time of concentration is 9 minutes, then the intensity of rainfall according to British Ministry of Health formula will be
+#a 4 mm/hr
+#b 10mm/hr
+#c 20 mm/hr
+#d 40 mm/hr
+
+## 93 | tag=ES 99 | p=61 | hw=c
+The time of concentration is defined as
+#a the time taken by rainfall water to run from most distant point of water shed to the inlet of sewer
+#b the time required for flow of water in sewer to the point under consideration
+#c sum of (a) and (b)
+#d difference of (a) and (b)
+
+## 94 | star | p=61 | hw=d
+The specific gravity of sewage is
+#a much greater than 1
+#b slightly less than 1
+#c equal to 1
+#d slightly greater than 1
+
+## 95 | star | p=61 | hw=b
+The self cleansing velocity for all sewers in India is usually
+#a less than 1.0 m/sec
+#b 1.0 m/sec to 1.2 m/sec
+#c 1.5 m/sec to 2.0 m/sec
+#d 3.0 m/sec to 3.5 m/sec
+
+## 96 | p=61 | hw=a
+The slope of sewer shall be
+#a given in the direction of natural slope of ground
+#b given in the direction opposite to natural slope of ground
+#c zero
+#d steeper than 1 in 20
+
+## 97 | p=61 | hw=d
+The design discharge for the separate sewer system shall be taken as
+#a equal to dry weather flow (DWF)
+#b 2 × DWF
+#c 3 × DWF
+#d 6 × DWF
+
+## 98 | p=61 | hw=c
+The design discharge for the combined sewer system shall be taken as
+#a equal to rainfall
+#b rainfall + DWF
+#c rainfall + 2 DWF
+#d rainfall + 6 DWF
+
+## 99 | p=61 | hw=b
+The minimum and maximum diameters of sewers shall preferably be
+#a 15 cm and 100 cm
+#b 15 cm and 300 cm
+#c 30 cm and 450 cm
+#d 60 cm and 300cm
+
+## 100 | p=61 | hw=c
+The main disadvantage of cement concrete sewers is
+#a less strength
+#b difficulty in construction
+#c difficulty in transportation due to heavy weight
+#d less life
+
+## 101 | star | p=61 | hw=b
+Most suitable section of sewer in separate sewage system is
+#a rectangular section
+#b circular section
+#c standard form of egg shaped sewer
+#d modified egg shaped section
+
+## 102 | p=61 | hw=b
+An egg shaped section of sewer
+#a is economical than circular section
+#b provides self cleansing velocity at low discharges
+#c is more stable than circular section
+#d is easy to construct
+
+## 103 | p=62 | hw=b
+The velocity of flow does not depend on
+#a grade of sewer
+#b length of sewer
+#c hydraulic mean depth of sewer
+#d roughness of sewer
+
+## 104 | p=62 | hw=c
+The hydraulic mean depth (HMD) for an egg-shaped sewer flowing two-third full is
+#a equal to HMD when flowing full
+#b less than HMD when flowing full
+#c greater than HMD when flowing full
+#d none of the above
+
+## 105 | p=62 | hw=b
+The effect of increasing diameter of sewer on the self cleansing velocity is
+#a to decrease it
+#b to increase it
+#c fluctuating
+#d nil
+
+## 106 | p=62 | hw=a
+The most commonly used sewer under culverts is
+#a circular brick sewer
+#b circular cast iron sewer
+#c semi-elliptical sewer
+#d horse-shoe type sewer
+
+## 107 | p=62 | hw=b
+The type of sewer which is suitable for both combined and separate system is
+#a circular sewer
+#b egg shaped sewer
+#c horse-shoe type sewer
+#d semi-elliptical sewer
+
+## 108 | star | p=62 | hw=b
+The characteristics of fresh and septic sewage respectively are
+#a acidic and alkaline
+#b alkaline and acidic
+#c both acidic
+#d both alkaline
+
+## 109 | p=62 | hw=b
+The pathogens can be killed by
+#a nitrification
+#b chlorination
+#c oxidation
+#d none of the above
+
+## 110 | star | p=62 | hw=d
+Which of the following retards the self purification of stream ?
+#a higher temperature
+#b sunlight
+#c satisfying oxygen demand
+#d none of the above
+
+## 111 | star | p=62 | hw=b
+Sewage treatment units are normally designed for
+#a 5–10 years
+#b 15–20 years
+#c 30–40 years
+#d 40–50 years
+
+## 112 | p=62 | hw=c
+Settling velocity increases with
+#a specific gravity of solid particles
+#b size of particles
+#c depth of tank
+#d temperature of liquid
+
+## 113 | p=62 | hw=c
+Standard BOD is measured at
+#a 20°C – 1 day
+#b 25°C – 3day
+#c 20°C – 5 day
+#d 30°C – 5day
+
+## 114 | p=62 | hw=b
+The correct relation between theoretical oxygen demand (TOD), Biochemical oxygen demand (BOD) and Chemical oxygen demand (COD) is given by
+#a TOD>BOD>COD
+#b TOD>COD>BOD
+#c BOD>COD>TOD
+#d COD>BOD>TOD
+
+## 115 | p=62 | hw=c
+Select the correct statement.
+#a 5 day BOD is the ultimate BOD.
+#b 5 day BOD is greater than 4 day BOD keeping other conditions same.
+#c 5 day BOD is less than 4 day BOD keeping other conditions same.
+#d BOD does not depend on time.
+
+## 116 | p=62 | hw=d
+If Biochemical oxygen demand (BOD) of a town is 20000 kg/day and BOD per capita per day is 0.05 kg, then population equivalent of town is
+#a 1000
+#b 4000
+#c 100000
+#d 400000
+
+## 117 | p=62 | hw=b
+The rate of BOD exerted at any time is
+#a directly proportional to BOD satisfied
+#b directly proportional to BOD remaining
+#c inversely proportional to BOD satisfied
+#d inversely proportional to BOD remaining
+
+## 118 | tag=GATE 99 | p=63 | hw=b
+The ratio of 5 day BOD to ultimate BOD is about
+#a 1/3
+#b 2/3
+#c 3/4
+#d 1.0
+
+## 119 | p=63 | hw=b
+In a BOD test, 1.0 ml of raw sewage was diluted to 100 ml and the dissolved oxygen concentration of diluted sample at the beginning was 6 ppm and it was 4 ppm at the end of 5 day incubation at 20°C. The BOD of raw sewage will be
+#a 100 ppm
+#b 200 ppm
+#c 300 ppm
+#d 400 ppm
+
+## 120 | tag=ES 2k, GATE 99 | p=63 | hw=b
+The minimum dissolved oxygen which should always be present in water in order to save the aquatic life is
+#a 1 ppm
+#b 4 ppm
+#c 10 ppm
+#d 40 ppm
+
+## 121 | p=63 | hw=b
+The relative stability of a sewage sample, whose dissolved oxygen is same as the total oxygen required to satisfy BOD, is
+#a 1
+#b 100
+#c infinite
+#d zero
+
+## 122 | star | p=63 | hw=a
+Dissolved oxygen in streams is
+#a maximum at noon
+#b minimum at noon
+#c maximum at midnight
+#d same throughout the day
+
+## 123 | p=63 | hw=c
+Facultative bacteria are able to work in
+#a presence of oxygen only
+#b absence of oxygen only
+#c presence as well as in absence of oxygen
+#d presence of water
+
+## 124 | p=63 | hw=b
+The means of access for inspection and cleaning of sewer line is known as
+#a inlet
+#b manhole
+#c drop manhole
+#d catch basin
+
+## 125 | p=63 | hw=d
+Sewerage system is designed for
+#a maximum flow only
+#b minimum flow only
+#c average flow only
+#d maximum and minimum flow
+
+## 126 | p=63 | hw=c
+Sewage treatment units are designed for
+#a maximum flow only
+#b minimum flow only
+#c average flow only
+#d maximum and minimum flow
+
+## 127 | p=63 | hw=c
+Laying of sewers is usually done with the help of
+#a a theodolite
+#b a compass
+#c sight rails and boning rods
+#d a plane table
+
+## 128 | star | p=63 | hw=a
+Corrosion in concrete sewers is caused by
+#a septic conditions
+#b dissolved oxygen
+#c chlorine
+#d nitrogen
+
+## 129 | p=63 | hw=c
+If the sewage contains grease and fatty oils, these are removed in
+#a grit chambers
+#b detritus tanks
+#c skimming tanks
+#d sedimentation tanks
+
+## 130 | p=63 | hw=a
+Generally the detention period for grit chambers is kept as
+#a 1 minute
+#b 5 minutes
+#c 2 – 4 hours
+#d 12 hours
+
+## 131 | p=63 | hw=a
+Which of the following unit works in anaerobic conditions?
+#a sludge digestion tank
+#b sedimentation tank
+#c activated sludge treatment
+#d trickling filters
+
+## 132 | p=63 | hw=b
+Septic tank is a
+i) settling tank
+ii) digestion tank
+iii) aeration tank
+The correct answer is
+#a only (i)
+#b (i) and (ii)
+#c (i) and (iii)
+#d only (iii)
+
+## 133 | p=64 | hw=b
+The maximum efficiency of BOD removal is achieved in
+#a oxidation pond
+#b oxidation ditch
+#c aerated lagoons
+#d trickling filters
+
+## 134 | p=64 | hw=d
+The working conditions in imhoff tanks are
+#a aerobic only
+#b anaerobic only
+#c aerobic in lower compartment and anaerobic in upper compartment
+#d anaerobic in lower compartment and aerobic in upper compartment
+
+## 135 | p=64 | hw=c
+In facultative stabilization pond, the sewage is treated by
+#a aerobic bacteria only
+#b algae only
+#c dual action of aerobic bacteria and anaerobic bacteria
+#d sedimentation
+
+## 136 | p=64 | hw=c
+The detention period for oxidation ponds is usually kept as
+#a 4 – 8 hours
+#b 24 hours
+#c 10 to 15 days
+#d 3 months
+
+## 137 | p=64 | hw=b
+Composting and lagooning are the methods of
+#a sludge digestion
+#b sludge disposal
+#c sedimentation
+#d filtration
+
+## 138 | p=64 | hw=a
+The main disadvantage of oxidation pond is that
+#a large area is required for construction
+#b maintenance and operation cost are high
+#c BOD removal is very low
+#d none of the above
+
+## 139 | p=64 | hw=b
+For satisfactory working of a sludge digestion unit, the pH range of digested sludge should be maintained as
+#a 4.5 to 6.0
+#b 6.5 to 8.0
+#c 8.5 to 10.0
+#d 10.5 to 12.0
+
+## 140 | p=64 | hw=a
+Sludge volume index is defined as the ratio of
+#a percentage of sludge by volume to percentage of suspended solids by weight
+#b percentage of sludge by volume to percentage of total solids by weight
+#c percentage of suspended solids by weight to percentage of sludge by volume
+#d percentage of total solids by weight to percentage of sludge by volume
+
+## 141 | p=64 | hw=c
+For normal sludge, the value of sludge index for Indian conditions is
+#a 0 to 50
+#b 50 to 150
+#c 150 to 350
+#d 350 to 500
+
+## 142 | p=64 | hw=b
+When there is no recirculation of sewage, then recirculation factor is
+#a 0
+#b 1
+#c infinity
+#d none of the above
+
+## 143 | p=64 | hw=b
+For the same solid content, if the quantity of sludge with moisture content of 98% is X, then the quantity of sludge with moisture content of 96% will be
+#a X/4
+#b X/2
+#c X
+#d 2X
+
+## 144 | p=64 | hw=b
+A pipe which is installed in the house drainage to preserve the water seal of traps is called
+#a vent pipe
+#b antisiphonage pipe
+#c waste pipe
+#d soil pipe
+
+## 145 | p=64-65 | hw=c
+In the two-pipe system of house plumbing, the pipes required are
+#a one soil pipe, one waste pipe and one vent pipe
+#b one soil pipe, two waste pipes and one vent pipe
+#c one soil pipe, one waste pipe and two vent pipes
+#d two soil pipes, one waste pipe and one vent pipe
+
+## 146 | p=65 | hw=a
+The pipe which is used to carry the discharge from sanitary fittings like bathrooms, kitchens etc. is called
+#a waste pipe
+#b soil pipe
+#c vent pipe
+#d antisiphonage pipe
+
+## 147 | p=65 | hw=d
+The gas from sludge digestion tank is mainly composed of
+#a nitrogen
+#b carbon dioxide
+#c hydrogen sulphide
+#d methane
+
+## 148 | p=65 | hw=b
+Most of the bacteria in sewage are
+#a parasitic
+#b saprophytic
+#c pathogenic
+#d anaerobic
+
+## 149 | p=65 | hw=b
+The process of lagooning is primarily a means of
+#a reducing the excessive flow in sewers
+#b disposing of sludge
+#c increasing the capacity of storage reservoirs
+#d increasing flow of sewage through imhoff tanks
+
+## 150 | p=65 | hw=a
+The biochemical treatment of sewage effluents is essentially a process of
+#a oxidation
+#b dehydration
+#c reduction
+#d alkalinization
+
+## 151 | p=65 | hw=c
+To divert excessive flow from combined sewers, the most commonly used weir is a
+#a cipoletti weir
+#b broadcrested weir
+#c leaping weir
+#d submerged weir
+
+## 152 | tag=GATE 99 | p=65 | hw=a
+Chlorine is used in the treatment of sewage to
+#a help grease separation
+#b aid flocculation
+#c increase the biochemical oxygen demand
+#d cause bulking of activated sludge
+
+## 153 | p=65 | hw=d
+In the design of grit chambers
+#a baffles are essential
+#b temperature is an important factor
+#c the detention period should be at least 30 minutes
+#d the maximum velocity of flow is 30 cm per second
+
+## 154 | p=65 | hw=a
+Match List I with List II and select the correct answer using the codes given below the lists.
+List I — List II
+A. Acidity — 1. Particulate matter
+B. Alum — 2. Oils and greases
+C. Cyclone — 3. Flocculation
+D. Skimming tank — 4. Carbon dioxide
+Codes:
+#a A-4, B-3, C-1, D-2
+#b A-1, B-3, C-4, D-2
+#c A-1, B-2, C-4, D-3
+#d A-4, B-2, C-1, D-3
+
+## 155 | star | p=65 | hw=b
+If the diameter of the main pipe is taken less than economic diameter then
+1. head loss will be high
+2. cost of pipe will be less
+3. cost of pumping will be less
+Of these statements
+#a Only 1 is correct
+#b 1 and 2 are correct
+#c 1 and 3 are correct
+#d 1, 2 and 3 are correct
+
+## 156 | star | p=65-66 | hw=c
+Incrustation of the tubewell pipes may result in
+#a discharge of highly corrosive acidic water
+#b discharge of highly alkaline water
+#c reduced discharge from tubewell
+#d excessive discharge of sand with water
+
+## 157 | p=66 | hw=c
+The maximum velocity occurs in an egg shaped sewer when the ratio of depth of flow to vertical diameter is
+#a 0.33
+#b 0.50
+#c 0.81
+#d 0.95
+
+## 158 | p=66 | hw=a
+Shrouding is provided in
+#a slotted pipe tubewell
+#b cavity type tubewell
+#c strainer type tubewell
+#d none of above
+
+## 159 | star | p=66 | hw=a
+If in a test conducted for determining relative stability, the period of incubation at 20⁰C is t days, the relative stability in % is given by
+#a 100[1 – (0.794)ᵗ]
+#b 100[1 – (0.630)ᵗ]
+#c 100[1 – (0.694)ᵗ]
+#d 100[1 – (0.730)ᵗ]
+
+## 160 | p=66 | hw=d
+Ozone layer in the upper atmosphere is getting destroyed owing to its reaction with
+#a carbon dioxide
+#b hydrogen peroxide
+#c oxides of nitrogen
+#d chlorofluorocarbons
+
+## 161 | p=66 | hw=a
+The intensification of green house effect is attributed to the increased level of
+#a carbon dioxide
+#b carbon monoxide
+#c chlorofluorocarbons
+#d sulphur dioxides
+
+## 162 | p=66 | hw=d
+Electrostatic precipitators are used as pollution control device for the separation of
+#a SO₂
+#b NOₓ
+#c hydrocarbon
+#d particulate matter
+
+## 163 | p=66 | hw=b
+Select the secondary air pollutants among the following :
+#a ozone and carbon monoxide
+#b peroxy-acyl-nitrate (PAN) and ozone
+#c peroxy-acyl-nitrate (PAN) and carbon monoxide
+#d carbon monoxide and sulphur dioxide
+
+## 164 | p=66 | hw=b
+The primary pollutant caused by incomplete combustion of organic matter is
+#a ozone
+#b carbon monoxide
+#c sulphur dioxide
+#d none of the above
+
+## 165 | p=66 | hw=a
+Select the primary air pollutants among the following :
+#a sulphur dioxide and nitrogen oxides
+#b ozone and carbon monoxide
+#c sulphur dioxide and ozone
+#d nitrogen oxide and ozone
+
+## 166 | p=66 | hw=d
+The specified standard under US Ambient Air Quality standards for SO₂, NO₂ and CO respectively are
+#a 100 μg/m³, 10 mg/m³, 80 μg/m³
+#b 80 μg/m³, 100 μg/m³, 500 μg/m³
+#c 100 μg/m³, 80 μg/m³, 10 mg/m³
+#d 80 μg/m³, 100 μg/m³, 10 mg/m³
+
+## 167 | p=66 | hw=c
+The spray tower can be used to control
+#a gaseous pollutants only
+#b particulate pollutants only
+#c both (a) and (b)
+#d none of above
+
+## 168 | star | p=66 | hw=a
+The specified standard for SO₂ under US Ambient Air Quality standards is 80 μg/m³. This is approximately equivalent to
+#a 0.03 ppm
+#b 0.05 ppm
+#c 0.08 ppm
+#d 8 ppm
+
+## 169 | p=66 | hw=b
+The depletion of ozone in the outer atmosphere may result in increased
+#a heart attack cases
+#b skin cancer cases
+#c asthma cases
+#d none of above
+
+## 170 | p=66 | hw=b
+The rain is generally termed as acidic, if ph value of rain water falls below
+#a 3
+#b 5
+#c 7
+#d 8
+
+## 171 | p=67 | hw=b
+The acid rains are caused by the following pollutants :
+#a SO₂ and O₃
+#b SO₂ and NOₓ
+#c NOₓ and O₃
+#d CO and SO₂
+
+## 172 | p=67 | hw=b
+To express sound levels in decibels, sound pressure levels are usually adopted on a reference scale of
+#a 10 μPa
+#b 20 μPa
+#c 50 μPa
+#d 100 μPa
+
+## 173 | star | p=67 | hw=b
+The permissible standards of air quality fixed in India for residental areas for SPM, SO₂, NO and CO in μg/m³ respectively are
+#a 500, 120, 120,5000
+#b 200, 80,80, 2000
+#c 100,30,30, 1000
+#d 160, 80, 100, 10000
+
+## 174 | star | p=67 | hw=a
+The height of chimney required for effective disposal of 27 kg/hr of SO₂ emission is
+#a 42 m
+#b 30 m
+#c 222 m
+#d 81 m
+
+## 175 | p=67 | hw=c
+If the actual height of a stack is 150 m and plume height is 8 m, then the effective height of the stack is
+#a 150 m
+#b 142 m
+#c 158 m
+#d 166 m
+
+## 176 | p=67 | hw=b
+When the Adiabatic Lapse Rate (ALR) is more than Environmental Lapse Rate (ELR), then the ELR can be called as
+#a super adiabatic lapse rate
+#b sub adiabatic lapse rate
+#c dry adiabatic lapse rate
+#d wet adiabatic lapse rate
+
+## 177 | p=67 | hw=b
+When Environmental Lapse Rate (ELR) is more than Adiabatic Lapse Rate (ALR), then the environment is said to be
+#a stable
+#b unstable
+#c neutral
+#d none of above
+
+## 178 | tag=GATE 99 | p=67 | hw=a
+Temporary hardness in water is caused by the presence of
+#a bicarbonate of Ca and Mg
+#b sulphates of Ca and Mg
+#c chlorides of Ca and Mg
+#d nitrates of Ca and Mg
+
+## 179 | tag=GATE 99 | p=67 | hw=b
+Blue baby disease (methemoglobinemia) in children is caused by the presence of excess
+#a chlorides
+#b nitrates
+#c fluorides
+#d lead
+
+## 180 | tag=GATE 99 | p=67 | hw=c
+Two samples of water A and B have pH values of 4.4 and 6.4 respectively. How many times more acidic sample A is than sample B?
+#a 0
+#b 50
+#c 100
+#d 200
+
+## 181 | tag=ES 93 | p=67-68 | hw=a
+Match List I with List II and select the correct answer using the codes given below the lists :
+List I (Source of water supply) — List II (Water quality parameter)
+A. Groundwater — 1. Low D.O. and colour
+B. Lake water at the bottom — 2. Carbon dioxide and hardness
+C. Canal water — 3. Low organic content and high D.O.
+D. River water in floods — 4. Silt and bacteria
+5. High turbidity and D.O.
+Codes:
+#a A-2, B-1, C-3, D-5
+#b A-3, B-4, C-2, D-1
+#c A-3, B-2, C-4, D-1
+#d A-1, B-2, C-3, D-5
+
+## 182 | tag=ES 93 | p=68 | hw=b | fig=68:0.25,0.17,0.46,0.36
+Figure 6.1 shows roughly, the daily mass curves of supply to and demand from an elevated service reservoir (ESR).
+The minimum required capacity of the reservoir is given by
+#a (A – B)
+#b (A + B)
+#c A x B
+#d Larger of A or B
+
+## 183 | tag=ES 93 | p=68 | hw=d
+If present in water, chlorination of water does not reduce the
+#a ammonia content
+#b organic matter content
+#c B.O.D.
+#d dissolved oxygen content
+
+## 184 | tag=ES 93 | p=68 | hw=a
+Dechlorination of water is achieved by adding
+#a sodium thiosulphate
+#b sodium sulphate
+#c sodium hexametaphosphate
+#d sodium bisulphate
+
+## 185 | tag=ES 93 | p=68 | hw=b
+The efficiency of a sedimentation tank does not depend upon
+#a detention time
+#b depth of the tank
+#c length of the tank
+#d horizontal velocity of water
+
+## 186 | tag=ES 93 | p=68 | hw=b
+Which of the following treatments reduce salinity of water?
+1. Flocculation and sedimentation.
+2. Filtration.
+3. Reverse osmosis.
+4. Electrodialysis.
+Select the correct answer using the codes given below.
+Codes:
+#a 1 and 2
+#b 3 and 4
+#c 2 and 3
+#d 1 and 4
+
+## 187 | star | tag=ES 93 | p=68 | hw=c
+A city supply of 15000 cubic metres of water per day is treated with a chlorine dosage of 0.5 ppm. For this purpose, the requirement of 25% bleaching powder per day would be
+#a 300 kg
+#b 75 kg
+#c 30 kg
+#d 7.5 kg
+
+## 188 | tag=ES 93 | p=68 | hw=b | fig=68:0.6,0.37,0.81,0.56
+The distribution system configuration shown in Fig.6.2 is called
+#a dead end system
+#b grid iron system
+#c radial system
+#d ring system
+
+## 189 | tag=ES 93 | p=68-69 | hw=b
+The results of analysis of a sample of water are given below:
+Turbidity: 10 mg/ l
+Colour: Slightly yellowish
+pH : 7.4
+Taste and odour : Inky taste
+Total dissolved solids : 450 mg/l
+Total hardness : 200 mg/l
+Chlorides : 100 mg/l
+Sulphates : 200 mg/l
+Fluorides : 0.5 mg/l
+Nitrates : 30 mg/l
+Calcium : 75 mg/l
+Magnesium: 20 mg/l
+Iron : 3.0 mg/l
+From the data given above, it can be inferred that the water needs
+#a no treatment except disinfection
+#b treatment for the removal of iron and hardness and disinfection
+#c treatment for the removal of colour, taste and odour
+#d treatment for the removal of iron, taste and odour and disinfection
+
+## 190 | tag=ES 93 | p=69 | hw=b
+Match List I with List II and select the correct answer using the codes given below the lists:
+List I — List II
+A. Cast iron pipe — 1. Simplex joint
+B. Asbestos cement pipe — 2. Spigot and socket joint
+C. Plain ended pipes subjected to frequent vibrations — 3. Screwed joint
+D. G.I. pipe — 4. Victaulic joint
+Codes:
+#a A-1, B-3, C-2, D-4
+#b A-2, B-1, C-4, D-3
+#c A-3, B-4, C-2, D-1
+#d A-4, B-2, C-1, D-3
+
+## 191 | tag=ES 93 | p=69 | hw=c
+The water supply to a house begins with the connection of the service pipe with the municipal water mains. The connection comprises:
+1. Stopcock.
+2. Goose neck.
+3. Ferrule.
+4. Water meter.
+The correct sequence of these connections is
+#a 1, 2, 3, 4,
+#b 3, 1, 2, 4
+#c 3, 2, 1, 4
+#d 1, 2, 4, 3
+
+## 192 | tag=ES 93 | p=69 | hw=a
+When the coefficient of rugosity is increased from 0.01 to 0.02, the gradient of a pipe of a given diameter to carry the same flow at the same velocity will be
+#a increased by 4 times
+#b increased by 2 times
+#c decreased by √2 times
+#d decreased by 4 times
+
+## 193 | tag=ES 93 | p=69 | hw=b
+Match List I with List II and select the correct answer using the codes given below the lists:
+List I (Pipe material) — List II (Property of material)
+A. Concrete sewer — 1. Cannot withstand high external load
+B. Stoneware sewer — 2. Corrosion resistance in most natural soils
+C. Cast iron sewer — 3. Resistant to corrosion from most acids
+D. Steel sewer — 4. Unsuitable where soil contains excessive sulphates
+Codes
+#a A-1, B-2, C-3, D-4
+#b A-4, B-3, C-2, D-1
+#c A-4, B-1, C-2, D-3
+#d A-2, B-1, C-3, D-4
+
+## 194 | tag=ES 93 | p=70 | hw=a
+Which one of the following statements is true of trickling filter sludge?
+#a It has a comparatively low sludge volume index.
+#b It is more difficult to dewater than activated sludge.
+#c It has a comparatively low concentration of sludge solids.
+#d It is bulky.
+
+## 195 | tag=ES 93 | p=70 | hw=c
+BOD is preferred to COD as an index of sewage concentration because
+#a BOD represents both carbonaceous and nitrogenous organic matter while COD may indicate carbonaceous matter only
+#b BOD test is easier to perform and gives more reliable results
+#c BOD relates specifically to putrescible organic matter which is the most objectionable sewage constituent
+#d COD relates to the impurities which can only be removed by chemical treatment which is expensive
+
+## 196 | tag=ES 93 | p=70 | hw=b
+Match List I with List II and select the correct answer using the codes given below the lists:
+List I (Treatment units) — List II (Detention time)
+A. Grit chamber — 1. Six hours
+B. Primary sedimentation — 2. Two minutes
+C. Activated sludge — 3. Two hours
+D. Sludge digestion — 4. Twenty days
+Codes:
+#a A-3, B-1, C-4, D-2
+#b A-2, B-3, C-1, D-4
+#c A-2, B-1, C-3, D-4
+#d A-1, B-2, C-3, D-4
+
+## 197 | tag=ES 93 | p=70 | hw=d | check=Handwritten mark beside options b)-c) looks like 'd' with an extra stroke; read as 'd' with low confidence.
+Under Indian conditions, the average per capita contribution of BOD is
+#a 10 to 20 gm/d
+#b 20 to 35 gm/d
+#c 35 to 50 gm/d
+#d 50 to 70 gm/d
+
+## 198 | tag=ES 93 & 99 | p=70 | hw=d
+Sewage sickness relates to
+#a toxicity of sewage interfering with response to treatment
+#b destruction of aquatic flora and fauna due to gross pollution of receiving bodies of water by sewage
+#c reduction in the waste purifying capacity of the soil
+#d clogging of pores in soil due to excessive application of sewage to land, obstructing aeration and leading to septic conditions
+
+## 199 | tag=ES 93 | p=70 | hw=a
+Match List I with List II and select the correct answer using the codes given below the lists:
+List I — List II
+A. Waste pipe — 1. Carries waste water
+B. Soil pipe — 2. Carries liquid wastes that do not include human excreta
+C. Vent pipe — 3. Preserves the water seal of traps through access to atmospheric air
+D. Antisiphonage pipe — 4. Carries liquid wastes including human excreta
+5. Provides flow of air to or from a drainage system in order to prevent vacuum pressures and excessive pressure and provides escape for foul gases
+Codes:
+#a A-2, B-4, C-5, D-3
+#b A-3, B-5, C-1, D-2
+#c A-4, B-5, C-1, D-2
+#d A-1, B-4, C-5, D-3
+
+## 200 | tag=ES 93 | p=71 | hw=b
+Match List I with List II and select the correct answer using the codes given below the lists:
+List I (Cause) — List II (Effect)
+A. Carbon monoxide — 1. Acid rain
+B. Carbon dioxide — 2. Explosion
+C. Methane — 3. Asphyxiation
+D. Sulphur dioxide — 4. Greenhouse effect
+Codes:
+#a A-2, B-3, C-1, D-4
+#b A-3, B-4, C-2, D-1
+#c A-1, B-3, C-4, D-2
+#d A-4, B-2, C-1, D-3
+
+## 201 | tag=ES 94 | p=71 | hw=c
+Consider the following statements regarding confined aquifers:
+1. The aquifer is bound at top and below by impervious strata.
+2. The pressure of water is greater than atmospheric pressure.
+3. A tube well sunk in such an aquifer starts flowing always by itself.
+4. The aquifer is fully saturated.
+Of the above statements
+#a 1, 2 and 3 are correct
+#b 2, 3 and 4 are correct
+#c 1, 2 and 4 are correct
+#d 1, 3 and 4 are correct
+
+## 202 | tag=ES 94 | p=71 | hw=c
+Consider the following statements in respect of slow sand filters:
+1. Qualitywise they are more efficient than Rapid Sand filters.
+2. They need periodic backwashing.
+3. Their flow rate is much smaller than that of pressure filters.
+Of these statements
+#a 1, 2 and 3 are correct
+#b 1 and 2 are correct
+#c 1 and 3 are correct
+#d 2 and 3 are correct
+
+## 203 | tag=ES 94 | p=71 | hw=b
+Type II settling in water treatment is defined as
+#a settling of discrete particles in dilute suspensions.
+#b settling of flocculant particles in dilute suspensions.
+#c settling of flocculant particles in concentrated suspensions.
+#d settling of particles in the form of a sludge blanket.
+
+## 204 | tag=ES 94 | p=71 | hw=c
+Which of the following pairs are correctly matched?
+1. Lime soda process ………. Softening.
+2. Nalgonda technique ………Fluoride removal.
+3. Aeration ……… Coagulation.
+4. Ozonation ……. Disinfection.
+Select the correct answer using the codes given below:
+#a 1, 2 and 3
+#b 1, 3 and 4
+#c 1, 2 and 4
+#d 2, 3 and 4
+
+## 205 | tag=ES 94 | p=71 | hw=a
+The chlorine demand of a water sample was found to be 0.2 mg/l. The amount of bleaching powder containing 30% available chlorine to be added to treat one litre of such a water sample is:
+#a 0.67 mg
+#b 0.06 mg
+#c 1.33 mg
+#d 0.14 mg
+
+## 206 | tag=ES 94 | p=71-72 | hw=b
+Consider the following statements:
+In water supply distribution network, the dead-end system is not favoured because
+1. it is cumbersome in terms of design.
+2. the pressure at the dead-ends becomes undesirably low in the case of additional extensions.
+3. it is difficult to maintain residual chlorine levels at the dead-ends.
+4. at the time of repairs, service connections beyond the point of repair are deprived of water.
+Of these statements
+#a 1, 2 and 3 are correct
+#b 2, 3 and 4 are correct
+#c 1, 3 and 4 are correct
+#d 1, 2 and 4 are correct
+
+## 207 | tag=ES 94 | p=72 | hw=d
+The ideal residual pressure at the farthest consumer's tap in a properly designed water distribution system is in the range of
+#a 0.016 to 0.020 N/mm²
+#b 0.021 to 0.025 N/mm²
+#c 0.026 to 0.030 N/mm²
+#d 0.031 to 0.035 N/mm²
+
+## 208 | star | tag=ES 94 | p=72 | hw=b
+Under natural conditions of flow, an unpolluted river would contain
+#a more dissolved oxygen in summer than in winter.
+#b less dissolved oxygen in summer than in winter.
+#c more or less the same amount of dissolved oxygen in winter and summer.
+#d the least amount of dissolved oxygen during the floods.
+
+## 209 | star | tag=ES 94 | p=72 | hw=d
+Consider the data presented in the following table:
+Temperature in ⁰C — BOD reaction rate constant (K)
+20 — 0.01
+30 — 0.02
+10 — 0.005
+In the data presented above, the value of K
+#a should have remained constant.
+#b should have decreased with increase in temperature.
+#c should have remained the same at 20⁰C and 30⁰C.
+#d has followed the correct trend.
+
+## 210 | tag=ES 94 | p=72 | hw=d
+For the combined sewerage system, egg-shaped sewers are preferred because
+#a their construction is economical.
+#b they are structurally more stable.
+#c their maintenance is easier.
+#d they offer good flow velocity during the dry-weather-flow condition.
+
+## 211 | tag=ES 94 | p=72 | hw=d
+Match List I with List II and select the correct answer using the codes given below the lists:
+List I (Terms/Description) — List II (Treatment operation/process)
+A. Sludge volume index — 1. Settling in primary sedimentation tank
+B. Thickening of sludge — 2. Settling in secondary sedimentation tank
+C. Scum removal — 3. Filtration in trickling filter
+D. Recycling of effluent — 4. Activated sludge process
+Codes:
+#a A-2, B-4, C-1, D-3
+#b A-4, B-2, C-3, D-1
+#c A-2, B-4, C-3, D-1
+#d A-4, B-2, C-1, D-3
+
+## 212 | tag=ES 94 | p=72 | hw=b
+Various unit operations exist in a sewage treatment plant. These would include
+1. screening
+2. grit removal
+3. secondary sedimentation
+4. aeration
+5. primary sedimentation
+The correct sequence of these operations is
+#a 1, 2, 3, 4, 5
+#b 1, 2, 5, 4, 3
+#c 2, 1, 4, 5, 3
+#d 2, 1, 4, 3, 5
+
+## 213 | tag=ES 94 | p=72 | hw=d
+An aeration basin with a volume of 400 m³ contains mixed liquor with suspended solid concentration of 1000 mg/l. The amount of mixed liquor suspended solids in the tank is
+#a 500 kg
+#b 250 kg
+#c 600 kg
+#d 400 kg
+
+## 214 | tag=ES 94 | p=73 | hw=a
+The following reactions take place during anaerobic digestion of organics:
+1. methane production
+2. alkaline fermentation
+3. acid fermentation
+4. acid regression.
+The correct sequence of these reactions is
+#a 3, 4, 2, 1
+#b 4, 3, 2, 1
+#c 3, 4, 1, 2
+#d 4, 3, 1, 2
+
+## 215 | tag=ES 94 | p=73 | hw=a
+Traps are used in household drainage systems to
+#a prevent entry of foul gases in the house
+#b restrict the flow of water
+#c provide a partial vacuum
+#d trap the solid wastes
+
+## 216 | tag=ES 94 | p=73 | hw=b
+Coal based thermal power stations pollute the atmosphere by adding
+#a NOₓ and SO₂
+#b NOₓ, SO₂ and SPM
+#c NOₓ, SO₂, SPM and CO
+#d NOₓ, SPM and CO
+
+## 217 | tag=ES 94 | p=73 | hw=b
+Area method of land filling is most suitable when
+#a area is unsuitable for excavation of trenches.
+#b adequate depth of cover material is available at the site.
+#c the water table is near the surface.
+#d natural or artificial depressions exist in the vicinity.
+
+## 218 | tag=ES 95 | p=73 | hw=a
+Match List I with List II and select the correct answer using the codes given below the lists:
+List I (Type of water source) — List II (Treatment to be given)
+A. Surface water (river or canal) — 1. Aeration, coagulation, sedimentation and disinfection
+B. Water from infiltration gallery — 2. Disinfection
+C. Lake/pond water — 3. CuSO₄ treatment, coagulation, sedimentation, filtration and disinfection
+D. Tube well water — 4. Coagulation, flocculation, sedimentation, filtration and disinfection
+Codes:
+#a A-4, B-1, C-3, D-2
+#b A-1, B-4, C-3, D-2
+#c A-1, B-4, C-2, D-3
+#d A-4, B-1, C-2, D-3
+
+## 219 | tag=ES 95 | p=73 | hw=a | fig=73:0.48,0.35,0.83,0.48
+The frow chart of a water treatment plant is shown in Fig. 6.3
+If it is proposed to defluoridate the water using 'Nalgonda treatment', then it should be done
+#a by adjusting the dose of lime and alum
+#b after sedimentation
+#c after filtration
+#d before aeration
+
+## 220 | tag=ES 95 | p=73 | hw=d
+Two reservoirs at different levels are connected by two parallel pipes of diameter 2d and d. The ratio of the flows in the two pipes (large : smaller) is
+#a √2 : 1
+#b 2 : 1
+#c 4 : 1
+#d 4√2 : 1
+
+## 221 | tag=ES 95 | p=74 | hw=a
+If the total hardness and alkalinity of a sample of water are 300 mg/l and 100 mg/l (CaCO₃ scale) respectively, then its carbonate and non-carbonate hardness (in units of mg/l) will be respectively
+#a 100 and 200
+#b 400 and 300
+#c 100 and 400
+#d 400 and zero
+
+## 222 | tag=ES 95 | p=74 | hw=b
+Electrical conductivity (EC) of water and total dissolved solids (TDS) are interrelated. The value of EC will
+#a decrease with increase in TDS
+#b increase with increase in TDS
+#c decrease initially and then increase with increase in TDS
+#d increase initially and then decrease with increase in TDS
+
+## 223 | tag=ES 95 | p=74 | hw=a
+When two identical centrifugal pumps are operating in series on a common rising main, then
+#a the pressure in the rising main will be nearly doubled, while the discharge will remain the same
+#b the discharge will be nearly doubled, while the pressure remains the same
+#c discharge as well as the pressure in the rising main will be doubled
+#d discharge as well as the pressure in the rising main will increase but not become double
+
+## 224 | tag=ES 95 | p=74 | hw=c
+In transition of sewers from smaller diameter sewers to larger diameter sewers, the continuity of sewers is maintained at the
+#a bottom of the concrete bed of sewers
+#b inverts of the sewers
+#c crowns of the sewers
+#d hydraulic gradients of the sewers
+
+## 225 | star | tag=ES95 | p=74 | hw=b
+The slope of a 1.0 m diameter concrete sewer laid at a slope of 1 in 1000, develops a velocity of 1 m/s, when flowing full. When it is flowing half-full, the velocity of flow through the sewer will be
+#a 0.5 m/s
+#b 1.0 m/s
+#c √2 m/s
+#d 2.0 m/s
+
+## 226 | tag=ES 95 | p=74 | hw=b
+Match List I with List II and select the correct answer using the codes given below the lists :
+List I (Process) — List II (Biological agent)
+A. Oxidation ditch — 1. Facultative bacteria
+B. Waste stabilisation pond — 2. Anaerobic bacteria
+C. Imhoff tank — 3. Aerobic bacteria (suspended culture)
+D. Rotating Biological Contactor (RBC) — 4. Aerobic bacteria (attached culture)
+Codes :
+#a A-4, B-1, C-2, D-3
+#b A-3, B-1, C-2, D-4
+#c A-1, B-2, C-3, D-4
+#d A-3, B-4, C-1, D-2
+
+## 227 | tag=ES 95 | p=74 | hw=a
+One litre of sewage, when allowed to settle for 30 minutes gives a sludge volume of 27 cm³. If the dry weight of this sludge is 3.0 grams, then its sludge volume index will be
+#a 9
+#b 24
+#c 30
+#d 81
+
+## 228 | star | tag=ES 95 | p=74-75 | hw=d
+An industrial wastewater enters a stream having a BOD concentration of 10 mg/l and a flow of 20 m³/s. If the flow of wastewater is 1.5 m³/s and its BOD concentration is 250 mg/l, then the BOD concentration in the stream at a point downstream of the point of confluence of wastewater with the stream will be
+#a 2.67 mg/l
+#b 12.09 mg/l
+#c 13.00 mg/l
+#d 26.74 mg/l
+
+## 229 | tag=ES 95 | p=75 | hw=d
+A polluted stream undergoes self-purification in four distinct zones:
+1. Zone of clear water.
+2. Zone of active decomposition
+3. Zone of degradation
+4. Zone of recovery
+The correct sequence of these zones is
+#a 3, 4, 2, 1
+#b 2, 3, 4, 1
+#c 2, 4, 3, 1
+#d 3, 2, 4, 1
+
+## 230 | tag=ES 95 | p=75 | hw=b
+Match List I with List II and select the correct answer using the codes given below the lists :
+List I — List II
+A. Soil pipe — 1. Ventilating pipe
+B. Intercepting trap — 2. Wash basin
+C. p-trap — 3. Water closet waste
+D. Cowl — 4. House drainage
+Codes :
+#a A-3, B-4, C-1, D-2
+#b A-3, B-4, C-2, D-1
+#c A-4, B-3, C-2, D-1
+#d A-4, B-3, C-1, D-2
+
+## 231 | tag=ES 95 | p=75 | hw=d
+Match List I with List II and select the correct answer using the codes given below the lists:
+List I (Pollutants) — List II (Effect produced)
+A. CO — 1. Greenhouse effect
+B. CO₂ — 2. Acid rains
+C. SO₂ — 3. Acute toxicity
+D. NOₓ — 4. Ozone liberation at ground level
+Codes :
+#a A-3, B-2, C-1, D-4
+#b A-2, B-3, C-4, D-1
+#c A-3, B-1, C-2, D-4
+#d A-4, B-1, C-2, D-3
+
+## 232 | tag=ES 95 | p=75 | hw=b
+The atmosphere extends upto a height of 10,000 km. It is divided into the following four thermal layers :
+1. Mesosphere
+2. Stratosphere
+3. Thermosphere
+4. Troposphere
+The correct sequence of these layers starting from the surface of the earth upwards is
+#a 2, 4, 1, 3
+#b 4, 2, 1, 3
+#c 4, 2, 3, 1
+#d 2, 4, 3, 1
+
+## 233 | p=75 | hw=c
+Which one of the following solid waste disposal methods is ecologically most acceptable ?
+#a Sanitary landfill
+#b Incineration
+#c Compositing
+#d Pyrolysis
+
+## 234 | tag=ES 96 | p=75 | hw=c
+The construction of impounding reservoir is required when
+#a average annual flow in the stream is lower than average demand
+#b the rate of flow in the stream, in dry season is more than the demand
+#c the rate of flow in the stream, in dry season is less than the demand
+#d the rate of flow in the stream is equal to the demand
+
+## 235 | tag=ES 96 | p=75-76 | hw=b
+Which of the following treatments reduce salinity of water?
+1. Flash mixing and sedimentation
+2. Electrodialysis
+3. Reverse osmosis
+4. Freezing
+5. Filtration
+Select the correct answer using the codes given below.
+Codes :
+#a 1, 2, 3, 4, and 5
+#b 2, 3, and 4
+#c 1, 3, and 5
+#d 1, 2, and 4
+
+## 236 | tag=ES 96 | p=76 | hw=d
+The cleaning of slow sand filter is done by
+#a reversing the direction of flow of water
+#b passing air through the filter
+#c passing a solution of alum and lime through the filter
+#d scraping off top layers of sand and admitting water
+
+## 237 | tag=ES 96 | p=76 | hw=b
+What is the correct sequence of formation of the following compounds during chlorination of water in which ammonia is present?
+1. NCl₃
+2. NH₂Cl
+3. NHCl₂
+Select the correct answer using the codes given below.
+Codes :
+#a 1, 2, 3
+#b 2, 3, 1
+#c 3, 1, 2
+#d 2, 1, 3
+
+## 238 | tag=ES 96 | p=76 | hw=b
+Match List I with List II and select the correct answer using the codes given below the lists :
+List I (Name of impurity in water) — List II (Removed by)
+A. Fluorides — 1. Activated carbon
+B. Manganese — 2. Activated alumina
+C. Taste and odour — 3. Manganese zeolite
+Codes :
+#a A-1, B-2, C-3
+#b A-2, B-3, C-1
+#c A-2, B-1, C-3
+#d A-3, B-2, C-1
+
+## 239 | tag=ES 96 | p=76 | hw=a
+Which one of the following pairs is not correctly matched ?
+#a Check valve … To check water flow in all directions
+#b Sluice valve … To control flow of water through pipe lines
+#c Air valve … To release the accumulated air
+#d Scour valve … To remove silt in a pipe line
+
+## 240 | tag=ES 96 | p=76 | hw=c
+Which one of the following would contain water with the maximum amount of turbidity ?
+#a lakes
+#b oceans
+#c rivers
+#d wells
+
+## 241 | tag=ES 96 | p=76 | hw=d
+The waste stabilization ponds can be
+#a aerobic
+#b anaerobic
+#c facultative
+#d any of the above
+
+## 242 | tag=ES 96 | p=76 | hw=c
+Which of the following pairs is not correctly matched ?
+#a B.O.D …. Strength of sewage
+#b Methane …. Product of anaerobic decomposition
+#c C.O.D. … Biodegradability of wastewater
+#d Nitrate … Methemoglobinemia
+
+## 243 | tag=ES 96 | p=76 | hw=a
+The following are the sewage treatment processes :
+1. primary sedimentation
+2. screening
+3. grit removal
+4. secondary sedimentation
+When only preliminary treatment is to be given for sewage, select the required treatment processes including their correct sequence from the codes given below.
+Codes :
+#a 2, 3
+#b 2, 3, 1
+#c 1, 2, 3, 4
+#d 3, 1, 2, 4
+
+## 244 | tag=ES 96 | p=77 | hw=b
+When was the water (Prevention and Control of Pollution)Act enacted by the Indian Parliament ?
+#a 1970
+#b 1974
+#c 1980
+#d 1985
+
+## 245 | tag=ES 96 | p=77 | hw=b
+The entry of foul smelling gases into the house coming from the sewers can be prevented by
+#a providing water seals for all the fixtures
+#b providing water seals for all the fixtures and a vent pipe in the plumbing system
+#c providing sufficient vent pipes in the plumbing system
+#d exhaust fans
+
+## 246 | tag=ES 96 | p=77 | hw=c
+Ringelmann's scale is used to
+#a measure CO
+#b measure SO₂
+#c grade density of smoke
+#d grade automobile exhaust gas
+
+## 247 | tag=ES 96 | p=77 | hw=d
+Eutrophication of water bodies is caused by the
+#a discharge of toxic substances
+#b excessive discharge of nutrients
+#c excessive discharge of suspended solids
+#d excessive discharge of chlorides
+
+## 248 | tag=ES 96 | p=77 | hw=b
+Non-disposal of solid waste may cause the spread of
+#a malaria
+#b rodents related plague
+#c typhoid
+#d dysentery
+
+## 249 | tag=ES 97 | p=77 | hw=b
+The following steps are involved in making a spigot and socket joint of cast iron pipes used in water supply systems :
+1. Tarred gasket or hemp yarn is wrapped around the spigot.
+2. The spigot end is centred into the socket end of the preceding pipe.
+3. A jointing ring is placed around the barrel and against the face of the socket.
+4. The gasket or hemp yarn is caulked slightly.
+5. Molten pig lead is poured and then caulked.
+The correct sequence of these steps is
+#a 2, 1 , 4 ,3, 5
+#b 2, 1 , 3, 4 ,5
+#c 1, 2, 4, 5, 3
+#d 1, 2, 3, 5, 4
+
+## 250 | tag=ES 97 | p=77 | hw=d
+Match List I (Soil classification of an aquifer) with List II (Values of the range of hydraulic conductivities in metre per day) and select the correct answer using the codes given below the Lists:
+List I — List II
+A. Fine gravel — 1. 1 to 10
+B. Very fine sand — 2. 0.1 to 0.01
+C. Silt — 3. 100 to 1000
+D. Pure clay — 4. 10⁻⁵ to 10⁻⁶
+Codes :
+#a A-1, B-3, C-4, D-2
+#b A-1, B-3, C-2, D-4
+#c A-3, B-1, C-4, D-2
+#d A-3, B-1, C-2, D-4
+
+## 251 | tag=ES 97 | p=77-78 | hw=c
+Which of the following statements about Design Period are true?
+1. It is concerned with economy of investments.
+2. It takes into account aspects like life and durability and ease or difficulty of capacity increase of installations.
+3. It considers the frequency of occurrence of extremes of river flow.
+4. It is concerned with estimating future requirements.
+Select the correct answer using the codes given below.
+Codes :
+#a 1, 2, 3 and 4
+#b 2 and 3
+#c 1, 2 and 4
+#d 1, 3 and 4
+
+## 252 | tag=ES 97 | p=78 | hw=a
+A river is the source of water for water supply to a town. Its water is very turbid and polluted. The correct sequence of steps for treating the river water would be
+#a presedimentation → prechlorination → coagulation → sedimentation → filtration → post-chlorination
+#b coagulation → sedimentation → post-chlorination
+#c coagulation → filtration → sedimentation → post-chlorination
+#d sedimentation → post-chlorination
+
+## 253 | tag=ES 97 | p=78 | hw=d
+Uniformity coefficient of filter sand is given by
+#a D₅₀/D₅
+#b D₅₀/D₁₀
+#c D₆₀/D₅
+#d D₆₀/D₁₀
+
+## 254 | tag=ES 97 | p=78 | hw=c
+Zero hardness of water is achieved by
+#a using lime soda process
+#b excess lime treatment
+#c ion exchange method
+#d using excess alum dosage
+
+## 255 | tag=ES 97 | p=78 | hw=b
+Which of the following statements is/are true in relation to the term 'detention period' in a settling tank ?
+1. It may be determined by introducing a dye in the inlet and timing its appearance at the outlet.
+2. Greater the detention period, greater the efficiency of removal of settleable matter.
+3. It is the time taken for any unit of water to pass through the settling basin.
+4. It is usually more than the flow through period.
+Select the correct answer using the codes given below.
+Codes :
+#a 1, 2, 3 and 4
+#b 2, 3 and 4
+#c 1 and 3
+#d 4 alone
+
+## 256 | tag=ES 97 | p=78 | hw=a | fix=In code c) the column label 'C' is not printed; values read as A-3, B-1, C-2, D-4.
+Match List I with List II and select the correct answer using the codes given below the Lists :
+List I — List II
+A. Dead-end system — 1. Equal pressures and multiple flow paths
+B. Grid-iron system — 2. Both economy and reasonably equal pressures
+C. Ring system — 3. Economy and simplicity
+D. Radial system — 4. Zonal distribution
+Codes :
+#a A-3, B-2, C-1, D-4
+#b A-2, B-4, C-1, D-3
+#c A-3, B-1, C-2, D-4
+#d A-2, B-1, C-4, D-3
+
+## 257 | tag=ES 97 | p=78 | hw=b
+Match List I (Parameters) with List II (Permissible concentration in drinking water) and select the correct answer using the codes given below the Lists :
+List I — List II
+A. Hardness — 1. 0.1 mg/l
+B. Nitrate concentration — 2. 0.5 mg/l
+C. Iron concentration — 3. 200 mg/l
+D. Fluoride concentration — 4. 45 mg/l
+Codes :
+#a A-3, B-4, C-2, D-1
+#b A-3, B-4, C-1, D-2
+#c A-4, B-3, C-2, D-1
+#d A-4, B-3, C-1, D-2
+
+## 258 | tag=ES 97 | p=79 | hw=c
+Match List I with List II and select the correct answer using the codes given below the Lists :
+List I — List II
+A. Absence of fluorides — 1. Methemoglobinaemia
+B. Excess of lead — 2. Goitre
+C. Presence of excess nitrates — 3. Dental caries
+D. Absence of iodide — 4. Anaemia
+Codes :
+#a A-3, B-4, C-2, D-1
+#b A-2, B-3, C-4, D-1
+#c A-3, B-4, C-1, D-2
+#d A-1, B-2, C-4, D-3
+
+## 259 | tag=ES 97 | p=79 | hw=c
+Which of the following determinations are not necessary for raw water from a lake for use as source of supply of water for boiler-feed ?
+1. Turbidity
+2. Bacterial count
+3. Iron
+4. Hardness
+Select the correct answer using the codes given below.
+Codes :
+#a 1, 2 and 3
+#b 1, 2 and 4
+#c 1, 3 and 4
+#d 2, 3 and 4
+
+## 260 | tag=ES 97 | p=79 | hw=c
+Self-cleansing velocity is
+#a the minimum velocity of flow required to maintain a certain amount of solids in the flow
+#b the maximum velocity of flow required to maintain a certain amount of solids in the flow
+#c such flow velocity as would be sufficient to flush out any deposited solids in the sewer
+#d such flow velocity as would be sufficient to ensure that sewage does not remain in the sewer
+
+## 261 | tag=ES 97 | p=79 | hw=d
+The following steps are involved in laying a sewer in a trench :
+1. Transferring the centre line of the sewer to the bottom of the trench.
+2. Setting sight rails over the trench.
+3. Driving pegs to the level of the invert line of the sewer.
+4. Placing the sewer in the trench.
+The correct sequence of these steps is
+#a 1, 2, 3, 4
+#b 2, 3, 4, 1
+#c 4, 2, 3, 1
+#d 2, 3, 1, 4
+
+## 262 | tag=ES 97 | p=79 | hw=d
+A grit chamber of dimensions 12.0 m x 1.50 m x 0.80 m liquid depth has a flow of 720 m³ /hr. Its surface loading rate and detention time are, respectively,
+#a 40000 m³/hr/m² and 1.2 minutes
+#b 40000 lph/m² and 40 minutes
+#c 40 m³/hr/m² and 12 minutes
+#d 40000 lph/m² and 1.2 minutes
+
+## 263 | tag=ES 97 | p=79 | hw=c
+Match List I ( Impurities to be removed from sewage) with List II (Treatment unit used) and select the correct answer using the codes given below the Lists :
+List I — List II
+A. Large floating matter — 1. Trickling filter
+B. Suspended inorganic matter — 2. Primary clarifier
+C. Suspended organic matter — 3. Grit chamber
+D. Dissolved organic matter — 4. Screens
+Codes :
+#a A-3, B-4, C-2, D-1
+#b A-3, B-4, C-1, D-2
+#c A-4, B-3, C-2, D-1
+#d A-4, B-3, C-1, D-2
+
+## 264 | tag=ES 97 | p=80 | hw=d
+Which of the following are claimed as advantageous in respect of aerobic sludge digestion as compared to anaerobic sludge digestion ?
+1. lower BOD concentration in supernatant liquor
+2. production of a sludge with excellent denaturing propensity
+3. greater production of methane
+4. lesser operation cost
+5. lesser capital cost
+Select the correct answer using the codes given below.
+Codes :
+#a 1, 2 and 4
+#b 2, 3, 4 and 5
+#c 3, 4 and 5
+#d 1, 2 and 5
+
+## 265 | tag=ES 97 | p=80 | hw=d
+The following data pertain to a sewage sample :
+Initial D.O. = 10 mg/l
+Final D.O. = 2 mg/l
+Dilution to 1%
+The BOD of the given sewage sample is
+#a 8 mg/l
+#b 10 mg/l
+#c 100 mg/l
+#d 800 mg/l
+
+## 266 | tag=ES 97 | p=80 | hw=a
+Match List I with List II and select the correct answer using the codes given below the Lists :
+List I — List II
+A. Sludge disposal — 1. Seeding
+B. Sludge digestion — 2. Biofilters
+C. Aerobic action — 3. Lagging
+D. Recirculation — 4. Contact bed
+Codes :
+#a A-3, B-1, C-4, D-2
+#b A-3, B-1, C-2, D-4
+#c A-1, B-3, C-2, D-4
+#d A-1, B-3, C-4, D-2
+
+## 267 | tag=ES 97 | p=80 | hw=d
+Sewage sickness occurs when
+#a sewage contains pathogenic organisms
+#b sewage enters the water supply system
+#c sewers get clogged due to accumulation of solids
+#d voids of soil get clogged due to continuous application of sewage on a piece of land
+
+## 268 | tag=ES 97 | p=80 | hw=a
+In the design of storm sewers, "time of concentration" is relevant to determine the
+#a rainfall intensity
+#b velocity in the sewer
+#c time of travel
+#d area served by the sewer
+
+## 269 | tag=ES 97 | p=80 | hw=b
+Self-purification of running streams may be due to
+#a sedimentation, oxidation and coagulation
+#b dilution, sedimentation and oxidation
+#c dilution, sedimentation and coagulation
+#d dilution, oxidation and coagulation
+
+## 270 | tag=ES 97 | p=80 | hw=c
+Which of the following waste disposal tasks are achieved by a septic tank with its dispersion trench ?
+1. aerobic sludge digestion
+2. settling and anaerobic sludge digestion.
+3. anaerobic sewage stabilisation.
+4. bio-oxidation of effluent.
+Select the correct answer using the codes given below.
+Codes :
+#a 1 and 3
+#b 3 and 4
+#c 2 and 4
+#d 1 and 4
+
+## 271 | tag=ES 97 | p=80-81 | hw=d
+Which of the following air pollutants is/are responsible for photochemical smog ?
+1. oxides of nitrogen
+2. ozone
+3. unburnt hydrocarbons
+4. carbon monoxide
+Select the correct answer using the codes given below.
+Codes :
+#a 1 alone
+#b 2, 3 and 4
+#c 1,3 and 4
+#d 1 and 3
+
+## 272 | tag=ES 97 | p=81 | hw=b
+Match List I (Equipment) with List II (Pollutants removed) and select the correct answer using the codes given below the Lists:
+List I — List II
+A. Electrostatic precipitators — 1. Coarse particles
+B. Cyclones — 2. Fine dust
+C. Wet scrubbers — 3. Gas
+D. Adsorbers — 4. Sulphur dioxide
+Codes :
+#a A-1, B-2, C-3, D-4
+#b A-2, B-1, C-3, D-4
+#c A-2, B-1, C-4, D-3
+#d A-1, B-2, C-4, D-3
+
+## 273 | tag=ES 97 | p=81 | hw=b
+Which of the following pairs is/are correctly matched ?
+1. Eutrophication … Nutrient accumulation leading to ecosystem change occurring in impounded water
+2. Autotrophism … Utilization, rearrangement and decomposition of complex materials predominate
+3. Heterotrophism … Predominance of fixation of light energy, use of simple inorganic substaces and built-up complex substances
+Select the correct answer using the codes given below.
+Codes :
+#a 1, 2 and 3
+#b 1 alone
+#c 2 and 3
+#d 1 and 3
+
+## 274 | tag=ES 97 | p=81 | hw=b
+The typical density in kg/cum (in situ) of well - compacted municipal solid waste in landfill is in the range of
+#a 100 to 300
+#b 310 to 500
+#c 550 to 850
+#d 900 to 1100
+
+## 275 | tag=ES 97 | p=81 | hw=c
+Which of the following materials are used as landfill sealants for the control of gas and leachate movements?
+1. Lime
+2. Sand
+3. Bentonite
+4. Fly ash
+5. Butyl rubber
+Select the correct answer using the codes given below.
+Codes :
+#a 1, 2 and 3
+#b 4 and 5
+#c 3 and 5
+#d 1, 2 and 4
+
+## 276 | star | tag=ES 97 | p=81 | hw=b
+Two sources generate noise levels of 90 dB and 94 dB respectively. The cumulative effect of these two noise levels on the human ear is
+#a 184 dB
+#b 95.5 dB
+#c 94 dB
+#d 92 dB
+
+## 277 | tag=ES 98 | p=81-82 | hw=b
+Two identical centrifugal pumps are operated in parallel so as to deliver into a common delivery pipe. Speed for both is also identical. At what total discharge (Q) and total head (H) will the system operate as compared to discharge and head to each of the pumps operated singly?
+#a Both total Q and total H would increase, each approximately by 50%.
+#b Total Q would be approximately doubled, but H would remain the same.
+#c Total H would be approximately doubled, but Q would remain the same.
+#d Total H would be doubled, but Q would be approximately halved.
+
+## 278 | tag=ES 98 | p=82 | hw=c
+Storage of water by impounding is required where
+#a plenty of water is available in the stream in all seasons.
+#b excess of suspended and dissolved matter are present in the water.
+#c there is a large variation in quantity of the river flow from time to time.
+#d the flow is uniform throughout the year but is insufficient.
+
+## 279 | tag=ES 98 | p=82 | hw=b
+In a water treatment plant, dissolved iron and manganese can be removed from the water by
+#a aeration
+#b aeration and coagulation
+#c aeration and flocculation
+#d aeration and sedimentation
+
+## 280 | tag=ES 98 | p=82 | hw=b
+The various treatment processes in a water treatment plant are listed below :
+1. filtration
+2. chlorination
+3. sedimentation
+4. coagulation
+5. flocculation
+The correct sequence of these processes in water treatment is
+#a 1, 2, 3, 4, 5
+#b 4, 5, 3, 1, 2
+#c 2, 3, 1, 5, 4
+#d 1, 2, 5, 3, 4
+
+## 281 | tag=ES 98 | p=82 | hw=a
+The effective size (ES) of sand and its uniformity coefficient (UC) are the usually specified parameters for sand filters. In slow sand filters, as compared to rapid sand filters,
+#a ES is less but UC is more
+#b ES is more but UC is less
+#c Both ES and UC are more
+#d Both Es and UC are less
+
+## 282 | tag=ES 98 | p=82 | hw=d | fig=82:0.62,0.08,0.95,0.24
+If only ammonia was present in water, the only change in Fig.6.4 would have been that the curve would
+#a be a straight line
+#b become parallel to Y - axis
+#c become parallel to X - axis after 'D'
+#d be passing through the origin
+
+## 283 | tag=ES 98 | p=82 | hw=d
+Which one of the following is the purpose of providing a surge tank in a pipeline carrying water ?
+#a to store water
+#b to increase the pressure throughout the pipeline
+#c to store overflowing water
+#d to protect the pipeline against water hammer
+
+## 284 | tag=ES 98 | p=82 | hw=a | check=Book misprint: in code d) the A column (label and value) is not printed; recorded as 'A-?'.
+Match List I (Water treatment units) with List II (Detention time) and select the correct answer using the codes given below the lists :
+List I — List II
+A. Rapid mixing unit — 1. 1 ½ hours
+B. Flocculator — 2. 10 seconds
+C. Propeller mixing unit — 3. 30 seconds
+D. Sedimentation tank — 4. 30 minutes
+Codes :
+#a A-3, B-4, C-2, D-1
+#b A-4, B-3, C-1, D-2
+#c A-4, B-3, C-2, D-1
+#d A-?, B-4, C-1, D-2
+
+## 285 | tag=ES 98 | p=83 | hw=c
+The maximum flow occurs in an eggshaped sewer when the ratio of depth of flow to vertical diameter is
+#a 0.33
+#b 0.50
+#c 0.95
+#d 1.00
+
+## 286 | tag=ES 98 | p=83 | hw=d
+The following three stages are known to occur in the biological action involved in the process of sludge digestion :
+1. Acid fermentation.
+2. Alkaline fermentation.
+3. Acid regression.
+The correct sequence of these stages is
+#a 1, 2, 3
+#b 2, 3, 1
+#c 3, 1, 2
+#d 1, 3, 2
+
+## 287 | tag=ES 98 | p=83 | hw=c
+Fresh sludge has moisture content of 99% and, after thickening, its moisture content is reduced to 96%. The reduction in volume of sludge is
+#a 3%
+#b 5%
+#c 75%
+#d 97.5%
+
+## 288 | tag=ES 98 | p=83 | hw=a
+Match List I (Nature of the solids) with List II (Unit operation or process connected with its removal) and select the correct answer using the codes given below the lists :
+List I — List II
+A. Dissolved solids — 1. Sedimentation
+B. Colloidal solids — 2. Reverse osmosis
+C. Volatile solds — 3. Coagulation
+D. Settleable solids — 4. Digestion
+Codes :
+#a A-2, B-3, C-4, D-1
+#b A-3, B-2, C-4, D-1
+#c A-2, B-3, C-1, D-4
+#d A-3, B-2, C-1, D-4
+
+## 289 | tag=ES 98 | p=83 | hw=c
+In the oxidation ditch, the excess sludge is taken to
+#a anaerobic digester
+#b aerobic digester
+#c drying beds
+#d incinerator
+
+## 290 | tag=ES 98 | p=83 | hw=c
+The flow sheet of the liquid stream of a sewage treatment scheme consists of
+1. trickling filter
+2. primary settling tank
+3. grit chamber
+4. screen chamber
+5. secondary settling tank
+The correct sequence of these units in the sewage treatment scheme of a liquid stream is
+#a 3, 4, 1, 2, 5
+#b 3, 4, 2, 1, 5
+#c 4, 3, 2, 1, 5
+#d 4, 3, 1, 2, 5
+
+## 291 | tag=ES 98 | p=83 | hw=c
+Which one of the following pairs is not correctly matched ?
+#a Activated sludge … aeration
+#b Trickling filters … attached growth system
+#c Oxidation ditch … algae
+#d Channel grit chamber …proportional weir
+
+## 292 | tag=ES 98 | p=83 | hw=b
+The two main gases liberated from an anaerobic sludge digestion tank would include
+#a ammonia and carbon dioxide
+#b carbon dioxide and methane
+#c methane and hydrogen sulphide
+#d ammonia and methane
+
+## 293 | tag=ES 98 | p=83 | hw=c
+Which one of the following sewage treatment units has a parshall flume?
+#a trickling filter
+#b oxidation ditch
+#c grit chamber
+#d aerated lagoon
+
+## 294 | tag=ES 98 | p=83-84 | hw=d
+Which one of the following is least important in the activated sludge process?
+#a proper proportion of the return sludge from the secondary settling tank
+#b adequate aeration in the biological reactor, so as to maintain certain minimum dissolved oxygen
+#c proper food to micro - organisms (F : M) ratio
+#d the sludge volume index of the return sludge to be less than 200
+
+## 295 | tag=ES 98 | p=84 | hw=b
+The following zones are formed in a polluted river :
+1. zone of clear water
+2. zone of active decomposition
+3. zone of recovery
+4. zone of pollution
+The correct sequence in which these zones occur progressively downstream in a polluted river is
+#a 4, 2, 1, 3
+#b 4, 2, 3, 1
+#c 2, 4, 3, 1
+#d 2, 4, 1, 3
+
+## 296 | tag=ES 98 | p=84 | hw=a
+Match List I (Pollutants) with List II (Sources) and select the correct answer using the codes given below the lists :
+List I — List II
+A. Acid water — 1. Volcanoes
+B. SO₂ — 2. Automobiles
+C. CO — 3. Thermal power station
+D. Fly ash — 4. Mining
+Codes :
+#a A-4, B-1, C-2, D-3
+#b A-4, B-1, C-3, D-2
+#c A-1, B-4, C-3, D-2
+#d A-1, B-4, C-2, D-3
+
+## 297 | tag=ES 98 | p=84 | hw=b
+Aerosol is
+#a carbon particles of microscopic size
+#b dispersion of small solid or liquid particles in gaseous media
+#c finely divided particles of ash
+#d diffused liquid particles
+
+## 298 | tag=ES 99 | p=84 | hw=d
+Water present in an artesian aquifer is usually.
+#a at sub atmospheric pressure
+#b at atmospheric pressure
+#c at 0.5 times of the atmospheric pressure
+#d above atmospheric pressure
+
+## 299 | tag=ES 99 | p=84 | hw=d
+Consider the following statements :
+The daily per capita consumption of water apparently increases with
+1. higher standard of living of people
+2. availability of sewerage in the city
+3. metered water supply
+4. wholesome and potable quality of water
+Which of these statements are correct ?
+#a 1, 2 and 3
+#b 2, 3, and 4
+#c 1, 3, and 4
+#d 1, 2 and 4
+
+## 300 | tag=ES 99 | p=84-85 | hw=a
+Match List I (Operational problems in rapid gravity filter) with List II (Methods to overcome the problems) and select the correct answer using the codes given below the Lists :
+List I — List II
+A. Incrustation of filter sand media — 1. Compressed air scouring for about 4 minutes at the time of backwashing and manual surface raking
+B. Air binding & development of negative head — 2. Washing the filter with sodium hydroxide or bleaching powder occasionally
+C. Mud ball formation — 3. Through backwashing with salt solution after soaking the filter in it
+D. Slime growth on filter — 4. Increasing the depth of water during filter operation by about 15-20 cm as compared to the normal depth maintained during daily operation and more frequent backwashing
+Codes :
+#a A-2, B-4, C-3, D-1
+#b A-4, B-2, C-1, D-3
+#c A-2, B-4, C-1, D-3
+#d A-4, B-2, C-3, D-1
+
+## 301 | tag=ES 99 | p=85 | hw=d | fig=85:0.11,0.19,0.39,0.31
+In the plot of residual chlorine versus chlorine dose applied shown in Fig. 6.5, the curve will not have any (0, 0) point because
+#a of experimental error
+#b chlorine escapes into the atmosphere
+#c chlorine requires some contact time
+#d chlorine is consumed for disinfection
+
+## 302 | tag=ES 99 | p=85 | hw=b
+If the methyl orange alkalinity of water equals or exceeds total hardness, all of the hardness is
+#a non-carbonate hardness
+#b carbonate hardness
+#c pseudo hardness
+#d negative non-carbonate hardness
+
+## 303 | tag=ES 99 | p=85 | hw=d
+Consider the following statements :
+Some amount of chlorides is allowed in drinking water because
+1. it helps in killing bacteria.
+2. small quantity of chlorides adds to the taste
+3. it is not injurious to human health.
+4. it is not economical to remove it completely.
+Which of these statements are correct ?
+#a 1, 2 and 4
+#b 1, 2 and 3
+#c 2, 3 and 4
+#d 1, 3 and 4
+
+## 304 | tag=ES 99 | p=85 | hw=b
+A commonly used handpump is the
+#a centrifugal pump
+#b reciprocating pump
+#c rotary pump
+#d axial flow pump
+
+## 305 | tag=ES 99 | p=85 | hw=b
+Match List I with List II and select the correct answer using the codes given below the Lists:
+List I (Pump) — List II (Requirement)
+A. Multistage centrifugal pump of moderate sized impellers — 1. High head and low discharge
+B. Archimedean screw type pump — 2. Low head and large discharge
+C. Simple reciprocating pump — 3. High head and moderate discharge
+D. Axial flow propeller pump — 4. Low head and low discharge
+Codes :
+#a A-4, B-3, C-1, D-2
+#b A-3, B-4, C-1, D-2
+#c A-4, B-3, C-2, D-1
+#d A-3, B-4, C-2, D-1
+
+## 306 | tag=ES 99 | p=85 | hw=a
+Service connection consists of
+#a ferrule, stopcock and gooseneck
+#b ferrule, check valve and gooseneck
+#c stopcock, meter and sluice valve
+#d sluice valve, check valve and meter
+
+## 307 | tag=ES 99 | p=85-86 | hw=b
+The correct sequence of processes in a water treatment plant for rural water apply is
+#a Chlorination, aeration, sedimentation, rapid sand filter
+#b Coagulation, sedimentation, slow sand filter, chlorination
+#c Coagulation, flocculation, clarification, pressure filter
+#d Aeration, plain sedimentation, slow sand filter, chlorination
+
+## 308 | tag=ES 99 | p=86 | hw=a
+Match List I (Industry and unit of production) with List II (water need in kl/unit/day) and select the correct answer using the codes given below the Lists :
+List I — List II
+A. Automobile (per vehicle) — 1. 1 to 2
+B. Leather (per 100 kg) — 2. 4
+C. Paper (per tonne) — 3. 40
+D. Crude petroleum refinery (per tonne) — 4. 50 – 100
+5. 200 – 400
+Codes :
+#a A-3, B-2, C-5, D-1
+#b A-1, B-3, C-5, D-4
+#c A-3, B-2, C-4, D-5
+#d A-5, B-4, C-2, D-1
+
+## 309 | tag=ES 99 | p=86 | hw=d
+Consider the following statements :
+Ventilation of sewer lines is necessary to
+1. avoid building up of sewer gases.
+2. ensure atmospheric pressure in the waste water surface.
+3. ensure the safety of sewer maintenance people.
+4. provide oxidation facility to sewage.
+Which of these statements are correct ?
+#a 1, 2 and 4
+#b 1, 3 and 4
+#c 2, 3 and 4
+#d 1, 2 and 3
+
+## 310 | tag=ES 99 | p=86 | hw=c
+For a colony of 10,000 persons having sewage flow rate of 200 litres /capita/day, BOD of applied sewage of 300 mg/litre and organic loading of 300 kg/day/hectare, the area of an oxidation pond required for treating the sewage of the colony is
+#a 0.2 hectares
+#b 1 hectare
+#c 2 hectares
+#d 6 hectares
+
+## 311 | tag=ES 99 | p=86 | hw=c | fig=86:0.6,0.21,0.88,0.33
+The second stage BOD as shown in Fig.6.6 is due to
+#a experimental error
+#b increased activity of bacteria
+#c nitrification demand
+#d interference by certain chemical reactions
+
+## 312 | tag=ES 99 | p=86 | hw=d
+The purpose of a proportional weir at the effluent end of a channel type grit removal unit is to
+#a provide easy passage of solid particles
+#b measure the rate of flow in the channel
+#c keep the depth of flow in the channel above a certain value
+#d maintain constant mean velocity in the channel.
+
+## 313 | tag=ES 99 | p=86 | hw=b
+The trap used for a water closet is called
+#a gully trap
+#b p-trap
+#c intercepting trap
+#d anti-siphon trap
+
+## 314 | tag=ES 99 | p=86-87 | hw=a
+A circular sewer of diameter 1 m carries storm water to a depth of 0.75 m. The hydraulic radius is approximately
+#a 0.3 m
+#b 0.4 m
+#c 0.5 m
+#d 0.6 m
+
+## 315 | tag=ES 99 | p=87 | hw=d
+Consider the following statements about waste stabilization ponds :
+1. The pond has a symbiotic behiaviour of waste stabilization through algae on one hand and bacteria on the other.
+2. The oxygen in ponds is provided by algae through photosynthesis.
+3. The detention period for waste stabilization pond is of the order of two to three days.
+4. The bacteria, which develop in the pond, are aerobic bacteria.
+Which of these statements are correct ?
+#a 1, 2 and 3
+#b 1, 3 and 4
+#c 2 and 4
+#d 1 and 2
+
+## 316 | tag=ES 99 | p=87 | hw=c
+Match List I with List II and select the correct answer using the codes given below the Lists :
+List I (Air pollutant) — List II (Environmental effect)
+A. Carbon monoxide — 1. Respiratory distress for living beings
+B. Particulate matter — 2. Chemical reaction with haemoglobin in blood
+C. Nitrogen oxides — 3. Reduction in visibility and aeroallergens carrier
+D. Sulfur dioxide — 4. Photochemical smog in atmosphere
+Codes :
+#a A-2, B-3, C-1, D-4
+#b A-3, B-2, C-4, D-1
+#c A-2, B-3, C-4, D-1
+#d A-3, B-2, C-1, D-4
+
+## 317 | tag=ES 99 | p=87 | hw=c
+Match List I (Methods of solid wastes disposal) with List II (Terms pertaining to the methods ) and select the correct answer using the codes given below the Lists :
+List I — List II
+A. Incineration — 1. Requires presorting, grinding and turning
+B. Sanitary landfill — 2. Limited to special wastes and selected materials
+C. Composting — 3. High operational & maintenance cost
+D. Salvage by sorting — 4. Tractor
+5. Rat and fly breeding
+Codes :
+#a A-2, B-5, C-4, D-3
+#b A-1, B-4, C-2, D-3
+#c A-3, B-4, C-1, D-2
+#d A-3, B-5, C-4, D-2
+
+## 318 | tag=ES 99 | p=87 | hw=c
+The sound pressure level for a jet plane on the ground with sound pressure of 2000 μ bar should be
+#a 60 decibel
+#b 100 decibel
+#c 140 decibel
+#d 180 decibel
+
+## 319 | p=87 | hw=b
+The controlling design parameter in the design of all settling tanks is:
+#a detention time
+#b overflow rate
+#c percent removal of suspended solids
+#d depth
