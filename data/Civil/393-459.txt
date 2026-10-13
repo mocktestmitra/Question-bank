@@ -2462,3 +2462,867 @@ The correct answer is
 #b (i) and (ii) are correct
 #c (iii) and (iv) are correct
 #d only (iv) is correct
+
+## 95 | p=35 | hw=d
+The temperature reinforcement in the vertical slab of a T-shaped R.C. retaining wall is
+#a not needed
+#b provided equally on inner and front faces
+#c provided more on inner face than on front face
+#d provided more on front face than on inner face
+
+## 96 | p=35 | hw=a
+The main reinforcement in the heel of a T-shaped R.C. retaining wall is provided on
+#a top face perpendicular to wall
+#b bottom face perpendicular to wall
+#c both top and bottom faces perpendicular to wall
+#d none of the above
+
+## 97 | p=35 | hw=c
+In a counterfort retaining wall, the main reinforcement is provided on the
+i) bottom face in front counterfort
+ii) inclined face in front counterfort
+iii) bottom face in back counterfort
+iv) inclined face in back counterEort
+The correct answer is
+#a (i) and (ii)
+#b (ii) and (iii)
+#c (i) and (iv)
+#d (iii) and (iv)
+
+## 98 | p=35 | hw=b
+In counterfort retaining walls, the main reinforcement in the stem at support is
+#a not provided
+#b provided only on inner face
+#c provided only on front face
+#d provided both on inner and front faces
+
+## 99 | p=35 | hw=c
+In the design of a front counterfort in a counterfort retaining wall. the main reinforcement is provided on
+i) bottom face near counterfort
+ii) top face near counterfort
+iii) bottom face near centre of span
+iv) top face near centre of span
+The correct answer is
+#a only (i)
+#b only (ii)
+#c both (i) and (iv)
+#d both (ii) and (iii)
+
+## 100 | p=35 | hw=a
+In a counterfort retaining wall, the main reinforcement in the stem at mid span is provided on
+#a front face only
+#b inner face only
+#c both front face and inner face
+#d none of the above
+
+## 101 | p=35 | hw=d | fix=Right ends of some lines are lost in the binding on scan p35; completed from context (single words: 'isolated', 'of a', 'and', 'columns', 'settlement', 'will', 'differential', 'be', 'maximum', 'under a', 'edge', 'depth', 'suspension', 'at').
+The depth of footing for an isolated column is governed by
+i) maximum bending moment
+ii) shear force
+iii) punching shear
+The correct answer is
+#a only (i)
+#b (i) and (ii)
+#c (i) and (iii)
+#d (i), (ii) and (iii)
+
+## 102 | star | p=35 | hw=c | fix=Right ends of some lines are lost in the binding on scan p35; completed from context (single words: 'isolated', 'of a', 'and', 'columns', 'settlement', 'will', 'differential', 'be', 'maximum', 'under a', 'edge', 'depth', 'suspension', 'at').
+If the foundations of all the columns of a structure are designed on the total live and dead load basis, then
+#a there will be no settlement of columns
+#b there will be no differential settlement
+#c the settlement of exterior columns will be more than interior columns
+#d the settlement of interior columns will be more than exterior columns
+
+## 103 | p=35 | hw=c | fix=Right ends of some lines are lost in the binding on scan p35; completed from context (single words: 'isolated', 'of a', 'and', 'columns', 'settlement', 'will', 'differential', 'be', 'maximum', 'under a', 'edge', 'depth', 'suspension', 'at').
+To minimise the effect of differential settlement, the area of a footing should be designed for
+#a dead load only
+#b dead load + live load
+#c dead load + fraction of live load
+#d live load + fraction of dead load
+
+## 104 | p=35 | hw=c | fix=Right ends of some lines are lost in the binding on scan p35; completed from context (single words: 'isolated', 'of a', 'and', 'columns', 'settlement', 'will', 'differential', 'be', 'maximum', 'under a', 'edge', 'depth', 'suspension', 'at').
+The critical section for finding maximum bending moment for footing under a masonry wall is located
+#a at the middle of the wall
+#b at the edge of the wall
+#c halfway between the middle and edge of the wall
+#d at a distance equal to effective depth of footing from the edge of the wall
+
+## 105 | star | p=35 | hw=a | fix=Right ends of some lines are lost in the binding on scan p35; completed from context (single words: 'isolated', 'of a', 'and', 'columns', 'settlement', 'will', 'differential', 'be', 'maximum', 'under a', 'edge', 'depth', 'suspension', 'at').
+In a pile of length l, the points of suspension from ends for lifting it are located at
+#a 0.207 l
+#b 0.25 l
+#c 0.293 l
+#d 0.333 l
+
+## 106 | p=36 | hw=c
+During erection, the pile of length l is supported by a crane at a distance of
+#a 0.207 l
+#b 0.293 l
+#c 0.707 l
+#d 0.793 l
+#note from the driving end of pile which rests on the ground
+
+## 107 | p=36 | hw=c
+While designing the pile as a column, the end conditions are nearly
+#a both ends hinged
+#b both ends fixed
+#c one end fixed and other end hinged
+#d one end fixed and other end free
+
+## 108 | p=36 | hw=c
+The recommended value of modular ratio for reinforced brick work is
+#a 18
+#b 30
+#c 40
+#d 58
+
+## 109 | p=36 | hw=a
+According to ISI recommendations, the maximum depth of stress block for balanced section of a beam of effective depth d is
+#a 0.43 d
+#b 0.55 d
+#c 0.68 d
+#d 0.85 d
+
+## 110 | tag=ES 93 | p=36 | hw=a
+Assertion A : The load factor for live load is greater than that for dead load.
+Reason R : The live loads are more uncertain than dead loads.
+Select your answer based on the coding system given below :
+#a Both A and R are true and R is the correct explanation of A.
+#b Both A and R are true but R is not the correct explanation of A.
+#c A is true but R is false.
+#d A is false but R is true.
+
+## 111 | p=36 | hw=b
+The centroid of compressive force, from the extreme compression fibre, in limit state design lies at a distance of
+#a 0.367 x_u
+#b 0.416 x_u
+#c 0.446 x_u
+#d 0.573 x_u
+#note where x_u is the depth of neutral axis at the limit state of collapse
+
+## 112 | p=36 | hw=d
+The design yield stress of steel according to IS: 456-1978 is
+#a 0.37 f_y
+#b 0.57 f_y
+#c 0.67 f_y
+#d 0.87 f_y
+#note where f_y is the characteristic yield strength of steel
+
+## 113 | p=36 | hw=c
+According to Whitney's theory, ultimate strain of concrete is assumed to be
+#a 0.03%
+#b 0.1%
+#c 0.3%
+#d 3%
+
+## 114 | tag=ES 2k | p=36 | hw=b
+According to Whitney's theory, depth of stress block for a balanced section of a concrete beam is limited to
+#a 0.43 d
+#b 0.537 d
+#c 0.68 d
+#d 0.85 d
+#note where d is effective depth of beam
+
+## 115 | p=36 | hw=b
+The load factors for live load and dead load are taken respectively as
+#a 1.5 and 2.2
+#b 2.2 and 1.5
+#c 1.5 and 1.5
+#d 2.2 and 2.2
+
+## 116 | p=36 | hw=b
+As per Whitney's theory, the maximum moment of resistance of the balanced section of a beam of width b and effective depth d is given by
+#a (1/2) σ_cy bd²
+#b (1/3) σ_cy bd²
+#c 0.185σ_cy bd²
+#d 0.43σ_cy bd²
+#note where σ_cy is the cylinder compressive strength of concrete
+
+## 117 | p=36-37 | hw=a
+The maximum shear stress for M15 concrete as per IS: 456–1978 in limit state design is
+#a 2.5 N/mm²
+#b 2.8 N/mm²
+#c 3.1 N/mm²
+#d 3.5 N/mm²
+
+## 118 | tag=ES 99 | p=37 | hw=c
+According to IS: 456-1978, the maximum compressive stress in concrete for design purpose is taken as
+#a 0.370 f_ck
+#b 0.416 f_ck
+#c 0.446 f_ck
+#d 0.670 f_ck
+
+## 119 | p=37 | hw=b
+The maximum compressive stress in concrete for design purposes is based on a partial safety factor of
+#a 1.15
+#b 1.50
+#c 1.85
+#d 2.20
+
+## 120 | tag=ES 98 | p=37 | hw=a
+The partial safety factor for steel as per IS: 456 –1978 is taken as
+#a 1.15
+#b 1.35
+#c 1.50
+#d 1.65
+
+## 121 | tag=ES 96 | p=37 | hw=b
+According to IS: 456–1978, the maximum strain in concrete at the outermost compression fibre in the limit state design of flexural member is
+#a 0.0020
+#b 0.0035
+#c 0.0050
+#d 0.0065
+
+## 122 | p=37 | hw=b | fix=Right ends of some lines are lost in the binding on scan p37; read across the overlapping scans p37 and p38.
+The minimum eccentricity for design of columns as per IS : 456–1978 is
+#a l/300 + D/50
+#b l/500 + D/30
+#c l/300 + D/500
+#d l/500 + D/200
+#note subjected to a maximum of 20 mm. where, l = unsupported length of the column and D = lateral dimension of column in the direction under consideration
+
+## 123 | p=37 | hw=b | fix=Right ends of some lines are lost in the binding on scan p37; read across the overlapping scans p37 and p38.
+For the deflection of simply supported beam to be within permissible limits, the ratio of its span to effective depth as per IS : 456–1978 should not exceed
+#a 7
+#b 20
+#c 26
+#d 35
+
+## 124 | p=37 | hw=b
+The development length of bars of diameter ϕ, as per IS : 456–1978 is given by
+#a 4ϕσ_s/τ_bd
+#b ϕσ_s/4τ_bd
+#c 2ϕσ_s/3τ_bd
+#d ϕσ_s/3τ_bd
+#note where, σ_s = stress in bar, τ_bd = design bond stress
+
+## 125 | star | p=37 | hw=c | fix=Right ends of some lines are lost in the binding on scan p37; read across the overlapping scans p37 and p38.
+For bars in tension, a standard hook has anchorage value equivalent to a straight length of
+#a 8 ϕ
+#b 12 ϕ
+#c 16 ϕ
+#d 24 ϕ
+#note where ϕ is diameter of hook
+
+## 126 | star | p=37 | hw=a | fix=Right ends of some lines are lost in the binding on scan p37; read across the overlapping scans p37 and p38.
+The creep strains are
+#a caused due to dead loads only
+#b caused due to live loads only
+#c caused due to both dead loads and live loads
+#d independent of loads
+
+## 127 | p=37 | hw=b | fix=Right ends of some lines are lost in the binding on scan p37; read across the overlapping scans p37 and p38.
+The effect of creep on modular ratio is
+#a to decrease it
+#b to increase it
+#c either to decrease or to increase it
+#d to keep it unchanged
+
+## 128 | p=38 | hw=d
+Shrinkage of concrete depends upon
+i) humidity of atmosphere
+ii) passage of time
+iii) stress
+The correct answer is
+#a (i) and (ii)
+#b (ii) and (iii)
+#c only (iii)
+#d All (i), (ii) and (iii)
+
+## 129 | p=38 | hw=a | fix=Question number partly lost in the binding on scan p38; read from sequence.
+Due to shrinkage stresses, a simply supported beam having reinforcement only at bottom tends to
+#a deflect downward
+#b deflect upward
+#c deflect downward or upward
+#d none of the above
+
+## 130 | p=38 | hw=b
+In symmetrically reinforced sections, shrinkage stresses in concrete and steel are respectively
+#a compressive and tensile
+#b tensile and compressive
+#c both compressive
+#d both tensile
+
+## 131 | p=38 | hw=d | fix=Question number partly lost in the binding on scan p38; read from sequence.
+A beam curved in plan is designed for
+#a bending moment and shear
+#b bending moment and torsion
+#c shear and torsion
+#d bending moment, shear and torsion
+
+## 132 | tag=ES 95 | p=38 | hw=c | fix=Question number partly lost in the binding on scan p38; read from sequence.
+In a spherical dome subjected to concentrated load at crown or uniformly distributed load, the meridional force is always
+#a zero
+#b tensile
+#c compressive
+#d tensile or compressive
+
+## 133 | p=38 | hw=b | fix=Question number partly lost in the binding on scan p38; read from sequence.
+Sinking of an intermediate support of a continuous beam
+i) reduces the negative moment at support
+ii) increases the negative moment at support
+iii) reduces the positive moment at centre of span
+iv) increases the positive moment at centre of span
+The correct answer is
+#a (i) and (iii)
+#b (i) and (iv)
+#c (ii) and (iii)
+#d (ii) and (iv)
+
+## 134 | p=38 | hw=b
+The maximum value of hoop compression in a dome is given by
+#a wR / 4d
+#b wR / 2d
+#c wR / d
+#d 2wR / d
+#note where, w = load per unit area of surface of dome, R = radius of curvature, d = thickness of dome
+
+## 135 | p=38 | hw=b
+In a spherical dome the hoop stress due to a concentrated load at crown is
+#a compressive everywhere
+#b tensile everywhere
+#c partly compressive and partly tensile
+#d zero
+
+## 136 | p=38 | hw=a
+In a ring beam subjected to uniformly distributed load
+i) shear force at mid span is zero
+ii) shear force at mid span is maximum
+iii) torsion at mid span is zero
+iv) torsion at mid span is maximum
+The correct answer is
+#a (i) and (iii)
+#b (i) and (iv)
+#c (ii) and (iii)
+#d (ii) and (iv)
+
+## 137 | p=38 | hw=b
+In prestressed concrete
+#a forces of tension and compression change but lever arm remains unchanged
+#b forces of tension and compressions remain unchanged but lever arm changes with the moment
+#c both forces of tension and compression as well as lever arm change
+#d both forces of tension and compression as well as lever arm remain unchanged
+
+## 138 | p=38-39 | hw=c
+The purpose of reinforcement in prestressed concrete is
+#a to provide adequate bond stress
+#b to resist tensile stresses
+#c to impart initial compressive stress in concrete
+#d all of the above
+
+## 139 | p=39 | hw=b
+Normally prestressing wires are arranged in the
+#a upper part of the beam
+#b lower part of the beam
+#c centre
+#d anywhere
+
+## 140 | p=39 | hw=a
+Most common method of prestressing used for factory production is
+#a Long line method
+#b Freyssinet system
+#c Magnel-Blaton system
+#d Lee-Macall system
+
+## 141 | p=39 | hw=d
+Select the incorrect statement
+#a The loss of prestress is more in pre-tensioning system than in post-tensioning system.
+#b Pretensioning system has greater certainty about its durability.
+#c For heavy loads and large spans in buildings or bridges, post-tensioning system is cheaper than pretensioning system
+#d none of the above
+
+## 142 | p=39 | hw=a
+Which of the following losses of prestress occurs only in pretensioning and not in post-tensioning ?
+#a elastic shortening of concrete
+#b shrinkage of concrete
+#c creep of concrete
+#d loss due to friction
+
+## 143 | p=39 | hw=a
+Prestress loss due to friction occurs
+#a only in post-tensioned beams
+#b only in pretensioned beams
+#c in both post-tensioned and pretensioned beams
+#d none of the above
+
+## 144 | p=39 | hw=a
+The coefficient of shrinkage for high grade concrete for pretensioned work is
+#a 3 × 10⁻⁴
+#b 3 × 10⁻²
+#c 3×10⁻²/log₁₀(T+2)
+#d 3×10⁻⁴/log₁₀(T+2)
+#note where T is the age of concrete in days at prestressing
+
+## 145 | p=39 | hw=b | fix=Right ends of some lines are lost in the binding on scan p39; read across the overlapping scans p39 and p40.
+Which of the following has high tensile strength ?
+#a plain hot rolled wires
+#b cold drawn wires
+#c heat treated rolled wires
+#d all have same tensile strength
+
+## 146 | p=39 | hw=b | fix=Right ends of some lines are lost in the binding on scan p39; read across the overlapping scans p39 and p40.
+High carbon content in the steel causes
+#a decrease in tensile strength but increase in ductility
+#b increase in tensile strength but decrease in ductility
+#c decrease in both tensile strength and ductility
+#d increase in both tensile strength and ductility
+
+## 147 | p=39 | hw=c | fix=Right ends of some lines are lost in the binding on scan p39; read across the overlapping scans p39 and p40.
+Stress strain curve of high tensile steel
+#a has a definite yield point
+#b does not show definite yield point but yield point is defined by 0.1% proof stress
+#c does not show definite yield point but yield point is defined by 0.2% proof stress
+#d does not show definite yield point but yield point is defined by 2% proof stress
+
+## 148 | p=39 | hw=a | fix=Right ends of some lines are lost in the binding on scan p39; read across the overlapping scans p39 and p40.
+Select the correct statement
+#a Elastic modulus of high tensile steel is nearly the same as that of mild steel.
+#b Elastic modulus of high tensile steel is more than that of mild steel.
+#c Carbon percentage in high carbon steel is less than that in mild steel.
+#d High tensile steel is cheaper than mild steel.
+
+## 149 | p=39 | hw=b | fix=Right ends of some lines are lost in the binding on scan p39; read across the overlapping scans p39 and p40.
+Cube strength of controlled concrete to be used for pretensioned and post-tensioned work respectively should not be less than
+#a 35 MPa and 42 MPa
+#b 42 MPa and 35 MPa
+#c 42 MPa and 53 MPa
+#d 53 MPa and 42 MPa
+
+## 150 | p=40 | hw=b
+Ultimate strength of cold drawn high steel wires
+#a increases with increase in diameter of bar
+#b decreases with increase in diameter of bar
+#c does not depend on diameter of bar
+#d none of the above
+
+## 151 | p=40 | hw=a
+Prestressing losses in post-tensioned and pre-tensioned beams are respectively
+#a 15% and 20%
+#b 20% and 15%
+#c 15% and 15%
+#d 20% and 20%
+
+## 152 | p=40 | hw=c
+In concrete, use of angular crushed aggregate in place of natural rounded gravel affects
+#a direct tensile strength
+#b split tensile strength
+#c flexural tensile strength
+#d compressive strength
+
+## 153 | star | p=40 | hw=a
+Ratio of compressive strength to tensile strength of concrete
+#a increases with age
+#b decreases with age
+#c remains constant
+#d none of the above
+
+## 154 | p=40 | hw=c
+According to Indian Standards, the grading of fine aggregates is divided into
+#a two zones
+#b three zones
+#c four zones
+#d five zones
+
+## 155 | p=40 | hw=a
+Assertion A : Lightweight concrete exhibits higher shrinkage than normal weight concrete.
+Reason R : Modulus of elasticity of light-weight concrete is lower. than that of normal weight concrete.
+Select your answer according to the coding system given below :
+#a Both A and R are true and R is the correct explanation of A
+#b Both A.and R are true but R is not the correct explanation of A
+#c A is true but R is false
+#d A is false but R is true
+
+## 156 | p=40 | hw=b
+Endurance limit of mild steel is approximately equal to
+#a 0.3
+#b 0.5
+#c 0.7
+#d 0.8
+#note Endurance limit is defined as the maximum value of the ratio of maximum stress to short time static strength, below which no failure occurs.
+
+## 157 | p=40 | hw=a
+With the increase in rate of loading during testing, compressive strength of concrete
+#a increases
+#b decreases
+#c remains same
+#d none of the above
+
+## 158 | p=40 | hw=a
+For a given aggregate content, increasing the water-cement ratio in concrete
+#a increases shrinkage
+#b decreases shrinkage
+#c does not change shrinkage
+#d none of the above
+
+## 159 | star | p=40 | hw=a
+Assertion A : The net loss of strength due to air entrainment of a richer mix is higher than that of a leaner mix.
+Reason R : Effect of air entrainment on improving workability is smaller in richer mix than in a leaner mix. Select your answer based on the coding system given below
+#a Both A and R are true and R is the correct explanation of A
+#b Both A and R are true but R is not the correct explanation of A
+#c A is true but R is false
+#d A is false but R is true
+
+## 160 | p=40 | hw=d
+The bond strength between steel reinforcement and concrete is affected by
+i) steel properties
+ii) concrete properties
+iii) shrinkage of concrete
+The correct answer is
+#a (i) and (ii)
+#b (ii) and (iii)
+#c (i) and (iii)
+#d (i), (ii) and (iii)
+
+## 161 | p=41 | hw=c
+The bond strength between steel and concrete is due to
+#a friction
+#b adhesion
+#c both friction and adhesion
+#d none of the above
+
+## 162 | p=41 | hw=c
+Impact strength of concrete increases by using
+i) smaller maximum size of aggregate
+ii) aggregate with high modulus of elasticity
+iii) aggregate with low poisson's ratio
+The correct answer is
+#a (i) and (ii)
+#b (ii) and (iii)
+#c (i) and (iii)
+#d (i), (ii) and (iii)
+
+## 163 | p=41 | hw=d
+Impact strength of concrete is greater for
+i) water stored concrete than for dry concrete
+ii) angular crushed aggregates
+iii) rounded aggregates
+The correct answer is
+#a (i) and (ii)
+#b (i) and (iii)
+#c only (i)
+#d only (ii)
+
+## 164 | p=41 | hw=a
+If the contributions of tricalcium silicate, dicalcium silicate, tricalcium aluminate and tetra calcium alumino ferrite to the 28 days strength of hydrated ordinary Portland cement are respectively W, X, Y and Z, then
+#a W > X > Y > Z
+#b X > W > Y > Z
+#c W > X > Z > Y
+#d W > Y > X > Z
+
+## 165 | p=41 | hw=c
+The initial and final setting times for ordinary portland cement are approximately related as
+#a T = 530 + t
+#b T = 270 + t
+#c T = 90 + 1.2t
+#d T = 600 − 1.2t
+#note where T and t are respectively final and initial setting times in minutes.
+
+## 166 | star | p=41 | hw=b | fix=Right ends of some lines are lost in the binding on scan p41; read across the overlapping scans p41 and p42.
+Assertion A : The presence of tricalcium aluminate in cement is undesirable.
+Reason R : Tricalcium aluminate in cement contributes very little to strength of cement.
+Select your answer based on the coding system given below
+#a Both A and R are true and R is the correct explanation of A
+#b Both A and R are true but R is not the correct explanation of A
+#c A is true but R is false
+#d A is false but R is true
+
+## 167 | p=41 | hw=c | fix=Right ends of some lines are lost in the binding on scan p41; read across the overlapping scans p41 and p42.
+Amount of gypsum required to be added to the clinker depends on the following contents of cement
+i) tricalcium silicate
+ii) dicalcium silicate
+iii) tricalcium aluminate
+iv) alkali
+The correct answer is
+#a (i) and (ii)
+#b (ii) and (iii)
+#c (iii) and (iv)
+#d (i) and (iv)
+
+## 168 | p=41 | hw=b | fix=Right ends of some lines are lost in the binding on scan p41; read across the overlapping scans p41 and p42.
+The diameter of needle used in Vicat apparatus for the determination of initial setting time is prescribed as
+#a 0.5 mm
+#b 1 mm
+#c 5 mm
+#d 10mm
+
+## 169 | p=41 | hw=a | fix=Right ends of some lines are lost in the binding on scan p41; read across the overlapping scans p41 and p42.
+The heat of hydration of cement can be reduced by
+#a reducing the proportions of C₃A and C₃S
+#b increasing the proportions of C₃A and C₃S
+#c increasing the fineness of cement
+#d both (a) and (c)
+#note where C₃A and C₃S are tricalcium aluminate and tricalcium silicate respectively.
+
+## 170 | star | p=41 | hw=a | fix=Right ends of some lines are lost in the binding on scan p41; read across the overlapping scans p41 and p42.
+Increase in the fineness of cement results in
+#a increase in the rate of heat of hydration without changing the total amount of heat liberated
+#b decrease in the rate of heat of hydration without changing the total amount of heat liberated
+#c increase in the rate of heat of hydration with an increase in the total amount of heat liberated
+#d decrease in the rate of heat of hydration with a reduced amount of total heat liberated
+
+## 171 | p=42 | hw=c | fix=Question number partly lost in the binding on scan p42; read from sequence.
+Assertion A : Rapid hardening cement is generally not used in mass concrete construction.
+Reason R : The rate of heat development is low in rapid hardening cement.
+Select your answer based on the coding system given below
+#a Both A and R are true and R is the correct explanation of A.
+#b Both A and R are true but R is not the correct explanation of A.
+#c A is true but R is false.
+#d A is false but R is true.
+
+## 172 | p=42 | hw=b | fix=Question number partly lost in the binding on scan p42; read from sequence.
+If the angularity number of an aggregate is increased, then the workability of the concrete using this aggregate will
+#a increase
+#b decrease
+#c not change
+#d none of the above
+
+## 173 | p=42 | hw=c | fix=Question number partly lost in the binding on scan p42; read from sequence.
+If W₁, W₂, W₃ and W₄ are the weights of sand in oven dry, air dry, saturated but surface dry and moist conditions respectively, then the moisture content of sand is
+#a W₃ − W₁
+#b W₄ − W₂
+#c W₄ − W₃
+#d W₃ − W₂
+
+## 174 | p=42 | hw=a | fix=Question number partly lost in the binding on scan p42; read from sequence.
+The ordinate of grading curve of an aggregate represents
+#a cumulative percentage passing each sieve plotted on normal scale
+#b cumulative percentage passing each sieve plotted on logarithmic scale
+#c sieve size plotted on normal scale
+#d sieve size plotted on logarithmic scale
+
+## 175 | p=42 | hw=b | fix=Question number partly lost in the binding on scan p42; read from sequence.
+Increase in fineness modulus of aggregate indicates
+#a finer grading
+#b coarser grading
+#c gap grading
+#d none of the above
+
+## 176 | p=42 | hw=d | fix=Question number partly lost in the binding on scan p42; read from sequence.
+Weight of an oven dry sand and air dry sand are 500 gm and 520 gm respectively. If the weight of the same sand under saturated but surface dry condition is 525 gms, then the water absorption of sand is
+#a 1%
+#b 4%
+#c 4.76%
+#d 5%
+
+## 177 | star | p=42 | hw=a
+Soundness test of cement by Le-Chatelier's apparatus gives unsoundness due to
+#a free lime only
+#b magnesia only
+#c both free lime and magnesia
+#d none of the above
+
+## 178 | p=42 | hw=b
+Maximum permissible limit of magnesia content in ordinary Portland cement is
+#a 4%
+#b 6%
+#c 8%
+#d 10%
+
+## 179 | p=42 | hw=d
+According to Indian Standards, the minimum 7 days compressive strengths of ordinary Portland cement and portland pozzolana cement in N/mm² are respectively
+#a 15.5 and 15.5
+#b 21.5 and 15.5
+#c 15.5 and 21.5
+#d 21.5 and 21.5
+
+## 180 | p=42 | hw=a
+According to Indian Standards, the pozzolana content in portland pozzolana cement is
+#a 10% to 25%
+#b 25% to 35%
+#c 35% to 50%
+#d more than 50%
+
+## 181 | p=42 | hw=c
+According to Indian Standards, the limit of loss on ignition for ordinary portland cement is.
+#a 3%
+#b 4%
+#c 5%
+#d 6%
+
+## 182 | p=42 | hw=a
+For a constant water-cement ratio, decrease in aggregate-cement ratio causes
+#a increase in workability
+#b decrease in workability
+#c no change in workability
+#d none of the above
+
+## 183 | star | p=42-43 | hw=d
+Assertion A : Workability of fresh concrete increases with time.
+Reason R : There is a loss of moisture in concrete with time.
+Select your answer based on the coding system given below
+#a Both A and R are true and R is the correct explanation of A.
+#b Both A and R are true but R is not the correct explanation of A.
+#c A is true but R is false.
+#d A is false but R is true.
+
+## 184 | star | p=43 | hw=b
+Workability of concrete increases by
+i) increasing the water content
+ii) increasing the temperature
+iii) increasing the use of flaky and elongated aggregates
+The correct answer is
+#a only (i)
+#b (i) and (ii)
+#c (i) and (iii)
+#d (i), (ii) and (iii)
+
+## 185 | p=43 | hw=b
+Which of the following workability tests is most suitable for concrete of very low workability ?
+i) slump test
+ii) compacting factor test
+iii) Vee-Bee test
+The correct answer is
+#a only (ii)
+#b only (iii)
+#c (i) and (ii)
+#d (i) and (iii)
+
+## 186 | p=43 | hw=b
+The value of Vee-Bee time for low workability as per Indian Standards is prescribed as
+#a 2 – 5 seconds
+#b 5 – 10 seconds
+#c 10 – 20 seconds
+#d 20 – 30 seconds
+
+## 187 | p=43 | hw=c
+If the compacting factor of a concrete is 0.90, then the workability according to Indian Standards is
+#a very low
+#b low
+#c medium
+#d high
+
+## 188 | p=43 | hw=d | fix=Right ends of some lines are lost in the binding on scan p43; read across the overlapping scans p43 and p44.
+Select the incorrect statement
+#a Higher temperature reduces workability
+#b Segregation can be reduced by use of air entrainment
+#c Bleeding is increased by use of air entrainment
+#d none of the above
+
+## 189 | star | p=43 | hw=a | fix=Right ends of some lines are lost in the binding on scan p43; read across the overlapping scans p43 and p44.
+According to Indian Standards, the increase in compressive strength of high alumina cement concrete at 6 months beyond 28 days compressive strength, is
+#a zero
+#b 10%
+#c 15%
+#d 20%
+
+## 190 | p=43 | hw=c | fix=Right ends of some lines are lost in the binding on scan p43; read across the overlapping scans p43 and p44.
+For a satisfactory workable concrete with a constant water-cement ratio, increase in aggregate cement ratio
+#a does not change strength of concrete
+#b decreases the strength of concrete
+#c increases the strength of concrete
+#d none of the above
+
+## 191 | p=43 | hw=b | fix=Right ends of some lines are lost in the binding on scan p43; read across the overlapping scans p43 and p44.
+Minimum water-cement ratio required for full hydration of cement is
+#a 0.23
+#b 0.36
+#c 0.45
+#d 0.60
+
+## 192 | p=43 | hw=d | fix=Right ends of some lines are lost in the binding on scan p43; read across the overlapping scans p43 and p44.
+The presence of entrained air in concrete results in
+i) reducing bleeding
+ii) lowering density of concrete
+iii) decreasing strength at all ages
+The correct answer is
+#a (i) and (ii)
+#b (ii) and (iii)
+#c (i) and (iii)
+#d (i), (ii) and (iii)
+
+## 193 | p=43 | hw=b | fix=Right ends of some lines are lost in the binding on scan p43; read across the overlapping scans p43 and p44.
+The Indian Standards recommend the use of calcium chloride as accelerating admixture in
+#a plain concrete works only
+#b plain and reinforced concrete works only
+#c plain and prestressed concrete works only
+#d plain, reinforced and prestressed concrete work
+
+## 194 | p=43-44 | hw=c
+Calcium chloride as acccelearating admixture is not recommended for use with
+i) ordinary portland cement
+ii) rapid hardening cement
+iii) high alumina cement
+The correct answer is
+#a only (i)
+#b (i) and (ii)
+#c only (iii)
+#d (ii) and (iii)
+
+## 195 | p=44 | hw=b | fix=Question number partly lost in the binding on scan p44; read from sequence.
+Reduction in the quantity of mixing water which is possible by the use of plasticizers and admixtures varies from
+#a 1%to5%
+#b 5% to 15%
+#c 15% to 25%
+#d 25% to 35%
+
+## 196 | p=44 | hw=a | fix=Question number partly lost in the binding on scan p44; read from sequence.
+Assertion A : Retarders are useful when concreting is done in hot weather.
+Reason R : In hot weather normal setting time of concrete is reduced due to higher temperature.
+Select your answer based on the coding system given below
+#a Both A and R are true and R is the correct explanation of A.
+#b Both A and R are true but R is not the correct explanation of A.
+#c A is true but R is false.
+#d A is false but R is true.
+
+## 197 | p=44 | hw=b | fix=Question number partly lost in the binding on scan p44; read from sequence.
+Addition of sugar in concrete (about 0.05% of weight of cement) results in
+#a increasing the setting time by about 1 hour
+#b increasing the setting time by about 4 hours
+#c decreasing the setting time by about 1 hour
+#d decreasing the setting time by about 4 hours
+
+## 198 | p=44 | hw=a | fix=Question number partly lost in the binding on scan p44; read from sequence.
+In concrete mix design, allowance for bulking of sand is necessary in case of
+#a volume batching only
+#b weight batching only
+#c both (a) and (b)
+#d none of the above
+
+## 199 | p=44 | hw=c | fix=Question number partly lost in the binding on scan p44; read from sequence.
+In concrete mix degsign, allowance for surface water carried by aggregate is necessary in case of
+#a volume batching only
+#b weight batching only
+#c both (a) and (b)
+#d none of the above
+
+## 200 | p=44 | hw=b
+Which of the following types of concrete mixers is most commonly used in precast concrete factories ?
+#a truck mounted mixer
+#b pan type mixer
+#c dual drum mixer
+#d tilting drum mixer
+
+## 201 | p=44 | hw=c
+Steam curing is not recommended for use with
+#a ordinary Portland cement
+#b rapid hardening cement
+#c high alumina cement
+#d none of the above
+
+## 202 | p=44 | hw=b
+According to IS : 456–1978, minimum period stipulated for moist curing of concrete using ordinary portland cement is
+#a 3 days
+#b 7 days
+#c 14 days
+#d 28 days
+
+## 203 | p=44 | hw=c
+Curing period required is minimum for the concrete using
+#a ordinary portland cement
+#b portland slag cement
+#c rapid hardening cement
+#d low heat portland cement
+
+## 204 | p=44 | hw=c
+For reinforced concrete exposed to sulphate attack minimum grade required is
+#a M 10
+#b M 15
+#c M 20
+#d M 25
+
+## 205 | p=44 | hw=c
+According to IS : 456–1978, the total sulphate content as percentage of mass of cement in concrete mix should be limited to
+#a 2
+#b 3
+#c 4
+#d 5
