@@ -11,6 +11,8 @@ Transcript format (see header of data/Civil/1-92.txt):
   #a option text (continuation lines allowed)
   #b ... #c ... #d ...
   #note text printed after the options
+A transcript whose header contains "# @workbook NAME" is built into its own
+workbook output/<Subject>/NAME.xlsx instead of the subject's main workbook.
 Optional answer keys (Appendix A) in data/<Subject>/answers.txt:   "CH QNO LETTER" per line
 Optional explanations (Appendix B) in data/<Subject>/explanations.txt:
   "## CH QNO" followed by explanation lines.
@@ -229,16 +231,34 @@ def write_sheet(ws, rows, figs):
     ws.auto_filter.ref = ws.dimensions
 
 
+def workbook_of(path):
+    for line in open(path, encoding="utf-8"):
+        if not line.startswith("#"):
+            break
+        m = re.match(r"#\s*@workbook\s+(\S+)", line)
+        if m:
+            return m.group(1)
+    return None
+
+
 def build(subj):
     sdir = os.path.join(ROOT, "data", subj)
-    chapters, qs = {}, []
+    groups = {}
     for f in sorted(glob.glob(os.path.join(sdir, "*.txt")), key=lambda f: (int(re.match(r"\d+", os.path.basename(f)).group()) if re.match(r"\d+", os.path.basename(f)) else 0)):
         if os.path.basename(f) in ("answers.txt", "explanations.txt"):
             continue
+        groups.setdefault(workbook_of(f) or f"{subj}_QuestionBank", []).append(f)
+    keys, expl = load_keys(sdir)
+    for name, files in groups.items():
+        build_workbook(subj, name, files, keys, expl)
+
+
+def build_workbook(subj, name, files, keys, expl):
+    chapters, qs = {}, []
+    for f in files:
         c, q = parse(f)
         chapters.update(c)
         qs += q
-    keys, expl = load_keys(sdir)
     issues = validate(chapters, qs, keys, expl)
     outdir = os.path.join(ROOT, "output", subj)
     figdir = os.path.join(outdir, "figures")
@@ -256,16 +276,16 @@ def build(subj):
         lst = [q for q in qs if q["ch"] == ch]
         rows = [row(subj, chapters, q) for q in lst]
         figs = [crop_figure(q, figdir) if q.get("fig") else None for q in lst]
-        name = f"{ch:02d} {chapters[ch]}"[:31]
-        write_sheet(wb.create_sheet(name), rows, figs)
+        sname = f"{ch:02d} {chapters[ch]}"[:31]
+        write_sheet(wb.create_sheet(sname), rows, figs)
         allrows += rows
         allfigs += figs
         idx.append([ch, chapters[ch], len(lst), sum(q["star"] for q in lst), sum(bool(q["key"]) for q in lst),
-                    sum(bool(q.get("hw")) for q in lst), sum(q["conf"] == "CHECK" for q in lst), name])
+                    sum(bool(q.get("hw")) for q in lst), sum(q["conf"] == "CHECK" for q in lst), sname])
     write_sheet(wb.create_sheet("All"), allrows, allfigs)
     for j, w in enumerate([11, 40, 11, 9, 9, 18, 15, 30], 1):
         idx.column_dimensions[get_column_letter(j)].width = w
-    out = os.path.join(outdir, f"{subj}_QuestionBank.xlsx")
+    out = os.path.join(outdir, f"{name}.xlsx")
     wb.save(out)
 
     print(f"{subj}: {len(qs)} questions, {len(chapters)} chapters -> {os.path.relpath(out, ROOT)}")

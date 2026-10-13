@@ -1,0 +1,1776 @@
+# Transcript of Civil/393-459.pdf (format: see header of data/Civil/1-92.txt)
+# @workbook Civil_QuestionBank_393-459
+# NOTE: p= is the scan page. Each scan shows about one book page plus part of its neighbour, so a question can be read
+# on two consecutive scans; p= gives the scan(s) where it was read. Scan p1 starts at book p392 (start of ch.13).
+
+@chapter 13 Design of Steel Structures
+
+## 1 | p=1 | hw=c
+The heaviest I-section for same depth is
+#a ISMB
+#b ISLB
+#c ISHB
+#d ISWB
+
+## 2 | p=1 | hw=b
+In case of single angles in tension connected by one leg only, the net effective area as per IS : 800 is
+#a gross area-area of holes
+#b a + b/(1 + 0.33(b/a))
+#c a + b/(1 + 0.2(b/a))
+#d a + b/(1 + 0.35(a/b))
+#note where a is net sectional area of connected leg and b is area of the outstanding leg
+
+## 3 | p=1 | hw=c
+As per IS : 800, the maximum deflection in a beam should not exceed
+#a L/180
+#b L/250
+#c L/325
+#d L/360
+#note where L is span of beam
+
+## 4 | p=1 | hw=b
+Bending compressive and tensile stresses respectively are calculated based on
+#a net area and gross area
+#b gross area and net area
+#c net area in both cases
+#d gross area in both cases
+
+## 5 | p=1 | hw=b
+If the thickness of thinnest outside plate is 10 mm, then the maximum pitch of rivets in tension will be taken as
+#a 120 mm
+#b 160 mm
+#c 200 mm
+#d 300 mm
+
+## 6 | p=1 | hw=b
+As per IS : 800, the thickness of slab base is given by
+#a (3W/F_b)(A² − B²/4)
+#b √[(3W/F_b)(A² − B²/4)]
+#c √[(3W/F_b)(A² − B²/2)]
+#d √[(W/3F_b)(A² − B²/4)]
+#note where A and B are larger and smaller projections respectively of plate beyond column, W is the pressure on the underside of base and F_b is permissible bending stress in slab bases.
+
+## 7 | p=2 | hw=c
+In a gusseted base, when the end of the column is machined for complete bearing on the base plate, then the axial load is assumed to be transferred to base plate
+#a fully by direct bearing
+#b fully through fastenings
+#c 50% by direct bearing and 50% through fastenings
+#d 75% by direct bearing and 25% through fastenings
+
+## 8 | p=2 | hw=a
+When the axis of load lies in the plane of rivet group, then the rivets are subjected to
+#a only shear stresses
+#b only tensile stresses
+#c both (a) and (b)
+#d none of the above
+
+## 9 | p=2 | hw=d
+When the axis of load lies in the plane of rivet group, then the most heavily loaded rivet will be the one which
+#a is at the maximum distance from CG of the rivet group
+#b is at the minimum distance from CG of the rivet group
+#c gives the maximum angle between the two forces F_a and F_m
+#d gives the minimum angle between the two forces F_a and F_m
+#note where, F_a is the load shared by each rivet due to axial load and F_m is the shearing load due to moment in any rivet.
+
+## 10 | p=2 | hw=c
+Which of the following types of riveted joint is free from bending stresses ?
+#a lap joint
+#b butt joint with single cover plate
+#c butt joint with double cover plates
+#d none of the above
+
+## 11 | p=2 | hw=b
+The difference between gross diameter and nominal diameter for the rivets up to 25 mm diameter is
+#a 1.0 mm
+#b 1.5 mm
+#c 2.0 mm
+#d 2.5 mm
+
+## 12 | p=2 | hw=a
+As compared to field rivets, the shop rivets are
+#a stronger
+#b weaker
+#c equally strong
+#d any of the above
+
+## 13 | p=2 | hw=c
+If the thickness of plate to be connected by a rivet is 16 mm, then suitable size of rivet as per Unwin's formula will be
+#a 16 mm
+#b 20 mm
+#c 24 mm
+#d 27 mm
+
+## 14 | p=2 | hw=c
+By providing sufficient edge distance, which of the following failures of riveted joint can be avoided ?
+#a tension failure of the plate
+#b shear failure of the rivet
+#c shear failure of the plate
+#d crushing failure of the rivet
+
+## 15 | p=2 | hw=c
+Minimum pitch of the rivets shall not be less than
+#a 1.5 d
+#b 2.0 d
+#c 2.5 d
+#d 3.0 d
+#note where d is gross diameter of rivet
+
+## 16 | p=2 | hw=c
+Efficiency of a riveted joint, having the minimum pitch as per IS : 800, is
+#a 40%
+#b 50%
+#c 60%
+#d 70%
+
+## 17 | p=2 | hw=c
+Select the correct statement
+#a Material cost of a rivet is higher than that of a bolt.
+#b Tensile strength of a bolt is lesser than that of a rivet.
+#c Bolts are used as a temporary fastenings whereas rivets are used as permanent fastenings.
+#d Riveting is less noisy than bolting.
+
+## 18 | p=2 | hw=c
+Bolts are most suitable to carry
+#a shear
+#b bending
+#c axial tension
+#d shear and bending
+
+## 19 | p=2-3 | hw=b
+Diameter of a bolt hole is usually taken as
+#a gross diameter of bolt
+#b nominal diameter + 1.5 mm
+#c nominal diameter + 2.0 mm
+#d nominal diameter of bolt
+
+## 20 | p=3 | hw=d
+When the bolts are subjected to reversal of stresses, the most suitable type of bolt is
+#a black bolt
+#b ordinary unfinished bolt
+#c turned and fitted bolt
+#d high strength bolt
+
+## 21 | p=3 | hw=a
+In the cross-section of a weld, throat is the
+#a minimum dimension
+#b average dimension
+#c maximum dimension
+#d none of the above
+
+## 22 | p=3 | hw=b
+The effective length of a fillet weld should not be less than
+#a two times the weld size
+#b four times the weld size
+#c six times the weld size
+#d weld size
+
+## 23 | p=3 | hw=c
+For a standard 45° fillet, the ratio of size of fillet to throat thickness is
+#a 1 : 1
+#b 1 : √2
+#c √2 : 1
+#d 2 : 1
+
+## 24 | p=3 | hw=a
+A butt weld is specified by
+#a effective throat thickness
+#b plate thickness
+#c size of weld
+#d penetration thickness
+
+## 25 | p=3 | hw=a
+The actual thickness of butt weld as compared to the thickness of plate is usually
+#a more
+#b less
+#c equal
+#d none of the above
+
+## 26 | p=3 | hw=b
+As per IS : 800, the rivets subjected to combined tensile and shear stresses are proportioned such that
+#a (f_s/p_s)^(1/2) + (f_t/p_t)^(1/2) ≤ 1.4
+#b (f_s/p_s) + (f_t/p_t) ≤ 1.4
+#c (f_s/p_s)² + (f_t/p_t)² ≤ 1.4
+#d (f_s/p_s)² + (f_t/p_t)² ≥ 1.4
+#note where f_s and f_t are respectively actual shear and tensile stresses in a rivet and p_s and p_t are respectively permissible shear and tensile stresses in the rivt.
+
+## 27 | p=3 | hw=a
+According to IS Specifications, the maximum pitch of rivets in compression is
+#a lesser of 200 mm and 12 t
+#b lesser of 200 mm and 16 t
+#c lesser of 300 mm and 32 t
+#d lesser of 300 mm and 24 t
+#note where t is thickness of thinnest outside plate or angle
+
+## 28 | p=3 | hw=c
+A circular column section is generally not used in actual practice because
+#a it is uneconomical
+#b it cannot carry the load safely
+#c it is difficult to connect beams to the round sections
+#d all of the above
+
+## 29 | p=3 | hw=a
+The slenderness ratio of a column supported throughout its length by a masonry wall is
+#a zero
+#b 10
+#c 100
+#d infinity
+
+## 30 | p=3 | hw=b
+According to IS Specifications, the effective length of a column effectively held in position at both ends and restrained in direction at one end is taken as
+#a 0.67 L
+#b 0.8 L
+#c L
+#d 1.5 L
+
+## 31 | star | p=3 | hw=c
+The effective length of a battened strut effectively held in position at both ends but not restrained in direction is taken as
+#a 1.8 L
+#b L
+#c 1.1 L
+#d 1.5 L
+
+## 32 | p=3-4 | hw=a
+The maximum slenderness ratio of a compression member carrying both dead and superimposed load is
+#a 180
+#b 200
+#c 250
+#d 350
+
+## 33 | p=4 | hw=c
+The maximum slenderness ratio of a steel column, the design of which is governed by wind or seismic forces is
+#a 150
+#b 180
+#c 250
+#d 350
+
+## 34 | p=4 | hw=b
+According to IS:800, in the Merchant-Rankine formula the value of imperfection index (n) is
+#a 1.0
+#b 1.4
+#c 1.8
+#d 2.0
+
+## 35 | p=4 | hw=a
+The best arrangement to provide unified behaviour in built up steel columns is by
+#a lacing
+#b battening
+#c tie plates
+#d perforated cover plates
+
+## 36 | p=4 | hw=b
+If the 20 mm rivets are used in lacing bars, then the minimum width of lacing bar should be
+#a 40mm
+#b 60mm
+#c 80mm
+#d 100mm
+
+## 37 | p=4 | hw=c
+The use of tie plates in laced columns is
+#a prohibited
+#b not prohibited
+#c permitted at start and end of lacing system only
+#d permitted between two parts of the lacing
+
+## 38 | p=4 | hw=b
+Lacing bars in a steel column should be designed to resist
+#a bending moment due to 2.5% of the column load
+#b shear force due to 2.5% of the column load
+#c 2.5% of the column load
+#d both (a) and (b)
+
+## 39 | p=4 | hw=c
+Angle of inclination of the lacing bar with the longitudinal axis of the column should preferably be between
+#a 10° to 30°
+#b 30° to 40°
+#c 40° to 70°
+#d 90°
+
+## 40 | p=4 | hw=c
+Battening is preferable when the
+i) column carries axial load only
+ii) space between the two main components is not very large
+iii) column is eccentrically loaded
+The correct answer is
+#a only (i)
+#b only (iii)
+#c (i) and (ii)
+#d (ii) and (iii)
+
+## 41 | p=4 | hw=b
+The effective length of a battened column is increased by
+#a 5%
+#b 10%
+#c 15%
+#d 20%
+
+## 42 | p=4 | hw=b
+The overlap of batten plates with the main members in welded connections should be more than
+#a 3 t
+#b 4 t
+#c 6 t
+#d 8 t
+#note where t = thickness of the batten plate
+
+## 43 | p=4 | hw=c
+The slenderness ratio of lacing bars should not exceed
+#a 100
+#b 120
+#c 145
+#d 180
+
+## 44 | p=4 | hw=a
+Economical depth of a plate girder corresponds to
+#a minimum weight
+#b minimum depth
+#c maximum weight
+#d minimum thickness of web
+
+## 45 | p=5 | hw=b
+Economical depth of a plate girder is given by
+#a √(M/σt_w)
+#b 1.1√(M/σt_w)
+#c 1.2√(M/σt_w)
+#d 1.3√(M/σt_w)
+#note where M is maximum moment in the plate girder, σ is allowable bending stress and t_w is thickness of web
+
+## 46 | p=5 | hw=a
+Shear buckling of web in a plate girder is prevented by using
+#a vertical intermediate stiffener
+#b horizontal stiffener at neutral axis
+#c bearing stiffener
+#d none of the above
+
+## 47 | p=5 | hw=b
+Horizontal stiffener in a plate girder is provided to safeguard against
+#a shear buckling of web plate
+#b compression buckling of web plate
+#c yielding
+#d all of the above
+
+## 48 | p=5 | hw=b
+Minimum thickness of web in a plate girder, when the plate is accessible and also exposed to weather, is
+#a 5 mm
+#b 6 mm
+#c 8 mm
+#d 10mm
+
+## 49 | p=5 | hw=c
+The web crippling due to excessive bearing stress can be avoided by
+#a increasing the web thickness
+#b providing suitable stiffeners
+#c increasing the length of the bearing plates
+#d none of the above
+
+## 50 | star | p=5 | hw=b
+As per IS : 800, for compression flange, the outstand of flange plates should not exceed
+#a 12 t
+#b 16 t
+#c 20 t
+#d 25 t
+#note where t = thickness of thinnest flange plate
+
+## 51 | p=5 | hw=b
+Intermediate vertical stiffeners in a plate girder need be provided if the depth of web exceeds
+#a 50 t
+#b 85 t
+#c 200t
+#d 250 t
+#note where t is thickness of web
+
+## 52 | p=5 | hw=b
+Bearing stiffener in a plate girder is used to
+#a transfer the load from the top flange to the bottom one
+#b prevent buckling of web
+#c decrease the effective depth of web
+#d prevent excessive deflection
+
+## 53 | p=5 | hw=c
+The forces acting on the web splice of a plate girder are
+#a axial forces
+#b shear and axial forces
+#c shear and bending forces
+#d axial and bending forces
+
+## 54 | p=5 | hw=c
+Gantry girders are designed to resist
+#a lateral loads
+#b longitudinal loads and vertical loads
+#c lateral, longitudinal and vertical loads
+#d lateral and longitudinal loads
+
+## 55 | p=5 | hw=b
+Minimum spacing of vertical stiffeners is limited to
+#a d/4
+#b d/3
+#c d/2
+#d 2d/3
+#note where d is the distance between flange angles
+
+## 56 | p=5-6 | hw=c
+Bearing stiffeners are provided at
+i) the supports
+ii) the mid span
+iii) the point of application of concentrated loads
+The correct answer is
+#a only (i)
+#b both (i) and (ii)
+#c both (i) and (iii)
+#d (i), (ii) and (iii)
+
+## 57 | p=6 | hw=a
+Rivets connecting flange angles to cover plates in a plate girder are subjected to
+#a horizontal shear only
+#b vertical load only
+#c both (a) and (b)
+#d none of the above
+
+## 58 | p=6 | hw=c
+The maximum spacing of vertical stiffeners is
+#a 1.33d
+#b 1.25 d
+#c 1.5 d
+#d 1.75d
+#note where d is the distance between flange angles
+
+## 59 | p=6 | hw=a
+The range of economical spacing of trusses varies from
+#a L/3 to L/5
+#b L/4 to 2L/5
+#c L/3 to L/2
+#d 2L/5 to 3L/5
+#note where L is span
+
+## 60 | p=6 | hw=d
+The maximum permissible span of asbestos cement sheets is
+#a 650 mm
+#b 810 mm
+#c 1250 mm
+#d 1680 mm
+
+## 61 | p=6 | hw=b
+Normally, the angle of roof truss with asbestos sheets should not be less than
+#a 26 ½ °
+#b 30°
+#c 35°
+#d 40°
+
+## 62 | p=6 | hw=b
+To minimise the total cost of a roof truss, the ratio of the cost of truss to the cost of purlins shall be
+#a 1
+#b 2
+#c 3
+#d 4
+
+## 63 | p=6 | hw=d
+Generally the purlins are placed at the panel points so as to avoid
+#a axial force in rafter
+#b shear force in rafter
+#c deflection of rafter
+#d bending moment in rafter
+
+## 64 | p=6 | hw=b
+For the buildings having a low permeability, the internal wind pressure acting normal to the wall and roof surfaces is taken as
+#a zero
+#b ± 0.2 p
+#c ± 0.5 p
+#d ± 0.7 p
+#note where p is basic wind pressure
+
+## 65 | p=6 | hw=b
+The relation between intensity of wind pressure p and velocity of wind V is taken as
+#a p α V
+#b p α V²
+#c p α (1/V)
+#d p α V^(1/2)
+
+## 66 | star | p=6 | hw=a
+The live load for a sloping roof with slope 15°, where access is not provided to roof, is taken as
+#a 0.65 kN/m²
+#b 0.75 kN/m²
+#c 1.35 kN/m²
+#d 1.50 kN/m²
+
+## 67 | star | p=6 | hw=c
+The internal pressure coefficient on walls for buildings with large permeability is taken as
+#a ± 0.2
+#b ± 0.5
+#c ± 0.7
+#d 0
+
+## 68 | p=6 | hw=a
+The basic wind speed is specified at a height 'h' above mean ground level in an open terrain. The value of 'h' is
+#a 10 m
+#b 20 m
+#c 25 m
+#d 50 m
+
+## 69 | p=6 | hw=c
+The risk coefficient k₁ depends on
+#a mean probable design life of structures
+#b basic wind speed
+#c both (a ) and (b)
+#d none of the above
+
+## 70 | star | p=7 | hw=b
+The external wind pressure acting on a roof depends on
+#a degree of permeability of roof
+#b slope of roof
+#c both (a) and (b)
+#d none of the above
+
+## 71 | p=7 | hw=b
+Area of openings for buildings of large permeability is more than
+#a 10% of wall area
+#b 20% of wall area
+#c 30% of wall area
+#d 50% of wall area
+
+## 72 | p=7 | hw=c
+As per IS : 800, the maximum bending moment for design of purlins can be taken as
+#a WL/6
+#b WL/8
+#c WL/10
+#d WL/12
+#note where W is total distributed load including the wind load on the purlins and L is centre to centre distance of supports
+
+## 73 | p=7 | hw=c
+As per IS : 875, for the purposes of specifying basic wind velocity, the country has been divided into
+#a 4 zones
+#b 5 zones
+#c 6 zones
+#d 7 zones
+
+## 74 | p=7 | hw=b
+The number of seismic zones in which the country has been divided are
+#a 3
+#b 5
+#c 6
+#d 7
+
+## 75 | p=7 | hw=d
+Minimum pitch provided in riveted steel tanks is
+#a 1.5 d
+#b 2.0 d
+#c 2.5 d
+#d 3.0 d
+#note where d is diameter of rivets
+
+## 76 | p=7 | hw=b
+The allowable tensile stress in structural mild steel plates for steel tank is assumed as
+#a 95.0 MPa on net area
+#b 105.5 MPa on net area
+#c 105.5 MPa on gross area
+#d 150.0 MPa on gross area
+
+## 77 | star | p=7 | hw=c
+Steel tanks are mainly designed for
+#a weight of tank
+#b wind pressure
+#c water pressure
+#d earthquake forces
+
+## 78 | star | p=7 | hw=c
+Which of the following sections should preferably be used at places where torsion occurs ?
+#a angle section
+#b channel section
+#c box type section
+#d any of the above
+
+## 79 | star | p=7 | hw=c
+The capacity of the smallest pressed steel tank is
+#a 1000 litre
+#b 1650 litre
+#c 1950 litre
+#d 2450 litre
+
+## 80 | star | p=7 | hw=b
+The bracing between two columns of a steel tank will be designed to resist
+#a horizontal shear due to wind or earthquake only
+#b horizontal shear due to wind or earthquake + 2.5% of column loads
+#c column loads + 2.5% of horizontal shear due to wind or earthquake
+#d column loads + full horizontal shear due to wind or earthquake
+
+## 81 | p=7 | hw=c
+The minimum thickness of plates in a steel stack should be
+#a 4mm
+#b 5 mm
+#c 6 mm
+#d 8 mm
+
+## 82 | p=7-8 | hw=b
+Maximum pitch of rivets, used in steel stacks, is limited to
+#a 6 t
+#b 10 t
+#c 12 t
+#d 16 t
+#note where t is thickness of thinner plate being connected
+
+## 83 | p=8 | hw=c
+The diameter of base of conical flare of a steel stack is
+#a less than d
+#b equal to d
+#c more than d
+#d any of the above
+#note where d is the diameter of the cylindrical part
+
+## 84 | p=8 | hw=a
+Hudson's formula gives the dead weight of a truss bridge as a function of
+#a bottom chord area
+#b top chord area
+#c effective span of bridge
+#d heaviest axle load of engine
+
+## 85 | star | p=8 | hw=c
+If the loaded length of span in metres of a railway steel bridge carrying a single track is 6 m, then impact factor is taken as
+#a 0
+#b 0.5
+#c between 0.5 and 1.0
+#d 1.0
+
+## 86 | p=8 | hw=c
+If the floor is supported at or near the bottom but top chords of a bridge are not braced, then the bridge is called
+#a deck type
+#b through type
+#c half through type
+#d double deck type
+
+## 87 | p=8 | hw=c
+The centrifugal force due to curvature of track is assumed to act on the bridge at a height of
+#a 1.23 m above the rail level
+#b 1.50 m above the rail level
+#c 1.83 m above the rail level
+#d 2.13 m above the rail level
+
+## 88 | p=8 | hw=a
+The effect of racking forces is considered in the design of
+i) lateral braces
+ii) chord members
+The correct answer is
+#a only (i)
+#b only (ii)
+#c both (i) and (ii)
+#d none of the above
+
+## 89 | p=8 | hw=a
+When the secondary stresses are taken into account alongwith primary stresses. then the allowable stress is increased by
+#a 16⅔ %
+#b 25 %
+#c 33⅓ %
+#d 50 %
+
+## 90 | p=8 | hw=a
+The portal bracing in a truss bridge is used to
+#a transfer load from top of end posts to bearings
+#b keep the rectangular shape of the bridge cross-section
+#c stiffen the structure laterally
+#d prevent the sidesway buckling of top chord
+
+## 91 | p=8 | hw=d
+The sway bracing is designed to transfer
+#a 2½ % of the top panel wind load to bottom bracing
+#b 10% of the top panel wind load to bottom bracing
+#c 25% of the top panel wind load to bottom bracing
+#d 50% of the top panel wind load to bottom bracing
+
+## 92 | p=8 | hw=b
+Study the following statements.
+i) Top lateral bracing prevents the sidesway buckling of the chord.
+ii) Sway bracing keeps the rectangular shape of the bridge cross-section.
+iii) Sway bracing transfers the load from top of end posts to bearings.
+The correct answer is
+#a only (i)
+#b both (i) and (ii)
+#c both (i) aad (iii)
+#d all (i), (ii) and (iii)
+
+## 93 | star | p=8 | hw=b
+The bracing provided in the plane of end posts is called
+#a sway bracing
+#b portal bracing
+#c top lateral bracing
+#d bottom lateral bracing
+
+## 94 | p=9 | hw=b
+The portal bracing is designed for
+#a wind forces only
+#b wind force + 1¼ % of the compression force in two end posts
+#c wind force + 2½ % of the compression force in two end posts
+#d lateral shear + 2½ % of the compression force in two end posts
+
+## 95 | p=9 | hw=d
+The pin of a rocker bearing in a bridge is designed for
+#a bearing and shear
+#b bending and shear
+#c bearing and bending
+#d bearing, shear and bending
+
+## 96 | p=9 | hw=d
+A solid timber column is considered as long column when the slenderness ratio is
+#a less than 11
+#b 11
+#c between 11 and 0.702√(E/f_cp)
+#d between 0.702√(E/f_cp) and 50
+#note where f_cp is the permissible stress in compression parallel to grain and E is Young's modulus of elasticity
+
+## 97 | p=9 | hw=c
+The least dimension in case of a circular column of diameter D is taken as
+#a 0.5 D
+#b 0.68 D
+#c 0.88 D
+#d D
+
+## 98 | p=9 | hw=a
+In case of timber structures, the form factor for solid circular cross-section is taken as
+#a 1.18
+#b 1.414
+#c 1.67
+#d 1.81
+
+## 99 | p=9 | hw=a
+In case of timber structures, the simple bending formula M = fz may be applied for
+#a rectangular beams up to 300 mm depth
+#b all rectangular beams
+#c solid circular beams only
+#d all square cross-section beams
+
+## 100 | p=9 | hw=c
+The elastic strain for steel is about
+#a 1/12 of strain at the initiation of strain hardening and about 1/120 of maximum strain
+#b 1/2 of strain at the initiation of strain hardening and about 1/12 of maximum strain
+#c 1/12 of strain at the initiation of strain hardening and 1/200 of maximum strain
+#d 1/24 of strain at the initiation of strain hardening and about 1/200 of maximum strain
+
+## 101 | p=9 | hw=b
+The mechanism method and the statical method give
+#a lower and upper bounds respectively on the strength of structure
+#b upper and lower bounds respectively on the strength of structure
+#c lower bound on the strength of structure
+#d upper bound on the strength of structure
+
+## 102 | p=9 | hw=b
+For frames with large degree of static indeterminacies the mechanism method is
+#a not applicable
+#b simpler as compared to statical method
+#c complicated as compared to statical method
+#d none of the above
+
+## 103 | p=9-10 | hw=b | fig=10:0.005,0.545,0.15,0.665
+In the T-section shown in Fig. 13.1(all dimensions in mm), the distance of plastic neutral axis from top is
+#a 10 mm
+#b 15 mm
+#c 20 mm
+#d 30 mm
+
+## 104 | p=10 | hw=d
+The effect of axial force and shear force on the plastic moment capacity of a section are
+#a to decrease and to increase the plastic moment respectively
+#b to increase and to decrease the plastic moment respectively
+#c to increase the plastic moment capacity in both cases
+#d to decrease the plastic moment capacity in both cases
+
+## 105 | p=10 | hw=c
+If a structure is statically indeterminate to second degree, then the maximum number of plastic hinges required to render the structure a mechanism is
+#a 1
+#b 2
+#c 3
+#d infinite
+
+## 106 | p=10 | hw=d
+Which of the following sections will have large shape factor?
+#a rectangle
+#b I-section
+#c solid circular section
+#d diamond
+
+## 107 | p=10 | hw=c
+The shape factor for a solid circular section subjected to bending about its diameter is
+#a 1.12
+#b 1.5
+#c 1.7
+#d 2.00
+
+## 108 | p=10 | hw=b
+The plastic section modulus for a rectangular section of width b and depth d is
+#a bd²/3
+#b bd²/4
+#c bd²/6
+#d bd²/12
+
+## 109 | p=10 | hw=c
+Load factor is defined as
+#a ultimate load/yield load
+#b yield load/working load
+#c ultimate load/working load
+#d none of the above
+
+## 110 | p=10 | hw=c
+The moment–curvature relation at a plastic hinge is
+#a linear
+#b parabolic
+#c constant moment for all curvatures
+#d constant curvature for all moments
+
+## 111 | p=10 | hw=c
+Shape factor is a property which depends
+#a only on the ultimate stress of the material
+#b only on the yield stress of the material
+#c only on the geometry of the section
+#d both on the yield stress and ultimate stress of material
+
+## 112 | p=10 | hw=b
+The statical method of plastic analysis satisfies
+#a equilibrium and mechanism conditions
+#b equilibrium and plastic moment conditions
+#c mechanism and plastic moment conditions
+#d equilibrium condition only
+
+## 113 | p=10 | hw=a
+The mechanism method of plastic analysis satisfies
+#a equilibrium and mechanism conditions
+#b equilibrium and plastic moment conditions
+#c mechanism and plastic moment conditions
+#d equilibrium condition only
+
+## 114 | p=10-11 | hw=c
+Plastic section modulus for a circular section of diameter d is
+#a d³/3
+#b d³/4
+#c d³/6
+#d d³/8
+
+## 115 | p=11 | hw=c
+Load factor is
+#a always equal to factor of safety
+#b always less than factor of safety
+#c always greater than factor of safety
+#d sometimes greater than factor of safety
+
+## 116 | p=11 | hw=c
+The ratio of plastic section modulus to elastic section modulus
+#a is equal to 1
+#b is always less than 1
+#c is always greater than 1
+#d can be less than 1
+
+## 117 | star | p=11 | hw=b
+Other conditions being same, the load factor in indeterminate structures is
+#a equal to load factor in determinate structures
+#b more than the load factor in determinate structures
+#c less than the load factor in determinate structures
+#d unpredictable
+
+## 118 | p=11 | hw=a
+Which of the following conditions is to be satisfied both in elastic and plastic analysis ?
+#a equilibrium condition
+#b yield condition
+#c plastic moment condition
+#d mechanism condition
+
+## 119 | p=11 | hw=a
+In the virtual work method, the virtual quantity is
+#a displacement
+#b load
+#c slope
+#d moment
+
+## 120 | p=11 | hw=c | fig=11:0.23,0.628,0.38,0.728
+(Fig. 13.2)
+In a propped cantilever loaded as shown Fig. 13.2, the plastic hinge will form at
+#a B
+#b at L/2 from B
+#c at 0.414 L from B
+#d at 0.414 L from A
+
+## 121 | p=11 | hw=c | fig=11:0.59,0.153,0.765,0.282
+(Fig. 13.3)
+If a uniform beam shown in Fig. 13.3 has the plastic moment capacity M_p for span AB and 0.9 M_p for span BC, the correct virtual work equation is given by
+#a M_p.θ + M_p(θ + 2θ/3) = w.2θ
+#b M_p.θ + M_p.θ + 0.9M_p(2θ/3) = w.2θ
+#c M_p.θ + 0.9M_p(θ + 2θ/3) = w.2θ
+#d M_p.θ + 0.9M_p(θ + 2θ/3 + 2θ/3) = w.2θ
+
+## 122 | p=11 | hw=c
+At a fully plastic section, infinite rotation can occur at
+#a zero moment
+#b constant elastic moment
+#c constant plastic moment
+#d all of the above
+
+## 123 | p=11 | hw=b
+A simply supported beam of rectangular section and span L is subjected to a uniformly distributed load at the centre. The length of elastoplastic zone of the plastic hinge will be
+#a L/3
+#b L/√3
+#c L/2
+#d L/8
+
+## 124 | p=11-12 | hw=b
+The plastic design method is advantageous replacement over elastic design method for the structures stressed primarily in bending in case of
+(i) statically loaded structures
+(ii) dynamically loaded structures
+(iii) determinate structures
+(iv) indeterminate structures
+Of these statements
+#a (i) and (iii) are correct
+#b (i) and (iv) are correct
+#c (ii) and (iii) are correct
+#d (ii) and (iv) are correct
+
+## 125 | p=12 | hw=a
+As per IS:800, in the plastic design, which of the following pairs are correctly matched?
+Working Loads — Load factor
+(i) Dead load — 1.7
+(ii) Dead Load + imposed load — 1.7
+(iii) Dead load + load due to wind or seismic forces — 1.3
+(iv) Dead load + imposed load + load due to wind or seismic forces — 1.7
+Of these statements
+#a (i) and (ii) are correct
+#b (i),(ii) and (iii) are correct
+#c (ii) and (iii) are correct
+#d only (i) is correct
+
+## 126 | p=12 | hw=d
+The shape factor of an isosceles triangle for bending about the axis parallel to the base is:
+#a 1.5
+#b 1.7
+#c 2.0
+#d 2.34
+
+## 127 | p=12 | hw=a
+In case of plastic design, the calculated maximum shear capacity of a beam as per IS:800 shall be
+#a 0.55 A_w f_y
+#b 0.65 A_w f_y
+#c 0.75 A_w f_y
+#d 0.85 A_w f_y
+#note where, A_w = effective cross-sectional area resisting shear, f_y = yield stress of the steel
+
+## 128 | p=12 | hw=b | fix=The book numbers the four options 1-4 (no a-d); recorded here as a-d in the same order.
+The allowable stresses for the design of steel tanks are taken as:
+#a Given in IS:800
+#b 1.25 times the values given in IS:800
+#c 0.80 time the values given in IS:800
+#d 0.67 time the values given in IS:800
+
+## 129 | p=12 | hw=c
+The minimum thickness of a steel plate, which is directly exposed to weather and is not accessible for cleaning and repainting, should be:
+#a 4.5 mm
+#b 6 mm
+#c 8 mm
+#d 10 mm
+
+## 130 | p=12 | hw=c
+The moment of inertia of the pair of vertical stiffeners about the center line of the web should not be less than.
+#a 1.5 d³t²/C
+#b 1.5 d²t³/C
+#c 1.5 d³t³/C²
+#d 1.5 d²t⁴/C³
+#note where, 't' is the minimum required thickness of the web and 'C' is the maximum permitted clear distance between vertical stiffener for thickness 't'.
+
+## 131 | p=12 | hw=c
+The connection of intermediate vertical stiffeners to the web, not subjected to external loads, shall be designed for a minimum shear force (kN/m) of
+#a 75 t²/h
+#b 125 t³/h²
+#c 125 t²/h
+#d 175 t²/h
+#note where, t = the web thickness in mm, h = the outstand of stiffener in mm
+
+## 132 | p=12-13 | hw=b
+When vertical intermediate stiffeners are subjected to bending moments due to eccentricity of vertical loads, their moment of inertia (cm⁴) is increased by
+#a 125 MD²/Et
+#b 150 MD²/Et
+#c 175 MD²/Et
+#d 225 MD²/Et
+#note where M = the applied bending moment kN.m, D = Overall depth of girder in mm, E = Young's modulus in MPa, t = Thickness of web, mm
+
+## 133 | p=13 | hw=b
+For a compression member with double angle section, which of the following section will give larger value of minimum radius of gyration?
+#a equal angles back to back
+#b unqual legged angles with long legs back to back
+#c unequal legged angles with short legs back to back
+#d both (b) or (c)
+
+## 134 | p=13 | hw=a
+Lug angles
+#a are used to reduce the length of connection.
+#b are unequal angles.
+#c increases shear lag.
+#d all the above
+
+## 135 | star | p=13 | hw=b
+For rivets in tension with counter-sunk heads, the tensile value shall be
+#a reduced by 25 %
+#b reduced by 33.3%
+#c increased by 25 %
+#d increased by 33.3 %
+
+## 136 | tag=GATE 99 | p=13 | hw=c
+A steel beam supporting loads from the floor slab as well as from wall is termed as
+#a stringer beam
+#b lintel beam
+#c spandrel beam
+#d header beam
+
+## 137 | p=13 | hw=c
+Pitch of tacking rivets, when double angles connected back to back and acting as tension members should not be more than
+#a 500 mm
+#b 600 mm
+#c 1000 mm
+#d 300 mm
+
+## 138 | p=13 | hw=c
+In moment resistant connections, the moment resistance of riveted connection depends upon
+#a shear in rivets
+#b compression in rivets
+#c tension in rivets
+#d strength of rivets in bearing
+
+## 139 | p=13 | hw=b
+The allowable shear stress in the web of mild steel beams decreases with
+#a decrease in h/t ratio
+#b increase in h/t ratio
+#c decrease in thickness
+#d increase in height
+#note where 'h' is height and t is thickness
+
+## 140 | p=13 | hw=b
+The ratio of the allowable stress in bending compression to that of bending tension in steel beams is
+#a 1
+#b ≤ 1
+#c ≥1
+#d greater than 1
+
+## 141 | star | p=13-14 | hw=a | fix=Right ends of some lines are lost in the binding on scans p13 and p14 (words 'flange', 'for the', 'resist'); completed from context.
+Consider the following statements in respect of design of web and flange splices.
+i) Flange splice shall be designed for the actual BM at the section
+ii) Flange splice shall be designed to resist the actual shear at the section
+iii) Web splice shall be designed to resist the actual shear at the section
+iv) Web splice shall be designed for the actual BM
+Of these statements
+#a (i) and (iii) are correct
+#b (i) and (iv) are correct
+#c (ii) and (iv) are correct
+#d (i), (iii) and (iv) are correct
+
+## 142 | star | tag=ES 93 | p=13-14 | hw=b | fig=14:0.255,0.06,0.41,0.53 | fix=Options are the four base plate arrangements (a)-(d) of Fig. 13.4.
+A base plate of area 625 cm² has to be provided for an axially loaded column ISMB 200 (flange width 100). Which one of the arrangements shown in Fig.13.4 would result in least base plate thickness
+#a Fig. 13.4 (a)
+#b Fig. 13.4 (b)
+#c Fig. 13.4 (c)
+#d Fig. 13.4 (d)
+
+## 143 | tag=ES 93 | p=14 | hw=a
+Battens provided for a compression member shall be designed to carry a transverse shear equal to
+#a 2.5 % of axial force in member
+#b 5% of axial force in member
+#c 10% of axial force in member
+#d 20% of axial force in member
+
+## 144 | tag=ES 93 | p=14 | hw=d
+The following observations relate to designing of laced column:
+1. Single lacing systems on opposite planes shall preferably be in the same direction so that one is the shadow of the other.
+2. Lacing bar should only be a flat.
+3. The slenderness ratio of the lacing bars for compression shall not exceed 180.
+4. Laced compression members are to be provided with tie plates at ends.
+Of these observations
+#a 1, 2, 3, and 4 are correct
+#b 1, 3, and 4 are correct
+#c 2 and 3 are correct
+#d 1 and 4 are correct
+
+## 145 | tag=ES 93 | p=14 | hw=c | fig=14:0.65,0.21,0.88,0.37
+(Fig. 13.5)
+The effective length of column AB shown in Fig.13.5 is
+#a 0.7L
+#b Less than 0.7L
+#c greater than 0.7L but less than L
+#d L
+
+## 146 | tag=ES 93 | p=14-15 | hw=b
+Match List I with List II and select the correct answer using the codes given below the lists:
+List I (Type of stress) — List II (Allowable value of stress)
+A. Axial tension — 1. 0.75 f_y
+B. Bending tension — 2. 0.66 f_y
+C. Maximum shear stress — 3. 0.60 f_y
+D. Bearing stress — 4. 0.40 f_y
+(f_y = minimum yield stress of steel)
+Codes:
+#a A-2, B-3, C-1, D-4
+#b A-3, B-2, C-4, D-1
+#c A-2, B-3, C-4, D-1
+#d A-3, B-2, C-1, D-4
+
+## 147 | tag=ES 93 | p=15 | hw=b | fig=15:0.18,0.21,0.475,0.34
+A portal frame subjected to central concentrated load and horizontal load is shown in Fig.13.6.
+Likely positions where plastic hinges can form in combined mechanism would include
+#a 2, 3 and 5
+#b 1, 4 and 5
+#c 4 and 5
+#d 3 and 5
+
+## 148 | tag=ES 93 | p=15 | hw=c | fig=15:0.18,0.535,0.48,0.715
+Three types of continuous beams supporting a concentrated load at the central span are shown in Fig.13.7. Collapse loads (P_u) corresponding to Fig. 13.7 (a), (b) and (c) respectively are P₁, P₂, and P₃. Which one of the following conclusions is correct?
+#a P₃>P₂>P₁
+#b P₃=P₂ and P₂>P₁
+#c P₁=P₂=P₃
+#d P₁=P₃ and P₁>P₂
+
+## 149 | tag=ES 93 | p=15 | hw=b
+For a certain longitudinal span, a beam in an industrial building requires section modulus of 423.00 cm³. Which one of the following sets of sections would be most suitable for this purpose?
+#a ISWB 250 @ 40.9 kg/m, Z_xx = 475.4 cm³, Z_yy = 85.7 cm³
+#b ISLB 300 @ 37.7 kg/m, Z_xx = 488.9 cm³, Z_yy = 50.2 cm³
+#c ISLB 325 @ 43.1 kg/m, Z_xx = 607.7 cm³, Z_yy = 61.9 cm³
+#d ISWB 600 @ 145.1 kg/m, Z_xx = 3854.2 cm³, Z_yy = 423.9 cm³
+
+## 150 | tag=ES 93 | p=15 | hw=d
+The channels or angles in the compression chords of the steel truss girder bridges are turned outward in order to increase
+#a cross-sectional area
+#b section modulus
+#c torsional constant
+#d radius of gyration
+
+## 151 | tag=ES 93 | p=15 | hw=a
+Consider the following statements regarding tensile test diagrams for carbon steels with varying carbon contents:
+As the carbon content increases
+1. the ultimate strength of steel decreases.
+2. the elongation before fracture increases.
+3. the ductility of the metal decreases.
+4. the ultimate strength increases.
+Of these statements
+#a 3 and 4 are correct.
+#b 1 and 3 are correct.
+#c 1, 2 and 3 are correct.
+#d 1 and 2 are correct.
+
+## 152 | tag=ES 93 | p=15-16 | hw=d
+Consider the following factors:
+1. large number of loading cycles.
+2. large variations in stress.
+3. large stress concentrations.
+Those associated with fatigue failure would include
+#a 1 and 2
+#b 1 and 3
+#c 2 and 3
+#d 1, 2 and 3
+
+## 153 | tag=ES 93 | p=16 | hw=c
+In industrial buildings in the northern hemisphere, the advantage of a north-light roof is that it
+#a allows sunlight into the building.
+#b fully exploits the Aurora Borealis.
+#c permits diffused daylight into the building and helps avoid glare of direct sunlight.
+#d allows both sunlight and the prevailing northern breeze in the building.
+
+## 154 | tag=ES 94 | p=16 | hw=b
+In plastic analysis for flexure, which of the following pairs of shape of section and shape factor are correctly matched?
+1. I.......... 1.4
+2. Square ........ 1.5
+3. Rectangle ...... 1.5
+4. Circle .......... 1.7
+Select the correct answer using the codes given below:
+Codes:
+#a 1, 2 and 3
+#b 2, 3 and 4
+#c 3 and 4
+#d 1 and 2
+
+## 155 | tag=ES 94 | p=16 | hw=a
+A single angle tie in a welded steel roof truss of an industrial building is subjected to an axial tensile force of 60 kN. If the yield stress of the material is 250 MPa, then the section that would best satisfy the requirement of IS : 800 is
+#a ISA 50 50 5
+#b ISA 50 50 6
+#c ISA 55 55 5
+#d ISA 55 55 6
+
+## 156 | tag=ES 94 | p=16 | hw=c
+Apart from gravity loads, which of the following loads are also considered in the design of a gantry girder located within an industrial building?
+1. wind loads.
+2. longitudinal loads.
+3. lateral loads.
+Select the correct answer using the codes given below:
+Codes:
+#a 1 and 2
+#b 1 and 3
+#c 2 and 3
+#d 1, 2 and 3
+
+## 157 | star | tag=ES 94 | p=16 | hw=b
+The angle of dispersion of a concentrated load on the flange to the web plate of a steel beam is
+#a 90° with the horizontal
+#b 60° with the vertical
+#c 45° with the horizontal
+#d 30° with the vertical
+
+## 158 | tag=ES 94 | p=16 | hw=b
+Which of the following methods of design would be suitable for metal structures subjected to stress reversals and impact?
+1. simple working stress design
+2. rigid-plastic design
+3. semi-rigid design
+4. elastic rigid design
+Select the correct answer using the codes given below:
+Codes:
+#a 1, 2 and 4
+#b 1, 3 and 4
+#c 1, 2 and 3
+#d 2, 3 and 4
+
+## 159 | tag=ES 94 | p=16 | hw=c
+A welded steel plate girder consisting of two flange plates of 350 mm x 16 mm and a web plate of 1000 mm x 6 mm, requires
+#a no stiffeners
+#b vertical stiffeners
+#c intermediate vertical stiffeners
+#d vertical and horizontal stiffeners
+
+## 160 | tag=ES 94 | p=16-17 | hw=c
+The following observations refer to two metal specimens 'A' and 'B' of the same size subjected to uni-axial tension test upto failure:
+1. The elastic strain energy of A is more than that of B.
+2. Area under stress-strain curve of A is less than that of B.
+3. The yield strength of A is more than that of B.
+4. The percentage elongation of A and B are equal.
+Which one of the following statements is true in this regard?
+#a Specimen A is more ductile than specimen B
+#b Specimen B is more ductile than specimen A
+#c The ductility of the two specimens is equal
+#d The data is insufficient to compare the ductilities of the two specimens
+
+## 161 | tag=ES 94 | p=17 | hw=c | fig=17:0.16,0.32,0.43,0.50
+Consider the riveted joint shown in Fig.13.8.The maximum permissible value of 'p' (rivet diameter 20 mm) is
+#a 50 mm
+#b 60 mm
+#c 72 mm
+#d 96 mm
+
+## 162 | tag=ES 94 | p=17 | hw=b
+Synthetic rubber used for elastomeric bearings should have respectively, hardness (IRHD) and ultimate tensile elongation of
+#a 65 and 400%
+#b 65 and 350%
+#c 55 and 400%
+#d 55 and 350%
+
+## 163 | tag=ES 95 | p=17 | hw=c
+A steel plate is 30 cm wide and 10 mm thick. A rivet of nominal diameter 18 mm is driven. The net sectional area of the plate is
+#a 18.00 cm²
+#b 28.20 cm²
+#c 28.05 cm²
+#d 32.42 cm²
+
+## 164 | star | tag=ES 95 | p=17 | hw=a | fix=Right ends of a few lines are lost in the binding on scan p17 ('span', '20', 'beam', 'flange', 'mm', 'Bending', 'are'); completed from context.
+A cantilever steel beam of 3 m span carries a uniformly distributed load of 20 kN/m inclusive of self-weight. The beam comprises ISLB 200 @ 198 N/m, flange 100 mm x 7.3 mm, web thickness 5.4 mm, I_xx = 1696.6 cm⁴, I_yy = 115.4 cm⁴. Bending and shear stresses in the beam are respectively
+#a 530.47 N/mm² and 55.55 N/mm²
+#b 3899.48 N/mm² and 82.19 N/mm²
+#c 132.62 N/mm² and 27.78 N/mm²
+#d 1949.74 N/mm² and 41.10 N/mm²
+
+## 165 | tag=ES 95 | p=17 | hw=c | fix=Right ends of a few lines are lost in the binding on scan p17 ('most', 'a', 'members', 'not', 'is', 'distance', 'resultant', 'exceed', 'due', 'proportional', 'its', 'in', 'half', 'rivet', 'is', 'of', 'rivets', 'resultant', 'exceed', 'rivet', 'as', 'rivet', 'value'); completed from context.
+Which one of the following is the most important consideration in the design of a riveted joint between structural members when the controid of the rivets does not coincide with the axis of the load?
+#a Direct shear force in each rivet is proportional to its radial distance from its centroid and the resultant force in each rivet should not exceed its rivet value.
+#b Shear force caused in each rivet due to eccentricity of the load is proportional to its radial distance from its centroid and the direct shear force in each rivet should be limited to half the rivet value.
+#c The shear force caused in each rivet due to eccentricity of the load is proportional to the radial distance of the rivet from the controid of the rivet group and the maximum resultant force in any rivet should not exceed the rivet value.
+#d The shear force caused in the rivet due to eccentricity of load as well as direct shear force caused in the rivet should not exceed rivet value individually.
+
+## 166 | tag=ES 95 | p=17 | hw=d
+The common assumption that all rivets share equally a non-eccentric load is valid at a load
+#a below the working load
+#b equal to the working load
+#c above the working load
+#d equal to the failure load
+
+## 167 | star | tag=ES 95 | p=17-18 | hw=b
+At the location of plastic hinge
+#a radius of curvature is infinite
+#b curvature is infinite
+#c moment is infinite
+#d flexural stress is infinite
+
+## 168 | tag=ES 95 | p=18 | hw=c | fig=18:0.26,0.115,0.52,0.178
+Z-purlins may be fixed in either orientation, A or B as shown in Fig.13.9.
+Which one of the lollowing statements is correct in this regard?
+#a Orientation A is structurally more efficient than orientation B
+#b Orientation B is structurally more efficient than orientation A
+#c Both the orientations are structurally equally efficient
+#d Neither of the two orientations is structurally efficient
+
+## 169 | star | tag=ES 95 | p=18 | hw=d
+For an I beam the shape factor is 1.12. The factor of safety in bending is 1.5. If the allowable stress is increased by 20% for wind and earthquake loads, then the load factor is
+#a 1.10
+#b 1.25
+#c 1.35
+#d 1.40
+
+## 170 | tag=ES 95 | p=18 | hw=a
+Intermediate vertical stiffeners are provided in plate girders to
+#a eliminate web buckling
+#b eliminate local buckling
+#c transfer concentrated loads
+#d prevent excessive deflection
+
+## 171 | tag=ES 95 | p=18 | hw=d
+Consider the following statements:
+Aluminum is being increasingly used for structural purposes because
+1. its modulus of elasticity is double that of steel.
+2. its coefficient of thermal expansion is half that of steel.
+3. it requires less maintenance.
+4. the strength to unit weight ratio of aluminum is high.
+Of these statements
+#a 1 and 4 are correct
+#b 2 and 4 are correct
+#c 1, 2 and 3 are correct
+#d 3 and 4 are correct
+
+## 172 | tag=ES 94 | p=18 | hw=c
+The weakest plane in a fillet weld is
+#a a side parallel to the force
+#b a side normal to the force
+#c the one along the throat
+#d the one normal to the throat
+
+## 173 | tag=ES 95 | p=18 | hw=b | fig=18:0.63,0.178,0.91,0.30
+Figure 13.10 shows a portal frame with loads. All members of frame have same plastic moment of resistance M_p.
+The value of W at collapse will be
+#a 2 M_p/L
+#b 4 M_p/L
+#c 6 M_p/L
+#d 8 M_p/L
+
+## 174 | tag=ES 95 | p=18 | hw=c
+A rectangular steel section of width 'b' and depth 'h' has been stressed up to yield point (σ_y) up to a depth of h/4 from both the top and bottom face under the action of a moment 'M'. The magnitude of the moment 'M'. is
+#a (10/24) bh² . σ_y
+#b (1/4) bh² . σ_y
+#c (11/48) bh² . σ_y
+#d (13/36) bh² . σ_y
+
+## 175 | tag=ES 95 | p=18 | hw=a
+A simply supported beam of span 'L' supports a concentrated load 'W' at its midspan. If the cross-section of the beam is an I-section, then the length of elastic-plastic zone of the plastic hinge will be
+#a L/8
+#b L/4
+#c L/2
+#d 3L/4
+
+## 176 | tag=ES 95 | p=18-19 | hw=b
+A continuous beam of constant M_p has three equal spans and carries total uniformly distributed load 'w' on each span. The value of collapse load for the beam will be
+#a 12M_p/L
+#b 11.656 M_p/L
+#c 8.65 M_p/L
+#d 4 M_p/L
+
+## 177 | tag=ES 95 | p=19 | hw=a | fig=19:0.21,0.18,0.43,0.34
+A channel section is placed in an inclined position carrying vertical loads as shown in Fig.13.11.
+If the applied moment for the channel is 'M' due to vertical load, then M_xx is given by
+#a √3 M/2
+#b 1/2 M
+#c 1/ √2 M
+#d 2 M
+
+## 178 | tag=ES 96 | p=19 | hw=b
+The thickness of web for unstiffened plate girder with clear distance d between the flanges shall not be less than
+#a d/200
+#b d/85
+#c d/100
+#d d/160
+
+## 179 | star | tag=ES 96 | p=19 | hw=b | fig=19:0.20,0.575,0.41,0.72
+What is the effective net width of plate shown in Fig.13.12, for carrying tension?
+#a 212.5 mm
+#b 237.5 mm
+#c 250 mm
+#d 275 mm
+
+## 180 | tag=ES 96 | p=19 | hw=b | fig=19:0.53,0.175,0.82,0.29
+For the beam shown in Fig.13.13, the collapse load P is given by
+#a 16M_p/L
+#b 14 M_p/L
+#c 12 M_p/L
+#d 10 M_p/L
+
+## 181 | p=19 | hw=c | fig=19:0.55,0.455,0.82,0.575 | fix=Right ends of some lines and the exam tag are lost in the binding on scan p19 ('span', 'just', 'was'); completed from context.
+A fixed beam as shown in Fig.13.14 (a) loaded with a U.D.L. over the entire span, the total load being W; when load was just increased to W₁, the deformed shape was shown in Fig.13.14 (b)was seen.
+The value of W₁ (plastic moment resistance = M_p) is
+#a 24 M_p/L
+#b 16 M_p/L
+#c 12 M_p/L
+#d 8 M_p/L
+
+## 182 | tag=ES 96 | p=19-20 | hw=d | fig=20:0.25,0.04,0.47,0.205
+Fig.13.15 shows a typical section of crane girder.
+Consider the following statements in this regard:
+The function of the top channel is to
+1. increase moment of inertia about vertical axis.
+2. reduce moment of inertia about horizontal axis.
+3. increase torsional stiffness.
+4. increase lateral buckling strength.
+Of these statements
+#a 1 and 4 are correct
+#b 2 and 3 are correct
+#c 1, 2 and 4 are correct
+#d 1, 3 and 4 are correct
+
+## 183 | tag=ES 96 | p=20 | hw=b | fig=20:0.29,0.47,0.62,0.56
+For a propped cantilever beam of span L with a central concentrated load P, the elastic and plastic moment diagrams are shown in Fig.13.16
+From these diagrams, it is clear that
+#a maximum moments are distributed more advantageously in the elastic case.
+#b maximum moments are distributed more advantageously in the plastic case.
+#c bending moment distribution in both the cases is equally advantageous.
+#d no definite conclusion can be drawn.
+
+## 184 | tag=ES 96 | p=20 | hw=a
+The nail diameter should not be more than (t = least thickness of the wooden member to be connected)
+#a t/6
+#b t/8
+#c t/10
+#d t/12
+
+## 185 | tag=ES 96 | p=20 | hw=a
+The stress at which a material fractures under large number of reversals of stress is called
+#a endurance limit
+#b creep
+#c ultimate strength
+#d residual stress
+
+## 186 | tag=ES 96 | p=20 | hw=d
+A ductile structure is defined as one for which the plastic deformation before fracture
+#a is smaller than the elastic deformation
+#b vanishes
+#c is equal to the elastic deformation
+#d is much larger than the elastic deformation
+
+## 187 | tag=ES 97 | p=20 | hw=a
+Upper yield point in the stress-strain curve in structural steel can be avoided by
+#a cold working
+#b hot working
+#c quenching
+#d galvanizing
+
+## 188 | tag=ES 97 & 99 | p=20 | hw=d
+The most critical consideration in the design of rolled steel columns carrying axial loads is the
+#a per cent elongation at yield and the net cross-sectional area.
+#b critical bending strength and axial yield strength of the material.
+#c buckling strength based on the net area of the section and per cent elongation at ultimate load.
+#d compressive strength based on slenderness ratio and gross cross-sectional area of the member.
+
+## 189 | tag=ES 97 | p=20-21 | hw=c
+At a section along the span of a welded plate girder, where the web is spliced, the bending moment is M. If the girder has top flange, web and bottom flange plates of equal area, then the share of the bending moment which would be taken by the splice plates would be
+#a M
+#b M/3
+#c M/7
+#d M/13
+
+## 190 | tag=ES 97 | p=21 | hw=b
+The allowable shear stress in stiffened webs of mild steel beams decreases with
+#a decrease in the spacing of the stiffeners
+#b increase in the spacing of the stiffeners
+#c decrease in the effective depth
+#d increase in the effective depth
+
+## 191 | tag=ES 97 | p=21 | hw=b
+In the design of framed connections, the rivets or bolts connecting the web of the beam with the connecting angles are subject to
+#a single shearing and bearing on the web
+#b double shearing and bearing on the web
+#c double shearing and no bearing on the web
+#d no shearing but only bearing on the web
+
+## 192 | tag=ES 97 | p=21 | hw=b
+The effective length of the fillet weld is
+#a Total length – 2 x throat size
+#b Total length – 2 x weld size
+#c 0.7 x total length
+#d Total length – weld size/√2
+
+## 193 | tag=ES 97 | p=21 | hw=a | fig=21:0.17,0.46,0.45,0.54
+A continuous beam with plastic moment capacities is shown in Fig.13.17.
+The correct sequence in which the plastic hinges will form in the beam is
+#a C, A, B
+#b A and C simultaneously, followed by B
+#c B, C, A
+#d B first, then A and C simultaneously
+
+## 194 | star | tag=ES 97 | p=21 | hw=d
+A thin. hollow box section of 400 mm x 600 mm deep (outer dimensions) with uniform plate thickness of 10 mm all-round is used for a beam. The plastic modulus of section (Z_p) and its shape factor will be
+Z_p (in 10⁵ mm³) — Shape factor
+#a 36 — 7/6
+#b 36 — 6/7
+#c 42 — 6/7
+#d 42 — 7/6
+
+## 195 | tag=ES 97 | p=21 | hw=c | fig=21:0.56,0.16,0.80,0.235
+Fig.13.18 shows a continuous beam loaded with concentrated loads 'W' at the center of each span. The value of 'W' at collapse will be
+#a 3.2 M_p/L
+#b 4 M_p/L
+#c 5.6 M_p/L
+#d 6.4 M_p/L
+
+## 196 | tag=ES 97 | p=21 | hw=b
+The rolled steel section used in a cased beam has width 'B' mm and diameter 'D' mm. The minimum width of the finished cased beam is given by
+#a (B + 50) mm
+#b (B + 100) mm
+#c [(B/D) + 100] mm
+#d 2(B + D) mm
+
+## 197 | tag=ES 97 | p=21 | hw=c
+Given that
+A_e = effective area of the member and
+σ_y = yield stress,
+in order to obtain the ultimate strength of a tension member, as per the plastic design concept; A_e.σ_y is to be multiplied by
+#a 1.1
+#b 0.95
+#c 0.85
+#d 0.75
+
+## 198 | tag=ES 97 | p=21 | hw=c
+A timber beam of effective span 'l' and of cross-section b x d is said to be laterally supported if d/b and l/b are respectively
+#a less than 1 and less than 48
+#b less than 2 and less than 49
+#c less than 3 and less than 50
+#d less than 4 and less than 51
+
+## 199 | tag=ES 97 | p=21-22 | hw=c
+A timber column is made up of two individual members with longitudinal axes parallel, separated at the ends and middle points of their length by blocking, and joined at the ends by timber connectors. Such a column is called
+#a built-up column
+#b composite column
+#c spaced column
+#d flitched column
+
+## 200 | tag=ES 97 | p=22 | hw=a
+A simply supported beam of uniform cross-section has span 'L' and is loaded by a point load 'P' at its mid-span. The length of elastoplastic zone of the plastic hinge will be
+#a L/3
+#b 2L/5
+#c L/2
+#d 3L/4
+
+## 201 | tag=ES 97 | p=22 | hw=a | fig=22:0.28,0.335,0.54,0.415
+(Fig. 13.19)
+A fixed beam made of steel is shown in Fig.13.19. At collapse, the value of load P will be equal to
+#a 10 M_p/L
+#b 12 M_p/L
+#c 16 M_p/L
+#d 20 M_p/L
+
+## 202 | tag=ES 98 | p=22 | hw=a
+The ratio of collapse load of a propped cantilever of span 'l' carrying a udl through-out the span to that of a simply-supported beam carrying the same load is
+#a 1.457
+#b 1.500
+#c 2.000
+#d 3.000
+
+## 203 | tag=ES 97 | p=22 | hw=b
+Elastomeric bearing pads are
+#a flat solid metal plates
+#b preferable to steel roller bearing since they do not require any periodical maintenance
+#c not as satisfactory for concrete bridges as they are for steel bridges
+#d made of thermo-plastic material
+
+## 204 | star | tag=ES 98 | p=22 | hw=c
+To transform an indeterminate frame with a degree of indeterminacy 'r' into a determinate one, the number of plastic hinges required is
+#a r + 2
+#b r + 1
+#c r
+#d r – 1
+
+## 205 | tag=ES 98 | p=22 | hw=d
+The notching in a simply-supported timber beam of span 'l' and depth 'd' should be restricted to the region
+#a l/6 from the support
+#b l/6 from the mid-span
+#c l/6 or 3d from the mid-span, whichever is less
+#d l/6 or 3d from the supports, whichever is less
+
+## 206 | tag=ES 98 | p=22 | hw=c
+A steel beam of rectangular cross-section is clamped at both ends. Plastic deformation is just observed when the udl on the beam is 10 kN/m. At the instant of collapse, the load on the beam will be
+#a 10 kN/m
+#b 15 kN/m
+#c 20 kN/m
+#d 30 kN/m
+
+## 207 | tag=ES 97 | p=22 | hw=a
+In a composite construction,
+#a interface slipping is prevented by using shear connectors.
+#b differential shrinkage is overcome by using the same grade of concrete for both the components.
+#c precast member is always designed to carry the weight of in-situ concrete without props.
+#d the in-situ concrete cannot be prestressed.
+
+## 208 | tag=ES 98 | p=22 | hw=a
+If 'A' be the area of cross-section of a bar, the gauge length for the measurement of ductility will be
+#a 5.65 x A^½
+#b 5.65 x A
+#c 6.56 x A^½
+#d 6.56 x A
+
+## 209 | tag=ES 98 | p=23 | hw=c
+High yield deformed bars have a
+#a definite yield value.
+#b chemical composition different from mild steel.
+#c percentage elongation less than that of mild steel.
+#d percentage elongation more than that of mild steel.
+
+## 210 | tag=ES 98 | p=23 | hw=d
+The effective length of a structural steel compression member of length 'L' effectively held in position and restrained against rotation at one end but neither held in position nor restrained against rotation at the other end, is
+#a L
+#b 1.2 L
+#c 1.5 L
+#d 2.0 L
+
+## 211 | tag=ES 98 | p=23 | hw=b
+In the simplified design of angle iron purlins, which one of the following assumptions would not be valid?
+#a Load component acting normal to the slope is considered.
+#b Bending moment about the minor axis is considered.
+#c Allowable bending stress is not reduced.
+#d Slope of the roof should not exceed 30°.
+
+## 212 | tag=ES 98 | p=23 | hw=c | fix=Right ends of List II items 3 and 4 are lost in the binding on scan p23 ('of', 'is', 'two', 'to'); completed from context.
+Match List I (Type of connection) with List II (Type of beams) and select the correct answer using the codes given below the lists:
+List I — List II
+A. Semi-rigid connection — 1. To permit large angles of rotation and to transmit negligible moment
+B. Framed connection — 2. To allow small end rotation and transmit appreciable moment
+C. Flexible connection — 3. When a beam is connected to a beam or stanction by means of an angle at the bottom of the beam which is shop-riveted to the beam and an angle at the top of the beam which is field riveted
+D. Seated connection — 4. When a beam is connected to a beam or stanchion by means of two angles riveted to them
+Codes:
+#a A-2, B-4, C-3, D-1
+#b A-4, B-2, C-1, D-3
+#c A-2, B-4, C-1, D-3
+#d A-4, B-2, C-3, D-1
+
+## 213 | tag=ES 98 | p=23 | hw=a
+For two plates of equal thickness, full strength of fillet weld can be ensured if its maximum size, for square edge, is limited to
+#a 1.5 mm less than the thickness
+#b 75% of the thickness
+#c 80% of the thickness
+#d thickness of the plate
+
+## 214 | tag=ES 98 | p=23 | hw=c | fig=23:0.56,0.475,0.84,0.635
+(Fig. 13.20)
+A fixed beam is shown in Fig.13.20. The plastic failure load for this beam is
+#a 10.0 M_p/L
+#b 12.5 M_p/L
+#c 15.0 M_p/L
+#d 16.5 M_p/L
+
+## 215 | tag=ES 98 | p=24 | hw=b
+The height at which wind force acts on a moving vehicle on a bridge deck is
+#a 1.2 m
+#b 1.5 m
+#c 1.7 m
+#d 2.0 m
+
+## 216 | tag=ES 98 | p=24 | hw=d
+Racking force on a steel railway bridge is due to
+#a tractive effect of the driving wheel
+#b braking effect
+#c resistance offered by the bearing to the movement at the roller end
+#d lateral movement of the train when moving on a straight track
+
+## 217 | tag=ES 98 | p=24 | hw=d
+For a composite steel-beam and RCC-slab floor construction,
+#a the grade of concrete has to be M20 for the composite action to be satisfactory.
+#b the longitudinal reinforcement of the slab has to be welded to the beam to develop monolithicity.
+#c a notch is made in the slab to house the upper flange of the beam.
+#d shear connectors are provided to develop the composite action.
+
+## 218 | tag=ES 99 | p=24 | hw=b
+According to Indian Railway Board, in respect of steel girders of single track span for metre/broad gauge, the impact factor for a span of 6 m is
+#a 0.5
+#b 0.75
+#c 1
+#d 1.25
+
+## 219 | tag=ES 93 | p=24 | hw=c | check=Handwritten mark is faint and partly hidden by the text of Fig. 13.20 caption; read as 'c'.
+In a composite construction, the connection between a reinforced concrete slab and a RSJ on which the slab is resting, are designed for
+#a deflection control
+#b shrinkage of concrete slab
+#c shear forces
+#d flexural moments
+
+## 220 | tag=ES 93 & 99 | p=24 | hw=c
+A propped cantilever of span 'L' is subjected to a concentrated load at mid-span. If M_p is plastic moment capacity of the beam, then the value of the collapse load will be
+#a 12 M_p/L
+#b 8 M_p/L
+#c 6 M_p/L
+#d 4 M_p/L
+
+## 221 | tag=ES 99 | p=24 | hw=c
+Match List I with List II and select the correct answer using the codes given below the lists:
+List I (Use) — List II (Type of weld)
+A. Structural members subject to direct tension or compression — 1. Slot weld
+B. Joining two surfaces approximately at right angles to each other — 2. Seam weld
+C. A hole is made in one of the components and welding is done around the periphery of the hole — 3. Fillet weld
+D. Pressure is applied continuously — 4. Plug weld
+5. Butt weld
+Codes:
+#a A-5, B-4, C-1, D-3
+#b A-4, B-3, C-2, D-1
+#c A-5, B-3, C-1, D-2
+#d A-4, B-5, C-3, D-2
+
+## 222 | tag=ES 99 | p=24 | hw=a
+In a simply supported beam of span l, each end is restrained against torsion, compression flange being unrestrained. According to IS : 800, the effective length of the compression flange will be equal to
+#a l
+#b 0.85 l
+#c 0.75 l
+#d 0.70 l
+
+## 223 | tag=ES 99 | p=25 | hw=b
+A column base is subjected to moment. If the intensity of bearing pressure due to axial load is equal to stress due to the moment, then the bearing pressure between the base and the concrete is
+#a uniform compression throughout
+#b zero at one end and compression at the other end
+#c tension at one end and compression at the other end
+#d uniform tension throughout
+
+## 224 | tag=ES 99 | p=25 | hw=d
+Consider the following statements:
+A grillage base is checked for
+1. bending
+2. shear
+3. compression
+4. web crippling
+Which of these statements are correct?
+#a 1 and 4
+#b 1 and 3
+#c 2, 3 and 4
+#d 1, 2 and 4
+
+## 225 | tag=ES 99 | p=25 | hw=a | fig=25:0.21,0.385,0.50,0.59;25:0.21,0.625,0.48,0.71;25:0.56,0.065,0.82,0.35 | fix=Options are the four welding notations (a)-(d) of Fig. 13.22.
+A welding detail is shown in Fig.13.21.
+The welding notation for the figure is
+#a Fig. 13.22 (a)
+#b Fig. 13.22 (b)
+#c Fig. 13.22 (c)
+#d Fig. 13.22 (d)
+
+## 226 | tag=ES 99 | p=25-26 | hw=d | fig=25:0.585,0.455,0.73,0.70;26:0.25,0.06,0.40,0.17 | fix=Options are the four strain diagrams (a)-(d) of Fig. 13.23; (d) is printed on the next page.
+In a plastic hinge, the actual distribution of strain across the section will be as in
+#a Fig. 13.23 (a)
+#b Fig. 13.23 (b)
+#c Fig. 13.23 (c)
+#d Fig. 13.23 (d)
+
+## 227 | tag=ES 99 | p=26 | hw=b | fig=26:0.245,0.225,0.48,0.385 | check=Handwritten 'b' is written beside the A-R Directions codes printed below this question, not beside its options; assumed to belong to Q227.
+Fig.13.24 shows a portal frame with loads. All members have the same plastic moment of resistance M_p. The ratio P₁ to P₂ for beam and sway mechanism is
+#a 1
+#b 2
+#c 3
+#d 4
+
+## 228 | tag=ES 98 | p=26 | check=No handwritten answer mark found for this question. | fix=Assertion-Reason question: options are the common codes printed once under 'Directions' before Q228.
+Assertion A : Both transverse and longitudinal frames in a steel building are subjected to equal earthquake forces.
+Reason R : Earthquake force is proportional to the mass of each floor.
+#a Both A and R are true and R is the correct explanation of A
+#b Both A and R are true but R is not a correct explanation of A
+#c A is true but R is false
+#d A is false but R is true
+
+## 229 | tag=ES 94 | p=26 | check=No handwritten answer mark found for this question. | fix=Assertion-Reason question: options are the common codes printed once under 'Directions' before Q228.
+Assertion A : In a plate girder of uniform cross-section, intermediate vertical stiffeners are provided at closer spacing in the middle rather than at the supports.
+Reason R : Intermediate vertical stiffeners are provided to prevent the web from buckling under a complex and variable stress situation resulting from combined action of shear force and bending moment.
+#a Both A and R are true and R is the correct explanation of A
+#b Both A and R are true but R is not a correct explanation of A
+#c A is true but R is false
+#d A is false but R is true
+
+## 230 | tag=ES 96 | p=26 | check=No handwritten answer mark found for this question. | fix=Assertion-Reason question: options are the common codes printed once under 'Directions' before Q228.
+Assertion A : The shape factor of a circular section is less than that of a rectangular section.
+Reason R : Compared to rectangular section, a circular section has more area near the neutral axis than at the extreme fibre.
+#a Both A and R are true and R is the correct explanation of A
+#b Both A and R are true but R is not a correct explanation of A
+#c A is true but R is false
+#d A is false but R is true
+
+## 231 | tag=ES 99 | p=26 | check=No handwritten answer mark found for this question. | fix=Assertion-Reason question: options are the common codes printed once under 'Directions' before Q228.
+Assertion A : The flange area method of design of plate girders is an approximate method.
+Reason R : Bending stresses in compression and tension flanges are assumed to be linearly distributed.
+#a Both A and R are true and R is the correct explanation of A
+#b Both A and R are true but R is not a correct explanation of A
+#c A is true but R is false
+#d A is false but R is true
