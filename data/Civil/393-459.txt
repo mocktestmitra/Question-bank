@@ -3326,3 +3326,1055 @@ According to IS : 456–1978, the total sulphate content as percentage of mass o
 #b 3
 #c 4
 #d 5
+
+## 206 | star | p=45 | hw=c
+According to IS : 456–1978, the total chloride content as percentage of mass of cement in concrete mix should be limited to
+#a 0.06
+#b 0.10
+#c 0.16
+#d 0.20
+
+## 207 | p=45 | hw=d
+According to IS : 456–1978, the maximum water-cement ratio in plain concrete to ensure durability in mild exposure is limited to
+#a 0.50
+#b 0.60
+#c 0.65
+#d 0.70
+
+## 208 | p=45 | hw=b
+To ensure durability for similar conditions of exposure, water-cement ratio in reinforced concrete as compared to that in plain concrete is
+#a more
+#b less
+#c equal
+#d none of the above
+
+## 209 | p=45 | hw=a
+For a given degree of hydration, the effect of increasing water-cement ratio in concrete
+#a is to increase permeability
+#b is to decrease permeability
+#c does not change permeability
+#d none of the above
+
+## 210 | p=45 | hw=b
+For a given water-cement ratio in concrete, with passage of time, the permeability
+#a increases
+#b decreases
+#c does not change
+#d none of the above
+
+## 211 | p=45 | hw=a
+As compared to moist-cured concrete, the permeability of steam-cured concrete is
+#a more
+#b less
+#c same
+#d none of the above
+
+## 212 | p=45 | hw=d | fix=Right ends of some lines are lost in the binding on scan p45; read across the overlapping scans p45 and p46.
+If compressive strength of concrete determined from 150mm x 300mm cylinders is x, then the compressive strength of same concrete determined from 150 mm cubes is
+#a 0.8 x
+#b x
+#c 1.2 x
+#d 1.25 x
+
+## 213 | p=45 | hw=a | fix=Right ends of some lines are lost in the binding on scan p45; read across the overlapping scans p45 and p46.
+The compressive strength of concrete determined from 150 mm × 150 mm cylinders as compared to that determined from 150 mm × 300 mm cylinders is
+#a more
+#b less
+#c equal
+#d none of the above
+
+## 214 | p=45 | hw=d | fix=Right ends of some lines are lost in the binding on scan p45; read across the overlapping scans p45 and p46.
+The compressive strength of concrete determined from 150 mm×150 mm cylinders as compared to that determined from 150 mm cubes is
+#a more
+#b less
+#c equal
+#d none of the above
+
+## 215 | p=45 | hw=d | fix=Right ends of some lines are lost in the binding on scan p45; read across the overlapping scans p45 and p46.
+Assertion A : For determining uniaxial compressive strength of concrete, cube is a better test specimen as compared to cylinder.
+Reason R : Stress distribution is more uniform over the cross-section of cylinder as compared to cube. Select your answer based on the coding system given below
+#a Both A and R are true and R is the correct explanation of A.
+#b Both A and R are true but R is not the correct explanation of A.
+#c A is true but R is false.
+#d A is false but R is true.
+
+## 216 | p=45 | hw=c | fix=Right ends of some lines are lost in the binding on scan p45; read across the overlapping scans p45 and p46.
+According to IS : 456–1978, if f_y is the characteristic strength of steel and E_s is the modulus of elasticity of steel, then the maximum strain in the tension reinforcement in the section at failure should not be less than
+#a 0.002 + ( f_y / 1.5 E_s )
+#b 0.0035 + ( f_y /1.15 E_s )
+#c 0.002 + ( f_y / 1.15 E_s )
+#d 0.0035 + ( f_y / 1.5 E_s )
+
+## 217 | p=45-46 | hw=b | fix=Right ends of some lines are lost in the binding on scan p45; read across the overlapping scans p45 and p46.
+Design strength of concrete for limit state of collapse is taken as
+#a f_ck
+#b 0.67 f_ck / r
+#c 0.67 f_ck
+#d r f_ck
+#note where f_ck is the characteristic coropressive strength of concrete and r is partial safety factor for concrete.
+
+## 218 | p=46 | hw=a
+In limit state design of concrete for flexure, the area of stress block is taken as
+#a 0.36 f_ck x_u
+#b 0.42 f_ck x_u
+#c 0.446 f_ck x_u
+#d 0.53 f_ck x_u
+#note where f_ck is characteristic compressive strength of concrete and x_u is depth of neutral axis.
+
+## 219 | p=46 | hw=c
+Shape of idealized stress-strain curve for concrete as prescribed by IS : 456–1978 is
+#a rectangular
+#b parabolic
+#c rectangular-paraboiic
+#d none of the above
+
+## 220 | star | p=46 | hw=a
+In limit state design, under-reinforced section is one in which
+#a tensile strain in steel reaches yield value while maximum compressive strain in concrete is less than its ultimate crushing strain
+#b maximum tensile stress in steel reaches its permissible value while maximum compressive stress in concrete is less than its permissible value
+#c maximum compressive strain in concrete reaches the ultimate crushing value while tensile strain in steel is less than its yield value
+#d maximum compressive stress in concrete reaches its permissible value while tensile stress in steel is less than its permissible value
+
+## 221 | p=46 | hw=c
+Assertion A : According to IS :456–1978, over-reinforced sections are not permitted.
+Reason R : There is ductile failure of over-reinforced sections.
+Select your answer based on the coding system given below
+#a Both A and R are true and R is the correct explanation of A.
+#b Both A and R are true but R is not the correct explanation of A.
+#c A is true but R is false.
+#d A is false but R is true.
+
+## 222 | p=46 | hw=a
+In the limit state method, balanced design of a reinforced concrete beam gives
+#a smallest concrete section and maximum area of reinforcement
+#b largest concrete section and maximum area of reinforcement
+#c smallest concrete section and minimum area of reinforcement
+#d largest concrete section and minimum area of reinforcement
+
+## 223 | p=46 | hw=a
+In limit state design, the limiting value of depth of neutrai axis is
+#a 0.53 d
+#b 0.48 d
+#c 0.45 d
+#d 0.43 d
+#note where d is the effective depth of section.
+
+## 224 | p=46 | hw=d
+In limit state design, the maximum limit imposed by IS : 456–1978 on the redistribution of moments in staticaliy indeterminate beams is
+#a 10%
+#b 15%
+#c 20%
+#d 30%
+
+## 225 | p=46 | hw=d
+Percentage of steel for balanced design of a singly reinforced rectangular section by limit state method depends on
+i) characteristic strength of concrete
+ii) yield strength of steel
+iii) modulus of elasticity of steel
+iv) geometry of the section
+The correct answer is
+#a only (ii)
+#b (i), (ii) and (iv)
+#c (ii), (iii) and (iv)
+#d (i), (ii) and (iii)
+
+## 226 | tag=GATE 99 | p=46 | hw=b
+In reinforced concrete, pedestal is defined as a compression member, whose effective length does not exceed its least lateral dimension by
+#a 12 times
+#b 3 times
+#c 16 times
+#d 8 times
+
+## 227 | p=47 | hw=a
+Maximum strain at the level of compression steel for a rectangular section having effective cover to compression steel as 'd' and neutral axis depth from compression face as x_u is
+#a 0.0035 (1 − d/x_u)
+#b 0.002 (1 − d/x_u)
+#c 0.0035 (1 − x_u/d)
+#d 0.002 (1 − x_u/d)
+
+## 228 | p=47 | hw=c
+The diagonal tension which results in ultimate failure due to development of diagonal tension cracks, depends on
+#a shear span
+#b effective depth
+#c both (a) and (b)
+#d none of the above
+
+## 229 | p=47 | hw=a
+Flexural shear failure in a reinforced concrete beam
+i) occurs under large bending moment and less shear force
+ii) results in cracks which are normally at 90° with the horizontal
+iii) occurs when shear span to effective depth ratio is less than 1
+Of these statements
+#a (i) and (ii) are correct
+#b (i) and (iii) are correct
+#c (ii) and (iii) are correct
+#d (i), (ii) and (iii) are correct
+
+## 230 | p=47 | hw=a
+For a continuous R.C. beam, match List I with List II and select the correct answer using the codes given below the lists.
+List I (Condition) — List II (Placement of live load)
+A. For maximum sagging moment in a span — 1. The spans adjoining the span as well as alternate span
+B. For maximum hogging moment at a support — 2. The same span as well as alternate spans
+C. For maximum hogging moment in a span — 3. The adjacent spans on both sides of this support as well as spans alternate to these
+4. Spans next to the adjacent spans of the support plus alternate spans
+Codes:
+#a A-2, B-3, C-1
+#b A-1, B-4, C-2
+#c A-2, B-4, C-1
+#d A-1, B-3, C-2
+
+## 231 | p=47 | hw=d
+A beam whose effective span is l, effective depth is 'd' and overall depth is 'D', shall be deemed to be a deep beam when the ratio of
+i) l/d is less than 2.0 for a simply supported beam
+ii) l/D is less than 2.0 for a continuous beam
+iii) l/d is less than 2.5 for a simply supported beam
+iv) l/D is less than 2.5 for a continuous beam
+Of these statements
+#a (i) and (iii) are correct
+#b (i) and (iv) are correct
+#c (ii) and (iii) are correct
+#d (ii) and (iv) are correct
+
+## 232 | p=48 | hw=c
+The effective span of a deep beam is taken as
+#a Centre to centre distance between supports
+#b 1.15 times the clear span
+#c Smaller of (a) and (b)
+#d larger of (a) and (b)
+
+## 233 | star | p=48 | hw=a
+For a deep beam whose overall depth is 5.0 m and effective span is 6 m , the lever arm for simply supported beam and continuous beam respectively will be
+#a 3.2 m and 2.7 m
+#b 3.6 m and 3.0 m
+#c 2.7 m and 3.2 m
+#d 3.0 m and 3.6 m
+
+## 234 | p=48 | hw=c
+The bending moment at mid span of a square vertical bunker due to a lateral pressure p per unit area is
+#a pl²/12
+#b pl²/16
+#c pl²/24
+#d pl²/32
+
+## 235 | p=48 | hw=c
+In silo walls, the compressive stress on the net concrete section deducting all openings should not exceed
+#a 0.15 f_ck
+#b 0.20 f_ck
+#c 0.25 f_ck
+#d 0.30 f_ck
+
+## 236 | p=48 | hw=a
+Which of the following theory is applicable for design of silo walls ?
+#a Janssen's theory
+#b Rankine theory
+#c Euler theory
+#d Coulomb's theory
+
+## 237 | p=48 | hw=a
+To ensure lateral stability, the clear distance between lateral restraints in case of simply supported and continuous beam should not exceed
+#a lesser of 60 b or 250 b²/d
+#b lesser of 25 b or 100 b²/d
+#c lesser of 60 b or 100 b²/d
+#d lesser of 25 b or 250 b²/d
+#note Where b is width and d is effective depth of beam.
+
+## 238 | p=48 | hw=b
+Consider the following statements in regard to silos and bunkers
+i) The horizontal pressure on the wall of a silo increases linearly with depth from top.
+ii) The horizontal pressure on the wall of a bunker increases linearly with depth from top.
+iii) The ratio of vertical pressure in silos at the time of emptying to that at the time of filling is less than 1.
+Of these statements
+#a (i) and (ii) are correct
+#b (ii) and (iii) are correct
+#c Only (ii) is correct
+#d (i), (ii) and (iii) are correct
+
+## 239 | star | p=48 | hw=b
+For RCC bridges, the smallest span beyond which the impact factor is same for class A or B or AA and 70R loading (wheeled vehicles) is
+#a 9 m
+#b 12 m
+#c 40 m
+#d 45 m
+
+## 240 | p=48-49 | hw=a
+Match List I with List II in connection with moment capacities for different condition and types of slabs as per yield line theory and select the answer using the codes given below
+List I (Type of slab) — List II (Moment capacity)
+A. Equilateral triangular slab — 1. wl²/24
+B. Simply supported square slab — 2. wl²/72
+C. Square slab fixed at all edges — 3. wl²/48
+Codes:
+#a A-2, B-1, C-3
+#b A-3, B-1, C-2
+#c A-1, B-3, C-2
+#d A-3, B-2, C-1
+
+## 241 | tag=ES 93 | p=49 | hw=a
+The purpose of lateral ties in short RC columns is to
+#a avoid buckling of longitudinal bars.
+#b facilitate construction.
+#c facilitate compaction of concrete.
+#d increase the load carrying capacity of the columns.
+
+## 242 | star | tag=ES 93 | p=49 | hw=c
+In a doubly reinforced rectangular beam, the allowable stress in compression steel is
+#a equal to the permissible stress in tension in steel
+#b more than the permissible stress in tension in steel
+#c less than the permissible stress in tension in steel
+#d not related to the permissible concrete compression stress
+
+## 243 | tag=ES 93 | p=49 | hw=a
+The side face reinforcement, if required, in a T-beam will be
+#a 0.1% of the web area
+#b 0.15% of the web area
+#c 0.2% to 0.3% of the web area depending upon the breadth of the web
+#d half the longitudinal reinforcement
+
+## 244 | tag=ES 93 | p=49 | hw=d
+Consider the following statements regarding the working stress design of under reinforced RC sections.
+1. The neutral axis depth will be greater than that of a balanced section
+2. The stress in steel in tension will reach its maximum permissible value first.
+3. The moment of resistance will be less than that of the balanced section.
+4. The concrete on the tension side is also to be considered for calculating the moment of resistance of the section
+Of these statements
+#a 1 and 2 are correct
+#b 1 and 4 are correct
+#c 3 and 4 are correct
+#d 2 and 3 are correct
+
+## 245 | tag=ES 93 | p=49 | hw=b
+Which one of the following sections of equal cross-sectional area can resist the torsional moment of RCC beam section more efficiently when working stress design is being adopted?
+#a An unsymmetrical I-section
+#b A box section
+#c A solid rectangular section
+#d A symmetrical I-section
+
+## 246 | tag=ES 93 | p=49 | hw=a
+Loss of stress with time at constant strain in steel is called
+#a relaxation
+#b creep
+#c shrinkage
+#d ductility
+
+## 247 | tag=ES 93 | p=49 | hw=b
+Deep beams are designed for
+#a shear force only
+#b bending moment only
+#c both shear force and bending moment
+#d bearing
+
+## 248 | tag=ES 93 | p=49 | hw=d | fig=49:0.49,0.545,0.78,0.645
+If 'P' is the prestressing force applied at a maximum eccentricity 'g' at mid-span, (Fig.14.1), to balance the concentrated load "W", the balancing load will be
+#a 2.5 Pg/L
+#b 3.0 Pg/L
+#c 3.5 Pg/L
+#d 4.0 Pg/L
+
+## 249 | tag=ES 93 | p=50 | hw=a
+In a check for development length (L_d), L_d shall not exceed M₁/V + L₀ where M₁ is moment of resistance of the section after bar curtailment, V is maximum shear in the region of M₁ and L₀ at discontinuous end is
+#a equal to 12 ϕ (ϕ is diameter of bars) or effective depth 'd' whichever is greater
+#b actual anchorage length provided beyond centre of support
+#c straight length of bar beyond centre of support plus the hook or bend allowance if provided
+#d L_d/3
+
+## 250 | tag=ES 93 | p=50 | hw=a
+In the limit state design of concrete structures the strain distribution is assumed to be
+#a Linear
+#b non-linear
+#c parabolic
+#d parabolic and rectangular
+
+## 251 | tag=ES 93 | p=50 | hw=d
+Consider the following factors:
+1. initial prestress
+2. losses in prestress
+3. depth of cable from extreme compression fibre
+Those which affect the ultimate moment capacity of a prestressed concrete beam would include
+#a 1 and 2
+#b 1 and 3
+#c 1 alone
+#d 3 alone
+
+## 252 | tag=ES 93 | p=50 | hw=b
+M_ult of a singly reinforced balanced RC rectangular beam section is
+#a 0.115 f_ck bd²
+#b 0.135 f_ck bd²
+#c 0.185 f_ck bd²
+#d 0.225 f_ck bd²
+
+## 253 | tag=ES 93 | p=50 | hw=a
+Limit state of serviceability of prestressed concrete sections should satisfy
+#a Cracking, deflection and maximum compression
+#b cracking only
+#c deflection and cracking
+#d deflection and maximum compression
+
+## 254 | star | tag=ES 93 | p=50 | hw=a
+At limit state of collapse in shear, in case of web shear cracks, it is assumed that the concrete cracks when the maximum principal tensile stress exceeds a value of f_t equal to
+#a 0.24 √f_ck
+#b 0.20 √f_ck
+#c 0.16 √f_ck
+#d 0.30 √f_ck
+
+## 255 | tag=ES 93 | p=50 | hw=d
+The loads to be taken corresponding to limit states of strength, deflection and crack width are respectively
+#a working load, working load and working load
+#b ultimate load, working load and ultimate load
+#c ultimate load, ultimate load and working load
+#d ultimate load, working load and working load
+
+## 256 | tag=ES 93 | p=50 | hw=b
+A reinforced concrete beam is designed for the limit states of collapse in flexure and shear. Which of the following limit states of serviceability have to be checked ?
+1. deflection
+2. cracking
+3. durability
+Select the correct answer using the codes given below:
+Codes:
+#a 1 alone
+#b 1 and 2
+#c 2 and 3
+#d 1, 2, and 3
+
+## 257 | tag=ES 93 | p=50-51 | hw=d
+Match List I with List II and select the correct answer using the codes given below the lists:
+List I — List II
+A. Doubly reinforced section — 1. Serviceability
+B. Limit state design — 2. Durability
+C. Minimum cover — 3. Reduction in sectional depth
+D. Span depth ratio — 4. Ultimate moment capacity
+Codes:
+#a A-2, B-1, C-3, D-4
+#b A-4, B-3, C-1, D-2
+#c A-1, B-2, C-3, D-4
+#d A-3, B-4, C-2, D-1
+
+## 258 | tag=ES 93 | p=51 | hw=a
+The bending moment at the edges of a square vertical bunker due to a lateral pressure 'p' per unit area is
+#a pl²/12
+#b pl²/10
+#c pl²/16
+#d pl²/11
+
+## 259 | tag=ES 93 | p=51 | hw=a
+Match List I with List II and select the correct answer using the codes given below the lists:
+List I — List II
+A. Continuous bridge — 1. Used for deciding the number of piers
+B. Causeways — 2. Bridge to enable road to pass over a cutting
+C. Economic span — 3. Used for large spans
+D. Viaduct — 4. To allow flood water to pass over
+Codes:
+#a A-3, B-4, C-1, D-2
+#b A-1, B-2, C-3, D-4
+#c A-3, B-1, C-4, D-2
+#d A-1, B-3, C-2, D-4
+
+## 260 | tag=ES 93 | p=51 | hw=d
+In concrete bridge design, the impact factor
+#a can be ignored for a pedestrian bridge
+#b can be ignored for dead load when the bridge is of 8 lane width
+#c is the same for both dead and live load
+#d is the same for IRC class A and IRC class AA (wheeled) loadings when the span is large
+
+## 261 | tag=ES 93 | p=51 | hw=a
+For Courbon's reaction coefficient to be valid
+#a there should be at least five transverse beams
+#b the moment of inertia of every longitudinal beam must be the same
+#c the span/width ratio should be between four and eight
+#d the depth of transverse beams and of longitudinal beams must be the same
+
+## 262 | tag=ES 94 | p=51 | hw=b
+Consider the following statements :
+For an over-reinforced (singly reinforced) rectangular RC section
+1. the lever arm will be less than that for a balanced section
+2. the maximum stress developed by steel would equal the allowable stress in steel.
+3. the maximum stress developed by concrete would equal allowable stress in concrete
+Of these statements
+#a 1 and 2 are correct
+#b 1 and 3 are correct
+#c 2 and 3 are correct
+#d 1, 2, and 3 are correct
+
+## 263 | tag=ES 94 | p=51 | hw=c
+The effective depth of a singly reinforced rectangular beam is 30 cm. The section is over reinforced and the neutral axis is 12 cm below the top. If the maximum stress attained by concrete is 50 kg/cm² and the modular ratio is 18, then the stress developed in steel would be
+#a 1800 kg/cm²
+#b 1600 kg/cm²
+#c 1350 kg/cm²
+#d 1300 kg/cm²
+
+## 264 | tag=ES 94 | p=52 | hw=b
+For plain concrete used in underground works of moderate exposure condition, the minimum cement content (in kg/m³) of the concrete mix would be
+#a 220
+#b 250
+#c 290
+#d 310
+
+## 265 | tag=ES 94 | p=52 | hw=a
+Which one of the following statements about the percentage of tensile steel required to produce a balanced reinforced concrete section is correct ?
+The required percentage of steel
+#a reduces as the yield strength of steel increases.
+#b remains unchanged irrespective of the yield strength of steel.
+#c is the same for a given quality of steel irrespective of whether working stress method is followed or ultimate load method is used.
+#d is only a function of the modulus of elasticity of steel.
+
+## 266 | tag=ES 94 | p=52 | hw=c
+Which of the following are not dependent on the applied load?
+1. Elastic strain
+2. Creep strain
+3. Drying shrinkage strain
+4. Carbonation shrinkage
+Select the correct answer using the codes given below :
+#a 1 and 2
+#b 2 and 3
+#c 3 and 4
+#d 1 and 4
+
+## 267 | tag=ES 94 | p=52 | hw=c
+Marcus correction is introduced as simple correction to
+#a reactions at support of a continuous slab obtained by Westergaard method to allow for corner restraint of slab.
+#b sagging moments of a slab continuous over supports to allow for assistance given by torsion.
+#c moments, obtained by Rankine Grashoff method to allow for corner restraint at corners and for assistance given by torsion.
+#d be applied to the steel area to counteract the negative bending moment at support to take care of stress concentration.
+
+## 268 | tag=ES 94 | p=52 | hw=d
+The radial moment at the boundary of a simply supported circular slab of radius R, subjected to a uniformly distributed load of w will be
+#a wR²/8
+#b wR²/12
+#c 3 wR²/16
+#d zero
+
+## 269 | tag=ES 94 | p=52 | hw=c
+The hoop stress in a dome subjected to uniformly distributed load
+#a is always compressive.
+#b is tensile at sections whose radius vectors are at angles less than 51°51' with the vertical.
+#c is tensile at sections whose radius vectors are at angles greater than 51°51' with the vertical.
+#d is always tensile.
+
+## 270 | tag=ES 94 | p=52 | hw=b
+For the normally used values of material properties and curing conditions, the maximum percentage of loss of prestress in post-tensioned concrete occurs due to
+#a elastic shortening and creep of concrete
+#b creep and shrinkage of concrete
+#c shrinkage of concrete and relaxation of steel
+#d relaxation of steel and elastic shortening of concrete
+
+## 271 | tag=ES 94 | p=52 | hw=a
+Concordant profile represents, for a certain set of external loads to some scale, the
+#a bending moment diagram
+#b Williot-Mohr diagram
+#c shear force diagram
+#d influence line diagram
+
+## 272 | tag=ES 94 | p=52-53 | hw=c
+The loss of prestress due to shrinkage of concrete is the product of
+#a modular ratio and percentage of steel
+#b modulus of elasticity of concrete and shrinkage of concrete
+#c modulus of elasticity of steel and shrinkage of concrete
+#d modular ratio and modulus of elasticity of steel
+
+## 273 | tag=ES 94 | p=53 | hw=a
+For a given grade of steel, the limiting reinforcement index for a singly reinforced beam is proportional to
+#a f_ck
+#b f_y
+#c f_y/f_ck
+#d f_ck/f_y
+
+## 274 | tag=ES 94 | p=53 | hw=d
+While applying the Winter and Pei's method of analysis to folded plates
+#a moment distribution method is used to correct the stresses at the junction of adjacent plates.
+#b span to depth ratio is not restricted.
+#c individual plates are assumed to bend transversally.
+#d displacement of the junction of hipped plate can be ignored if the span/depth ratio is less than 4.
+
+## 275 | tag=ES 95 | p=53 | hw=b
+Minimum clear cover (in mm) to the main steel bars in slab, beam, column and footing respectively are
+#a 10, 15, 20, 25
+#b 15, 25, 40, 75
+#c 20, 25, 30, 40
+#d 20, 35, 40, 75
+
+## 276 | tag=ES 95 | p=53 | hw=c
+The main reinforcement of a RC slab consists of 10 mm bars at 10 cm spacing. If it is desired to replace 10 mm bars by 12 mm bars, then the spacing of 12 mm bars should be
+#a 12 cm
+#b 14 cm
+#c 14.40 cm
+#d 16 cm
+
+## 277 | tag=ES 95 | p=53 | hw=a
+Which one of the following statements is correct ?
+#a Maximum longitudinal reinforcement in an axially loaded short column is 6 % of gross sectional area
+#b Columns with circular section are provided transverse reinforcement of helical type only
+#c Spacing of lateral ties can not be more than 16 times the diameter of tie bar
+#d Longitudinal reinforcement bar need not be in contact with lateral ties
+
+## 278 | tag=ES 95 | p=53 | hw=d
+Torsion resisting capacity of a given RC section
+#a decreases with decrease in stirrup spacing.
+#b decreases with increase in longitudinal bars.
+#c does not depend upon stirrup and longitudinal steels.
+#d increases with the increase in stirrup and longitudinal steels.
+
+## 279 | star | tag=ES 95 | p=53 | hw=b
+If a simply supported concrete beam, prestressed with a force of 2500 kN, is designed by load balancing concept for an effective span of 10 m and to carry a total load of 40 kN/m, the central dip of the cable profile should be
+#a 100 mm
+#b 200 mm
+#c 300 mm
+#d 400 mm
+
+## 280 | tag=ES 95 | p=53 | hw=a
+In case of pre-tensioned RC beams
+#a shrinkage of concrete is of the order of 3 x 10⁻⁴.
+#b relaxation of steel can be ignored.
+#c only one wire can be stretched at a time.
+#d even mild steel can be used for prestressing.
+
+## 281 | tag=ES 95 | p=53 | hw=d
+For prestressed structural elements, high strength concrete is used primarily because
+#a both shrinkage and creep are more.
+#b shrinkage is less but creep is more.
+#c modulus of elasticity and creep values are higher.
+#d of high modulus of elasticity and low creep.
+
+## 282 | tag=ES 95 | p=53-54 | hw=a
+Prestressed concrete is more desirable in case of
+#a cylindrical pipe subjected to internal fluid pressure
+#b cylindrical pipe subjected to external fluid pressure
+#c cylindrical pipe subjected to equal internal and external fluid pressures
+#d cylindrical pipe subject to end pressures
+
+## 283 | tag=ES 95 | p=54 | hw=c
+Yield line theory results in
+#a elastic solution
+#b lower bound solution
+#c upper bound solution
+#d unique solution
+
+## 284 | tag=ES 95 | p=54 | hw=a
+If the nominal shear stress (τ_v) at a section does not exceed the permissible shear stress (τ_c)
+#a minimum shear reinforcement is still provided.
+#b shear reinforcement is provided to resist the nominal shear stress.
+#c no shear reinforcement is provided.
+#d shear reinforcement is provided for the difference of the two.
+
+## 285 | tag=ES 95 | p=54 | hw=c
+Consider the following statements concerning both the working stress design and ultimate strength design of reinforced concrete.
+1. Plane section before bending remains plane after bending
+2. The tensile strength of concrete is ignored
+Of these statements
+#a 1 alone is correct
+#b 2 alone is correct
+#c both 1 and 2 are correct
+#d both 1 and 2 are false
+
+## 286 | tag=ES 95 | p=54 | hw=a
+In limit state design, permissible bond stress in the case of deformed bars is more than that in plain bars by
+#a 60%
+#b 50%
+#c 40%
+#d 25%
+
+## 287 | tag=ES 95 | p=54 | hw=c
+If f_cu and f_y are cube compressive strength of concrete and yield stress of steel respectively and E_s is the modulus of elasticity of steel, for all grades of concrete, the ultimate flexural strain in concrete can be taken as
+#a 0.002
+#b f_cu/1000
+#c 0.0035
+#d (f_y/1.15 E_s ) + 0.002
+
+## 288 | star | tag=ES 95 | p=54 | hw=d
+Limit state of serviceability for deflection including the effects due to creep, shrinkage and temperature occurring after erection of partitions and application of finishes as applicable to floors and roofs is restricted to
+#a Span/150
+#b Span/200
+#c Span/250
+#d Span/350
+
+## 289 | star | tag=ES 95 | p=54 | hw=a
+Shrinkage deflections in case of rectangular beams and slabs can be eliminated by putting
+#a compression steel equal to tensile steel
+#b compression steel more than tensile steel
+#c Compression steel less than tensile steel
+#d compression steel 25% greater than tensile steel
+
+## 290 | tag=ES 95 | p=54 | hw=b
+In case of 2-way slab, the limiting deflection of the slab is
+#a primarily a function of the long span
+#b primarily a function of the short span
+#c independent of long or short span
+#d dependent on both long and short spans
+
+## 291 | tag=ES 95 | p=54 | hw=c
+From limiting deflection point of view, use of high strength steel in RC beam results in
+#a reduction in depth
+#b no change in depth
+#c increase in depth
+#d increase in width
+
+## 292 | tag=ES 95 | p=54-55 | hw=c
+For maximum sagging bending moment at support in a continuous RC beam, live load should be placed on
+#a spans adjacent to the support plus alternate spans
+#b all the spans except the spans adjacent to the support
+#c spans next to the adjacent spans of the support plus alternate spans
+#d spans adjacent to supports only
+
+## 293 | tag=ES 95 | p=55 | hw=c
+Design of one-way RC slabs for concentrated load is done by
+#a using Pigeaud's moment coefficients
+#b taking slab strip of unit width containing the load
+#c taking slab strip of width effective in resisting the load
+#d taking orthogonal slab strips of unit width containing the load
+
+## 294 | tag=ES 95 | p=55 | hw=c
+In Pigeaud's coefficient method for the analysis of an interior panel of a T-beam bridge
+#a notation for coefficients as αx₄ and αy₄ includes suffix 4 since the panel is continuous on all the four edges.
+#b Poisson's ratio of concrete has no contribution.
+#c the applicability is restricted to the case when the wheel load is centrally placed.
+#d the dispersion of load is considered through the wearing coat only.
+
+## 295 | tag=ES 96 | p=55 | hw=d
+A T-beam roof section has the following particulars :
+Thickness of slab — 100 mm
+Width of rib — 300 mm
+Depth of beam — 500 mm
+Centre to centre distance of beams — 3.0 m
+Effective span of beams — 6.0 m
+Distance between points of contraflexure is — 3.60 m
+The effective width of flange of the beam is
+#a 3000 mm
+#b 1900 mm
+#c 1600 mm
+#d 1500 mm
+
+## 296 | tag=ES 96 | p=55 | hw=a
+Match List I with List II regarding the minimum concrete cover to reinforcing steel and select the correct answer using the codes given below the lists:
+List I — List II
+A. For longitudinal reinforcement in columns of size 200 mm and less with 12 mm diameter bars as longitudinal steel — 1. 40 mm or diameter of bar whichever is more
+B. For longitudinal reinforcement in beams — 2. 15 mm or diameter of bar whichever is more
+C. For longitudinal bars in slabs — 3. 25 mm or diameter of bar whichever is more
+D. For longitudinal bars in columns of size more than 200 mm — 4. 25 mm
+Codes:
+#a A-4, B-3, C-2, D-1
+#b A-1, B-2, C-3, D-4
+#c A-1, B-3, C-2, D-4
+#d A-4, B-2, C-3, D-1
+
+## 297 | tag=ES 96 | p=55 | hw=c
+Minimum percentage area of HYSD reinforcement in a 150 mm thick water tank wall is
+#a 0.16
+#b 0.20
+#c 0.23
+#d 0.24
+
+## 298 | tag=ES 96 | p=56 | hw=c
+In a load balanced prestressed concrete beam under self load the cross-section is subjected to
+#a axial stress
+#b bending stress
+#c axial and shear stress
+#d axial and bending stress
+
+## 299 | star | tag=ES 96 | p=56 | hw=d
+A prestressed concrete beam 150 mm x 300 mm supports a live load of 5 kN/m over a simple span of 8 m. It has a parabolic cable having an eccentricity of 75 mm at mid span and zero at the ends. The prestressing force required to maintain the net resultant stress at the bottom fibre at mid span as zero under the action of D.L. + L.L.+ prestress is
+#a 239 kN
+#b 293 kN
+#c 302 kN
+#d 392 kN
+
+## 300 | tag=ES 96 | p=56 | hw=a
+A partially prestressed member is one in which
+#a tensile stresses and cracking are permitted under service loads.
+#b no tensile stresses are permitted under service loads.
+#c mild steel is used in addition to prestressing steel.
+#d tensile stresses are permitted but not cracking at service loads.
+
+## 301 | tag=ES 96 | p=56 | hw=c
+The load carrying capacity of a column designed by working stress method is 500 kN. The collapse load of the column is
+#a 500.0 kN
+#b 662.5 kN
+#c 750.0 kN
+#d 1100.0 kN
+
+## 302 | tag=ES 96 | p=56 | hw=c
+Shear span is defined as the zone where
+#a bending moment is zero
+#b shear force is zero
+#c shear force is constant
+#d bending moment is constant
+
+## 303 | tag=ES 96 | p=56 | hw=a
+Which one of the following statements is correct ?
+#a Shear cracks start due to high diagonal tension in case of beams with their webs and high prestressing force.
+#b Shear design for a prestressed concrete beam is based on elastic theory.
+#c In the zone where bending moment is dominant and shear is insignificant, cracks occur at 20° to 30°.
+#d After diagonal cracking, the mechanics of shear transfer in a prestressed concrete member is very much different from that in reinforced concrete members.
+
+## 304 | tag=ES 96 | p=56 | hw=a
+For ultimate load design of prestressed concrete girders used for bridges, combination of load factors used is (here DL and LL are dead and live loads respectively)
+#a 1.5 D.L. + 2.5 L.L.
+#b 1.0 D.L. + 2.5 L.L.
+#c 1.0 D.L. + 2.0 L.L.
+#d 2.0 D.L. + 2.0 L.L.
+
+## 305 | tag=ES 96 | p=56 | hw=c
+For a pretensioned rectangular plank the uplift at centre on release of wires from anchors due to pretensioning only (force P, eccentricity e) will be
+#a PeL²/6EI
+#b Pe²L/6EI
+#c PeL²/8EI
+#d Pe²L/8EI
+
+## 306 | tag=ES 96 | p=56 | hw=c
+Deflection can be controlled by using the appropriate
+#a aspect ratio
+#b modular ratio
+#c span/depth ratio
+#d water/cement ratio
+
+## 307 | tag=ES 96 | p=56 | hw=b
+In limit state approach, spacing of main reinforcement controls primarily.
+#a collapse
+#b cracking
+#c deflection
+#d durability
+
+## 308 | tag=ES 96 | p=57 | hw=c | fig=57:0.10,0.105,0.415,0.24
+For the section of the beam shown in Fig.14.2, span of the beam = 6.0 m, concrete = M20, steel = Fe415.
+If the section is checked for serviceability limit state of deflection, then it will be found that
+#a the section is unsafe
+#b the section needs revision
+#c the section is safe
+#d it can not be judged from the given data
+
+## 309 | tag=ES 96 | p=57 | hw=b
+Unequal top and bottom reinforcement in a reinforced concrete section leads to
+#a creep deflection
+#b shrinkage deflection
+#c long term deflection
+#d large deflection
+
+## 310 | tag=ES 96 | p=57 | hw=c | fig=57:0.12,0.51,0.41,0.715 | fix=Options are the four stress blocks (a)-(d) of Fig. 14.3.
+A pretensioned plank (depth D₁) is placed over simple supports and additional in situ concrete (depth D₂) is laid on top. What is the probable shape of stress block on hardening of in situ concrete?
+#a Fig. 14.3 (a)
+#b Fig. 14.3 (b)
+#c Fig. 14.3 (c)
+#d Fig. 14.3 (d)
+
+## 311 | tag=ES 96 | p=57 | hw=a
+Design of foundation for a large generator is guided primarily, by
+#a frequency
+#b deformation
+#c strength
+#d stiffness
+
+## 312 | tag=ES 97 | p=57 | hw=d | fig=57:0.50,0.16,0.77,0.31
+A concrete pedestal made of M20 mix is shown in Fig.14.4. The tan α value in this case will be
+#a not less than 3.5
+#b less than or equal to 3.6
+#c grater than 3.6
+#d grater than or equal to 3.6
+
+## 313 | star | tag=ES 97 | p=57 | hw=b
+The reduction coefficient of a reinforced concrete column with an effective length of 4.8 m and size 250 x 300 mm is
+#a 0.80
+#b 0.85
+#c 0.90
+#d 0.95
+
+## 314 | tag=ES 97 | p=57 | hw=b
+Given that
+d = effective depth
+b = width and
+D = overall depth
+the maximum area of compression reinforcement in a beam is
+#a 0.04 bd
+#b 0.04 bD
+#c 0.12 bd
+#d 0.12 bD
+
+## 315 | star | tag=ES 97 | p=57-58 | hw=c
+The final deflection due to all loads including the effects of temperature, creep and shrinkage and measured from as-cast level of supports of floors, roofs and all other horizontal members should not exceed
+#a span/350
+#b span/300
+#c span/250
+#d span/200
+
+## 316 | star | tag=ES 97 | p=58 | hw=a | fig=58:0.24,0.13,0.53,0.255
+Figure 14.5 shows the position of concentrated wheel loads on a bridge deck. For determining the bending moments in the girders by Courbon's theory, the reaction factors are respectively.
+#a 1.80 W, 1.33 W and 0.87 W
+#b 1.73 W, 1.28 W and 0.99 W
+#c 2.00 W, 1.50 W and 0.50 W
+#d 2.00 W, 1.25 W and 0.75 W
+
+## 317 | tag=ES 97 | p=58 | hw=c
+A reinforced concrete slab is 75 mm thick. The maximum size of reinforcement bar that can be used is
+#a 12 mm diameter
+#b 10 mm diameter
+#c 8 mm diameter
+#d 6 mm diameter
+
+## 318 | tag=ES 97 | p=58 | hw=d
+In the design of two-way slab restrained at all edges, torsional reinforcement required is
+#a 0.75 times the area of steel provided at midspan in the same direction
+#b 0.375 times the area of steel provided at midspan in the same direction.
+#c 0.375 times the area of steel provided in the shorter span
+#d Nil
+
+## 319 | tag=ES 97 | p=58 | hw=b
+At the time of initial tensioning, the maximum tensile stress in tendon immediately behind the anchorage shall not exceed.
+#a 50% of the ultimate tensile strength of the wire or bar or strand
+#b 80% of the ultimate tensile strength of the wire or bar or strand
+#c 40% of the ultimate tensile strength of the wire or bar or strand
+#d 60% of the ultimate tensile strength of the wire or bar or strand
+
+## 320 | tag=ES 97 | p=58 | hw=d
+The cable for a prestressed concrete simply supported beam subjected to uniformly distributed load over the entire span should ideally be
+#a placed at the centre of cross-section over the entire span.
+#b placed at some eccentricity over the entire span.
+#c varying lineraly from the centre of cross-section at the ends to maximum eccentricity at the middle section.
+#d parabolic with zero eccentricity at the ends and maximum eccentricity at the centre of the span.
+
+## 321 | tag=ES 97 | p=58 | hw=c
+For a prestressed concrete bridge beam, a minimum clear spacing of the cable or group of cables should be
+#a 25 mm
+#b 25 mm or 6 mm plus the largest size of the aggregate
+#c 40 mm
+#d 50 mm
+
+## 322 | tag=ES 97 | p=58 | hw=c
+Drops are provided in flat slab to resist
+#a bending moment
+#b thrust
+#c shear
+#d torsion
+
+## 323 | tag=ES 97 | p=58 | hw=d
+Consider the following statements:
+Assertion A : The behaviour of an over-reinforced beam is more ductile than that of an under reinforced beam.
+Reason R : Over reinforced beam contains more steel and steel is more ductile than concrete.
+Of these statements
+#a Both A and R are true and R is the correct explanation of A
+#b Both A and R are true but R is not a correct explanation of A
+#c A is true but R is false
+#d A is false but R is true
+
+## 324 | tag=ES 97 | p=59 | hw=a
+Flexural collapse in over reinforced beams is due to
+#a primary compression failure
+#b secondary compression failure
+#c primary tension failure
+#d bond failure
+
+## 325 | star | tag=ES 97 | p=59 | hw=b | fig=59:0.13,0.145,0.42,0.24
+In the P.S.C. beam shown in Fig.14.6, f_ck = 45 Mpa and it supports a u.d.l. of 15 kN/m including self weight. It is prestressed by a parabolic cable carrying an effective prestress of 200 kN. The shear resistance of uncracked section at the support will be
+#a 93.8 kN
+#b 94.5 kN
+#c 94.2 kN
+#d 95.4 kN
+
+## 326 | tag=ES 97 | p=59 | hw=c
+In the case of a P.S.C. beam, to satisfy the Limit State of Serviceability in cracking, match List I with List II and select the correct answer using the codes given below the Lists
+List I — List II
+A. Class 1 structure — 1. No visible cracking; σt<3 N/mm²
+B. Class 2 structure — 2. Concrete Section uncracked; crack width to be calculated to check
+C. Class 3 structure — 3. No cracking under service loads
+Codes:
+#a A-1, B-2, C-3
+#b A-2, B-1, C-3
+#c A-3, B-1, C-2
+#d A-3, B-2, C-1
+
+## 327 | star | tag=ES 97 | p=59 | hw=c
+A reinforced cantilever beam of span 4 m, has a cross-section of 150x500 mm. If checked for lateral stability and deflection, the beam will
+#a fail in deflection only
+#b fail in lateral stability only
+#c fail in both deflection and lateral stability
+#d satisfy the requirements of deflection and lateral stability
+
+## 328 | tag=ES 97 & 98 | p=59 | hw=d
+In an RCC beam, side face reinforcement is provided if its depth exceeds
+#a 300 mm
+#b 500 mm
+#c 700 mm
+#d 750 mm
+
+## 329 | tag=ES 98 | p=59 | hw=d
+The maximum spacing of vertical reinforcement in RCC wall should not exceed
+#a the thickness of wall
+#b 1.5 times the thickness of wall
+#c 2 times the thickness of wall
+#d 3 times the thickness of wall
+
+## 330 | tag=ES 98 | p=59 | hw=c
+In a reinforced concrete retaining wall, a shear key is provided, if the
+#a shear stress in the vertical stem is excessive.
+#b shear force in the toe slab is more than that in the heel slab.
+#c retaining wall is not safe against sliding.
+#d retaining wall is not safe against over turning.
+
+## 331 | tag=ES 98 | p=59 | hw=b
+The magnitude of loss of prestress due to relaxation of steel is in the range of
+#a zero to 1 %
+#b 2 to 8 %
+#c 8 to 12 %
+#d 12 to 14 %
+
+## 332 | tag=ES 98 | p=59-60 | hw=a
+IRC prescribes Coulomb's theory of earth pressure for the design of abutments and wing walls. The ratio of height of centre of pressure above the bottom to the height of the wall is equal to
+#a 0.33
+#b 0.36
+#c 0.39
+#d 0.42
+
+## 333 | tag=ES 98 | p=60 | hw=b
+In the limit state method of design, the failure criterion for reinforced concrete beams and columns is
+#a Maximum principal stress theory
+#b Maximum principal strain theory
+#c Maximum shear stress theory
+#d Maximum strain energy theory
+
+## 334 | tag=ES 98 | p=60 | hw=c
+Combination of partial safety factors for loads under limit state of collapse and limit state of serviceability will be
+#a 1.5 (D.L + L.L) or 1.5 (D.L. + W.L ) or 1.2(D.L. + L.L. + W.L) and D.L + 0.8 (L.L + W.L.)
+#b 1.5 (D.L. +L.L) and D.L + 0.8 (L.L + W.L)
+#c 1.5 (D.L. + L.L) or 1.5 (D.L + W.L) or 1.2 (D.L. + L.L + W.L) and 1.0 (D.L + L.L) or 1.0 (D.L + W.L) or D.L + 0.8 (L.L + W.L)
+#d 1.2 (D.L + L.L + W.L) and 1.0 (D.L + L.L) or 1.0 (D.L + W.L) or D.L + 0.8 (L.L + W.L)
+
+## 335 | tag=ES 98 | p=60 | hw=c
+The bending moment coefficients for continuous RC slabs in IS 456-1978 code is based on
+#a Pigeaud's method
+#b Marcus's method
+#c Yield-line theory
+#d Westergaard's mathematical analysis
+
+## 336 | tag=ES 98 | p=60 | hw=a
+The sum of nodal forces at any yield line intersection in a slab is
+#a zero
+#b infinity
+#c independent of the reinforcement
+#d indeterminate
+
+## 337 | tag=ES 98 | p=60 | hw=c
+The assumption that the plane sections normal before bending remain normal after bending is used
+#a only in the working stress method of design
+#b only in the limit-state method of design
+#c in both working stress and limit-state methods of design
+#d only in the ultimate load method of design
+
+## 338 | tag=ES 98 | p=60 | hw=d
+The ratio of the lateral pressure of the bulk storage material at the time of emptying to that at the time of filling is
+#a less than one
+#b equal to or less than one
+#c equal to one
+#d greater than one
+
+## 339 | tag=ES 98 | p=60 | hw=b
+In the design of prestressed concrete structures, which of the following limit states will come under the limit states of serviceability?
+1. Flexure
+2. Shear
+3. Deflection
+4. Cracking
+Select the correct answer using the codes given below:
+#a 1 and 4
+#b 3 and 4
+#c 2, 3, and 4
+#d 2 and 3
+
+## 340 | tag=ES 99 | p=60 | hw=d
+Given that ϕ' is the angle of internal friction, 'p' is the safe bearing capacity and 'γ' is the unit weight of soil, the minimum depth of foundation of a masonry footing is given by
+#a (P/γ) (1 + sinϕ)/(1 − sinϕ)
+#b (P/γ) [(1 − sinϕ)/(1 + sinϕ)]
+#c (P/γ) [(1 + sinϕ)/(1 − sinϕ)]²
+#d (P/γ) [(1 − sinϕ)/(1 + sinϕ)]²
