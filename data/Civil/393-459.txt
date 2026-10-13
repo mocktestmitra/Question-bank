@@ -1,8 +1,8 @@
 # Transcript of Civil/393-459.pdf (format: see header of data/Civil/1-92.txt)
 # @workbook Civil_QuestionBank_393-459
-# NOTE: p= is the scan page. Each scan shows about one book page plus part of its neighbour, so a question can be read
-# on two consecutive scans; p= gives the scan(s) where it was read. Scan p1 starts at book p392 (start of ch.13).
-
+# NOTE: p= is the scan page. Scan p1 = book p392 (start of ch.13); each scan shows about one book page plus part of its neighbour,
+# so a question can be read on two consecutive scans. Scan p67 = book p458 (ends at ch.15 Q45); book p459 is not in this PDF,
+# so ch.15 may continue beyond Q45.
 @chapter 13 Design of Steel Structures
 
 ## 1 | p=1 | hw=c
@@ -4378,3 +4378,469 @@ Given that ϕ' is the angle of internal friction, 'p' is the safe bearing capaci
 #b (P/γ) [(1 − sinϕ)/(1 + sinϕ)]
 #c (P/γ) [(1 + sinϕ)/(1 − sinϕ)]²
 #d (P/γ) [(1 − sinϕ)/(1 + sinϕ)]²
+
+## 341 | tag=ES 99 | p=61 | hw=d
+Consider the following statements:
+1. At a point of inflection, the embedment length need not exceed the development length 'L_d'
+2. The condition that L_d ≤ (M₁/V + L₀) need not be checked for negative reinforcement
+3. At least one-third of the total negative reinforcement provided must extend beyond the point of inflection for a distance not less than d, or 12ϕ or clear span whichever is larger.
+Which of these statements are correct?
+#a 1,2 and 3
+#b 1 and 2
+#c 1 and 3
+#d 2 and 3
+
+## 342 | tag=ES 99 | p=61 | hw=c
+In a RCC beam of breadth b and overall depth D exceeding 750 mm, side face reinforcement required and the allowable area of maximum tension reinforcement shall be respectively
+#a 0.2 % and 0.02 bD
+#b 0.3 % and 0.03 bD
+#c 0.1 % and 0.04 bD
+#d 0.4 % and 0.01 bD
+
+## 343 | tag=ES 99 | p=61 | hw=d
+In limit state design of reinforced concrete, deflection is computed by using
+#a initial tangent modulus
+#b secant modulus
+#c tangent modulus
+#d short and long-term values of Young's modulus
+
+## 344 | tag=ES 99 | p=61 | hw=b
+As per IS:456-1978 the vertical deflection limit for beams may generally be assumed to be satisfied provided that the ratio of span to effective depth of a continuous beam of span up to 10 m is not to be grater than
+#a 35
+#b 26
+#c 20
+#d 18
+
+## 345 | tag=ES 99 | p=61 | hw=a
+Negative moment in reinforced concrete beams at the location of supports is generally much higher than the positive span moment. This is primarily due to curvature at the supports being
+#a very high
+#b very low
+#c zero
+#d of reversing nature
+
+## 346 | tag=ES 99 | p=61 | hw=b
+Match List I with List II and select the correct answer using the codes given below the lists:
+List I (Stress) — List II (Nature)
+A. Bond stress — 1. Zero at centre of cross-section
+B. Thermal stress — 2. Circumferential stress
+C. Hoop stress — 3. Linear stress
+D. Torsional stress — 4. Longitudinal shear stress
+5. Zero on the surface
+Codes:
+#a A-5, B-2, C-4, D-1
+#b A-4, B-3, C-2, D-1
+#c A-4, B-5, C-2, D-3
+#d A-1, B-3, C-4, D-5
+
+## 347 | tag=ES 99 | p=61 | hw=b
+In the conventional prestressing, the diagonal tension in concrete
+#a Increases
+#b Decreases
+#c does not change
+#d may increase or decrease
+
+## 348 | tag=ES 99 | p=61-62 | hw=c
+Beam sections of reinforced concrete designed in accordance with ultimate strength or limit state design approach, as compared to section designed by working stress method for the same conditions of load and span, and the same width, usually have
+#a a larger depth and smaller amount reinforcement
+#b the same depth and same reinforcement
+#c smaller depth and more reinforcement
+#d same depth as that of a deep beam
+
+## 349 | tag=ES 99 | p=62 | hw=d
+A doubly reinforced beam is considered less economical than a singly reinforced beam because
+#a tensile steel required is more than that for a balanced section
+#b shear reinforcement is more
+#c concrete is not stressed to its full value
+#d compressive steel is under-stressed
+
+## 350 | tag=ES 99 | p=62 | hw=d
+The ultimate strength of the steel used for prestressing is nearly
+#a 250 N/mm²
+#b 415 N/mm²
+#c 500 N/mm²
+#d 1500 N/mm²
+
+## 351 | tag=ES 94 | p=62 | check=No handwritten answer mark found for this question. | fix=Assertion-Reason question: options are the common codes printed once under 'Directions' before Q351.
+Assertion A: In the working stress method, the stress in compression steel is taken as 1.5 x modular ratio x stress in surrounding concrete.
+Reason R: The modulus of elasticity of concrete in compression is only two-thirds of that in tension.
+#a Both A and R are true and R is the correct explanation of A
+#b Both A and R are true but R is not a correct explanation of A
+#c A is true but R is false
+#d A is false but R is true
+
+## 352 | tag=ES 95 | p=62 | check=No handwritten answer mark found for this question. | fix=Assertion-Reason question: options are the common codes printed once under 'Directions' before Q351.
+Assertion A: Losses in prestress of pretensioned beams are more than the losses in post-tensioned beams.
+Reason R: This is partially due to the effect of elastic shortening.
+#a Both A and R are true and R is the correct explanation of A
+#b Both A and R are true but R is not a correct explanation of A
+#c A is true but R is false
+#d A is false but R is true
+
+## 353 | tag=ES 99 | p=62 | check=No handwritten answer mark found for this question. | fix=Assertion-Reason question: options are the common codes printed once under 'Directions' before Q351.
+Assertion A: The development length for HYSD Fe 415 bars is less than that for mild steel plain bars.
+Reason R: The permissible bond stress for HYSD Fe 415 bars is more than that for mild steel plain bars.
+#a Both A and R are true and R is the correct explanation of A
+#b Both A and R are true but R is not a correct explanation of A
+#c A is true but R is false
+#d A is false but R is true
+
+## 354 | tag=ES 99 | p=62 | check=No handwritten answer mark found for this question. | fix=Assertion-Reason question: options are the common codes printed once under 'Directions' before Q351.
+Assertion A: Bridges designed for class-AA loading should be checked for class-A loading also.
+Reason R: Under certain conditions, heavier stresses may be obtained for class-A loading.
+#a Both A and R are true and R is the correct explanation of A
+#b Both A and R are true but R is not a correct explanation of A
+#c A is true but R is false
+#d A is false but R is true
+
+@chapter 15 Airport Engineering
+
+## 1 | star | p=63 | hw=c
+As per ICAO recommendation, minimum width of safety area for instrumental runway should be
+#a 78 m
+#b 150 m
+#c 300 m
+#d 450 m
+
+## 2 | star | p=63 | hw=a
+As per ICAO, for A, B, and C type of airports, maximum effective, transverse and longitudinal grades in percentage respectively are
+#a 1.0, 1.5 and 1.5
+#b 1.0, 1.5 and 2.0
+#c 1.5, 1.5 and 2.0
+#d 2.0, 2.0 and 2.0
+
+## 3 | p=63 | hw=a
+As per ICAO recommendation, the rate of change of longitudinal gradient per 30 m length of vertical curve for A and B type of airports is limited to a maximum of
+#a 0.1 %
+#b 0.2 %
+#c 0.3 %
+#d 0.4 %
+
+## 4 | p=63 | hw=a
+Assertion A : The ratio of arriving and departing aircrafts influences the airport capacity:
+Reason R :Landing operation is generally given priority over the taking off operation.
+Select your answer based on the coding system given below:
+#a Both A and R are true and R is the correct explanation of A
+#b Both A and R are true and R is not the correct explanation of A
+#c A is true but R is false.
+#d A is false but R is true.
+
+## 5 | p=63 | hw=c
+An airport has 4 gates. If the weighted average gate occupancy time is 30 minutes and gate utilisation factor is 0.5, then the capacity of the gate will be
+#a 1 aircraft per hour
+#b 2 aircrafts per hour
+#c 4 aircrafts per hour
+#d 16 aircrafts per hour
+
+## 6 | star | p=63 | hw=b
+The capacity of a gate which is available to all classes of aircraft as per details given in Table 15.1 will be
+Table 15.1
+Aircraft class | Mix % | Average Occupancy Time (Minutes)
+1 | 10 | 20
+2 | 30 | 40
+3 | 60 | 60
+#a 0.01 aircraft per minute
+#b 0.02 aircraft per minute
+#c 0.03 aircraft per minute
+#d 0.04 aircraft per minute
+
+## 7 | p=64 | hw=d
+The capacity of parallel runway pattern depends upon
+#a weather conditions and navigational aids available
+#b lateral spacing between two runways and weather conditions
+#c lateral spacing between two runways and navigational aids available
+#d lateral spacing between two runways, weather conditions and navigational aids available.
+
+## 8 | p=64 | hw=d
+The engine failure case for determining the basic runway length may require
+#a only clearway
+#b only stopway
+#c either a clearway or a stopway
+#d either a clearway or a stopway or both
+
+## 9 | p=64 | hw=c
+The minimum width of clearway is
+#a 50 m
+#b 100 m
+#c 150 m
+#d 250 m
+
+## 10 | star | p=64 | hw=a
+If the monthly mean of average daily temperature for the hottest month of the year is 25° C and the monthly mean of the maximum daily temperature of the same month of the year is 46° C, the airport reference temperature is
+#a 32°C
+#b 35.5°C
+#c 48°C
+#d 25°C
+
+## 11 | star | p=64 | hw=a
+Consider the following statements regarding ICAO recommendation for correction to basic runway length
+1. The basic runway length should be increased at the rate of 7 percent per 300 m rise in elevation above the mean sea level.
+2. The basic runway length after having been corrected for elevation should be further increased at the rate of 1 percent for every 1°C rise in airport reference temperature above the standard atmospheric temperature at that elevation.
+3. The runway length after having been corrected for elevation and temperature should be further increased at the rate of 20% for every 1 percent of effective gradient.
+Of these statements
+#a 1 and 2 are correct
+#b 2 and 3 are correct
+#c 1 and 3 are correct
+#d 1, 2 and 3 are correct
+
+## 12 | star | p=64 | hw=b
+The total length of a runway is 1000 m. The elevation at distance 0,200 m, 400 m, 600 m, 800 m and 1000 m are 100.0 m, 99.2 m, 101.0 m, 101.8 m, 101.4 m and 101.0 m respectively. The effective gradient of runway will be.
+#a 0.10 %
+#b 0.26%
+#c 0.43 %
+#d 0.65 %
+
+## 13 | star | p=64 | hw=c
+The length of runway under standard conditions is 2000 m. The elevation of airport site is 300 m. Its reference temperature is 33.05°C. If the runway is to be constructed with an effective gradient of 0.25 percent, the corrected runway length will be
+#a 2500 m
+#b 2600 m
+#c 2700 m
+#d 2800 m
+
+## 14 | star | p=64 | hw=d
+As per ICAO, the minimum basic runway length for A and E type of airport will be
+#a 1500 m and 600 m
+#b 2100 m and 750 m
+#c 1500 m and 750 m
+#d 2100 m and 600 m
+
+## 15 | p=64 | hw=d
+Zero fuel weight of an aircraft is:
+#a equal to empty operating weight
+#b equal to maximum landing weight
+#c less than empty operating weight
+#d equal to sum of empty operating weight and the maximum pay load.
+
+## 16 | p=64-65 | hw=d
+Match List I with List II and select the correct answer using the codes given below the lists.
+List I — List II
+A. Elevator — 1. It controls yawing
+B. Rudder — 2. It controls rolling
+C. Aileron — 3. It controls pitching
+Codes:
+#a A-1, B-2, C-3
+#b A-2, B-3, C-1
+#c A-2, B-1, C-3
+#d A-3, B-1, C-2
+
+## 17 | star | p=65 | hw=a
+The cruising speed of the aircraft is 500 kmph. If there is a head wind of 50 kmph, then the air speed and ground speed of the aircraft respectively will be
+#a 450 kmph and 500 kmph
+#b 500 kmph and 450 kmph
+#c 450 kmph and 450 kmph
+#d 500 kmph and 500 kmph
+
+## 18 | p=65 | hw=b | fix=Option c printed as A-2, B-3, C-2 (2 repeated); book misprint kept as printed.
+Match List I with List II for a Boeing aircraft and select the correct answer using the codes given below the lists.
+List I — List II
+A. Wheel base — 1. 6.62 m
+B. Gear tread — 2. 17.70 m
+C. Minimum turning radius — 3. 32.70 m
+Codes:
+#a A-1, B-2, C-3
+#b A-2, B-1, C-3
+#c A-2, B-3, C-2
+#d A-3, B-1, C-2
+
+## 19 | p=65 | hw=c
+As per ICAO, for airports serving big aircrafts, the crosswind component should not exceed
+#a 15 kmph
+#b 25 kmph
+#c 35 kmph
+#d 45 kmph
+
+## 20 | p=65 | hw=b
+Calm period is the percentage of time during which wind intensity is less than
+#a 4.8 kmph
+#b 6.4 kmph
+#c 8.0 kmph
+#d 9.6 kmph
+
+## 21 | p=65 | hw=c
+For determining the basic runway length, the landing case requires that aircraft should come to a stop within p % of the landing distance. The value of p is
+#a 40 %
+#b 50 %
+#c 60 %
+#d 75 %
+
+## 22 | star | p=65 | hw=b
+According to ICAO, all markings on the runways are
+#a Yellow
+#b White
+#c Black
+#d Red
+
+## 23 | p=65 | hw=b
+Runway threshold is indicated by a series of parallel lines starting from a distance of
+#a 3 m from runway end
+#b 6 m from runway end
+#c 10 m from runway end
+#d 15 m from runway end
+
+## 24 | p=65 | hw=b
+The width and interval of transverse centre line bars along the extended centre line of runway, in approach lighting system are
+#a 3 m and 30 m
+#b 4.2 m and 30 m
+#c 4.2 m and 50 m
+#d 3 m and 45 m
+
+## 25 | star | p=65 | hw=b
+In Intrumental landing system, the middle markers are located
+#a along the extended centre line of runway end
+#b about 1 km. ahead of the runway threshold
+#c at the runway threshold
+#d about 7 km. ahead of the runway threshold
+
+## 26 | p=65-66 | hw=d
+The size of landing area for multiengined helicopters operating under IFR conditions is
+#a 22.5 m x 22.5 m
+#b 30 m x 30 m
+#c 22.5 m x 30 m
+#d 60 m x 120 m
+
+## 27 | p=66 | hw=c
+The centre to centre spacing of heliport lighting along the periphery of landing and take off area should be
+#a 2.5 m
+#b 5.0 m
+#c 7.5 m
+#d 10.0 m
+
+## 28 | p=66 | hw=c
+The slope of the obstruction clearance line from the boundary of the heliport should be
+#a 1:2
+#b 1:5
+#c 1:8
+#d 1:40
+
+## 29 | p=66 | hw=a
+Assertion A : Airport capacity during IFR conditions is usually less than that during VFR conditions.
+Reason R: During clear weather condition (VFR), the aircrafts on final approach to runway can be spaced closer during poor visibility conditions.
+Select your answer based on the coding system given below:
+#a Both A and R are true and R is the correct explanation of A
+#b Both A and R are true but R is not the correct explanation of A
+#c A is true but R is false
+#d A is false but R is true
+
+## 30 | star | p=66 | hw=c
+Assertion A: The width of a taxiway is smaller than the runway width.
+Reason R:The speed of the aircraft on a taxiway is greater than that on runway.
+Select your answer based on coding system given below
+#a Both A and R are true and R is the correct explanation of A
+#b Both A and R are true but R is not the correct explanation of A
+#c A is true but R is false
+#d A is false but R is true
+
+## 31 | p=66 | hw=c
+For supersonic transport aircraft, the minimum turning radius of taxiway is
+#a 60 m
+#b 120 m
+#c 180 m
+#d 240 m
+
+## 32 | p=66 | hw=b
+If d is the deceleration in m/sec² and V is the speed in kmph, then the stopping distance of an aircraft is given by
+#a V²/12.75 d
+#b V²/25.5 d
+#c V²/51 d
+#d V²/125 d
+
+## 33 | p=66 | hw=b
+As per UK design criteria, if LCN of aircraft is between 1.25 to 1.5 times the LCN of pavement, then the number of movements allowed are
+#a Zero
+#b 300
+#c 3000
+#d Unrestricted
+
+## 34 | p=66 | hw=a
+Which of the following is an example of failure in flexible pavements ?
+#a Alligator cracking
+#b Mud pumping
+#c Warping cracks
+#d Shrinkage cracks
+
+## 35 | p=66 | hw=b
+The main disadvantage of angle nose out parking configuration of aircraft is that the
+#a aircraft rear loading door is far away from terminal building.
+#b hot blast is directed towards the terminal building
+#c overall apron area required is more
+#d all the above
+
+## 36 | p=66 | hw=b
+Which of the following is used for servicing and repairs of the aircraft ?
+#a Apron
+#b Hanger
+#c Terminal building
+#d holding apron
+
+## 37 | star | p=67 | hw=b
+The slope of the transitional surface for A, B and C type of runway shall be
+#a 1:5
+#b 1:7
+#c 1:10
+#d 1:12
+
+## 38 | star | p=67 | hw=b
+The length of clear zone for none instrument runway of a small aircraft is
+#a 150 m
+#b 300 m
+#c 600 m
+#d 750 m
+
+## 39 | star | p=67 | hw=b
+In approach areas of runways equipped with instrumental landing facilities any object within 4.5 km distance from runway end shall be considered as an obstruction if its height is more than
+#a 20 m
+#b 30 m
+#c 45 m
+#d 51 m
+
+## 40 | tag=ES 97 | p=67 | hw=c
+Maximum gross take-off weight of an aircraft is
+#a equal to the maximum structural landing weight
+#b less than the maximum structural landing weight
+#c more than the maximum structural landing weight
+#d equal to the empty operating weight plus the payload
+
+## 41 | tag=ES 97 | p=67 | hw=d
+Consider the following statements:
+Wind rose diagram is used for the purposes of
+1. runway orientation
+2. estimating the runway capacity
+3. geometric design of holding apron
+Of these statements
+#a 1 and 2 are correct
+#b 2 and 3 are correct
+#c 1 and 3 are correct
+#d 1 alone is correct
+
+## 42 | tag=ES 97 | p=67 | hw=d
+Which of the following factors are taken into account for estimating the runway length required for aircraft landing?
+1. Normal maximum temperature
+2. Airport elevation
+3. Maximum landing weight
+4. Effective runway gradient
+Select the correct answer using the codes given below
+Codes:
+#a 1, 2, 3 and 4
+#b 1, 3, and 4
+#c 2 and 3
+#d 1, 2 and 4
+
+## 43 | tag=ES 98 | p=67 | hw=b
+In an airport, if 4 groups of 5 gates each located well-separated are considered for traffic and the future to present traffic ratio is 3, then the total requirement of future gates will be
+#a 32
+#b 36
+#c 44
+#d 68
+
+## 44 | tag=ES 98 | p=67 | hw=a
+Castor angle is defined as the angle
+#a formed by the longitudinal axis of the aircraft and the direction of movement of the nose gear
+#b between the direction of wind and the longitudinal axis of the runway
+#c between the true speed of the aircraft and the crosswind component
+#d between the horizontal and the fuselage axis
+
+## 45 | star | tag=ES 99 | p=67 | hw=c
+The runway length after correcting for elevation and temperature is 2845 m. If the effective gradient on runway is 0.5 percent then the revised runway length will be
+#a 2845 m
+#b 2910 m
+#c 3030 m
+#d 3130 m
