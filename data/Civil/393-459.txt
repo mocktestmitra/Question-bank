@@ -1774,3 +1774,691 @@ Reason R : Bending stresses in compression and tension flanges are assumed to be
 #b Both A and R are true but R is not a correct explanation of A
 #c A is true but R is false
 #d A is false but R is true
+
+@chapter 14 Concrete Technology and Design of Concrete Structures
+
+## 1 | p=27 | hw=c
+To determine the modulus of rupture, the size of test specimen used is
+#a 150 × 150 × 500 mm
+#b 100 × 100 × 700 mm
+#c 150 × 150 × 700 mm
+#d 100 × 100 × 500 mm
+
+## 2 | p=27 | hw=b
+The property of fresh concrete, in which the water in the mix tends to rise to the surface while placing and compacting, is called
+#a segregation
+#b bleeding
+#c bulking
+#d creep
+
+## 3 | p=27 | hw=d
+Select the incorrect statement
+#a Lean mixes bleed more as compared to rich ones.
+#b Bleeding can be minimized by adding pozzuolana finer aggregate.
+#c Bleeding can be increased by addition of calcium chloride.
+#d none of the above
+
+## 4 | p=27 | hw=a
+The property of the ingredients to separate from each other while placing the concrete is called
+#a segregation
+#b compaction
+#c shrinkage
+#d bulking
+
+## 5 | p=27 | hw=c
+Workability of concrete is directly proportional to
+#a aggregate cement ratio
+#b time of transit
+#c grading of the aggregate
+#d all of above
+
+## 6 | star | p=27 | hw=a
+Workability of concrete is inversely proportional to
+#a time of transit
+#b water-cement ratio
+#c the air in the mix
+#d size of aggregate
+
+## 7 | p=27 | hw=b
+Approximate value of shrinkage strain in concrete, is
+#a 0.003
+#b 0.0003
+#c 0.00003
+#d 0.03
+
+## 8 | star | p=27 | hw=a
+Air entrainment in the concrete increases
+#a workability
+#b strength
+#c the effects of temperature variation
+#d the unit weight
+
+## 9 | star | p=27 | hw=b
+The relation between modulus of rupture f_cr, splitting strength f_cs and direct tensile strength f_ct is given by
+#a f_cr = f_cs = f_ct
+#b f_cr > f_cs > f_ct
+#c f_cr < f_cs < f_ct
+#d f_cs > f_cr > f_ct
+
+## 10 | p=27-28 | hw=b | check=Handwritten 'b' overlaps the large chapter number '14' printed in the margin; read as 'b'.
+The approximate value of the ratio between direct tensile strength and flexural strength is
+#a 0.33
+#b 0.5
+#c 0.75
+#d 1.0
+
+## 11 | p=28 | hw=b
+Strength of concrete increases with
+#a increase in water-cement ratio
+#b increase in fineness of cement
+#c decrease in curing time
+#d decrease in size of aggregate
+
+## 12 | p=28 | hw=c
+The relation between modulus of rupture f_cr and characteristic strength of concrete f_ck is given by
+#a f_cr = 0.35√f_ck
+#b f_cr = 0.5√f_ck
+#c f_cr = 0.7√f_ck
+#d f_cr = 1.2√f_ck
+#note where f_cr and f_ck are in N/mm²
+
+## 13 | p=28 | hw=b
+The compressive strength of 100 mm cube as compared to 150 mm cube is always
+#a less
+#b more
+#c equal
+#d none of the above
+
+## 14 | tag=ES 97 | p=28 | hw=a
+According to IS : 456 –1978, the modulus of elasticity of concrete E_c (in N/mm²) can be taken as
+#a E_c = 5700√f_ck
+#b E_c = 570√f_ck
+#c E_c = 5700f_ck
+#d E_c = 700√f_ck
+#note where f_ck is the characteristic strength in N/mm²
+
+## 15 | p=28 | hw=a
+Increase in the moisture content in concrete
+#a reduces the strength
+#b increases the strength
+#c does not change the strength
+#d all of the above
+
+## 16 | p=28 | hw=c
+As compared to ordinary portland cement, use of pozzuolanic cement
+#a reduces workability
+#b increases bleeding
+#c increases shrinkage
+#d increases strength
+
+## 17 | p=28 | hw=b
+Admixtures which cause early setting, and hardening of concrete are called
+#a workability admixtures
+#b accelerators
+#c retarders
+#d air entraining agents
+
+## 18 | p=28 | hw=a
+The most commonly used admixture which prolongs the setting and hardening time is
+#a gypsum
+#b calcium chloride
+#c sodium silicate
+#d all of the above
+
+## 19 | p=28 | hw=b
+The percentage of voids in cement is approximately
+#a 25%
+#b 40%
+#c 60%
+#d 80%
+
+## 20 | p=28 | hw=c
+The strength of concrete after one year as compared to 28 days strength is about
+#a 10 to 15% more
+#b 15 to 20% more
+#c 20 to 25% more
+#d 25 to 50% more
+
+## 21 | p=28 | hw=a
+As compared to ordinary portland cement, high alumina cement has
+#a higher initial setting time but lower final setting time
+#b lower initial setting time but higher final setting time
+#c higher initial and final setting times
+#d lower initial and final setting times
+
+## 22 | p=28 | hw=a
+Modulus of rupture of concrete is a measure of
+#a flexural tensile strength
+#b direct tensile strength
+#c compressive strength
+#d split tensile strength
+
+## 23 | p=29 | hw=a
+In order to obtain the best workability of concrete, the preferred shape of aggregate is
+#a rounded
+#b elongated
+#c angular
+#d all of the above
+
+## 24 | p=29 | hw=b
+The effect of adding calcium chloride in concrete is
+i) to increase shrinkage
+ii) to decrease shrinkage
+iii) to increase setting time
+iv) to decrease setting time
+The correct answer is
+#a (i) and (iii)
+#b (i) and (iv)
+#c (ii) and (iii)
+#d (ii) and (iv)
+
+## 25 | p=29 | hw=b
+Bulking of sand is maximum if moisture content is about
+#a 2 %
+#b 4 %
+#c 6 %
+#d 10 %
+
+## 26 | p=29 | hw=a
+Finer grinding of cement
+#a affects only the early development of strength
+#b affects only the ultimate strength
+#c both (a) and (b)
+#d does not affect the strength
+
+## 27 | p=29 | hw=b
+Poisson's ratio for concrete
+#a remains constant
+#b increases with richer mixes
+#c decreases with richer mixes
+#d none of the above
+
+## 28 | p=29 | hw=a
+1% of voids in a concrete mix would reduce its strength by about
+#a 5 %
+#b 10 %
+#c 15 %
+#d 20 %
+
+## 29 | star | p=29 | hw=a
+The fineness modulus of fine aggregate is in the range of
+#a 2.0 to 3.5
+#b 3.5 to 5.0
+#c 5.0 to 7.0
+#d 6.0 to 8.5
+
+## 30 | star | p=29 | hw=b
+The factor of safety for
+#a steel and concrete are same
+#b steel is lower than that for concrete
+#c steel is higher than that for concrete
+#d none of the above
+
+## 31 | star | p=29 | hw=b
+Examine the following statements :
+i) Factor of safety for steel should be based on its yield stress.
+ii) Factor of safety for steel should be based on its ultimate stress.
+iii) Factor of safety for concrete should be based on its yield stress.
+iv) Factor of safety for concrete should be based on its ultimate stress.
+The correct statements are
+#a (i) and (iii)
+#b (i) and (iv)
+#c (ii) and (iii)
+#d (ii) and (iv)
+
+## 32 | p=29 | hw=c
+For a reinforced concrete section, the shape of shear stress diagram is
+#a wholly parabolic
+#b wholly rectangular
+#c parabolic above neutral axis and rectangular below neutral axis
+#d rectangular above neutral axis and parabolic below neutral axis
+
+## 33 | p=29 | hw=c
+Diagonal tension in a beam
+#a is maximum at neutral axis
+#b decreases below the neutral axis and increases above the neutral axis
+#c increases below the neutral axis and decreases above the neutral axis
+#d remains same
+
+## 34 | star | p=29 | hw=b
+If a beam fails in bond, then its bond strength can be increased most economically by
+#a increasing the depth of beam
+#b using thinner bars but more in number
+#c using thicker bars but less in number
+#d providing vertical stirrups
+
+## 35 | p=29 | hw=c
+If nominal shear stress τ_v exceeds the design shear strength of concrete τ_c, the nominal shear reinforcement as per IS : 456-1978 shall be provided for carrying a shear stress equal to
+#a τ_v
+#b τ_c
+#c τ_v − τ_c
+#d τ_v + τ_c
+
+## 36 | p=29-30 | hw=c
+If the depth of actual neutral axis in a beam is more than the depth of critical neutral axis, then the beam is called
+#a balanced beam
+#b under-reinforced beam
+#c over-reinforced beam
+#d none of the above
+
+## 37 | p=30 | hw=a | fix=Question number is partly lost in the binding on scan p30; read from sequence.
+If the depth of neutral axis for a singly reinforced rectangular section is represented by kd in working stress design, then the value of k for balanced section
+#a depends on σ_st only
+#b depends on σ_cbc only
+#c depends on both σ_st and σ_cbc
+#d is independant of both σ_st and σ_cbc
+#note where d is the effective depth, σ_st is permissible stress in steel in tension and σ_cbc is permissible stress in concrete in bending compression.
+
+## 38 | p=30 | hw=b | fix=Question number is partly lost in the binding on scan p30; read from sequence.
+If the permissible stress in steel in tension is 140 N/mm², then the depth of neutral axis for a singly reinforced rectangular balanced section will be
+#a 0.35 d
+#b 0.40 d
+#c 0.45 d
+#d dependent on grade of concrete also
+
+## 39 | p=30 | check=No handwritten answer mark found for this question. | fix=Question number is partly lost in the binding on scan p30; read from sequence.
+Modulus of elasticity of steel as per IS : 456-1978 shall be taken as
+#a 20 kN/cm²
+#b 200 kN/cm²
+#c 200kN/mm²
+#d 2 × 10⁶ N/cm²
+
+## 40 | p=30 | check=Margin mark beside this question looks like '?' (or '7'), not a clear a-d letter; no answer mark recorded. | fix=Question number is partly lost in the binding on scan p30; read from sequence.
+Minimum grade of concrete to be used in reinforced concrete as per IS:456-1978 is
+#a M 15
+#b M 20
+#c M 10
+#d M 25
+
+## 41 | p=30 | hw=d | fix=Question number is partly lost in the binding on scan p30; read from sequence.
+For concreting of heavily reinforced sections without vibration, the workability of concrete expressed as compacting factor should be
+#a 0.75 – 0.80
+#b 0.80 – 0.85
+#c 0.85 – 0.92
+#d above 0.92
+
+## 42 | p=30 | hw=c
+Maximum quantity of water needed per 50 kg of cement for M 15 grade of concrete is
+#a 28 litres
+#b 30 litres
+#c 32 litres
+#d 34 litres
+
+## 43 | p=30 | hw=b
+In case of hand mixing of concrete, the extra cement to be added is
+#a 5%
+#b 10%
+#c 15%
+#d 20%
+
+## 44 | p=30 | hw=a
+For walls, columns and vertical faces of all structural members, the form work is generally removed after
+#a 24 to 48 hours
+#b 3 days
+#c 7 days
+#d 14 days
+
+## 45 | p=30 | hw=c
+The individual variation between test strength of sample should not be more than
+#a ± 5% of average
+#b ± 10% of average
+#c ± 15% of average
+#d ± 20% of average
+
+## 46 | tag=ES 99 | p=30 | hw=b
+One of the criteria for the effective width of flange of T-beam is
+b_f = l₀/6 + b_w + 6D_f
+In above formula, l₀ signifies
+#a effective span of T- beam
+#b distance between points of zero moments in the beam
+#c distance between points of maximum moments in the beam
+#d clear span of the T-beam
+
+## 47 | p=30 | hw=a
+For a cantilever of effective depth of 0.5 m, the maximum span to satisfy vertical deflection limit is
+#a 3.5 m
+#b 4 m
+#c 4.5 m
+#d 5 m
+
+## 48 | p=31 | hw=b
+For a simply supported beam of span 15 m, the minimum effective depth to satisfy the vertical deflection limits should be
+#a 600 mm
+#b 750 mm
+#c 900 mm
+#d more than 1 m
+
+## 49 | p=31 | hw=b
+For a continuous slab of 3 m × 3.5 m size, the minimum overall depth of slab to satisfy vertical deflection limits is
+#a 50 mm
+#b 75 mm
+#c 100 mm
+#d 120 mm
+
+## 50 | p=31 | hw=c
+According to IS : 456-1978, the fiexural strength of concrete is
+#a directly proportional to compressive strength
+#b inversely proportional to compressive strength
+#c directly proportional to square root of compressive strength
+#d inversely proportional to square root of compressive strength
+
+## 51 | p=31 | hw=c
+According to IS : 456-1978, the column or the strut is the member whose effective length is greater than
+#a the least lateral dimension
+#b 2 times the least lateral dimension
+#c 3 times the least lateral dimension
+#d 4 times the least lateral dimension
+
+## 52 | p=31 | hw=a
+According to IS : 456- 1978, minimum slenderness ratio for a short column is
+#a less than 12
+#b less than 18
+#c between 18 and 24
+#d more than 24
+
+## 53 | p=31 | hw=c
+Lap length in compression shall not be less than
+#a 15 ϕ
+#b 20 ϕ
+#c 24 ϕ
+#d 30 ϕ
+#note where ϕ is diameter of bar
+
+## 54 | p=31 | hw=b
+The minimum cover in a slab should neither be less than the diameter of bar nor less than
+#a 10 mm
+#b 15 mm
+#c 25 mm
+#d 13 mm
+
+## 55 | p=31 | fix=Right ends of some lines are lost in the binding; read across the overlapping scans p31 and p32. | hw=d
+For a longitudinal reinforcing bar in a column, the minimum cover shall neither be less than the diameter of bar nor less than
+#a 15 mm
+#b 25 mm
+#c 30mm
+#d 40 mm
+
+## 56 | p=31 | fix=Right ends of some lines are lost in the binding; read across the overlapping scans p31 and p32. | hw=d
+The ratio of the diameter of reinforcing bars and the slab thickness is
+#a 1/4
+#b 1/5
+#c 1/6
+#d 1/8
+
+## 57 | p=31 | fix=Right ends of some lines are lost in the binding; read across the overlapping scans p31 and p32. | hw=c
+According to IS: 456-1978, the maximum reinforcement in a column is
+#a 2 %
+#b 4 %
+#c 6 %
+#d 8 %
+
+## 58 | p=31 | fix=Right ends of some lines are lost in the binding; read across the overlapping scans p31 and p32. | hw=b
+The percentage of reinforcement in case of slabs, when high strength deformed bars are used is not less than
+#a 0.15
+#b 0.12
+#c 0.30
+#d 1.00
+
+## 59 | p=31 | check=Question stem partly lost in the binding; read as "is correct ?" ('i' of 'is' at line end, 'correct ?' on the next line). | hw=d
+Which of the following statements is correct ?
+#a Minimum cross sectional area of longitudinal reinforcement in a column is 0.8%.
+#b Spacing of longitudinal bars measured along the periphery of column should not exceed 300 mm.
+#c Reinforcing bars in a column should not be less than 12 mm in diameter.
+#d The number of longitudinal bars provided in a circular column should not be less than four.
+
+## 60 | p=31-32 | hw=d
+Which of the following statements is correct ?
+#a Higher Vee-Bee time shows workability.
+#b Higher slump shows higher workability.
+#c Higher compacting factor shows higher workability.
+#d none of the above
+
+## 61 | p=32 | hw=d | fix=Question number is lost in the binding on scans p31/p32; read from sequence.
+Minimum pitch of transverse reinforcement in a column is
+#a the least lateral dimension of the member
+#b sixteen times the smallest diameter of longitudinal reinforcement bar to be tied
+#c forty-eight times the diameter of transverse reinforcement
+#d lesser of the above three values
+
+## 62 | p=32 | hw=c | fix=Question number is lost in the binding on scans p31/p32; read from sequence.
+Maximum distance between expansion joints in structures as per IS : 456 - 1978 is
+#a 20 m
+#b 30 m
+#c 45 m
+#d 60 m
+
+## 63 | p=32 | hw=c | fix=Question number is lost in the binding on scans p31/p32; read from sequence.
+A continuous beam is deemed to be a deep beam when the ratio of effective span to overall depth (l/D) is less than
+#a 1.5
+#b 2.0
+#c 2.5
+#d 3.0
+
+## 64 | p=32 | hw=b | fix=Question number is lost in the binding on scans p31/p32; read from sequence.
+Critical section for shear in case of flat slabs is at a distance of
+#a effective depth of slab from periphery of column/drop panel
+#b d/2 from periphery of column/capital/ drop panel
+#c at the drop panel of slab
+#d at the periphery of column
+
+## 65 | p=32 | hw=b | fix=Question number is lost in the binding on scans p31/p32; read from sequence.
+Minimum thickness of load bearing RCC wall should be
+#a 50 mm
+#b 100 mm
+#c 150 mm
+#d 200 mm
+
+## 66 | p=32 | hw=b | fix=Question number is lost in the binding on scans p31/p32; read from sequence.
+If the storey height is equal to length of RCC wall, the percentage increase in strength is
+#a 0
+#b 10
+#c 20
+#d 30
+
+## 67 | p=32 | hw=b
+In reinforced concrete footing on soil, the minimum thickness at edge should not be less than
+#a 100 mm
+#b 150 mm
+#c 200 mm
+#d 250 mm
+
+## 68 | p=32 | hw=d
+The slab is designed as one way if the ratio of long span to short span is
+#a less than 1
+#b between 1 and 1.5
+#c between 1.5 and 2
+#d greater than 2
+
+## 69 | p=32 | hw=a
+Ratio of permissible stress in direct compression and bending compression is
+#a less than 1
+#b between 1 and 1.5
+#c between 1.5 and 2.0
+#d greater than 2
+
+## 70 | p=32 | hw=b
+A higher modular ratio shows
+#a higher compressive strength of concrete
+#b lower compressive strength of concrete
+#c higher tensile strength of steel
+#d lower tensile strength of steel
+
+## 71 | p=32 | hw=b
+The average permissible stress in bond for plain bars in tension is
+#a increased by 10% for bars in compression
+#b increased by 25% for bars in compression
+#c decreased by 10% for bars in compression
+#d decreased by 25% for bars in compression
+
+## 72 | p=32-33 | hw=c
+The modular ratio m in terms of permissible compressive stress due to bending in concrete σ_cbc (in N/mm²) is given by
+#a 280/σ_cbc
+#b 2800/σ_cbc
+#c 280/3σ_cbc
+#d 2800/3σ_cbc
+
+## 73 | p=33 | hw=b
+The expression for modular ratio m = 280/3σ_cbc, where σ_cbc is the permissible compressive stress due to bending in concrete in N/mm²,
+#a fully takes into account the long-term effect such as creep
+#b partially takes into account the long-term effect such as creep
+#c does not take into account the long term effect such as creep
+#d is the same as the modular ratio based on the value of modulus of elasticity of structural concrete E_c
+
+## 74 | p=33 | hw=d
+In working stress design, permissible bond stress in the case of deformed bars is more than that in plain bars by
+#a 10%
+#b 20%
+#c 30%
+#d 40%
+
+## 75 | p=33 | hw=c
+The main reason for providing number of reinforcing bars at a support in a simply supported beam is to resist in that zone
+#a compressive stress
+#b shear stress
+#c bond stress
+#d tensile stress
+
+## 76 | p=33 | hw=c
+Half of the main steel in a simply supported slab is bent up near the support at a distance of x from the centre of slab bearing where x is equal to
+#a l/3
+#b l/5
+#c l/7
+#d l/10
+#note where l is the span
+
+## 77 | p=33 | hw=a
+When shear stress exceeds the permissible limit in a slab, then it is reduced by
+#a increasing the depth
+#b providing shear reinforcement
+#c using high strength steel
+#d using thinner bars but more in number
+
+## 78 | p=33 | hw=c | fix=Right end of the first line is lost in the binding on scans p33/p34; panel size read as '6m × 6m' from the visible '6m' / '6m,' at the line break.
+If the size of panel in a flat slab is 6m × 6m, then as per Indian Standard Code, the widths of column strip and middle strip are
+#a 3.0 m and 1.5 m
+#b 1.5 m and 3.0 m
+#c 3.0 m and 3.0 m
+#d 1.5 m and 1.5 m
+
+## 79 | star | p=33 | hw=a | fix=Right ends of some lines are lost in the binding; read across the overlapping scans p33 and p34.
+For a slab supported on its four edges with corners held down and loaded uniformly, the Marcus correction factor to the moments obtained by Grashoff Rankine's theory
+#a is always less than 1
+#b is always greater than 1
+#c can be more than 1
+#d can be less than 1
+
+## 80 | star | p=33 | hw=a | fix=Right ends of some lines are lost in the binding; read across the overlapping scans p33 and p34.
+The permissible diagonal tensile stress in reinforced brick work is
+#a about 0.1 N/mm²
+#b zero
+#c 0.3 N/mm² to 0.7 N/mm²
+#d about 1.0 N/mm²
+
+## 81 | tag=ES 9_ | p=33 | hw=c | fix=Right ends of some lines are lost in the binding; read across the overlapping scans p33 and p34. | check=Last digit of the exam tag is lost in the binding on both scans; recorded as 'ES 9_'.
+The limits of percentage p of the longitudinal reinforce-ment in a column is given by
+#a 0.15% to 2%
+#b 0.8% to 4%
+#c 0.8% to 6%
+#d 0.8% to 8%
+
+## 82 | p=33 | hw=c | fix=Right ends of some lines are lost in the binding; read across the overlapping scans p33 and p34.
+The minimum diameter of longitudinal bars in a column is
+#a 6 mm
+#b 8 mm
+#c 12 mm
+#d 16 mm
+
+## 83 | p=33 | hw=c | fix=Right ends of some lines are lost in the binding; read across the overlapping scans p33 and p34.
+The minimum cover to the ties or spirals should not be less than
+#a 15 mm
+#b 20 mm
+#c 25 mm
+#d 50mm
+
+## 84 | p=34 | hw=c
+The load carrying capacity of a helically reinforced column as compared to that of a tied column is about
+#a 5% less
+#b 10% less
+#c 5% more
+#d 10% more
+
+## 85 | p=34 | hw=c
+A reduction factor C_r to load carrying capacity of a long column is given by
+#a C_r = 1.25 − L_e/24b
+#b C_r = 1 − L_e/48b
+#c C_r = 1.25 − L_e/48b
+#d C_r = 1.5 − L_e/48b
+#note where L_e is effective length of column and b is width of column
+
+## 86 | p=34 | hw=d
+The diameter of ties in a column should be
+#a more than or equal to one fourth of diameter of main bar
+#b more than or equal to 5 mm
+#c more than 5 mm but less than one-fourth of diameter of main bar
+#d more than 5 mm and also more than one-fourth of diameter of main bar
+
+## 87 | p=34 | hw=d
+Due to circumferential action of the spiral in a spirally reinforced column
+#a capacity of column is decreased
+#b ductility of column reduces
+#c capacity of column is decreased but ductility of column increases
+#d both the capacity of column and ductility of column increase
+
+## 88 | p=34 | hw=b
+Maximum percentage reinforcement in case of slabs is limited to
+#a 2
+#b 4
+#c 6
+#d 8
+
+## 89 | p=34 | hw=c
+Which of the following R.C. retaining walls is suitable for heights beyond 6m?
+#a L-shaped wall
+#b T-shaped wall
+#c counterfort type
+#d all of the above
+
+## 90 | p=34 | hw=b
+For the design of retaining walls, the minimum factor of safety against overturning is taken as
+#a 1.5
+#b 2.0
+#c 2.5
+#d 3.0
+
+## 91 | p=34 | hw=a
+In counterfort type retaining walls
+i) the vertical slab is designed as a continuous slab
+ii) the heel slab is designed as a continuous slab
+iii) the vertical slab is designed as a cantilever
+iv) the heel slab is designed as a cantilever
+The correct answer is
+#a (i) and (ii)
+#b (i) and (iv)
+#c (ii) and (iii)
+#d (iii) and (iv)
+
+## 92 | p=34 | hw=c
+A T-shaped retaining wall mainly consits of
+#a one cantilever
+#b two cantilevers
+#c three cantilevers
+#d four cantilevers
+
+## 93 | p=34 | hw=c
+In T-shaped R C. retaining walls, the main reinforcement in the stem is provided on
+#a the front face in one direction
+#b the front face in both directions
+#c the inner face in one direction
+#d the inner face in both directions
+
+## 94 | p=34 | hw=d
+The main reinforcement in the toe of a T-shaped R C. retaining wall is provided on
+i) top face parallel to the wall
+ii) top face perpendicular to the wall
+iii) bottom face parallel to the wall
+iv) bottom face perpendicular to the wall
+The correct answer is
+#a only (ii) is correct
+#b (i) and (ii) are correct
+#c (iii) and (iv) are correct
+#d only (iv) is correct
